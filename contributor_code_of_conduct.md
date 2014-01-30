@@ -5,4 +5,4 @@ As contributors and maintainers of this project, we pledge to respect all people
 
 If any particant in this project has issues or takes exception with a contribution, they are obligated to provide constructive feedback and never resort to personal attacks, trolling, public or private harrassment, insults, or other unprofessional conduct.
 
-We promise to extend courtesy and respect to everyone involved in this project regardless of gender, sexual orientation, ability or disability, ethnicity, religion, or level of  experience.
+We promise to extend courtesy and respect to everyone involved in this project regardless of gender, gender identity, sexual orientation, ability or disability, ethnicity, religion, or level of  experience.
