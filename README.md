@@ -7,6 +7,10 @@ Pledge your respect and appreciation for contributions to your open source proje
 
 Please feel free to submit pull requests or open issues to improve the language of this pledge.
 
+## Projects Using the Contributor Covenant
+
+* [AngularJS](https://github.com/angular/code-of-conduct)
+
 ## See Also
 
 * [Citizen Code of Conduct](http://citizencodeofconduct.org/)
