@@ -10,6 +10,10 @@ Please feel free to submit pull requests or open issues to improve the language 
 ## Projects Using the Contributor Covenant
 
 * [AngularJS](https://github.com/angular/code-of-conduct)
+* [Crackle](https://github.com/jordanekay/Crackle)
+* [Homebrew-Cask](https://github.com/phinze/homebrew-cask)
+* [Mensa](https://github.com/jordanekay/Mensa)
+* [Ornament](https://github.com/jordanekay/Ornament)
 
 ## See Also
 
