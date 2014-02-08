@@ -18,3 +18,7 @@ Please feel free to submit pull requests or open issues to improve the language 
 ## See Also
 
 * [Citizen Code of Conduct](http://citizencodeofconduct.org/)
+
+## License
+
+MIT
