@@ -5,7 +5,7 @@ As contributors and maintainers of this project, we pledge to respect all people
 
 If any participant in this project has issues or takes exception with a contribution, they are obligated to provide constructive feedback and never resort to personal attacks, trolling, public or private harassment, insults, or other unprofessional conduct.
 
-Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct.  Project maintainers who do not follow the Code of Conduct may be removed from the project team.
+Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct. Project maintainers who do not follow the Code of Conduct may be removed from the project team.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by opening an issue or contacting one or more of the project maintainers.
 
