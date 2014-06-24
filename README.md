@@ -29,6 +29,7 @@ Please feel free to submit pull requests or open issues to improve the language 
 * [Hacken.in](https://github.com/hacken-in/website)
 * [Haskell Fill in the Blanks](https://gitlab.com/cpp.cabrera/haskell-fill-in-the-blanks/tree/master)
 * [haxe-pixi](https://github.com/adireddy/haxe-pixi)
+* [HealingRa.in Projects](https://gitlab.com/groups/healing-rain)
 * [Homebrew-Cask](https://github.com/caskroom/homebrew-cask)
 * [HTTPotion](https://github.com/myfreeweb/httpotion)
 * [Lotus](http://lotusrb.org/community#code-of-conduct)
