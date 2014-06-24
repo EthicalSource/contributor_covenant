@@ -16,7 +16,7 @@ Please feel free to submit pull requests or open issues to improve the language 
 * [Ornament](https://github.com/jordanekay/Ornament)
 * [Growing Devs](https://github.com/growingdevs/growingdevs.github.io)
 * [HaskellNow.org Chat](http://www.haskellnow.org/Chat)
-* [www.HealingRa.in Projects](https://gitlab.com/groups/healing-rain)
+* [HealingRain](https://gitlab.com/groups/healing-rain)
 
 ## See Also
 
