@@ -19,6 +19,7 @@ Please feel free to submit pull requests or open issues to improve the language 
 * [Fukuzatsu](https://gitlab.com/coraline/fukuzatsu/tree/master)
 * [Growing Devs](https://github.com/growingdevs/growingdevs.github.io)
 * [HaskellNow.org Chat](http://www.haskellnow.org/Chat)
+* [Mozilla Webmaker](https://www.webmaker.org/)
 
 ## See Also
 
