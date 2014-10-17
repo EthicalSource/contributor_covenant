@@ -20,6 +20,7 @@ Please feel free to submit pull requests or open issues to improve the language 
 * [Growing Devs](https://github.com/growingdevs/growingdevs.github.io)
 * [HaskellNow.org Chat](http://www.haskellnow.org/Chat)
 * [Mozilla Webmaker](https://www.webmaker.org/)
+* [chef-rvm](https://github.com/fnichol/chef-rvm)
 
 ## See Also
 
