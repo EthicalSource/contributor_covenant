@@ -5,7 +5,7 @@ A code of conduct for open source projects.
 
 ## Project Home Page
 
-For an overview and usage instructions, please refer to (http://contributor-covenant.org/)[http://contributor-covenant.org/].
+For an overview and usage instructions, please refer to [http://contributor-covenant.org/].
 
 ## Contributing
 
