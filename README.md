@@ -1,13 +1,9 @@
 Contributor Covenant
 ====================
 
-A code of conduct for open source projects.
+A code of conduct for your open source project.
 
-## Project Home Page
-
-For an overview and usage instructions, please visit http://contributor-covenant.org/
-
-## Contributing
+Pledge your respect and appreciation for contributions to your open source project. Add `CODE_OF_CONDUCT.md` to the root of the project folder to let people know that your project is open and welcoming to all contributors.
 
 Please feel free to submit pull requests or open issues to improve the language of this pledge.
 
@@ -26,3 +22,10 @@ Please feel free to submit pull requests or open issues to improve the language 
 * [Mozilla Webmaker](https://www.webmaker.org/)
 * [chef-rvm](https://github.com/fnichol/chef-rvm)
 
+## See Also
+
+* [Citizen Code of Conduct](http://citizencodeofconduct.org/)
+
+## License
+
+MIT
