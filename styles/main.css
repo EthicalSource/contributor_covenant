@@ -5,6 +5,9 @@ body {
 	padding: 3em;
 	font-family: "Driod Sans Mono", monospace;
 	position: relative;
+	width: 913px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 a:link, a:visited, a:hover {
@@ -42,6 +45,7 @@ h3 {
 }
 
 section#preamble {
+	margin-top: 4em;
 	color: #000;
 }
 
