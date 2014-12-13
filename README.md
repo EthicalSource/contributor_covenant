@@ -15,6 +15,7 @@ Please feel free to submit pull requests or open issues to improve the language 
 
 * [AngularJS](https://github.com/angular/code-of-conduct)
 * [Crackle](https://github.com/jordanekay/Crackle)
+* [Bundler](https://github.com/bundler/bundler)
 * [Homebrew-Cask](https://github.com/caskroom/homebrew-cask)
 * [Mensa](https://github.com/jordanekay/Mensa)
 * [Ornament](https://github.com/jordanekay/Ornament)
