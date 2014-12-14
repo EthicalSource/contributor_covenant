@@ -26,4 +26,5 @@ Please feel free to submit pull requests or open issues to improve the language 
 * [HaskellNow.org Chat](http://www.haskellnow.org/Chat)
 * [Mozilla Webmaker](https://www.webmaker.org/)
 * [chef-rvm](https://github.com/fnichol/chef-rvm)
+* [pmap](https://github.com/bruceadams/pmap)
 * [24 Pull Requests](https://github.com/24pullrequests/24pullrequests)
