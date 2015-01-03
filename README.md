@@ -32,4 +32,4 @@ Please feel free to submit pull requests or open issues to improve the language 
 * [OpenDroneMap](https://github.com/OpenDroneMap/OpenDroneMap)
 * [Hacken.in](https://github.com/hacken-in/website)
 * [Paramore](https://github.com/iancooper/Paramore)
-* [haxe-pixi](https://github.com/haxe-pixi)
+* [haxe-pixi](https://github.com/adireddy/haxe-pixi)
