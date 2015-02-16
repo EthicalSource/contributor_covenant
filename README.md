@@ -33,3 +33,4 @@ Please feel free to submit pull requests or open issues to improve the language 
 * [Hacken.in](https://github.com/hacken-in/website)
 * [Paramore](https://github.com/iancooper/Paramore)
 * [haxe-pixi](https://github.com/adireddy/haxe-pixi)
+* [HTTPotion](https://github.com/myfreeweb/httpotion)
