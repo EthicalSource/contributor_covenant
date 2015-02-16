@@ -23,7 +23,7 @@ Please feel free to submit pull requests or open issues to improve the language 
 * [Snuffle](https://gitlab.com/coraline/snuffle/tree/master)
 * [Fukuzatsu](https://gitlab.com/coraline/fukuzatsu/tree/master)
 * [Growing Devs](https://github.com/growingdevs/growingdevs.github.io)
-* [HaskellNow.org Chat](http://www.haskellnow.org/Chat)
+* [All HaskellNow.org Projects](http://www.haskellnow.org/wiki/WikiStart#Projects)
 * [Mozilla Webmaker](https://www.webmaker.org/)
 * [chef-rvm](https://github.com/fnichol/chef-rvm)
 * [pmap](https://github.com/bruceadams/pmap)
