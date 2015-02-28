@@ -11,7 +11,7 @@ For an overview and usage instructions, please visit http://contributor-covenant
 
 Please feel free to submit pull requests or open issues to improve the language of this pledge.
 
-## Projects Using the Contributor Covenant
+## Examples of Projects Using the Contributor Covenant
 
 * [AngularJS](https://github.com/angular/code-of-conduct)
 * [Crackle](https://github.com/jordanekay/Crackle)
