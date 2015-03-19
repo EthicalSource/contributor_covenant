@@ -36,3 +36,4 @@ Please feel free to submit pull requests or open issues to improve the language 
 * [HTTPotion](https://github.com/myfreeweb/httpotion)
 * [Lotus](http://lotusrb.org/community#code-of-conduct)
 * [OpenProject](https://www.openproject.org/)
+* [Snipe-IT](https://github.com/snipe/snipe-it)
