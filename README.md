@@ -37,3 +37,4 @@ Please feel free to submit pull requests or open issues to improve the language 
 * [Paramore](https://github.com/iancooper/Paramore)
 * [pmap](https://github.com/bruceadams/pmap)
 * [Snuffle](https://gitlab.com/coraline/snuffle/tree/master)
+* [Snipe-IT](https://github.com/snipe/snipe-it)
