@@ -36,5 +36,6 @@ Please feel free to submit pull requests or open issues to improve the language 
 * [Ornament](https://github.com/jordanekay/Ornament)
 * [Paramore](https://github.com/iancooper/Paramore)
 * [pmap](https://github.com/bruceadams/pmap)
+* [ruby-community](https://github.com/apeiros/ruby-community)
 * [Snuffle](https://gitlab.com/coraline/snuffle/tree/master)
 * [Snipe-IT](https://github.com/snipe/snipe-it)
