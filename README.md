@@ -22,6 +22,7 @@ Please feel free to submit pull requests or open issues to improve the language 
 * [Crackle](https://github.com/jordanekay/Crackle)
 * [Eldest Daughter Questionnaire](https://github.com/eldest-daughter/ed-questionnaire)
 * [Exercism.io](https://github.com/exercism/exercism.io)
+* [Haskell Fill in the Blanks](https://gitlab.com/cpp.cabrera/haskell-fill-in-the-blanks/tree/master)
 * [Fukuzatsu](https://gitlab.com/coraline/fukuzatsu/tree/master)
 * [GitLab](https://github.com/gitlabhq/gitlabhq)
 * [Growing Devs](https://github.com/growingdevs/growingdevs.github.io)
@@ -40,3 +41,4 @@ Please feel free to submit pull requests or open issues to improve the language 
 * [ruby-community](https://github.com/apeiros/ruby-community)
 * [Snuffle](https://gitlab.com/coraline/snuffle/tree/master)
 * [Snipe-IT](https://github.com/snipe/snipe-it)
+* [WAI-request-spec](https://gitlab.com/cpp.cabrera/wai-request-spec)
