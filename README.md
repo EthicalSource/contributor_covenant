@@ -39,6 +39,7 @@ Please feel free to submit pull requests or open issues to improve the language 
 * [Paramore](https://github.com/iancooper/Paramore)
 * [pmap](https://github.com/bruceadams/pmap)
 * [ruby-community](https://github.com/apeiros/ruby-community)
+* [RVM](https://github.com/rvm/rvm)
 * [Snuffle](https://gitlab.com/coraline/snuffle/tree/master)
 * [Snipe-IT](https://github.com/snipe/snipe-it)
 * [WAI-request-spec](https://gitlab.com/cpp.cabrera/wai-request-spec)
