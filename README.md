@@ -37,6 +37,7 @@ Please feel free to submit pull requests or open issues to improve the language 
 * [OpenDroneMap](https://github.com/OpenDroneMap/OpenDroneMap)
 * [OpenProject](https://www.openproject.org/)
 * [Ornament](https://github.com/jordanekay/Ornament)
+* [Panamax](https://github.com/CenturyLinkLabs/panamax-ui)
 * [Paramore](https://github.com/iancooper/Paramore)
 * [pmap](https://github.com/bruceadams/pmap)
 * [ruby-community](https://github.com/apeiros/ruby-community)
