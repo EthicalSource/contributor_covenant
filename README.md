@@ -34,6 +34,7 @@ Please feel free to submit pull requests or open issues to improve the language 
 * [Lotus](http://lotusrb.org/community#code-of-conduct)
 * [Mensa](https://github.com/jordanekay/Mensa)
 * [Mozilla Webmaker](https://www.webmaker.org/)
+* [Opal](https://github.com/opal/opal)
 * [OpenDroneMap](https://github.com/OpenDroneMap/OpenDroneMap)
 * [OpenProject](https://www.openproject.org/)
 * [Ornament](https://github.com/jordanekay/Ornament)
