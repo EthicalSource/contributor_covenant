@@ -7,18 +7,6 @@ Pledge your respect and appreciation for contributions to your open source proje
 
 Please feel free to submit pull requests or open issues to improve the language of this pledge.
 
-## Projects Using the Contributor Covenant
+For a partial list of projects using this code of conduct, and more information about why it exists, please refer to our website at [contributor-covenant.org](http://contributor-covenant.org/)
 
-* [AngularJS](https://github.com/angular/code-of-conduct)
-* [Crackle](https://github.com/jordanekay/Crackle)
-* [Homebrew-Cask](https://github.com/caskroom/homebrew-cask)
-* [Mensa](https://github.com/jordanekay/Mensa)
-* [Ornament](https://github.com/jordanekay/Ornament)
-* [Exercism.io](https://github.com/exercism/exercism.io)
-* [Snuffle](https://gitlab.com/coraline/snuffle/tree/master)
-* [Fukuzatsu](https://gitlab.com/coraline/fukuzatsu/tree/master)
-* [Growing Devs](https://github.com/growingdevs/growingdevs.github.io)
-* [HaskellNow.org Chat](http://www.haskellnow.org/Chat)
-* [Mozilla Webmaker](https://www.webmaker.org/)
-* [chef-rvm](https://github.com/fnichol/chef-rvm)
-* [24 Pull Requests](https://github.com/24pullrequests/24pullrequests)
+
