@@ -35,7 +35,6 @@ Please feel free to submit pull requests or open issues to improve the language 
 * [Mensa](https://github.com/jordanekay/Mensa)
 * [Monsti CMS](http://www.monsti.org/)
 * [Mozilla Webmaker](https://www.webmaker.org/)
-* [Opal](https://github.com/opal/opal)
 * [OpenDroneMap](https://github.com/OpenDroneMap/OpenDroneMap)
 * [OpenProject](https://www.openproject.org/)
 * [Ornament](https://github.com/jordanekay/Ornament)
