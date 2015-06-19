@@ -40,6 +40,7 @@ Please feel free to submit pull requests or open issues to improve the language 
 * [Ornament](https://github.com/jordanekay/Ornament)
 * [Panamax](https://github.com/CenturyLinkLabs/panamax-ui)
 * [Paramore](https://github.com/iancooper/Paramore)
+* [Playscii](http://vectorpoem.com/playscii)
 * [pmap](https://github.com/bruceadams/pmap)
 * [ROM](https://github.com/rom-rb/rom)
 * [ruby-community](https://github.com/apeiros/ruby-community)
