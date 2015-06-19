@@ -40,6 +40,7 @@ Please feel free to submit pull requests or open issues to improve the language 
 * [Panamax](https://github.com/CenturyLinkLabs/panamax-ui)
 * [Paramore](https://github.com/iancooper/Paramore)
 * [pmap](https://github.com/bruceadams/pmap)
+* [ROM](https://github.com/rom-rb/rom)
 * [ruby-community](https://github.com/apeiros/ruby-community)
 * [RVM](https://github.com/rvm/rvm)
 * [Snuffle](https://gitlab.com/coraline/snuffle/tree/master)
