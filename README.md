@@ -33,6 +33,7 @@ Please feel free to submit pull requests or open issues to improve the language 
 * [HTTPotion](https://github.com/myfreeweb/httpotion)
 * [Lotus](http://lotusrb.org/community#code-of-conduct)
 * [Mensa](https://github.com/jordanekay/Mensa)
+* [Monsti CMS](http://www.monsti.org/)
 * [Mozilla Webmaker](https://www.webmaker.org/)
 * [OpenDroneMap](https://github.com/OpenDroneMap/OpenDroneMap)
 * [OpenProject](https://www.openproject.org/)
