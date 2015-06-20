@@ -19,6 +19,7 @@ Please feel free to submit pull requests or open issues to improve the language 
 * [AngularJS](https://github.com/angular/code-of-conduct)
 * [Bundler](https://github.com/bundler/bundler)
 * [chef-rvm](https://github.com/fnichol/chef-rvm)
+* [CloudI](http://cloudi.org/faq.html#2_CodeOfConduct)
 * [CocoaPods](https://github.com/cocoapods/cocoapods)
 * [Crackle](https://github.com/jordanekay/Crackle)
 * [Eldest Daughter Questionnaire](https://github.com/eldest-daughter/ed-questionnaire)
