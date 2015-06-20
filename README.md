@@ -42,6 +42,7 @@ Please feel free to submit pull requests or open issues to improve the language 
 * [Paramore](https://github.com/iancooper/Paramore)
 * [Playscii](http://vectorpoem.com/playscii)
 * [pmap](https://github.com/bruceadams/pmap)
+* [PyBBIO](https://github.com/graycatlabs/PyBBIO)
 * [ROM](https://github.com/rom-rb/rom)
 * [ruby-community](https://github.com/apeiros/ruby-community)
 * [RVM](https://github.com/rvm/rvm)
