@@ -10,7 +10,7 @@ Project maintainers have the right and responsibility to remove, edit, or reject
 
 This code of conduct applies both within project spaces and in public spaces when an individual is representing the project or its community.  An individual is deemed to be representing the project or its community if discussing topics germane to the project, or when the individual has explicitly identified as belonging to the project or community in the course of the conversation.
 
-This code of conduct does not apply to opinions expressed in public fora when not representing the project or its community.
+This code of conduct does not apply to opinions expressed in public while the individual is not representing the project or its community.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by opening an issue or contacting one or more of the project maintainers.
 
