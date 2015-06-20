@@ -49,5 +49,6 @@ Please feel free to submit pull requests or open issues to improve the language 
 * [RVM](https://github.com/rvm/rvm)
 * [Snuffle](https://gitlab.com/coraline/snuffle/tree/master)
 * [Snipe-IT](https://github.com/snipe/snipe-it)
+* [Volt.rb](https://github.com/voltrb/volt)
 * [WAI-request-spec](https://gitlab.com/cpp.cabrera/wai-request-spec)
 * [xoreos](https://github.com/xoreos/xoreos)
