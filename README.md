@@ -38,6 +38,7 @@ Please feel free to submit pull requests or open issues to improve the language 
 * [Monsti CMS](http://www.monsti.org/)
 * [Mozilla Webmaker](https://www.webmaker.org/)
 * [NColony](https://github.com/moshez/ncolony)
+* [OAPI ShieldsUp](https://github.com/oapi/shieldsup)
 * [OpenDroneMap](https://github.com/OpenDroneMap/OpenDroneMap)
 * [OpenProject](https://www.openproject.org/)
 * [Ornament](https://github.com/jordanekay/Ornament)
