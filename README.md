@@ -22,6 +22,7 @@ Please feel free to submit pull requests or open issues to improve the language 
 * [chef-rvm](https://github.com/fnichol/chef-rvm)
 * [CloudI](http://cloudi.org/faq.html#2_CodeOfConduct)
 * [CocoaPods](https://github.com/cocoapods/cocoapods)
+* [composer](https://github.com/composer/composer)
 * [Crackle](https://github.com/jordanekay/Crackle)
 * [Eldest Daughter Questionnaire](https://github.com/eldest-daughter/ed-questionnaire)
 * [Exercism.io](https://github.com/exercism/exercism.io)
