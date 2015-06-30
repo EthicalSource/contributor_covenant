@@ -52,6 +52,7 @@ Please feel free to submit pull requests or open issues to improve the language 
 * [ROM](https://github.com/rom-rb/rom)
 * [ruby-community](https://github.com/apeiros/ruby-community)
 * [RVM](https://github.com/rvm/rvm)
+* [QA-Tools](https://github.com/qa-tools/qa-tools)
 * [Snuffle](https://gitlab.com/coraline/snuffle/tree/master)
 * [Snipe-IT](https://github.com/snipe/snipe-it)
 * [vim cheat sheet](https://github.com/rtorr/vim-cheat-sheet)
