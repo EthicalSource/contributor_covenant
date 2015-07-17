@@ -57,6 +57,7 @@ Please feel free to submit pull requests or open issues to improve the language 
 * [ruby-community](https://github.com/apeiros/ruby-community)
 * [RubyGems.org](https://github.com/rubygems/rubygems.org)
 * [RVM](https://github.com/rvm/rvm)
+* [ReactiveX/RxJS](https://github.com/ReactiveX/RxJS)
 * [QA-Tools](https://github.com/qa-tools/qa-tools)
 * [Snuffle](https://gitlab.com/coraline/snuffle/tree/master)
 * [Snipe-IT](https://github.com/snipe/snipe-it)
