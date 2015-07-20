@@ -18,6 +18,7 @@ Please feel free to submit pull requests or open issues to improve the language 
 * [Algorrent](https://github.com/algorrent/algorrent)
 * [All HaskellNow.org Projects](http://www.haskellnow.org/wiki/WikiStart#Projects)
 * [AngularJS](https://github.com/angular/code-of-conduct)
+* [angular-formly](https://github.com/formly-js/angular-formly)
 * [Babel](https://github.com/babel/babel)
 * [Bundler](https://github.com/bundler/bundler)
 * [chef-rvm](https://github.com/fnichol/chef-rvm)
