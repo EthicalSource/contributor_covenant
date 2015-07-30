@@ -55,6 +55,7 @@ Please feel free to submit pull requests or open issues to improve the language 
 * [PyBBIO](https://github.com/graycatlabs/PyBBIO)
 * [Rack::Attack](https://github.com/kickstarter/rack-attack)
 * [ROM](https://github.com/rom-rb/rom)
+* [RSpec](https://github.com/rspec/rspec)
 * [ruby-community](https://github.com/apeiros/ruby-community)
 * [RubyGems.org](https://github.com/rubygems/rubygems.org)
 * [RVM](https://github.com/rvm/rvm)
