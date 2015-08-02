@@ -67,4 +67,5 @@ Please feel free to submit pull requests or open issues to improve the language 
 * [vim cheat sheet](https://github.com/rtorr/vim-cheat-sheet)
 * [Volt.rb](https://github.com/voltrb/volt)
 * [WAI-request-spec](https://gitlab.com/cpp.cabrera/wai-request-spec)
+* [Wisper](https://github.com/krisleech/wisper)
 * [xoreos](https://github.com/xoreos/xoreos)
