@@ -26,6 +26,7 @@ Please feel free to submit pull requests or open issues to improve the language 
 * [CocoaPods](https://github.com/cocoapods/cocoapods)
 * [composer](https://github.com/composer/composer)
 * [Crackle](https://github.com/jordanekay/Crackle)
+* [Crystal](http://crystal-lang.org/)
 * [Eldest Daughter Questionnaire](https://github.com/eldest-daughter/ed-questionnaire)
 * [Exercism.io](https://github.com/exercism/exercism.io)
 * [Fukuzatsu](https://gitlab.com/coraline/fukuzatsu/tree/master)
