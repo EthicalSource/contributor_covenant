@@ -43,6 +43,7 @@ Please feel free to submit pull requests or open issues to improve the language 
 * [Mensa](https://github.com/jordanekay/Mensa)
 * [Monsti CMS](http://www.monsti.org/)
 * [Mozilla Webmaker](https://www.webmaker.org/)
+* [Moya](http://github.com/Moya/Moya)
 * [NColony](https://github.com/moshez/ncolony)
 * [OAPI ShieldsUp](https://github.com/oapi/shieldsup)
 * [OpenDroneMap](https://github.com/OpenDroneMap/OpenDroneMap)
