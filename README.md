@@ -53,6 +53,7 @@ Please feel free to submit pull requests or open issues to improve the language 
 * [Paramore](https://github.com/iancooper/Paramore)
 * [Playscii](http://vectorpoem.com/playscii)
 * [pmap](https://github.com/bruceadams/pmap)
+* [Puppet Community](https://github.com/puppet-community)
 * [PRAW](https://github.com/praw-dev/praw)
 * [PyBBIO](https://github.com/graycatlabs/PyBBIO)
 * [Rack::Attack](https://github.com/kickstarter/rack-attack)
