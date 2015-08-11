@@ -41,6 +41,7 @@ This code of conduct has been adopted by [thousands of open source projects](htt
 * [Homebrew-Cask](https://github.com/caskroom/homebrew-cask)
 * [HTTPotion](https://github.com/myfreeweb/httpotion)
 * [if me](https://github.com/julianguyen/ifme)
+* [lfda](https://github.com/terrytangyuan/lfda)
 * [Lotus](http://lotusrb.org/community#code-of-conduct)
 * [Mensa](https://github.com/jordanekay/Mensa)
 * [MeTal](https://github.com/syegulalp/MeTal)
@@ -76,4 +77,3 @@ This code of conduct has been adopted by [thousands of open source projects](htt
 * [WAI-request-spec](https://gitlab.com/cpp.cabrera/wai-request-spec)
 * [Wisper](https://github.com/krisleech/wisper)
 * [xoreos](https://github.com/xoreos/xoreos)
-* [lfda](https://github.com/terrytangyuan/lfda)
