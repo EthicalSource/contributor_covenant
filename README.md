@@ -21,6 +21,7 @@ This code of conduct has been adopted by [thousands of open source projects](htt
 * [All HaskellNow.org Projects](http://www.haskellnow.org/wiki/WikiStart#Projects)
 * [AngularJS](https://github.com/angular/code-of-conduct)
 * [angular-formly](https://github.com/formly-js/angular-formly)
+* [atom](https://github.com/atom/atom)
 * [Babel](https://github.com/babel/babel)
 * [Bundler](https://github.com/bundler/bundler)
 * [chef-rvm](https://github.com/fnichol/chef-rvm)
