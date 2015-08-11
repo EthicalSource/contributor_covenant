@@ -5,13 +5,15 @@ A code of conduct for open source projects.
 
 ## Project Home Page
 
-For an overview and usage instructions, please visit http://contributor-covenant.org/
+For an overview and usage instructions, please visit [contributor-covenant.org](http://contributor-covenant.org/)
 
 ## Contributing
 
 Please feel free to submit pull requests or open issues to improve the language of this pledge.
 
 ## Examples of Projects Using the Contributor Covenant
+
+This code of conduct has been adopted by [thousands of open source projects](https://github.com/search?l=markdown&q=%22contributor+covenant%22&ref=searchresults&type=Code&utf8=✓). Here are a few examples:
 
 * [24 Pull Requests](https://github.com/24pullrequests/24pullrequests)
 * [AASM](https://github.com/aasm/aasm)
