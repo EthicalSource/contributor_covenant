@@ -31,6 +31,7 @@ This code of conduct has been adopted by [thousands of open source projects](htt
 * [Crackle](https://github.com/jordanekay/Crackle)
 * [Crystal](http://crystal-lang.org/)
 * [Eldest Daughter Questionnaire](https://github.com/eldest-daughter/ed-questionnaire)
+* [Electron](https://github.com/atom/electron)
 * [Exercism.io](https://github.com/exercism/exercism.io)
 * [Fukuzatsu](https://gitlab.com/coraline/fukuzatsu/tree/master)
 * [GitLab](https://github.com/gitlabhq/gitlabhq)
