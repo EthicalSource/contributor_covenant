@@ -71,6 +71,7 @@ This code of conduct has been adopted by [thousands of open source projects](htt
 * [ReactiveX/RxJS](https://github.com/ReactiveX/RxJS)
 * [QA-Tools](https://github.com/qa-tools/qa-tools)
 * [secure.fail](https://github.com/jonathanKingston/secure.fail)
+* [Shoes](https://github.com/shoes/shoes4)
 * [Snuffle](https://gitlab.com/coraline/snuffle/tree/master)
 * [Snipe-IT](https://github.com/snipe/snipe-it)
 * [Spree](https://github.com/spree/spree)
