@@ -63,6 +63,7 @@ This code of conduct has been adopted by [thousands of open source projects](htt
 * [PRAW](https://github.com/praw-dev/praw)
 * [PyBBIO](https://github.com/graycatlabs/PyBBIO)
 * [Rack::Attack](https://github.com/kickstarter/rack-attack)
+* [Rails](https://github.com/rails/rails)
 * [ROM](https://github.com/rom-rb/rom)
 * [RSpec](https://github.com/rspec/rspec)
 * [ruby-community](https://github.com/apeiros/ruby-community)
