@@ -44,6 +44,7 @@ This code of conduct has been adopted by [thousands of open source projects](htt
 * [HTTPotion](https://github.com/myfreeweb/httpotion)
 * [if me](https://github.com/julianguyen/ifme)
 * [lfda](https://github.com/terrytangyuan/lfda)
+* [Jeckyll](https://github.com/jekyll/jekyll)
 * [Lotus](http://lotusrb.org/community#code-of-conduct)
 * [Mensa](https://github.com/jordanekay/Mensa)
 * [MeTal](https://github.com/syegulalp/MeTal)
