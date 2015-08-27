@@ -35,6 +35,7 @@ This code of conduct has been adopted by [thousands of open source projects](htt
 * [Exercism.io](https://github.com/exercism/exercism.io)
 * [Fukuzatsu](https://gitlab.com/coraline/fukuzatsu/tree/master)
 * [GitLab](https://github.com/gitlabhq/gitlabhq)
+* [Grape](https://github.com/ruby-grape/grape)
 * [Growing Devs](https://github.com/growingdevs/growingdevs.github.io)
 * [Hacken.in](https://github.com/hacken-in/website)
 * [Haskell Fill in the Blanks](https://gitlab.com/cpp.cabrera/haskell-fill-in-the-blanks/tree/master)
