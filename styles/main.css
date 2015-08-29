@@ -1,6 +1,6 @@
 body {
-	background-image: url(../images/background.png);
-	background-color: #cae713;
+	background-image: url(../images/background_LIGHT.png);
+	background-color: #e7f38c;
 	background-repeat: repeat-x;
 	padding: 3em;
 	font-family: "Droid Sans Mono", monospace;
@@ -22,7 +22,7 @@ a:link, a:visited, a:hover {
 
 h1 {
 	font-family: "Poiret One", handwriting;
-	color: #000;
+	color: #fff;
 	font-size: 4em;
 	margin-top: 0em;
 }
@@ -30,7 +30,7 @@ h1 {
 h2 {
 	font-family: "Droid Sans Mono", monospace;
 	font-weight: normal;
-	color: #000;
+	color: #444;
 	text-transform: lowercase;
 	margin-top: -2em;
 }
@@ -39,7 +39,7 @@ h3 {
 	font-family: "Poiret One", handwriting;
 	background: rgba(0,0,0,.5);
 	padding: .5em .25em;
-	color: #cae713;
+	color: #e7f38c;
 	font-size: 1.25em;
 }
 
