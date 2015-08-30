@@ -30,6 +30,7 @@ This code of conduct has been adopted by [thousands of open source projects](htt
 * [composer](https://github.com/composer/composer)
 * [Crackle](https://github.com/jordanekay/Crackle)
 * [Crystal](http://crystal-lang.org/)
+* [diaspora*](http://github.com/diaspora/diaspora)
 * [Eldest Daughter Questionnaire](https://github.com/eldest-daughter/ed-questionnaire)
 * [Electron](https://github.com/atom/electron)
 * [Exercism.io](https://github.com/exercism/exercism.io)
