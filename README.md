@@ -46,7 +46,7 @@ This code of conduct has been adopted by [thousands of open source projects](htt
 * [HTTPotion](https://github.com/myfreeweb/httpotion)
 * [if me](https://github.com/julianguyen/ifme)
 * [lfda](https://github.com/terrytangyuan/lfda)
-* [Jeckyll](https://github.com/jekyll/jekyll)
+* [Jekyll](https://github.com/jekyll/jekyll)
 * [JRuby-Gradle](https://github.com/jruby-gradle/jruby-gradle-plugin)
 * [Lotus](http://lotusrb.org/community#code-of-conduct)
 * [Mensa](https://github.com/jordanekay/Mensa)
