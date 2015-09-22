@@ -60,6 +60,7 @@ This code of conduct has been adopted by [thousands of open source projects](htt
 * [OAPI ShieldsUp](https://github.com/oapi/shieldsup)
 * [OpenDroneMap](https://github.com/OpenDroneMap/OpenDroneMap)
 * [OpenProject](https://www.openproject.org/)
+* [Orientation](https://github.com/orientation/orientation)
 * [Ornament](https://github.com/jordanekay/Ornament)
 * [Panamax](https://github.com/CenturyLinkLabs/panamax-ui)
 * [Paramore](https://github.com/iancooper/Paramore)
