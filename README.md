@@ -78,7 +78,8 @@ This code of conduct has been adopted by [thousands of open source projects](htt
 * [RubyGems.org](https://github.com/rubygems/rubygems.org)
 * [RVM](https://github.com/rvm/rvm)
 * [ReactiveX/RxJS](https://github.com/ReactiveX/RxJS)
-* [QA-Tools](https://github.com/qa-tools/qa-tools)
+* [QA-Tools](https://github.com/qa-tools/qa-tools)  
+* [Ruby for Cats](https://github.com/rubyforcats)
 * [secure.fail](https://github.com/jonathanKingston/secure.fail)
 * [Shoes](https://github.com/shoes/shoes4)
 * [Snuffle](https://gitlab.com/coraline/snuffle/tree/master)
@@ -88,4 +89,5 @@ This code of conduct has been adopted by [thousands of open source projects](htt
 * [Volt.rb](https://github.com/voltrb/volt)
 * [WAI-request-spec](https://gitlab.com/cpp.cabrera/wai-request-spec)
 * [Wisper](https://github.com/krisleech/wisper)
-* [xoreos](https://github.com/xoreos/xoreos)
+* [xoreos](https://github.com/xoreos/xoreos)  
+
