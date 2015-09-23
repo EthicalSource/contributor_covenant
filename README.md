@@ -56,6 +56,7 @@ This code of conduct has been adopted by [thousands of open source projects](htt
 * [Mozilla Webmaker](https://www.webmaker.org/)
 * [Moya](http://github.com/Moya/Moya)
 * [MyPaint](http://github.com/mypaint/mypaint)
+* [Neos](https://www.neos.io/)
 * [NColony](https://github.com/moshez/ncolony)
 * [OAPI ShieldsUp](https://github.com/oapi/shieldsup)
 * [OpenDroneMap](https://github.com/OpenDroneMap/OpenDroneMap)
