@@ -28,6 +28,7 @@ This code of conduct has been adopted by [thousands of open source projects](htt
 * [CloudI](http://cloudi.org/faq.html#2_CodeOfConduct)
 * [CocoaPods](https://github.com/cocoapods/cocoapods)
 * [composer](https://github.com/composer/composer)
+* [concurrent-ruby](https://github.com/ruby-concurrency/concurrent-ruby)
 * [Crackle](https://github.com/jordanekay/Crackle)
 * [Crystal](http://crystal-lang.org/)
 * [diaspora*](http://github.com/diaspora/diaspora)
@@ -90,4 +91,3 @@ This code of conduct has been adopted by [thousands of open source projects](htt
 * [WAI-request-spec](https://gitlab.com/cpp.cabrera/wai-request-spec)
 * [Wisper](https://github.com/krisleech/wisper)
 * [xoreos](https://github.com/xoreos/xoreos)  
-
