@@ -24,6 +24,7 @@ This code of conduct has been adopted by [thousands of open source projects](htt
 * [atom](https://github.com/atom/atom)
 * [Babel](https://github.com/babel/babel)
 * [Bundler](https://github.com/bundler/bundler)
+* [Celluloid](https://github.com/celluloid/celluloid)
 * [chef-rvm](https://github.com/fnichol/chef-rvm)
 * [CloudI](http://cloudi.org/faq.html#2_CodeOfConduct)
 * [CocoaPods](https://github.com/cocoapods/cocoapods)
