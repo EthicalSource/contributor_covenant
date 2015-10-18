@@ -83,6 +83,7 @@ This code of conduct has been adopted by [thousands of open source projects](htt
 * [ReactiveX/RxJS](https://github.com/ReactiveX/RxJS)
 * [QA-Tools](https://github.com/qa-tools/qa-tools)
 * [QA-Tools / PHPUnit Extension](https://github.com/qa-tools/phpunit-extension)
+* [QA-Tools / PHPUnit Example](https://github.com/qa-tools/phpunit-example)
 * [Ruby for Cats](https://github.com/rubyforcats)
 * [secure.fail](https://github.com/jonathanKingston/secure.fail)
 * [Shoes](https://github.com/shoes/shoes4)
