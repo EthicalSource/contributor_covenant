@@ -85,6 +85,7 @@ This code of conduct has been adopted by [thousands of open source projects](htt
 * [QA-Tools / PHPUnit Example](https://github.com/qa-tools/phpunit-example)
 * [Ruby for Cats](https://github.com/rubyforcats)
 * [secure.fail](https://github.com/jonathanKingston/secure.fail)
+* [serbus](https://github.com/graycatlabs/serbus)
 * [Shoes](https://github.com/shoes/shoes4)
 * [Snuffle](https://gitlab.com/coraline/snuffle/tree/master)
 * [Snipe-IT](https://github.com/snipe/snipe-it)
