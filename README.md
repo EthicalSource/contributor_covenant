@@ -65,6 +65,7 @@ This code of conduct has been adopted by [thousands of open source projects](htt
 * [OpenProject](https://www.openproject.org/)
 * [Orientation](https://github.com/orientation/orientation)
 * [Ornament](https://github.com/jordanekay/Ornament)
+* [OcLaunch](oclaunch.tuxfamily.org)
 * [Panamax](https://github.com/CenturyLinkLabs/panamax-ui)
 * [Paramore](https://github.com/iancooper/Paramore)
 * [Playscii](http://vectorpoem.com/playscii)
