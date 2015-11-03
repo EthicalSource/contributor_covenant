@@ -1,9 +1,9 @@
 body {
-	background-image: url(../images/background.png);
-	background-color: #cae713;
+	background-image: url(../images/background_light.png);
+	background-color: #e7f38c;
 	background-repeat: repeat-x;
 	padding: 3em;
-	font-family: "Driod Sans Mono", monospace;
+	font-family: "Droid Sans Mono", monospace;
 	position: relative;
 	width: 913px;
 	margin-left: auto;
@@ -15,7 +15,6 @@ a:link, a:visited, a:hover {
 }
 
 #header {
-	background: url(../images/watermark_small.png) right center no-repeat;
 	margin: -2em auto 0em auto;
 	text-align: center;
 	min-height: 200px;
@@ -31,7 +30,7 @@ h1 {
 h2 {
 	font-family: "Droid Sans Mono", monospace;
 	font-weight: normal;
-	color: #cae713;
+	color: #444;
 	text-transform: lowercase;
 	margin-top: -2em;
 }
@@ -40,7 +39,7 @@ h3 {
 	font-family: "Poiret One", handwriting;
 	background: rgba(0,0,0,.5);
 	padding: .5em .25em;
-	color: #cae713;
+	color: #e7f38c;
 	font-size: 1.25em;
 }
 
@@ -51,6 +50,15 @@ section#preamble {
 
 section {
 	color: #000;
+}
+
+.column {
+	float: left;
+	width: 45%;
+}
+
+.clear {
+	clear: both;
 }
 
 #logo {
