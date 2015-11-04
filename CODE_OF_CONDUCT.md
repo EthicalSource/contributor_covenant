@@ -17,7 +17,9 @@ Project maintainers have the right and responsibility to remove, edit, or reject
 
 By adopting this Code of Conduct, project maintainers commit themselves to fairly and consistently applying these principles to every aspect of managing this project. Project maintainers who do not follow or enforce the Code of Conduct may be permanently removed from the project team.
 
-This code of conduct applies both within project spaces and in public spaces when an individual is representing the project or its community.
+This code of conduct applies both within project spaces and in public spaces when an individual is representing the project or its community.  An individual is deemed to be representing the project or its community if discussing topics germane to the project, or when the individual has explicitly identified as belonging to the project or community in the course of the conversation.
+
+This code of conduct does not apply to opinions expressed in public while the individual is not representing the project or its community.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting a project maintainer at [INSERT EMAIL ADDRESS]. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. Maintainers are obligated to maintain confidentiality with regard to the reporter of an incident.
 
