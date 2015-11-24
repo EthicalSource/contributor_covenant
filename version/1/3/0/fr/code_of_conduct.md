@@ -3,31 +3,31 @@
 En tant que contributeurs et responsables de ce projet, et dans l'intérêt
 de favoriser une communauté ouverte et accueillante, nous nous engageons à
 respecter toutes les personnes qui contribuent en rapportant des erreurs,
-postant des demandes de fonctionnalités nouvelles, mettant à jour la
-documentation, soumettant des _pull requests_ ou des _patches_, ainsi que
-toute autres activité.
+en postant des demandes de fonctionnalités nouvelles, en mettant à jour la
+documentation, en soumettant des _pull requests_ ou des _patches_, ainsi que
+toute autres activités.
 
-Nous sommes déterminés à faire de la participation dans ce projet une
-expérience exempt de harcèlement pour tout le monde, quel que soit le niveau
+Nous sommes déterminés à rendre toute participation à ce projet une
+expérience exempte de harcèlement pour tout le monde, quel que soit le niveau
 d'expérience, le sexe, l'identité ou l'expression de genre, l'orientation
 sexuelle, le handicap, l'apparence personnelle, la taille physique, la race,
-l'origine ethnique, l'âge, la religion, ou la nationalité.
+l'origine ethnique, l'âge, la religion ou la nationalité.
 
-Des exemples de comportement inacceptable par les participants comprennent:
+Des exemples de comportement inacceptable par les participants comprennent :
 
-* L'utilisation de language ou d'imagerie sexualisée
-* Les attaques personnelles
-* Les _trolls_ ou commentaires insultants ou désobligeants
-* Le harcèlement public ou privé
-* La publication d'autres informations privées, telles que les adresses
-  physiques ou électroniques, sans permission explicite
-* Toute autre conduite contraire à l'éthique ou non professionnelle
+* l'utilisation de language ou d'imagerie sexualisée;
+* les attaques personnelles;
+* les _trolls_ ou commentaires insultants ou désobligeants;
+* le harcèlement en public ou en privé;
+* la publication d'autres informations privées, telles que les adresses
+  physiques ou électroniques, sans permission explicite;
+* toute autre conduite contraire à l'éthique ou non professionnelle.
 
 Les mainteneurs du projet ont le droit et la responsabilité de supprimer,
 modifier ou rejeter les commentaires, _commits_, code, modifications du wiki,
 questions et autres contributions qui ne respectent pas ce Code de Conduite,
 ou de bannir temporairement ou définitivement tout contributeur à la suite
-d'autres comportements qui qu'ils jugent inapproprié, menaçant, injurieux,
+d'autres comportements qu'ils jugent inappropriés, menaçants, injurieux,
 ou nuisibles.
 
 En adoptant ce Code de Conduite, les mainteneurs du projet s'engagent à
@@ -44,8 +44,8 @@ Les instances de comportement abusif, harcelant ou autrement inacceptable
 peuvent être signalés en contactant un responsable de projet à
 [INSERER ADRESSE EMAIL]. Toutes les plaintes seront examinées et étudiées
 et se traduiront par une réponse jugée nécessaire et appropriée aux
-circonstances. Les mainteneurs sont tenus de maintenir les détails du
-rapporteur d'un incident confidentiels.
+circonstances. Les mainteneurs sont tenus de maintenir confidentiels les
+détails du rapporteur d'un incident.
 
 Ce Code de Conduite est adaptée du [Contributor Covenant](http://contributor-covenant.org),
 version 1.3.0, disponible à
