@@ -5,7 +5,7 @@ de favoriser une communauté ouverte et accueillante, nous nous engageons à
 respecter toutes les personnes qui contribuent en rapportant des erreurs,
 en postant des demandes de fonctionnalités nouvelles, en mettant à jour la
 documentation, en soumettant des _pull requests_ ou des _patches_, ainsi que
-toute autres activités.
+toutes autres activités.
 
 Nous sommes déterminés à rendre toute participation à ce projet une
 expérience exempte de harcèlement pour tout le monde, quel que soit le niveau
@@ -33,7 +33,7 @@ ou nuisibles.
 En adoptant ce Code de Conduite, les mainteneurs du projet s'engagent à
 appliquer équitablement et uniformément ces principes à tous les aspects de
 la gestion de ce projet. Les mainteneurs de projets qui ne suivent pas ou ne
-font respecter le Code de Conduite peuvent être retirés de façon permanente
+font pas respecter le Code de Conduite peuvent être retirés de façon permanente
 de l'équipe de projet.
 
 Ce Code de Conduite s'applique à la fois au sein des espaces de projet
