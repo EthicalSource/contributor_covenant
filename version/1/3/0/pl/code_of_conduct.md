@@ -2,7 +2,7 @@
 
 My, współtwórcy, działając dla dobra oraz otwartości naszej społeczności, ślubujemy poszanowanie dla wszystkich osób które wnoszą wkład do naszej pracy poprzez: zgłaszanie problemów, propozycji zmian, aktualizację dokumentacji, czy zgłaszanie poprawek poprzez "pull request"
 
-"Pragniemy, aby udział w projekcie był pozbawiony szykanowania ze względu na doświadczenie, płeć, orientację i identyfikację seksualną, stopień niepełnosprawności, wygląd, budowę ciała, kolor skóry, pochodzenie, czy wiek.
+Pragniemy, aby udział w projekcie był pozbawiony szykanowania ze względu na doświadczenie, płeć, orientację i identyfikację seksualną, stopień niepełnosprawności, wygląd, budowę ciała, kolor skóry, pochodzenie, czy wiek.
 
 Wśród przykładów zachowania którego nie będziemy akceptować są:
 
