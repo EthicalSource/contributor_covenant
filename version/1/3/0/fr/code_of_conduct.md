@@ -49,4 +49,4 @@ détails du rapporteur d'un incident.
 
 Ce Code de Conduite est adaptée du [Contributor Covenant](http://contributor-covenant.org),
 version 1.3.0, disponible à
-[http://contributor-covenant.org/version/1/3/0/](http://contributor-covenant.org/version/1/3/0/)
+[http://contributor-covenant.org/version/1/3/0/fr](http://contributor-covenant.org/version/1/3/0/fr)
