@@ -15,12 +15,12 @@ l'origine ethnique, l'âge, la religion ou la nationalité.
 
 Des exemples de comportement inacceptable par les participants comprennent :
 
-* l'utilisation de language ou d'imagerie sexualisée;
-* les attaques personnelles;
-* les trolls ou commentaires insultants ou désobligeants;
-* le harcèlement en public ou en privé;
+* l'utilisation de langage ou d'imagerie sexualisé ;
+* les attaques personnelles ;
+* les trolls ou commentaires insultants ou désobligeants ;
+* le harcèlement en public ou en privé ;
 * la publication d'autres informations privées, telles que les adresses
-  physiques ou électroniques, sans permission explicite;
+  physiques ou électroniques, sans permission explicite ;
 * toute autre conduite contraire à l'éthique ou non professionnelle.
 
 Les mainteneurs du projet ont le droit et la responsabilité de supprimer,
