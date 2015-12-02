@@ -95,5 +95,4 @@ This code of conduct has been adopted by [thousands of open source projects](htt
 * [Volt.rb](https://github.com/voltrb/volt)
 * [WAI-request-spec](https://gitlab.com/cpp.cabrera/wai-request-spec)
 * [Wisper](https://github.com/krisleech/wisper)
-* [xoreos](https://github.com/xoreos/xoreos)
-* [Your First PR](https://github.com/yourfirstpr/)
+* [xoreos](https://github.com/xoreos/xoreos)  

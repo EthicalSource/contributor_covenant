@@ -76,3 +76,7 @@ section#footer {
 	font-size: .8em;
 	text-align: center;
 }
+
+.indented {
+	margin-left: 2em;
+}
