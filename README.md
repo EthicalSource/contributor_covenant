@@ -54,6 +54,7 @@ This code of conduct has been adopted by [thousands of open source projects](htt
 * [Lotus](http://lotusrb.org/community#code-of-conduct)
 * [Mensa](https://github.com/jordanekay/Mensa)
 * [MeTal](https://github.com/syegulalp/MeTal)
+* [Mono](http://mono-project.com)
 * [Monsti CMS](http://www.monsti.org/)
 * [Mozilla Webmaker](https://www.webmaker.org/)
 * [Moya](http://github.com/Moya/Moya)
