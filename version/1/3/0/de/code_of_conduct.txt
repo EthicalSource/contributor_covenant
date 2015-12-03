@@ -1,0 +1,48 @@
+Verhaltenskodex für Helfer
+
+Wir, als Helfer und Betreuer dieses Projektes, versprechen alle Menschen,
+die durch Problemreports, Featureanfragen, Dokumentationsaktualisierungen,
+Stellen von Pull Requests oder Patches und anderen Aktivitäten zum Projekt
+beitragen mit Respekt zu behandeln.
+
+Wir verpflichten uns dazu die Partizipation zu diesem Projekt zur einer
+Belästigungsfreien Erfahrung für jeden zu machen, unabhängig seines Erfahrungslevels,
+Geschlechts, Geschlechtsidentität und -ausdrucks, Behinderung, persöhnlichen
+Auftrittes,  seiner sexuellen Orientierung, Körpergröße, Rasse, Ethnizität,
+Alter, Religion oder Nationalität.
+
+Beispiele von inaktzeptablem Verhalten beinhalten:
+
+* Verwenden von sexualisierter Sprache oder Bildern
+* Persönliche Angriffe
+* Beleidigende oder herabwürdigende Kommentare
+* Öffentliche oder private Belästigung
+
+* Veröffentlichen von privaten Informationen anderer, wie physische oder elektronische
+  Adressen ohne ausdrückliche Erlaubnis
+* Anderes unethisches oder unprofessionelles Verhalten
+
+Projektbetreuer haben das Recht und die Verantwortung Kommentare, Commits, Code,
+Wikieditierungen, Problemreports und andere Beiträge, die diesem Verhaltenskodex
+nicht entsprechen zu löschen, editieren oder zu verweigern oder jeden Helfer für
+Verhalten, das sie nicht für angebracht, gefährdend, beleidigend oder verletzend
+halten temporär oder permanent zu sperren.
+
+Mit der Übernahme dieses Verhaltenskodex verpflichten sich die Projektbetreuer
+selbst diese Prizipien fair und konsistent auf jeden Aspekt des Mangagements
+dieses Projekts anzuwenden. Projektbetreuer, die diesen Verhaltenskodex nicht
+befolgen oder durchsetzen können dauerhaft vom Projektteam entfernt werden.
+
+Dieser Verhaltenskodex ist sowohl innerhalb des Projektrahmens, als auch in
+öffentlichen Räumen gültig, wenn ein Individuum sich selbst oder seine Gemeinschaft
+repräsentiert.
+
+Vorfälle von missbräuchlichem, beleidigendem oder andersartig inaktzeptablem
+Verhalten können an dem Projektmanager über diese E-Mail Adresse gemeldet werden:
+[E-Mail hier einfügen]. Alle Beschwerden werden gelesen, untersucht und bekommen
+eine Antwort, die den Umständen entsprechend angemessen erachtet wird. Betreuer
+sind verpflichtet Diskretion bezüglich des Beschwerdegebers zu wahren.
+
+
+Dieser Verhaltenskodex ist adaptiert vom Contributor Convent, Version 1.3.0,
+verfügbar unter http://contributor-covenant.org/version/1/3/0/
