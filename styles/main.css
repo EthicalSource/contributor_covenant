@@ -80,3 +80,17 @@ section#footer {
 .indented {
 	margin-left: 2em;
 }
+
+ul.horizontal {
+	margin-top: -1em;
+	margin-left: -3em;
+}
+
+ul.horizontal li {
+	display: inline;
+	list-style-type: none;
+	padding-right: 20px;
+}
+.language-list {
+	font-size: .8em;
+}
