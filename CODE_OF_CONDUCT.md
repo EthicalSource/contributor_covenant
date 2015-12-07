@@ -12,7 +12,8 @@ body size, race, ethnicity, age, religion, or nationality.
 
 Examples of unacceptable behavior by participants include:
 
-* The use of sexualized language or imagery  
+* The use of sexualized language or imagery, as well as unwelcome sexual 
+  attention 
 * Personal attacks  
 * Trolling or insulting/derogatory comments  
 * Public or private harassment  
