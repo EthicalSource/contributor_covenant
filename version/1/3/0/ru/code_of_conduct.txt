@@ -46,4 +46,4 @@
 
 Кодекс Поведения основан на Contributor Covenant
 (http://contributor-covenant.org), версия 1.3.0 доступна на
-http://contributor-covenant.org/version/1/3/0/
+http://contributor-covenant.org/version/1/3/0/ru/
