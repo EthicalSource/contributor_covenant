@@ -16,7 +16,7 @@ Exemplos de comportamentos inaceitáveis por parte dos participantes incluem:
 
 * Uso de linguagem ou imagens sexuais
 * Ataques pessoais
-* Comentários insultuosos e/ou depreciativos (*Throlling*)
+* Comentários insultuosos e/ou depreciativos (*Trolling*)
 * Assédio público ou privado
 * Publicar informação pessoal de outros sem permissão explícita, como, por exemplo, endereços electrónicos ou moradas
 * Qualquer outra forma de conduta não ética ou não profissional
