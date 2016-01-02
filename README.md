@@ -92,6 +92,7 @@ This code of conduct has been adopted by [thousands of open source projects](htt
 * [Shoes](https://github.com/shoes/shoes4)
 * [Snuffle](https://gitlab.com/coraline/snuffle/tree/master)
 * [Snipe-IT](https://github.com/snipe/snipe-it)
+* [Solidus](https://github.com/solidusio/solidus)
 * [Spree](https://github.com/spree/spree)
 * [vim cheat sheet](https://github.com/rtorr/vim-cheat-sheet)
 * [vim-devicons](https://github.com/ryanoasis/vim-devicons)
