@@ -33,6 +33,7 @@ This code of conduct has been adopted by [thousands of open source projects](htt
 * [Crackle](https://github.com/jordanekay/Crackle)
 * [Crystal](http://crystal-lang.org/)
 * [diaspora*](http://github.com/diaspora/diaspora)
+* [Eclipse Che](https://github.com/codenvy/che)
 * [Eldest Daughter Questionnaire](https://github.com/eldest-daughter/ed-questionnaire)
 * [Electron](https://github.com/atom/electron)
 * [Elixir](https://github.com/elixir-lang/elixir)
