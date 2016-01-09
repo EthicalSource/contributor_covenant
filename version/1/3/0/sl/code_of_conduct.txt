@@ -43,4 +43,4 @@ incidenta.
 
 Ta kodeks ravnanja je prilagojen glede na Pakt sodelavcev
 (http://contributor-covenant.org) verzije 1.3.0, ki je na voljo na
-http://contributor-covenant.org/version/1/3/0/
+http://contributor-covenant.org/version/1/3/0/sl/
