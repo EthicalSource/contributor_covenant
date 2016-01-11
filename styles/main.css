@@ -43,6 +43,10 @@ h3 {
 	font-size: 1.25em;
 }
 
+h4 {
+	margin-bottom: 0px;
+}
+
 section#preamble {
 	margin-top: 4em;
 	color: #000;
@@ -55,6 +59,11 @@ section {
 .column {
 	float: left;
 	width: 45%;
+}
+
+.language_column {
+	float: left;
+	width: 25%;
 }
 
 .clear {
