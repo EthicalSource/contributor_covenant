@@ -20,15 +20,19 @@ a:link, a:visited, a:hover {
 	min-height: 200px;
 }
 
+h1, h3 {
+	font-family: "Poiret One", "Avenir Next", Avenir, Futura, sans-serif;
+	font-weight: 100;
+	font-display: fallback;
+}
+
 h1 {
-	font-family: "Poiret One", handwriting;
-	color: #fff;
 	font-size: 4em;
 	margin-top: 0em;
+	color: #fff;
 }
 
 h2 {
-	font-family: "Droid Sans Mono", monospace;
 	font-weight: normal;
 	color: #444;
 	text-transform: lowercase;
@@ -36,11 +40,10 @@ h2 {
 }
 
 h3 {
-	font-family: "Poiret One", handwriting;
-	background: rgba(0,0,0,.5);
 	padding: .5em .25em;
-	color: #e7f38c;
 	font-size: 1.25em;
+	color: #e7f38c;
+	background: rgba(0,0,0,.5);
 }
 
 h4 {
