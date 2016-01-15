@@ -44,7 +44,7 @@
 
 この行動規範は, 貢献者契約から適応されます
 (http://contributor-covenant.org) バージョン 1.3.0, でご利用いただけます
-http://contributor-covenant.org/version/1/3/0/
+http://contributor-covenant.org/version/1/3/0/jp
 
 
 
