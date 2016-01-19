@@ -1,6 +1,6 @@
 # Verhaltenskodex für Mitwirkende
 
-Als die Mitwirkenden und die Verantwortlichen dieses Projekts, und in dem Willen, eine offene und einladende Gemeinschaft zu fördern. Daher verpflichen wir uns dazu, alle Personen zu respektieren, die zum Projekt beitragen, sei es durch das Anlegen von Support-Tickets, dem Veröffentlichen von Feature Requests, dem Überarbeiten von Dokumentation, dem Vorschlagen von Pull Requests oder Patches oder durch andere Aktivitäten.
+Als die Mitwirkenden und die Verantwortlichen dieses Projekts wollen wir eine offene und einladende Gemeinschaft fördern. Daher verpflichen wir uns dazu, alle Personen zu respektieren, die zum Projekt beitragen, sei es durch das Anlegen von Support-Tickets, dem Veröffentlichen von Feature Requests, dem Überarbeiten von Dokumentation, dem Vorschlagen von Pull Requests oder Patches oder durch andere Aktivitäten.
 
 Wir verpflichten uns, die Mitwirkung an diesem Projekt zu einer belästigungsfreien Erfahrung für alle zu machen, unabhängig von Kenntnisstand, Geschlecht, Geschlechtsidentität und -ausdruck, sexueller Orientierung, Behinderung, äußerlicher Erscheinung, Körpermaßen, ethnischer Herkunft und Identität, Alter, Religion oder Nationalität.
 
