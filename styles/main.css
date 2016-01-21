@@ -2,23 +2,29 @@
 body {
 	color: #111;
 	font-family: "Droid Sans Mono", monospace;
-	margin: 0 auto;
-	max-width: 50rem;
-	padding: 0 1.5rem;
-	position: relative;
-	width: calc(100% - 3rem);
+	margin: 0;
+	padding: 0;
 }
 #header {
-	margin: 0 auto;
+	background: #4C1161;
+	color: #fff;
+	margin: 0 auto 3rem;
+	max-width: 100%;
 	padding: 3rem 0;
 	text-align: center;
+	width: 100%;
 }
 #footer {
-	border-top: 1px solid #ccc;
 	font-size: .8rem;
-	margin: 2rem 0 0;
-	padding: 2rem 0;
+	padding: 6rem 0 1.5rem;
 	text-align: center;
+}
+section {
+	margin: 0 auto;
+	max-width: 50rem;
+	padding: 0;
+	position: relative;
+	width: calc(100% - 3rem);
 }
 table {
 	width: 100%;
@@ -27,30 +33,25 @@ th {
 	text-align: left;
 }
 blockquote {
-	border-left: 3px solid #ccc;
+	border-left: 3px solid #FFB616;
 	margin: 0;
-	padding-left: 1em;
 	padding-left: 1rem;
 }
 /* Headers */
 h1 {
 	font-display: fallback;
-	font-color: #444;
 	font-family: "Poiret One", "Avenir Next", Avenir, Futura, sans-serif;
-	font-size: 4em;
+	font-size: 4rem;
 	font-weight: 100;
 	margin: 0;
 }
 h2 {
-	color: #333;
 	font-weight: normal;
 }
 h3 {
-	border-bottom: 1px solid #ccc;
-	color: #222;
+	border-bottom: 1px solid #FFB616;
 	font-weight: normal;
-	padding: 1em 0;
-	padding: 1rem 0;
+	padding: 1rem 0 .5rem;
 }
 h4 {
 	font-weight: normal;
@@ -58,11 +59,11 @@ h4 {
 /* Inline Elements */
 a:link,
 a:visited {
-	color: #3F51B5;
+	color: #4C1161;
 }
 a:hover,
 a:focus {
-	color: #1A237E;
+	color: #6700AD;
 }
 code,
 kbd {
@@ -72,7 +73,7 @@ kbd {
 /* Utility Classes */
 .error,
 .important {
-	color: #D32F2F;
+	color: #CC2624;
 }
 .clear {
 	clear: both;
