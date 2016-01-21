@@ -94,6 +94,7 @@ This code of conduct has been adopted by [thousands of open source projects](htt
 * [Snipe-IT](https://github.com/snipe/snipe-it)
 * [Spree](https://github.com/spree/spree)
 * [Taiga.io](https://github.com/taigaio/code-of-conduct)
+* [Twisted](https://github.com/twisted/twisted)
 * [vim cheat sheet](https://github.com/rtorr/vim-cheat-sheet)
 * [vim-devicons](https://github.com/ryanoasis/vim-devicons)
 * [Volt.rb](https://github.com/voltrb/volt)
