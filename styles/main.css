@@ -7,12 +7,12 @@ body {
 }
 #header {
 	background: #4C1161;
+	border-bottom: .5rem solid #FFB616;
+	border-radius: 0 0 1rem 1rem;
 	color: #fff;
 	margin: 0 auto 3rem;
-	max-width: 100%;
 	padding: 3rem 0;
 	text-align: center;
-	width: 100%;
 }
 #footer {
 	font-size: .8rem;
@@ -21,9 +21,8 @@ body {
 }
 section {
 	margin: 0 auto;
-	max-width: 50rem;
+	max-width: 60rem;
 	padding: 0;
-	position: relative;
 	width: calc(100% - 3rem);
 }
 table {
