@@ -6,13 +6,13 @@ body {
 	padding: 0;
 }
 #header {
-	background: #4C1161;
 	border-bottom: .5rem solid #FFB616;
-	border-radius: 0 0 1rem 1rem;
+	background: #4C1161;
 	color: #fff;
 	margin: 0 auto 3rem;
 	padding: 3rem 0;
 	text-align: center;
+	width: 100%;
 }
 #footer {
 	font-size: .8rem;
@@ -88,6 +88,10 @@ kbd {
 	}
 }
 @media (min-width: 50rem) {
+	#header {
+		border-radius: 0 0 1rem 1rem;
+		width: calc(100% - 3rem);
+	}
 	.large-break-three {
 		-webkit-column-count: 3;
 		-moz-column-count: 3;
