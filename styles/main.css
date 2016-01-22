@@ -1,108 +1,102 @@
+/* Primary Elements */
 body {
-	background-image: url(../images/background_light.png);
-	background-color: #e7f38c;
-	background-repeat: repeat-x;
-	padding: 3em;
-	font-family: "Droid Sans Mono", monospace;
-	position: relative;
-	width: 913px;
-	margin-left: auto;
-	margin-right: auto;
+	color: #111;
+	font: normal 1rem/1.4 "Droid Sans Mono", monospace;
+	margin: 0;
+	padding: 0;
 }
-
-a:link, a:visited, a:hover {
-	color: #444;
-}
-
 #header {
-	margin: -2em auto 0em auto;
-	text-align: center;
-	min-height: 200px;
-}
-
-h1, h3 {
-	font-family: "Poiret One", "Avenir Next", Avenir, Futura, sans-serif;
-	font-weight: 100;
-	font-display: fallback;
-}
-
-h1 {
-	font-size: 4em;
-	margin-top: 0em;
+	border-bottom: .5rem solid #FFB616;
+	background: #4C1161;
 	color: #fff;
+	margin: 0 auto 3rem;
+	padding: 3rem 0;
+	text-align: center;
+	width: 100%;
 }
-
+#footer {
+	font-size: .8rem;
+	padding: 6rem 0 1.5rem;
+	text-align: center;
+}
+section {
+	margin: 0 auto;
+	max-width: 60rem;
+	padding: 0;
+	width: calc(100% - 3rem);
+}
+table {
+	width: 100%;
+}
+th {
+	text-align: left;
+}
+blockquote {
+	border-left: 3px solid #FFB616;
+	margin: 0;
+	padding-left: 1rem;
+}
+/* Headers */
+h1 {
+	font-display: fallback;
+	font-family: "Poiret One", "Avenir Next", Avenir, Futura, sans-serif;
+	font-size: 4rem;
+	font-weight: 100;
+	margin: 0;
+}
 h2 {
 	font-weight: normal;
-	color: #444;
-	text-transform: lowercase;
-	margin-top: -2em;
 }
-
 h3 {
-	padding: .5em .25em;
-	font-size: 1.25em;
-	color: #e7f38c;
-	background: rgba(0,0,0,.5);
+	border-bottom: 1px solid #FFB616;
+	font-weight: normal;
+	padding: 1rem 0 .5rem;
 }
-
 h4 {
-	margin-bottom: 0px;
+	font-weight: normal;
 }
-
-section#preamble {
-	margin-top: 4em;
-	color: #000;
+/* Inline Elements */
+a:link,
+a:visited {
+	color: #4C1161;
 }
-
-section {
-	color: #000;
+a:hover,
+a:focus {
+	color: #6700AD;
 }
-
-.column {
-	float: left;
-	width: 45%;
+code,
+kbd {
+	/* This must be enforced again or it will default to `monospace` */
+	font-family: "Droid Sans Mono", monospace;
 }
-
-.language_column {
-	float: left;
-	width: 25%;
+/* Utility Classes */
+.error,
+.important {
+	color: #CC2624;
 }
-
 .clear {
 	clear: both;
 }
-
-#logo {
-	position: absolute;
-	top: 0em;
-	margin: 0em auto 0em auto;
-	height: 200px;
-	width: 132px;
+/* Media Queries */
+@media (min-width: 30rem) {
+	.medium-break-two {
+		-webkit-column-count: 2;
+		-moz-column-count: 2;
+		column-count: 2;
+		list-style-type: none;
+		padding: 0;
+	}
 }
-
-section#footer {
-	margin: 2em 0em;
-	padding: 2em 0em;
-	border-top: 1px solid #000;
-	font-size: .8em;
-	text-align: center;
-}
-
-.indented {
-	margin-left: 2em;
-}
-
-ul.horizontal {
-	margin-top: -1em;
-	margin-left: -3em;
-}
-
-ul.horizontal li {
-	display: inline;
-	list-style-type: none;
-	padding-right: 20px;
-}
-.language-list {
-	font-size: .8em;
+@media (min-width: 50rem) {
+	#header {
+		border-radius: 0 0 .25rem .25rem;
+		width: calc(100% - 3rem);
+	}
+	.large-break-three {
+		-webkit-column-count: 3;
+		-moz-column-count: 3;
+		column-count: 3;
+		list-style-type: none;
+		padding: 0;
+	}
 }
