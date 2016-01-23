@@ -17,6 +17,7 @@ This code of conduct has been adopted by [thousands of open source projects](htt
 
 * [24 Pull Requests](https://github.com/24pullrequests/24pullrequests)
 * [AASM](https://github.com/aasm/aasm)
+* [Active Admin](https://github.com/activeadmin/activeadmin)
 * [Algorrent](https://github.com/algorrent/algorrent)
 * [All HaskellNow.org Projects](http://www.haskellnow.org/wiki/WikiStart#Projects)
 * [AngularJS](https://github.com/angular/code-of-conduct)
