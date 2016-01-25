@@ -17,6 +17,7 @@ This code of conduct has been adopted by [thousands of open source projects](htt
 
 * [24 Pull Requests](https://github.com/24pullrequests/24pullrequests)
 * [AASM](https://github.com/aasm/aasm)
+* [Active Admin](https://github.com/activeadmin/activeadmin)
 * [Algorrent](https://github.com/algorrent/algorrent)
 * [All HaskellNow.org Projects](http://www.haskellnow.org/wiki/WikiStart#Projects)
 * [AngularJS](https://github.com/angular/code-of-conduct)
@@ -51,7 +52,7 @@ This code of conduct has been adopted by [thousands of open source projects](htt
 * [lfda](https://github.com/terrytangyuan/lfda)
 * [Jekyll](https://github.com/jekyll/jekyll)
 * [JRuby-Gradle](https://github.com/jruby-gradle/jruby-gradle-plugin)
-* [Lotus](http://lotusrb.org/community#code-of-conduct)
+* [Hanami](http://hanamirb.org/community#code-of-conduct)
 * [Mensa](https://github.com/jordanekay/Mensa)
 * [MeTal](https://github.com/syegulalp/MeTal)
 * [Mono](http://mono-project.com)
