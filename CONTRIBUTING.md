@@ -3,7 +3,7 @@
 ## Code Style
 
 - Use tabs for indentation, spaces for spacing
-- Order properties alphabeticaly
+- Order properties alphabetically
 
 ### HTML
 - Include `alt` attribute for all images
@@ -28,6 +28,6 @@
 }
 .second-class,
 .third-class {
-	backgound-color: white;
+	background-color: white;
 }
 ```
