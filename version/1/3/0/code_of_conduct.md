@@ -6,19 +6,17 @@ contribute through reporting issues, posting feature requests, updating
 documentation, submitting pull requests or patches, and other activities.
 
 We are committed to making participation in this project a harassment-free
-experience for everyone, regardless of level of experience, gender, gender
-identity and expression, sexual orientation, disability, personal appearance,
-body size, race, ethnicity, age, religion, or nationality.
+experience for everyone, regardless of age, body size, disability, ethnicity, gender, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual orientation.
 
 Examples of unacceptable behavior by participants include:
 
-* The use of sexualized language or imagery
-* Personal attacks
-* Trolling or insulting/derogatory comments
-* Public or private harassment
-* Publishing other's private information, such as physical or electronic
-  addresses, without explicit permission
-* Other unethical or unprofessional conduct
+a. The use of sexualized language or imagery <br />
+b. Personal attacks <br />
+c. Trolling or insulting/derogatory comments <br />
+d. Public or private harassment <br />
+e. Publishing other's private information, such as physical or electronic
+  addresses, without explicit permission <br />
+f. Other unethical or unprofessional conduct <br />
 
 Project maintainers have the right and responsibility to remove, edit, or
 reject comments, commits, code, wiki edits, issues, and other contributions
