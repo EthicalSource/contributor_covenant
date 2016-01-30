@@ -13,15 +13,15 @@ d'expérience, le sexe, l'identité ou l'expression de genre, l'orientation
 sexuelle, le handicap, l'apparence personnelle, la taille physique, la race,
 l'origine ethnique, l'âge, la religion ou la nationalité.
 
-De tels comportements ne sont pas acceptables, par exemple :
+Exemples de comportements non acceptables :
 
-* l'utilisation de langage ou d'imagerie sexualisé ;
+* l'utilisation de langage ou d'imagerie sexualisés ;
 * les attaques personnelles ;
-* les _trolls_ ou commentaires insultants ou désobligeants ;
+* le _trolling_, ou les commentaires insultants ou désobligeants ;
 * le harcèlement en public ou en privé ;
-* la publication d'autres informations privées, telles que les adresses
-  physiques ou électroniques, sans permission explicite ;
-* toute autre conduite contraire à l'éthique ou non professionnelle.
+* la publication d'informations privées de tierces personnes, telles que
+  les adresses physiques ou électroniques, sans permission explicite ;
+* toute conduite non professionnelle ou contraire à l'éthique.
 
 Les mainteneurs du projet ont le droit et la responsabilité de supprimer,
 modifier ou rejeter les commentaires, _commits_, code, modifications du wiki,
