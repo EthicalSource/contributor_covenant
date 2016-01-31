@@ -1,0 +1,76 @@
+# Konwencja Współtwórców — Kodeks Postępowania
+
+## Nasza Deklaracja
+
+W celu wspierania otwartego i przyjaznego otoczenia, my, jako współtwórcy i
+opiekunowie, zapewniamy, że udział w naszym projekcie i społeczności będzie
+pozbawiony szykanowania ze względu na budowę ciała, doświadczenie, kolor skóry,
+narodowość, niepełnosprawność, orientację i identyfikację seksualną, pochodzenie
+etniczne, religię, wiek, oraz wygląd zewnętrzny.
+
+## Nasze Standardy
+
+Wśród przykładów zachowania, które przyczyniają się do tworzenia pozytywnego
+otoczenia, są:
+
+* Używanie przyjaznego i inkluzywnego języka,
+* Szacunek dla różnych opinii i doświadczeń,
+* Przyjmowanie konstruktywnej krytyki z godnością,
+* Skupianie się na dobru społeczności,
+* Wykazywanie empatii w stosunku do innych członków społeczności.
+
+Wśród przykładów zachowania, którego nie będziemy akceptować, są:
+
+* Używanie seksualnego języka i grafik oraz niepożądanego zainteresowania
+  seksualnego lub zalotów,
+* Trollowanie, obraźliwe bądź urągające komentarze, oraz ataki osobiste bądź
+  polityczne,
+* Zastraszanie, tak na forum publicznym jak i prywatne,
+* Publikowanie bez wyraźnej zgody informacji osobistych innych osób, takich jak
+  adres fizyczny czy elektroniczny,
+* Inne zachowania, które mogły by zostać uznane za nieodpowiednie w kontekście
+  profesjonalnym.
+
+## Nasza odpowiedzialność
+
+Opiekunowie projektu są odpowiedzialni za wyjaśnianie standardów akceptowanego
+zachowania i powinni podejmować odpowiednie i sprawiedliwe działania w
+odpowiedzi na wszelkie przypadki nieodpowiedniego zachowania.
+
+Opiekunowie projektu mają prawo i obowiązek usuwania, edycji oraz odrzucania
+komentarzy, commitów, kodu, edycji wiki, oraz innych treści, które łamią
+niniejszy Kodeks Postępowania, oraz mają prawo tymczasowo lub stale zbanować
+każdego współtwórcę za inne zachowania, które uznają za nieodpowiednie, groźne,
+obraźliwe, lub szkodliwe.
+
+## Zasięg
+
+Ten Kodeks Postępowania stosuje się zarówno wewnątrz projektu, jak i na
+zewnątrz, kiedy projekt jest reprezentowany przez jednostkę. Do przykładów
+reprezentowania projektu zalicza się używanie oficjalnego adresu e-mail
+projektu, publikowanie na oficjalnym koncie w mediach społecznościowych, lub
+przedstawicielstwo w wydarzeniu online lub offline. Reprezentacja projektu może
+być uszczegółowiona przez jego opiekunów.
+
+## Egzekwowanie
+
+Przypadki obraźliwego i nieakceptowalnego zachowania oraz innych nadużyć mogą
+być zgłaszane do zespołu projektu pod adresem [WSTAW ADRES EMAIL]. Wszystkie
+skargi będą rozpatrzone i zakończą się reakcją, która jest konieczna i
+odpowiednia do okoliczności. Zespół projektu ma obowiązek zachowania tajemnicy
+tożsamości osoby zgłaszającej incydent. Dalsze zasady egzekwowania tego Kodeksu
+mogą być dostępne w osobnym dokumencie.
+
+Opiekunowie projektu, którzy nie respektują i nie egzekwują Kodeksu Postępowania
+w dobrej wierze mogą zostać tymczasowo lub permanentnie ukarani, zgodnie z
+decyzją innych liderów projektu.
+
+## Autorstwo
+
+Ten Kodeks Postępowania jest adaptacją [Contributor Covenant][homepage], w wersji 1.4,
+dostępnej pod adresem [http://contributor-covenant.org/version/1/4][version] (w języku angielskim)
+oraz [http://contributor-covenant.org/version/1/4/pl][version_pl] (w języku polskim).
+
+[homepage]: http://contributor-covenant.org/
+[version]: http://contributor-covenant.org/version/1/4/
+[version_pl]: http://contributor-covenant.org/version/1/4/pl/
