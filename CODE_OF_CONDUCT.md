@@ -1,3 +1,7 @@
+**Note: this is the code of conduct for Contributor Covenant itself. To see
+the latest development version of the Contributo Covenant Code of Conduct, see
+[version/latest/code_of_conduct.md](version/latest/code_of_conduct.md).**
+
 # Contributor Code of Conduct
 
 As contributors and maintainers of this project, and in the interest of  
