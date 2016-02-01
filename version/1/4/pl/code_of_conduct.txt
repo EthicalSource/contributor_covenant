@@ -28,7 +28,7 @@ Wśród przykładów zachowania, którego nie będziemy akceptować, są:
 * Nękanie, zarówno na forum publicznym jak i prywatne,
 * Publikowanie danych osobistych innych osób — takich jak
   adres fizyczny czy elektroniczny — bez ich wyraźnej zgody,
-* Inne zachowania, które mogły by zostać uznane za nieodpowiednie w kontekście
+* Inne zachowania, które mogłyby zostać uznane za nieodpowiednie w kontekście
   profesjonalnym.
 
 Nasza Odpowiedzialność
