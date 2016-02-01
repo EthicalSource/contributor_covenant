@@ -22,7 +22,7 @@ Wśród przykładów zachowania, które przyczyniają się do tworzenia pozytywn
 Wśród przykładów zachowania, którego nie będziemy akceptować, są:
 
 * Używanie języka i grafik o podtekście seksualnym, okazywanie
-  niepożądanego zainteresowania seksualnego, oraz zaloty,
+  niepożądanego zainteresowania seksualnego, a także zaloty,
 * Trollowanie, obraźliwe bądź urągające komentarze oraz ataki osobiste bądź
   polityczne,
 * Nękanie, zarówno na forum publicznym jak i prywatne,
