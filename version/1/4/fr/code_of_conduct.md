@@ -67,8 +67,7 @@ la politique de mise en application des règles peuvent être publiés séparém
 
 Les mainteneurs du projet qui ne suivent ou qui n'appliquent pas le Code de
 Conduite de bonne foi, s'exposent temporairement ou de façon permanente à des
-repercussions définies par d'autres membres extérieur à la direction du
-projet
+repercussions définies par d'autres membres de la direction du projet.
 
 ## Attribution
 
