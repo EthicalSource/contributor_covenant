@@ -15,7 +15,7 @@ religion ou la nationalité.
 Exemples de comportements qui contribuent à créer un environnement positif :
 
 * l'utilisation d'un langage ouvert et accueillant
-* être respectueux des différents points de vues et expériences
+* être respectueux des différents points de vue et expériences
 * accepter poliment les critiques constructives
 * se concentrer sur ce qui est meilleur pour la communauté
 * faire preuve d'empathie envers les autres membres de la communauté
