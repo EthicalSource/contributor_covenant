@@ -6,8 +6,8 @@ Dans l'intérêt de favoriser un environnement ouvert et accueillant, nous nous
 engageons, en tant que contributeurs et responsables de ce projet, à faire
 de la participation une expérience exempte de harcèlement pour tout le
 monde, quel que soit le niveau d'expérience, le sexe, l'identité ou
-l'expression de genre, l'orientation sexuelle, le handicape, l'apparence
-personnelle, la taille physique, la race, l'origine éthnique, l'âge, la
+l'expression de genre, l'orientation sexuelle, le handicap, l'apparence
+personnelle, la taille physique, la race, l'origine ethnique, l'âge, la
 religion ou la nationalité.
 
 ## Nos critères
@@ -23,7 +23,7 @@ Exemples de comportements qui contribuent à créer un environnement positif :
 Exemples de comportements non acceptables :
 
 * l'utilisation de langage ou d'imagerie sexualisés et les avances sexuelles
-non bienvenues
+non sollicitées
 * le _trolling_, les commentaires insultants ou désobligeants, et les
 attaques personnelles ou politiques
 * le harcèlement en public ou en privé
@@ -36,7 +36,7 @@ inappropriée dans le milieu professionnel
 
 Les mainteneurs doivent clarifier les critères de comportement acceptables
 de ce projet : il est attendu d'eux qu'ils prennent les mesures correctives
-justes comme réponse à tous comportements inacceptables.
+justes comme réponse à tout comportement inacceptable.
 
 Les mainteneurs du projet ont le droit et la responsabilité de supprimer,
 modifier ou rejeter les commentaires, _commits_, code, modifications du wiki,
@@ -46,9 +46,9 @@ comportements qu'ils jugent inappropriés, menaçants, injurieux, ou nuisibles.
 
 ## Objectifs
 
-Ce Code de Conduite s'applique à la fois au sein des espaces de projets
+Ce Code de Conduite s'applique à la fois au sein des espaces de projet
 ainsi que dans les espaces publics quand un individu représente le projet
-ou sa communauté. Les exemples de représentations d'un projet ou d'une
+ou sa communauté. Les exemples de représentation d'un projet ou d'une
 communauté incluent le fait d'utiliser une adresse email propre au projet,
 de poster sur les réseaux sociaux avec un compte officiel, ou d'intervenir
 comme représentant programmé à un événement en-ligne ou hors-ligne. La
@@ -57,17 +57,17 @@ les mainteneurs du projet.
 
 ## Application
 
-Les cas de comportements abusifs, harcelants ou autrement inacceptables
-peuvent être signalés en contactant l'équipe du projet à
+Les cas de comportements abusifs, harcelants ou tout autre comportement
+inacceptable peuvent être signalés en contactant l'équipe du projet à
 [INSERER ADRESSE EMAIL]. Toutes les plaintes seront examinées et étudiées
-et se traduiront par une réponse jugée nécessaire et appropriée aux
+et se traduiront par une réponse appropriée et appropriée aux
 circonstances. L'équipe du projet s'engage à garder confidentielles les
 informations de la personne qui remonte un incident. Plus de détails sur
 la politique de mise en application des règles peuvent être publiés séparément.
 
 Les mainteneurs du projet qui ne suivent ou qui n'appliquent pas le Code de
 Conduite de bonne foi, s'exposent temporairement ou de façon permanente à des
-repercussions définies par d'autres membres de la direction du projet.
+répercussions définies par d'autres membres de la direction du projet.
 
 ## Attribution
 
