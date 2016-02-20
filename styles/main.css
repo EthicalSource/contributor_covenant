@@ -79,8 +79,7 @@ kbd {
 }
 
 table.localizations td {
-	font-family: monospace;
-	font-size: 1.2rem;
+	font-family: courier, monospace;
 }
 
 /* Media Queries */
