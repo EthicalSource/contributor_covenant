@@ -77,6 +77,12 @@ kbd {
 .clear {
 	clear: both;
 }
+
+table.localizations td {
+	font-family: monospace;
+	font-size: 1.2rem;
+}
+
 /* Media Queries */
 @media (min-width: 30rem) {
 	.medium-break-two {
