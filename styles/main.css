@@ -105,3 +105,17 @@ table.localizations td {
 		padding: 0;
 	}
 }
+
+#navigation {
+	text-align: center;
+}
+
+#navigation ul {
+	list-style-type: none;
+	margin: -2em 0em 2em 0em;
+	padding: 0;
+}
+
+#navigation ul li {
+	display: inline;
+}
