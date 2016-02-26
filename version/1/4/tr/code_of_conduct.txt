@@ -5,7 +5,7 @@ Teminatımız
 Herkes için açık ve erişilebilir bir ortam sağlamak amacıyla projenin
 katkıcıları ve yürütücüleri olarak, katkı vermeyi yaş, beden tipi,
 engel durumu, etnik köken, cinsel kimlik, cinsel yönelim, cinsiyet ifadesi,
-tecrübe, milliyet, dış görünüş, ırk ve din ayrımı gözetmeden keyifli 
+tecrübe, milliyet, dış görünüş, ırk ve din ayrımı gözetmeden keyifli
 ve güvenli bir tecrübe haline getirmeyi taahhüt ederiz.
 
 Kaidelerimiz
@@ -36,7 +36,7 @@ Proje yürütücüleri, katkıcılardan bekledikleri davranış biçimini açık
 kabul edilemez davranışlara karşı tekrarlanmamaları için adil ve uygun bir şekilde
 gerekli düzenlemeleri yapmakla sorumludur.
 
-Proje yürütücüleri bu sözleşmeye uymayan yorumları, commit'leri, wiki girdilerini.
+Proje yürütücüleri bu sözleşmeye uymayan yorumları, commit'leri, wiki girdilerini,
 hata kayıtlarını veya diğer katkıları silme, değiştirme veya reddetme
 yetkisine sahiptir. Buna davranışları uygunsuz, kırıcı, saldırgan veya zararlı
 bulunan katkıcıları geçiçi veya kalıcı olarak projeden uzaklaştırmak da dahildir.
