@@ -19,3 +19,4 @@ We're always looking for new localizations of Contributor Covenant and are thank
 ## Examples of Projects Using the Contributor Covenant
 
 This code of conduct has been adopted by [thousands of open source projects](https://github.com/search?l=markdown&q=%22contributor+covenant%22&ref=searchresults&type=Code&utf8=✓). For examples, see [our adopters page](http://contributor-covenant.org/adopters/).
+
