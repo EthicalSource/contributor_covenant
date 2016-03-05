@@ -33,14 +33,16 @@ advances
 
 ## Our Responsibilities
 
-Project maintainers are responsible for clarifying the standards of acceptable
-behavior and are expected to take appropriate and fair corrective action in
-response to any instances of unacceptable behavior.
+Project maintainers are responsible for clarifying the application of
+this Code of Conduct in the context of the project,
+and are expected to take appropriate and fair corrective action in
+response to any breaches of this Code.
 
 Project maintainers have the right and responsibility to remove, edit, or
 reject comments, commits, code, wiki edits, issues, and other contributions
 that are in breach of this Code of Conduct, or to ban temporarily or
-permanently any contributor for other behaviors that they deem inappropriate,
+permanently any contributor for other behaviors which breach the Code
+and which they deem inappropriate,
 threatening, offensive, or harmful.
 
 ## Scope
@@ -54,7 +56,7 @@ further defined and clarified by project maintainers.
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
+Breaches of this Code of Conduct may be
 reported by contacting the project team at [INSERT EMAIL ADDRESS]. The project team
 will review and investigate all complaints, and will respond in a way that it deems
 appropriate to the circumstances. The project team is obligated to maintain
