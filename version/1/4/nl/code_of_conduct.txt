@@ -17,13 +17,13 @@ omvat onder andere:
 * Respectvol zijn ten aanzien van andere standpunten en ervaringen
 * Het accepteren van constructieve kritiek
 * Focussen op wat het beste is voor de gemeenschap
-* Empathisch zijn tegenover andere deelnemers
+* Empathisch zijn ten aanzien van andere deelnemers
 
 Voorbeelden van niet acceptabel gedrag bij deelnemers omvat:
 
-* Het gebruik van seksueel geladen taal of prenten, alsook ongewenst seksueel aandacht
+* Het gebruik van seksueel geladen taal of prenten, alsook ongewenst seksuele aandacht
 of avances
-* Trollen, beledigende/denigrerende commentaar en persoonlijke of politieke aanvallen
+* Trollen, beledigend/denigrerend commentaar en persoonlijke of politieke aanvallen
 * Publiek of privaat lastig vallen
 * Het publiceren van prive informatie zoals een fysiek of electronisch adres zonder
 expliciete toestemming
@@ -38,8 +38,8 @@ corrigerende maatregelen te treffen als antwoord op vertoningen van niet accepta
 gedrag.
 
 Projectonderhouders hebben het recht en de verantwoordelijkheid om commentaar, commits,
-code, wiki edits, issues en andere contributies te verwijderen, te editeren of af te keuren
-indien deze niet beantwoorden aan deze Gedragscode, of om tijdelijk of permantent te bannen
+code, wiki edits, issues en andere contributies te verwijderen, te bewerken of af te keuren
+indien deze niet voldoen aan deze Gedragscode, of om tijdelijk of permantent te bannen
 zij wiens gedrag als ongewenst, bedreigend, beledigend of schadelijk wordt geacht.
 
 Bereik
