@@ -67,7 +67,7 @@ de projectleiding.
 ## Attributie
 
 Deze Gedragscode is een  aangepaste versie van  de [Contributor Covenant][homepage],
-versie 1.4, beschikbaar op [http://contributor-covenant.org/version/1/4][version]
+versie 1.4, beschikbaar op [http://contributor-covenant.org/version/1/4/nl/][version]
 
 [homepage]: http://contributor-covenant.org
-[version]: http://contributor-covenant.org/version/1/4/
+[version]: http://contributor-covenant.org/version/1/4/nl/
