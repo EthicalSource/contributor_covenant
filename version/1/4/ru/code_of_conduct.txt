@@ -38,4 +38,4 @@
 
 Атрибуция
 
-Данный Кодекс Поведения основан на Contributor Covenant(http://contributor-covenant.org), версия 1.4.0 доступна на http://contributor-covenant.org/version/1/4/0/ru/.
+Данный Кодекс Поведения основан на Contributor Covenant(http://contributor-covenant.org), версия 1.4.0 доступна на http://contributor-covenant.org/version/1/4/ru/.
