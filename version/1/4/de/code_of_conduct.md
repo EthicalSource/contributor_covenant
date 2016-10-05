@@ -6,7 +6,7 @@ Im Interesse der Förderung eines offenen und einladenden Umfeldes wollen wir un
 
 ## Unsere Standards
 
-Beispiele für Verhaltensweisen, welche dazu beitragen ein positives Umfeld zu erzeugen beinhalten:
+Beispiele für Verhaltensweisen, welche dazu beitragen ein positives Umfeld zu erzeugen, beinhalten:
 
 * Die Verwendung von einladenden und einbindenden Formulierungen
 * Abweichenden Ansichten und Erfahrungen wird Respekt entgegengebracht
