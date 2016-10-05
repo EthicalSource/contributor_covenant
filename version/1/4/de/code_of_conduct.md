@@ -17,7 +17,7 @@ Beispiele für Verhaltensweisen, welche dazu beitragen ein positives Umfeld zu e
 Beispiele für nicht akzeptables Verhalten beinhalten:
 
 * Die Verwendung sexualisierter Sprache, Bilder oder Symbolik sowie unerwünschte Versuche sexueller Anbahnung
-* Beleidigende / abwertende Kommentare, persönliche oder politische Angriffe, Nutzung der Anonymität des Internets für unbilliges Verhalten
+* Beleidigende / abwertende Kommentare, persönliche oder politische Angriffe, Nutzung des Internets für unbilliges Verhalten
 * Öffentliche oder private Belästigungen
 * Das Veröffentlichen von privaten Informationen Anderer, wie zum Beispiel physische oder elektronische Adressen, ohne deren ausdrückliche Erlaubnis
 * Anderes Verhalten, welches in einem professionellen Umfeld begründet als unangemessen betrachtet werden kann 
