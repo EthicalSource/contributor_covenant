@@ -1,6 +1,6 @@
-# Medarbetarförbundets Uppförandekod
+Medarbetarförbundets Uppförandekod
 
-## Vårt löfte
+Vårt löfte
 
 I syftet att fostra en öppen och välkomnande miljö, avlägger vi i egenskap av
 medarbetare och ansvariga ett löfte att göra deltagande i vårt projekt och
@@ -9,7 +9,7 @@ kroppsstorlek, handikapp, etnicitet, könsidentitet och könsuttryck,
 erfarenhetsnivå, nationalitet, personligt utseende, ras, religion, eller sexuell
 identitet och läggning.
 
-## Våra standarder
+Våra standarder
 
 Exempel på uppförande som bidrar till att skapa en positiv miljö inkluderar:
 
@@ -31,7 +31,7 @@ adress, utan explicit medgivande
 * Annat uppförande som rimligen skulle kunna anses vara olämpligt i en
 professionell miljö
 
-## Våra förpliktelser
+Våra förpliktelser
 
 Projektansvariga är ansvariga för att klargöra standarderna för acceptabelt
 beteende och förväntas ta lämplig och rättvis korrigerande åtgärd i respons till
@@ -43,7 +43,7 @@ bidrag som inte lierar sig med denna Uppförandekod, eller att temporärt eller
 permanent bannlysa en medarbetare för annat beteende som anses opassande,
 hotande, kränkande, eller skadligt.
 
-## Omfattning
+Omfattning
 
 Denna Uppförandekod tillämpas både inom projektutrymmen och på allmänna platser
 när en individ representerar projektet och dess samfund. Exempel på att
@@ -53,7 +53,7 @@ eller agerande i egenskap av utsedd representant på ett online- eller offline-
 evenemang. Representation av ett projekt kan definieras ytterligare och
 klargöras av projektansvariga.
 
-## Upprätthållande
+Upprätthållande
 
 Fall av kränkande, trakasserande, eller på annat sätt oacceptabelt beteende kan
 rapporteras genom att kontakta projektgruppen på [INFOGA EPOSTADRESS]. Alla
@@ -66,10 +66,8 @@ Projektansvariga som inte följer eller upprätthåller Uppförandekoden i god t
 kan ställas inför temporära eller permanenta konsekvenser som bestäms av andra
 medlemmar av projektets ledning.
 
-## Attribuering
+Attribuering
 
-Denna Uppförandekod är anpassad efter [Contributor Covenant][hemsida],
-version 1.4, tillgänglig på [http://contributor-covenant.org/version/1/4][version]
-
-[hemsida]: http://contributor-covenant.org
-[version]: http://contributor-covenant.org/version/1/4/
+Denna Uppförandekod är anpassad efter Contributor Covenant:
+http://contributor-covenant.org, version 1.4, tillgänglig på
+http://contributor-covenant.org/version/1/4
