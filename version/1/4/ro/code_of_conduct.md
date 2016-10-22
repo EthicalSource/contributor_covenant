@@ -1,70 +1,70 @@
-# Codul de Conduita al Contribuitorului 
+# Codul de Conduită al Contributorului
 
 ## Angajamentul nostru 
 
-In scopul de a mentine un mediu deschis si primitor, noi, in rolul de contribuitori     
-si intretinatori ne angajam ca participarea in proiectul si comunitatatea noastra      
-sa fie o experienta lipsita de neplaceri pentru toata lumea fara deosebire de varsta,
-aspect fizic, dizabilitate, origine etnica, identitate sau orientare personala,
-nivel de experienta, nationalitate, rasa, religie si identitate sau orientare sexuala.    
+În scopul de a menţine un mediu deschis şi primitor, noi, în rolul de contributori
+şi întreţinători ne angajăm ca participarea în proiectul şi comunitatatea noastră
+să fie o experienţă lipsită de neplăceri pentru toată lumea fără deosebire de vârstă,
+aspect fizic, dizabilitate, origine etnică, identitate sau orientare personală, nivel
+de experienţă, naţionalitate, rasă, religie şi identitate sau orientare sexuală.
 
-## Standardele noastre 
+## Standardele noastre
 
 Exemple de comportament care contribuie la crearea unui mediu pozitiv includ:
 
-* Folosirea unui limbaj politicos si inclusiv.                  
-* Respectarea punctelor de vedere si a experientelor alternative
-* Acceptarea criticilor constructive intr-un mod civilizat      
-* Orientarea catre binele comunitatii                           
-* Exprimarea empatiei fata de ceilalti membrii ai comunitatii   
+* Folosirea unui limbaj politicos şi inclusiv.
+* Respectarea punctelor de vedere şi a experienţelor alternative.
+* Acceptarea criticilor constructive într-un mod civilizat.
+* Orientarea către binele comunitătii.
+* Exprimarea empatiei faţă de ceilalţi membrii ai comunităţii.
 
-Exemple de comportament inadecvat ale unui participant includ:                   
+Exemple de comportament neadecvat ale unui participant includ:
 
-* Folosirea unor expressii, imagini sau aluzii cu tenta sexuala             
-* Adresarea unor comentarii cu caracter de batjocura sau insulta. Atacuri de natura
-politica sau personala.                                         
-* Hartuire publica sau privata                                              
-* Publicarea informatiilor private ale altor utilizatori, de exemplu adrese fizice
-sau electronice, fara acceptul explicit al acestora         
-* Alt comportament care ar putea fi considerat neadecvat intr-un cadru profesional
+* Folosirea unor expresii, imagini sau aluzii cu tentă sexuală.
+* Adresarea unor comentarii cu caracter de batjocură sau insultă. Atacuri de natură
+politică sau personală.
+* Hărţuire publică sau privată.
+* Publicarea informaţiilor private ale altor utilizatori, de exemplu adrese fizice
+sau electronice, fără acceptul explicit al acestora.
+* Alt comportament care ar putea fi considerat neadecvat într-un cadru profesional.
 
-## Responsabilitatile noastre                       
+## Responsabilităţile noastre
 
-Cei care intretin proiectul sunt repsonsabili pentru clarificarea standardelor unui
-comportament acceptabil si trebuie sa ia masurile potrivite in cazul unor actiuni 
-considerate neadecvate.                                        
+Cei care întreţin proiectul sunt responsabili pentru clarificarea standardelor unui
+comportament acceptabil şi trebuie să ia măsurile potrivite în cazul unor acţiuni
+considerate neadecvate.
 
-Cei care intretin proiectul au dreptul si responsabilitatea de a sterge, modifica
-sau respinge comentarii, contributii de cod sursa, modificari ale documentatiei,
-probleme sau orice alte contributii care nu respecta acest Cod de Conduita sau de a
-exclude temporar sau permanent oricare contribuitor pentru actiuni pe care le
-considera neadecvate, amenintatoare, ofensatoare sau periculoase.
+Cei care întreţin proiectul au dreptul şi responsabilitatea de a şterge, modifica
+sau respinge comentarii, contribuţii de cod sursă, modificări ale documentaţiei,
+probleme sau orice alte contribuţii care nu respectă acest Cod de Conduită sau de a
+exclude temporar sau permanent oricare contributor pentru acţiuni pe care le
+consideră neadecvate, ameninţătoare, ofensatoare sau periculoase.
 
-## Scop                                                                      
-                                                                             
-Acest Cod de Conduita se applica atat in spatiul privat cat si in cel public atunci
-cand o persoana reprezinta proiectul sau comunitatea sa. Exemple de reprezentare a
-proiectului sau a comunitatii includ folosirea unei adrese oficiale de email a
-proiectului, postarea prin intermediul unui cont dintr-un mediu de socializare sau
-prezenta ca un reprezentant numit la un eveniment 'online' sau 'offline'. Reprezentarea
-unui proiect poate fi clarificata in detaliu de catre intretinatorii proiectului.                                 
+## Scop
 
-## Conditii de aplicare                                                             
-                                                                                    
-Actiunile abuzive, hartuitoare sau considerate neadecvate pot fi raportate prin
-contactarea echipei proiectului la adresa [INSERATI ADRESA DE EMAIL]. Toate plangerile
-vor fi analizate si investigate si vor rezulta intr-un raspuns conform circumstantelor,
-daca este necesar. Echipa proiectului este obligata la pastrarea confidentialitatii
-persoanei care raporteaza un incident. Mai multe criterii si conditii de aplicare pot
-fi specificate separat.              
-                                                                                    
-Intertinatorii proiectului care nu respecta si nu aplica Codul de Conduita in buna
-credinta, ar putea suferi repercursiuni temporare sau permanente determinate de catre
-alti membrii din conducerea proiectului.                       
+Acest Cod de Conduită se aplică atât în spaţiul privat cât şi în cel public atunci
+când o persoană reprezintă proiectul sau comunitatea sa. Exemple de reprezentare a
+proiectului sau a comunităţii includ folosirea unei adrese oficiale de email a
+proiectului, postarea pe reţele de socializare folosind un cont oficial sau participarea
+la un eveniment 'online' sau 'offline' ca reprezentant delegat. Reprezentarea
+unui proiect poate fi clarificată în detaliu de către întreţinatorii proiectului.                                 
 
-## Afiliere                                                                          
-                                                                                      
-Acest Cod de Conduita este adaptat conform [Codului de Conduita al Contribuitorului]  
+## Condiţii de aplicare
+
+Acţiunile abuzive, hărţuitoare sau considerate neadecvate pot fi raportate prin
+contactarea echipei proiectului la adresa [INSERAŢI ADRESA DE EMAIL]. Toate plângerile
+vor fi analizate şi investigate şi vor rezulta într-un răspuns care este necesar şi
+adecvat circumstanţelor. Echipa proiectului este obligată la păstrarea confidentialităţii
+persoanei care raportează un incident. Mai multe criterii şi condiţii de aplicare pot fi
+specificate separat.
+
+Înterţinătorii proiectului care nu respectă şi nu aplică Codul de Conduită în bună
+credinţă, ar putea suferi repercursiuni temporare sau permanente determinate de către
+alţi membrii din conducerea proiectului.                       
+
+## Afiliere
+
+Acest Cod de Conduită este adaptat conform [Codului de Conduită al Contributorului]  
 [homepage], versiunea 1.4, disponibil la [http://contributor-covenant.org/version/1/4]
 [version]                                                                          
 
