@@ -1,0 +1,48 @@
+Saradnik Pakt: Kodeks Ponašanja
+
+Naš zalog
+
+U interesu ohrabrujući otvoren i dobrodošlice okruženje,
+mi kao saradnici i održavatelji obećamo da za sviju ko učestvuju u našem projektu i zajednicu, njihovo iskustvo  će biti bez uznemiravanje, bez obzira na starost, veličinu, invalidnost, nacionalnost, rodnog identiteta i izraz, nivo iskustva, državljanstvo, izgled, porod, vjera, ili seksualni identitet i orijentacija.
+
+Naši standardi
+
+Primjeri ponašanja što stvori pozitivno okruženje:
+
+* Korištenje prijatan i uključiv jezik
+* Poštovanje drugačije stanovište i iskustve
+* Primanje konstruktivne kritike
+* Fokusiranje na šta je najbolje za zajednicu
+* Pokazivanje empatiju za druge članovi zajednice
+
+Primjeri neprihvatljivog ponašanja:
+
+* Korištenje seksualnog jezik ili neželjene seksualne pažnje
+* Uvredljivi komentari ili personalni napadi
+* Javno ili privatno uznemiravanje
+* Izdavanje privatnu informaciju, na primjer adresu, bez dozvole
+* Bilo kakvo drugo ponašanje što bi bilo neprikladno u profesionalnom okruženju.
+
+Naši odgovornosti
+
+Održavatelji projekta će razjasniti standarde za prihvatljivo ponašanje, i u slučaju
+neprikladno ponašanje, od njih se očekuje poštene korektivne mjere.
+
+Održavatelji projekta imaju pravo i odgovornost da skinu, redigovatu, ili odbitu komente, kod, wiki izmjene, probleme, i druge doprine koji se ne poređaju sa ovom Kodeks Ponašanja. Oni imaju pravu da zabrane (prolazno ili trajno) bilo koji saradnik za ponašanje koje se pojavljuje neprijatno, štetno, ili uvredljivo.
+
+Obim
+
+Ovaj kodeks ponašanja se odnosi na sve projekte i javne prostore gdje pojedinac predstavlja zajednicu. Na primjer, korištenje od službenu e-mail adresu projekta ili ponašanje kao sluzbeni predstavnik u sastancima. Održavatelji projekta će dodatno definirati ovu predstavljanju.
+
+Primjenjivanje
+
+U slučaju uvredljivog ponašanja, kontaktiraj održavatelje: [E-MAIL ADRESA]
+
+Svaki izvještaj će se istražiti, i odgovor će biti fer i prikladan za situaciju. Održavatelji projekta su odgovorni da održavaju povjerljivost za svaki izvještaj.
+Dodatne detalje polisa mogu biti objavljeno odvojeno.
+
+Održavatelji projekta koji ne prate ili primijene ovaj kodeks ponašanja mogu biti kaznjeni trajno ili privremeno, po nahođenje od drugih održavatelja.
+
+Pripisivanje
+
+Ovaj kodeks ponašanja je preuzet iz Contributor Covenant, verzija 1.4, dostupan na http://contributor-covenant.org/version/1/4.
