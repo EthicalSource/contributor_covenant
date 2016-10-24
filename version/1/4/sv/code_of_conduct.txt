@@ -5,8 +5,8 @@ Vårt löfte
 I syftet att fostra en öppen och välkomnande miljö, avlägger vi i egenskap av
 medarbetare och ansvariga ett löfte att göra deltagande i vårt projekt och
 samfund en upplevelse fri från trakasserier för alla, oavsett ålder,
-kroppsstorlek, handikapp, etnicitet, könsidentitet och könsuttryck,
-erfarenhetsnivå, nationalitet, personligt utseende, ras, religion, eller sexuell
+kroppsstorlek, funktionsnedsättning, etnicitet, könsidentitet och könsuttryck,
+erfarenhetsnivå, nationalitet, personligt utseende, ras, religion eller sexuell
 identitet och läggning.
 
 Våra standarder
@@ -23,10 +23,10 @@ Exempel på oacceptabelt uppförande av deltagare inkluderar:
 
 * Användande av sexualiserat språk eller bildspråk och ovälkommen sexuell
 uppmärksamhet eller närmanden
-* Trollande, förolämpande/nedsättande kommentarer, och personliga eller
-politiska attacker
+* Trollande, förolämpande/nedsättande kommentarer och personliga eller
+politiska angrepp
 * Offentliga eller privata trakasserier
-* Publicerande av andras privata information, såsom en fysisk eller elektronisk
+* Publicerande av andras privata uppgifter, såsom en fysisk eller elektronisk
 adress, utan explicit medgivande
 * Annat uppförande som rimligen skulle kunna anses vara olämpligt i en
 professionell miljö
@@ -34,14 +34,14 @@ professionell miljö
 Våra förpliktelser
 
 Projektansvariga är ansvariga för att klargöra standarderna för acceptabelt
-beteende och förväntas ta lämplig och rättvis korrigerande åtgärd i respons till
-alla instanser av oacceptabelt uppförande.
+beteende och förväntas vidta lämpliga och rättvisa korrigerande åtgärder som
+svar på alla förekomster av oacceptabelt uppförande.
 
-Projektansvariga har rätten och ansvaret för att avlägsna, redigera, eller
-avvisa kommentarer, förbindelser, kod, wiki-redigeringar, problem, och andra
-bidrag som inte lierar sig med denna Uppförandekod, eller att temporärt eller
+Projektansvariga har rätten och ansvaret för att avlägsna, redigera eller
+avvisa kommentarer, förbindelser, kod, wiki-redigeringar, problem och andra
+bidrag som inte lierar sig med denna Uppförandekod eller att tillfälligt eller
 permanent bannlysa en medarbetare för annat beteende som anses opassande,
-hotande, kränkande, eller skadligt.
+hotande, kränkande eller skadligt.
 
 Omfattning
 
@@ -55,15 +55,15 @@ klargöras av projektansvariga.
 
 Upprätthållande
 
-Fall av kränkande, trakasserande, eller på annat sätt oacceptabelt beteende kan
+Fall av kränkande, trakasserande eller på annat sätt oacceptabelt beteende kan
 rapporteras genom att kontakta projektgruppen på [INFOGA EPOSTADRESS]. Alla
-klagomål kommer att granskas och undersökas och resultera i en respons som anses
+klagomål kommer att granskas och undersökas och resultera i ett svar som anses
 nödvändig och lämplig under omständigheterna. Projektgruppen är skyldig att
 upprätthålla sekretess med avseende på rapportören av en incident. Ytterligare
-information angående specifik upprätthållandepolicy kan postas separat.
+uppgifter angående specifik upprätthållandepolicy kan postas separat.
 
 Projektansvariga som inte följer eller upprätthåller Uppförandekoden i god tro
-kan ställas inför temporära eller permanenta konsekvenser som bestäms av andra
+kan ställas inför tillfälliga eller permanenta konsekvenser som bestäms av andra
 medlemmar av projektets ledning.
 
 Attribuering
