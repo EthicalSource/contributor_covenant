@@ -15,8 +15,8 @@ experiência, raça ou religião.
 Exemplos de comportamentos que contribuem a criar um ambiente positivo incluem:
 
 * Usar linguagem acolhedora e inclusiva
-* Respeitar pontos de vista e experiencias diferentes
-* Aceitar crítica construtíva com graça
+* Respeitar pontos de vista e experiências diferentes
+* Aceitar crítica construtiva com graça
 * Focar no que é melhor para a comunidade
 * Mostrar empatia com outros membros da comunidade
 
@@ -30,7 +30,7 @@ Exemplos de comportamentos inaceitáveis por parte dos participantes incluem:
 
 ## Nossas responsibilidades
 
-Os administradores do projeto são responsáveis por esclareçer os padrões de
+Os administradores do projeto são responsáveis por esclarecer os padrões de
 comportamento e deverão tomar ação corretiva apropriada e justa em resposta
 a qualquer instância de comportamento inaceitável.
 
@@ -54,7 +54,7 @@ esclarecida pelos administradores do projeto.
 ## Aplicação
 
 Comportamento abusivo, de assédio ou de outros tipos pode ser
-comunicados contatando a equipe do projeto [INSIRA O ENDEREÇO
+comunicado contatando a equipe do projeto [INSIRA O ENDEREÇO
 DE EMAIL]. Todas as queixas serão revistas e investigadas e
 resultarão numa resposta necessária e apropriada à situação.
 A equipe é obrigada a manter a confidencialidade em relação
