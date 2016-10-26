@@ -1,42 +1,42 @@
-# Saradnik Pakt: Kodeks Ponašanja
+# Pakt Saradnika: Kodeks Ponašanja
 
 ## Naš zalog
 
-U interesu ohrabrujući otvoren i dobrodošlice okruženje,mi kao saradnici i održavatelji obećamo da za sviju ko učestvuju u našem projektu i zajednicu, njihovo iskustvo  će biti bez uznemiravanje, bez obzira na starost, veličinu, invalidnost, nacionalnost, rodnog identiteta i izraz, nivo iskustva, državljanstvo, izgled, porod, vjera, ili seksualni identitet i orijentacija.
+U interesu ohrabrivanja otvorenog i pristupačnog okruženja, mi kao saradnici i održavatelji obećavamo da za sviju ko učestvuju u našem projektu i zajednicu, njihovo iskustvo će biti bez uznemiravanje, bez obzira na starost, veličinu, invalidnost, nacionalnost, rodni identitet i izraz, nivo iskustva, državljanstvo, izgled, porod, vjera, ili seksualni identitet i orijentacije.
 
 ## Naši standardi
 
-Primjeri ponašanja što stvori pozitivno okruženje:
+Primjeri ponašanja što koja stvaraju pozitivno okruženje:
 
-* Korištenje prijatan i uključiv jezik
-* Poštovanje drugačije stanovište i iskustve
+* Korištenje prijatnog i uključivog jezik
+* Postovanje raznih stanovišta i iskustva
 * Primanje konstruktivne kritike
 * Fokusiranje na šta je najbolje za zajednicu
-* Pokazivanje empatiju za druge članovi zajednice
+* Pokazivanje empatije drugim članovima zajednice
 
 Primjeri neprihvatljivog ponašanja:
 
-* Korištenje seksualnog jezik ili neželjene seksualne pažnje
+* Korištenje seksualnog jezika ili neželjene seksualne pažnje
 * Uvredljivi komentari ili personalni napadi
 * Javno ili privatno uznemiravanje
-* Izdavanje privatnu informaciju, na primjer adresu, bez dozvole
-* Bilo kakvo drugo ponašanje što bi bilo neprikladno u profesionalnom okruženju.
+* Objava osobnih informacija, npr. kućna adresa bez dozvole
+* Bilo kakvo drugo po šasanje koje bi se smatralo neprikladnim u profesionalnom okruženju.
 
-## Naši odgovornosti
+## Naša odgovornost
 
-Održavatelji projekta će razjasniti standarde za prihvatljivo ponašanje, i u slučaju neprikladno ponašanje, od njih se očekuje poštene korektivne mjere.
+Održavatelji projekta će razjasniti standarde za prihvatljivo ponašanje, i u slučaju neprikladnog ponašanja od njih se očekuje primena poštenih korektivnih mjera.
 
-Održavatelji projekta imaju pravo i odgovornost da skinu, redigovatu, ili odbitu komente, kod, wiki izmjene, probleme, i druge doprine koji se ne poređaju sa ovom Kodeks Ponašanja. Oni imaju pravu da zabrane (prolazno ili trajno) bilo koji saradnik za ponašanje koje se pojavljuje neprijatno, štetno, ili uvredljivo.
+Održavatelji projekta imaju pravo i odgovornost da skinu, redigovatu, ili odbitu komente, kod, wiki izmjene, probleme, i druge doprine koji se ne poređaju sa ovim kodeksom ponašanja. Oni imaju pravu da zabrane (prolazno ili trajno) bilo kojeg saradnika za ponašanje koje se pojavljuje neprijatno, štetno, ili uvredljivo.
 
 ## Obim
 
-Ovaj kodeks ponašanja se odnosi na sve projekte i javne prostore gdje pojedinac predstavlja zajednicu. Na primjer, korištenje od službenu e-mail adresu projekta ili ponašanje kao sluzbeni predstavnik u sastancima. Održavatelji projekta će dodatno definirati ovu predstavljanju.
+Ovaj kodeks ponašanja se odnosi na sve projekte i javne prostore gdje pojedinac predstavlja zajednicu. Na primjer, korištenje službene e-mail adrese projekta ili ponašanje kao službeni predstavnik u sastancima. Održavatelji projekta će dodatno definirati ovo predstavljanje.
 
 ## Primjenjivanje
 
-U slučaju uvredljivog ponašanja, kontaktiraj održavatelje: [E-MAIL ADRESA]
+U slučaju uvredljivog ponašanja, kontaktirajte održavatelje: [E-MAIL ADRESA]
 
-Svaki izvještaj će se istražiti, i odgovor će biti fer i prikladan za situaciju. Održavatelji projekta su odgovorni da održavaju povjerljivost za svaki izvještaj. Dodatne detalje polisa mogu biti objavljeno odvojeno.
+Svaka žalba će se istraziti i odgovor će biti fer i prikladan za situaciju. Održavatelji projekta su odgovorni održati povjerljivost svake žalbe. Dodatne detalje polisa mogu biti objavljeno odvojeno.
 
 Održavatelji projekta koji ne prate ili primijene ovaj kodeks ponašanja mogu biti kaznjeni trajno ili privremeno, po nahođenje od drugih održavatelja.
 
