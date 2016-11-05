@@ -1,18 +1,18 @@
-# Codice di Condotta Convenuto del Collaboratore
+# Patto di Condotta dei Collaboratori
 
 ## Il Nostro Impegno
 
-Nell'interesse di incoraggiare un ambiente sociale aperto ed accogliente, noi in quanto collaboratori e responsabili ci impegniamo a rendere la partecipazione al nostro progetto e alla nostra comunità un'esperienza libera di molestie per chiunque, indipendentemente da età, dimensioni del corpo, disabilità, etnia, identità ed espressione di genere, livello di esperienza, nazionalità, aspetto fisico, razza, religione, o identità e orientamento sessuale.
+Nell'interesse di incoraggiare un ambiente sociale aperto e accogliente, noi in quanto collaboratori e responsabili ci impegniamo a rendere la partecipazione al nostro progetto e alla nostra comunità un'esperienza priva di molestie per tutti, indipendentemente da età, dimensioni del corpo, disabilità, etnia, identità ed espressione di genere, livello di esperienza, nazionalità, aspetto fisico, razza, religione, o identità e orientamento sessuale.
 
 ## I Nostri Standard
 
 Esempi di comportamento che contribuiscono a creare un ambiente sociale positivo includono:
 
-* Usare un linguaggio accogliente e comprensibile
-* Essere rispettosi di punti di vista ed esperienza differenti
-* Accettare graziosamente criticismi costruttivi
+* Usare un linguaggio accogliente e inclusivo
+* Essere rispettosi di punti di vista ed esperienze differenti
+* Accettare in modo composto critiche costruttive
 * Concentrarsi su cosa è meglio per la comunità
-* Mostrare empatia verso altri membri della comunità
+* Mostrare empatia verso gli altri membri della comunità
 
 Esempi di comportamento inaccettabile da parte dei partecipanti includono:
 
@@ -20,28 +20,28 @@ Esempi di comportamento inaccettabile da parte dei partecipanti includono:
 * Comportamento da troll o commenti offensivi/dispregiativi, e attacchi personali o politici
 * Molestie pubbliche o private
 * Pubblicazione di informazioni private di un individuo, quali l'indirizzo reale e/o elettronico, senza l'esplicito consenso
-* Altre condotte che possono ragionevolmente essere considerate inappropriate in un ambiente professionale
+* Altri comportamenti che possono ragionevolmente considerati inappropriati in ambito professionale
 
 ## Le Nostre Responsabilità
 
-I mantenitori del progetto sono responsabili nel chiarire gli standard di comportamento accettabile e sono supposti di prendere azioni correttive appropriate e giuste in risposta a qualsiasi caso di comportamento inaccettabile.
+I responsabili del progetto sono tenuti a chiarire gli standard di comportamento accettabile e a prendere azioni correttive appropriate e giuste in risposta a qualsiasi caso di comportamento inaccettabile.
 
-I responsabili del progetto hanno il diritto e la responsabilità di rimuovere, modificare, o cancellare commenti, commit, codice, modifiche del wiki, ticket, ed altri contributi che non sono in linea con questo Codice di Comportamento, o di bandire temporaneamente o permanentemente qualsiasi collaboratore per altri comportamenti che verranno ritenuti inappropriati, intimidatori, offensivi o dannosi.
+I responsabili del progetto hanno il diritto e la responsabilità di rimuovere, modificare, o cancellare commenti, commit, codice, modifiche del wiki, ticket, ed altri contributi che non sono in linea con questo Patto di Condotta, o di bandire temporaneamente o permanentemente qualsiasi collaboratore per altri comportamenti ritenuti inappropriati, intimidatori, offensivi o dannosi.
 
 ## Ambito
 
-Questo Codice di Comportamento è applicabile sia al progetto online che agli spazi pubblici quando un individuo rappresenta il progetto stesso o la sua comunità. Esempi di rappresentazione di un progetto o una comunità includono l'uso di un indirizzo e-mail ufficiale del progetto, il post in un account ufficiale di un social media, o l'agire come un rappresentante designato in un evento offline o online. La rappresentazione di un progetto può essere ulteriormente definito e chiarificato dai manutentori del progetto.
+Questo Patto di Condotta è applicabile sia al progetto che agli spazi pubblici quando un individuo rappresenta il progetto stesso o la sua comunità. Esempi di rappresentazione di un progetto o una comunità includono l'uso di un indirizzo e-mail ufficiale del progetto, post tramite un account ufficiale sui social media, o l'agire come un rappresentante designato in un evento offline o online. La rappresentanza di un progetto può essere ulteriormente  definita e chiarificata dai responsabili del progetto.
 
 ## Applicazione
 
-Casi di comportamento ingiurioso, molesto o altrimenti inaccettabile possono essere riportati contattando il team del progetto tramite [INSERIRE INDIRIZZO EMAIL]. Tutti i reclami saranno revisionati ed indagati e risulteranno in una risposta ritenuta necessaria ed appropriata alle circostanze. I team del progetto è obbligato a mantenere riserbo rispetto a chi riporta un caso.
+Casi di comportamento ingiurioso, molesto o altrimenti inaccettabile possono essere riportati contattando il team del progetto tramite [INSERIRE INDIRIZZO EMAIL]. Tutti i reclami saranno esaminati ed indagati e risulteranno in una risposta ritenuta necessaria ed appropriata alle circostanze. Il team del progetto è obbligato a mantenere riserbo rispetto a chi riporta un caso.
 Ulteriori dettagli di applicazioni specifiche possono essere postati separatamente.
 
-I manutentori del progetto che non seguono o applicano il Codice di Condotta in buona fede possono affrontare ripercussioni temporanee o permanenti in base alla deliberazione di altri membri della direzione del progetto.
+I responsabili del progetto che non seguono o applicano il Patto di Condotta in buona fede possono affrontare ripercussioni temporanee o permanenti in base alla deliberazione degli altri membri della direzione del progetto.
 
-## Riferimenti
+## Attribuzione
 
-Questo Codice di Condotta è adattato da [Contributor Covenant][homepage], versione 1.4, disponibile presso [http://contributor-covenant.org/version/1/4][version].
+Questo Patto di Condotta è adattato da [Contributor Covenant][homepage], versione 1.4, disponibile presso [http://contributor-covenant.org/version/1/4][version].
 
 [homepage]: http://contributor-covenant.org
 [version]: http://contributor-covenant.org/version/1/4/
