@@ -16,8 +16,8 @@ Esempi di comportamento che contribuiscono a creare un ambiente sociale positivo
 
 Esempi di comportamento inaccettabile da parte dei partecipanti includono:
 
-* L'uso di linguaggio o immagini sessuali e attenzioni o advances sgraditi
-* Comportamento da troll o commenti offensivi/dispregiativi, e attacchi personali o politici
+* L'uso di linguaggio o immagini sessuali e attenzioni o avances sgraditi
+* Comportamento da troll o commenti offensivi/dispregiativi e attacchi personali o politici
 * Molestie pubbliche o private
 * Pubblicazione di informazioni private di un individuo, quali l'indirizzo reale e/o elettronico, senza l'esplicito consenso
 * Altri comportamenti che possono ragionevolmente considerati inappropriati in ambito professionale
@@ -26,7 +26,7 @@ Esempi di comportamento inaccettabile da parte dei partecipanti includono:
 
 I responsabili del progetto sono tenuti a chiarire gli standard di comportamento accettabile e a prendere azioni correttive appropriate e giuste in risposta a qualsiasi caso di comportamento inaccettabile.
 
-I responsabili del progetto hanno il diritto e la responsabilità di rimuovere, modificare, o cancellare commenti, commit, codice, modifiche del wiki, ticket, ed altri contributi che non sono in linea con questo Patto di Condotta, o di bandire temporaneamente o permanentemente qualsiasi collaboratore per altri comportamenti ritenuti inappropriati, intimidatori, offensivi o dannosi.
+I responsabili del progetto hanno il diritto e la responsabilità di rimuovere, modificare o cancellare commenti, commit, codice, modifiche del wiki, ticket e altri contributi che non sono in linea con questo Patto di Condotta, o di bandire temporaneamente o permanentemente qualsiasi collaboratore per altri comportamenti ritenuti inappropriati, intimidatori, offensivi o dannosi.
 
 ## Ambito
 
@@ -34,8 +34,7 @@ Questo Patto di Condotta è applicabile sia al progetto che agli spazi pubblici 
 
 ## Applicazione
 
-Casi di comportamento ingiurioso, molesto o altrimenti inaccettabile possono essere riportati contattando il team del progetto tramite [INSERIRE INDIRIZZO EMAIL]. Tutti i reclami saranno esaminati ed indagati e risulteranno in una risposta ritenuta necessaria ed appropriata alle circostanze. Il team del progetto è obbligato a mantenere riserbo rispetto a chi riporta un caso.
-Ulteriori dettagli di applicazioni specifiche possono essere postati separatamente.
+Casi di comportamento ingiurioso, molesto o altrimenti inaccettabile possono essere riportati contattando il team del progetto tramite [INSERIRE INDIRIZZO EMAIL]. Tutti i reclami saranno esaminati e indagati e risulteranno in una risposta ritenuta necessaria e appropriata alle circostanze. Il team del progetto è obbligato a mantenere riserbo rispetto a chi riporta un caso. Ulteriori dettagli di applicazioni specifiche possono essere postati separatamente.
 
 I responsabili del progetto che non seguono o applicano il Patto di Condotta in buona fede possono affrontare ripercussioni temporanee o permanenti in base alla deliberazione degli altri membri della direzione del progetto.
 
