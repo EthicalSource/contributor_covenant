@@ -14,7 +14,7 @@ of this document or to provide additional [translations](http://contributor-cove
 
 ## Translating
 
-We're always looking for new localizations of Contributor Covenant and are thankful to the volunteers who spend their time on translations. Now, thanks to @wfdd, there is a Pandoc HTML generation template for v1.4 of the CoC (available at version/1/4/.index-template.html).
+We're always looking for new localizations of Contributor Covenant and are thankful to the volunteers who spend their time on translations. Now, thanks to @wfdd, there is a [Pandoc HTML generation template for v1.4](version/1/4/.index-template.html) of the CoC.
 
 ## Examples of Projects Using the Contributor Covenant
 
