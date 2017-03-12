@@ -62,7 +62,7 @@
 ## 帰属
 
 この行動規範は、[http://contributor-covenant.org/version/1/4/ja/][version] で公開
-されている [コントリビュータ協定][homepage] バーlョン 1.4 に適合しています。
+されている [コントリビュータ協定][homepage] バージョン 1.4 に適合しています。
 
 [homepage]: http://contributor-covenant.org
 [version]: http://contributor-covenant.org/version/1/4/ja
