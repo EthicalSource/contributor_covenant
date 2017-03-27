@@ -19,6 +19,8 @@ body {
 	padding: 6rem 0 1.5rem;
 	text-align: center;
 }
+header,
+footer,
 section {
 	margin: 0 auto;
 	max-width: 60rem;
@@ -80,6 +82,9 @@ kbd {
 
 table.localizations td {
 	font-family: courier, monospace;
+}
+.subtitle {
+  font-size: 1.5rem;
 }
 
 /* Media Queries */
