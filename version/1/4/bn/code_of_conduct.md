@@ -64,7 +64,7 @@
 
 ## অধ্যাস
 
-এই আচরনবিধি [Contributor Covenant][homepage], version 1.4 থেকে উদ্ভূত হয়েছে
+এই আচরনবিধি [Contributor Covenant][homepage], version 1.4 থেকে উদ্ভূত হয়েছে,
 এখানে পাওয়া যাবে [http://contributor-covenant.org/version/1/4][version]
 
 [homepage]: http://contributor-covenant.org
