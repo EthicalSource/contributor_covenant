@@ -42,6 +42,7 @@
 
 ## ಆಟ್ರಿಬ್ಯೂಷನ್
 
-ಈ ನೀತಿ ಸಂಹಿತೆಯು is adapted from the [ಕೊಡುಗೆದಾರರ ಒಪ್ಪಂದ][homepage], ವರ್ಷನ 1.4, ಇಂದ ಅಳವಡಿಸಲ್ಪಟ್ಟಿದೆ ಮತ್ತು [http://contributor-covenant.org/version/1/4][version] ನಲ್ಲಿ ಲಭ್ಯವಿದೆ.
-[homepage]: http://contributor-covenant.org
-[version]: http://contributor-covenant.org/version/1/4/
+ಈ ನೀತಿ ಸಂಹಿತೆಯು [ಕೊಡುಗೆದಾರರ ಒಪ್ಪಂದ][ಮುಖಪುಟ], ವರ್ಷನ 1.4, ಇಂದ ಅಳವಡಿಸಲ್ಪಟ್ಟಿದೆ ಮತ್ತು [http://contributor-covenant.org/version/1/4][ವರ್ಷನ] ನಲ್ಲಿ ಲಭ್ಯವಿದೆ.
+
+[ಮುಖಪುಟ]: http://contributor-covenant.org
+[ವರ್ಷನ]: http://contributor-covenant.org/version/1/4/
