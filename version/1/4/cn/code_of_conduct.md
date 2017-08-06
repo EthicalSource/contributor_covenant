@@ -45,7 +45,7 @@
 ## 来源
 
 本行为标准改编自[贡献者公约][主页]，版本 1.4
-可在此观看[http://contributor-covenant.org/version/1/4/][版本]
+可在此观看[http://contributor-covenant.org/version/1/4/](版本)
 
 [主页]: http://contributor-covenant.org
 [版本]: http://contributor-covenant.org/version/1/4/
