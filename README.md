@@ -27,7 +27,7 @@ If you are interested in doing a translation, follow these steps:
 * We will put out a call to have one or more other native speakers review the translation.
 * Collaborate until the translation is satisfactory.
 * Create two additional files: a text file (`code_of_conduct.txt`), and an HTML file (`code_of_conduct.htm`).
-* Add a link to your translation files to `i8tn/index.html`
+* Add a link to your translation files to `i18n/index.html`
 * We will merge your translation!
 
 ## Examples of Projects Using the Contributor Covenant
