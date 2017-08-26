@@ -73,5 +73,5 @@ répercussions définies par d'autres membres de la direction du projet.
 
 Ce Code de Conduite est adapté du [Contributor Covenant](http://contributor-covenant.org),
 version 1.4.0, disponible à
-[http://contributor-covenant.org/version/1/4/0/fr](http://contributor-covenant.org/version/1/4/0/fr)
+<http://contributor-covenant.org/version/1/4/fr>
 
