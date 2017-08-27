@@ -1,126 +1,207 @@
-/* Primary Elements */
-body {
-	color: #111;
-	font: normal 1rem/1.4 "Droid Sans Mono", monospace;
+* {
 	margin: 0;
 	padding: 0;
 }
-#header {
-	border-bottom: .5rem solid #FFB616;
-	background: #4C1161;
-	color: #fff;
-	margin: 0 auto 3rem;
-	padding: 3rem 0;
-	text-align: center;
-	width: 100%;
+
+/* Primary Elements */
+html {
+	height: 100%;
 }
-#footer {
-	font-size: .8rem;
-	padding: 6rem 0 1.5rem;
-	text-align: center;
+
+body {
+	background: hsl(288, 80%, 25%);
+	color: #111;
+	font: 300 1.25rem/1.875rem Roboto, sans-serif;
+	font-synthesis: none;
+	-moz-hanging-punctuation: first last allow-end;
+	-ms-hanging-punctuation: first last allow-end;
+	-webkit-hanging-punctuation: first last allow-end;
+	hanging-punctuation: first last allow-end;
+	-moz-hyphens: auto;
+	-ms-hyphens: auto;
+	-webkit-hyphens: auto;
+	hyphens: auto;
+	min-height: 100%;
+	padding: 1.5rem;
+	-moz-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
+	text-size-adjust: 100%;
 }
-header,
-footer,
+
 section {
+	box-sizing: border-box;
 	margin: 0 auto;
-	max-width: 60rem;
-	padding: 0;
-	width: calc(100% - 3rem);
+	max-width: 43rem;
+	padding: 1.5rem;
 }
+
+ul,
+ol {
+	list-style-position: inside;
+	margin: 1.5rem 0 1.5rem .75rem;
+}
+
+header {
+	background: hsl(288, 80%, 25%);
+/*	border-bottom: .5rem solid hsl(43, 90%, 65%); /* 245deg apart */
+	color: #fff;
+	padding: 1.5rem;
+	text-align: center;
+}
+
+footer {
+	font-size: .875rem;
+	text-align: center;
+	padding: 1.5rem;
+}
+
+footer p {
+	text-align: center;
+}
+
+#veil {
+	background: #fff;
+}
+
+.linked-list {
+	list-style: none;
+	margin-left: 0;
+}
+
 table {
+	font-size: 1.125rem;
 	width: 100%;
 }
+
 th {
+	font-weight: 500;
 	text-align: left;
 }
+
 blockquote {
-	border-left: 3px solid #FFB616;
-	margin: 0;
-	padding-left: 1rem;
+	border-left: .25rem solid hsl(43, 90%, 65%);
+	border-left: .25rem solid hsl(288, 80%, 25%);
+	padding-left: 1.25rem;
 }
+
 /* Headers */
 h1 {
-	font-display: fallback;
-	font-family: "Poiret One", "Avenir Next", Avenir, Futura, sans-serif;
-	font-size: 4rem;
+	font-family: "Roboto Condensed", sans-serif;
+	font-size: 3rem;
 	font-weight: 100;
-	margin: 0;
+	line-height: 3rem;
+	margin: 1.5rem 0 3rem;
 }
+
 h2 {
-	font-weight: normal;
+	font-size: 2rem;
+	font-weight: 500;
+	line-height: 3rem;
+	margin: 1.5rem 0;
 }
-h3 {
-	border-bottom: 1px solid #FFB616;
-	font-weight: normal;
-	padding: 1rem 0 .5rem;
-}
+
 h4 {
 	font-weight: normal;
 }
+
+p {
+	margin: 1.5rem 0;
+	text-align: justify;
+}
+
 /* Inline Elements */
-a:link,
-a:visited {
-	color: #4C1161;
+a {
+	color: hsl(288, 80%, 25%);
+	font-weight: 400;
+	text-decoration: none;
 }
-a:hover,
-a:focus {
-	color: #6700AD;
+
+a:focus,
+a:hover {
+	color: hsl(288, 80%, 45%);
 }
+
+strong {
+	font-weight: 400;
+}
+
 code,
 kbd {
 	/* This must be enforced again or it will default to `monospace` */
-	font-family: "Droid Sans Mono", monospace;
+	font-family: "Roboto Mono", monospace;
 }
+
+cite {
+	font-style: italic;
+}
+
+cite::before {
+	content: "— ";
+}
+
 /* Utility Classes */
+.logo {
+	height: 8rem;
+	width: 8rem;
+}
+
 .error,
 .important {
-	color: #CC2624;
+	color: hsl(338, 100%, 40%);
+	font-weight: 700;
 }
+
 .clear {
 	clear: both;
 }
 
-table.localizations td {
-	font-family: courier, monospace;
-}
-.subtitle {
-  font-size: 1.5rem;
+table.localizations span {
+	color: #111;
+	font-weight: 300;
 }
 
 /* Media Queries */
-@media (min-width: 30rem) {
-	.medium-break-two {
-		-webkit-column-count: 2;
+@media (min-width: 46rem) {
+	.linked-list {
+		-ms-column-count: 2;
 		-moz-column-count: 2;
+		-webkit-column-count: 2;
 		column-count: 2;
-		list-style-type: none;
-		padding: 0;
-	}
-}
-@media (min-width: 50rem) {
-	#header {
-		border-radius: 0 0 .25rem .25rem;
-		width: calc(100% - 3rem);
-	}
-	.large-break-three {
-		-webkit-column-count: 3;
-		-moz-column-count: 3;
-		column-count: 3;
-		list-style-type: none;
-		padding: 0;
+		-ms-column-gap: 3rem;
+		-moz-column-gap: 3rem;
+		-webkit-column-gap: 3rem;
+		column-gap: 3rem;
 	}
 }
 
-#navigation {
-	text-align: center;
+@media (max-width: 32rem) {
+	body {
+		padding: 1.5rem 0;
+	}
 }
 
-#navigation ul {
+header nav {
+	text-transform: uppercase;
+}
+
+header nav ul {
 	list-style-type: none;
-	margin: -2em 0em 2em 0em;
-	padding: 0;
 }
 
-#navigation ul li {
+header nav li {
 	display: inline;
+}
+
+header nav li:not(:last-child) {
+	margin-right: 1.5rem;
+}
+
+header nav a {
+	color: #fff;
+}
+
+header nav a:focus,
+header nav a:hover {
+	color: hsl(288, 80%, 80%);
 }
