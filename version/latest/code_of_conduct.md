@@ -4,10 +4,10 @@
 
 In the interest of fostering an open and welcoming environment, we as
 contributors and maintainers pledge to making participation in our project and
-our community a harassment-free experience for everyone, regardless of age, body
-size, disability, ethnicity, gender identity and expression, level of experience,
-nationality, personal appearance, race, religion, sexual identity and
-orientation, or sexual proclivities between consenting adults.
+our community a harassment-free experience for everyone, regardless of sex, age,
+body size, disability, ethnicity, gender identity and expression,
+level of experience, nationality, personal appearance, race, religion,
+sexual identity and orientation, or sexual proclivities between consenting adults.
 
 ## Our Standards
 
