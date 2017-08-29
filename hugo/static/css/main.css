@@ -1,0 +1,265 @@
+/*
+  Color palette. Make shades by varying lightness.
+  Purple: hsl(288, 80%, 25%) 
+  Green:  hsl(158, 80%, 20%)
+  Yellow: hsl(42, 80%, 50%)
+  Red:    hsl(338, 100%, 40%)
+*/
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* Primary Elements */
+html {
+  height: 100%;
+}
+
+body {
+  background: hsl(288, 80%, 25%);
+  color: #000;
+  font: 400 1.25rem/1.875rem "Circular Sp UI v3", sans-serif;
+  font-synthesis: none;
+  -moz-hanging-punctuation: first last allow-end;
+  -ms-hanging-punctuation: first last allow-end;
+  -webkit-hanging-punctuation: first last allow-end;
+  hanging-punctuation: first last allow-end;
+  min-height: 100%;
+  padding: 1.5rem;
+  -moz-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+@media (max-width: 32rem) {
+  body {
+    padding: 1.5rem 0;
+  }
+}
+
+section {
+  box-sizing: border-box;
+  margin: 0 auto;
+  max-width: 43rem;
+  padding: 1.5rem;
+}
+
+ul,
+ol {
+  list-style-position: outside;
+  margin: 1.5rem 0 1.5rem 1.5rem;
+}
+
+header {
+  background: hsl(288, 80%, 25%);
+/*  border-bottom: .5rem solid hsl(43, 90%, 65%); /* 245deg apart */
+  color: #fff;
+  padding: 1.5rem;
+  text-align: center;
+}
+
+footer {
+  font-size: .875rem;
+  text-align: center;
+  padding: 1.5rem;
+}
+
+footer p {
+  text-align: center;
+}
+
+blockquote {
+  border-left: .25rem solid hsl(43, 90%, 65%);
+  border-left: .25rem solid hsl(288, 80%, 25%);
+  padding-left: 1.25rem;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+}
+
+th {
+  font-size: inherit;
+  font-weight: 500;
+  padding-bottom: .75rem;
+  text-align: left;
+}
+
+td,
+th {
+  vertical-align: initial;
+  white-space: nowrap;
+}
+
+/* Headers */
+h1 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  letter-spacing: 0.125rem;
+  line-height: 3rem;
+  margin: 1.5rem 0 3rem;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 3rem;
+  margin: 1.5rem 0;
+  word-spacing: -.125rem;
+}
+
+* + h2 {
+  margin-top: 4rem;
+}
+
+h4 {
+  font-weight: normal;
+}
+
+p {
+  -moz-hyphens: auto;
+  -ms-hyphens: auto;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+  margin: 1.5rem 0;
+  text-align: justify;
+}
+
+/* Inline Elements */
+a {
+  color: hsl(288, 80%, 25%);
+  font-weight: 500;
+  text-decoration: none;
+  transition: color 125ms, background-color 125ms;
+}
+
+a:focus,
+a:hover {
+  color: hsl(288, 80%, 45%);
+}
+
+a span {
+  color: #000;
+  font-weight: 300;
+}
+
+strong {
+  font-weight: 400;
+}
+
+code,
+kbd {
+  font-family: "Circular Sp UI v3", monospace;
+  letter-spacing: 0.125rem;
+}
+
+cite {
+  font-style: italic;
+}
+
+cite::before {
+  content: "— ";
+}
+
+#veil {
+  background: #fff;
+}
+
+/* Utility Classes */
+.logo {
+  height: 8rem;
+  width: 8rem;
+}
+
+.error,
+.important {
+  color: hsl(338, 100%, 40%);
+  font-weight: 500;
+}
+
+.translations td:first-child {
+  padding-right: 1.5rem;
+}
+
+.translations td:nth-last-child(2) {
+  width: 90%;
+}
+
+.translations tr:not(:hover) .icon {
+  background: #e6e6e6;
+  border-color: #e6e6e6;
+  color: #4d4d4d;
+}
+
+.icon {
+  background: hsl(288, 80%, 25%);
+  border-radius: .25rem;
+  color: #fff;
+  display: inline-block;
+  font-size: .75rem;
+  font-weight: 600;
+  letter-spacing: .125rem;
+  line-height: 1rem;
+  margin-right: .125rem;
+  padding: .25rem .25rem .25rem .375rem;
+  text-transform: uppercase;
+  vertical-align: text-bottom;
+}
+
+.icon-html {
+  background: hsl(158, 80%, 20%);
+}
+
+.icon-text {
+  background: hsl(42, 80%, 50%);
+}
+
+.icon:hover {
+  background-color: hsl(288, 80%, 35%);
+  color: #fff;
+}
+
+.icon-html:hover {
+  background: hsl(158, 80%, 30%);
+}
+
+.icon-text:hover {
+  background: hsl(42, 80%, 60%);
+}
+
+header figcaption {
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 3rem;
+  margin: 1.5rem 0 3rem;
+}
+
+header nav {
+}
+
+header nav ul {
+  list-style-type: none;
+}
+
+header nav li {
+  display: inline;
+}
+
+header nav li:not(:last-child) {
+  margin-right: 1.5rem;
+}
+
+header nav a {
+  color: #fff;
+}
+
+header nav a:focus,
+header nav a:hover {
+  color: hsl(288, 80%, 85%);
+}

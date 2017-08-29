@@ -1,0 +1,35 @@
+baseURL = "https://www.contributor-covenant.org"
+languageCode = "en-us"
+title = "Contributor Covenant"
+disableKinds = ["RSS"]
+DefaultContentLanguage = "en"
+
+[Languages]
+[Languages.bn]
+[Languages.bs]
+[Languages.cn]
+[Languages.de]
+[Languages.en]
+weight = 1
+[Languages.el]
+[Languages.es]
+[Languages.fr]
+[Languages.hi]
+[Languages.jw]
+[Languages.ja]
+[Languages.kn]
+[Languages.ko]
+[Languages.mk]
+[Languages.nl]
+[Languages.pl]
+[Languages.pt]
+[Languages.pt_br]
+[Languages.ro]
+[Languages.ru]
+[Languages.sl]
+[Languages.sv]
+[Languages.tr]
+[Languages.tw]
+[Languages.uk]
+
+googleAnalytics = "UA-56802475-1"
