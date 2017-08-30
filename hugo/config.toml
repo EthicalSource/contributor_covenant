@@ -2,34 +2,97 @@ baseURL = "https://www.contributor-covenant.org"
 languageCode = "en-us"
 title = "Contributor Covenant"
 disableKinds = ["RSS"]
-DefaultContentLanguage = "en"
 
+DefaultContentLanguage = "en"
+hasCJKLanguage = true
+EnableMissingTranslationPlaceholders = true
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+# Add all translated languages here.
 [Languages]
 [Languages.bn]
+languageName = "Bengali"
+
 [Languages.bs]
-[Languages.cn]
+languageName = "Bosnian"
+
 [Languages.de]
+languageName = "Deutsch"
+
 [Languages.en]
+languageName = "English"
 weight = 1
+
 [Languages.el]
+languageName = "ελληνικά"
+
 [Languages.es]
+languageName = "Español"
+
 [Languages.fr]
+languageName = "Français"
+
+[Languages.iw]
+languageName = "עברית"
+
 [Languages.hi]
-[Languages.jw]
+languageName = "हिंदी"
+
+[Languages.hu]
+languageName = "Magyar"
+
+[Languages.it]
+languageName = "Italiano"
+
 [Languages.ja]
+languageName = "日本語"
+
 [Languages.kn]
+languageName = "ಕನ್ನಡ"
+
 [Languages.ko]
+languageName = "한국어"
+
 [Languages.mk]
+languageName = "Македонски"
+
 [Languages.nl]
+languageName = "Nederlands"
+
 [Languages.pl]
+languageName = "Polski"
+
 [Languages.pt]
-[Languages.pt_br]
+languageName = "Português"
+
+[Languages.pt-br]
+languageName = "Português do Brasil"
+
 [Languages.ro]
+languageName = "Română"
+
 [Languages.ru]
+languageName = "Pусский"
+
 [Languages.sl]
+languageName = "Slovenščina"
+
 [Languages.sv]
+languageName = "Svenska"
+
 [Languages.tr]
-[Languages.tw]
+languageName = "Türkçe"
+
+[Languages.zh-tw]
+languageName = "繁體中文"
+
 [Languages.uk]
+languageName = "Українська"
+
+[Languages.zh-cn]
+languageName = "简体中文"
 
 googleAnalytics = "UA-56802475-1"
