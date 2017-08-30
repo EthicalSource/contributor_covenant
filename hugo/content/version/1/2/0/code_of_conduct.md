@@ -1,5 +1,6 @@
 +++
 version = "1.2"
+aliases = "/version/1/2/0"
 +++
 
 # Contributor Code of Conduct
