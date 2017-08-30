@@ -76,6 +76,10 @@ blockquote {
   padding-left: 1.25rem;
 }
 
+pre {
+  padding-left: 1.5rem;
+}
+
 table {
   border-collapse: collapse;
   border-spacing: 0;
@@ -245,6 +249,7 @@ header nav {
 
 header nav ul {
   list-style-type: none;
+  margin: 0;
 }
 
 header nav li {
