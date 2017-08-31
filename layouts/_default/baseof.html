@@ -4,13 +4,13 @@
     <meta charset="utf-8">
     <title>{{ .Site.Title }}: {{ .Title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="{{ "/css/main.css" | relURL }}">
+    <link rel="stylesheet" href="/css/main.css">
   </head>
   <body{{ with .Section }} id="{{ . }}"{{ end }}>
     <div>
       <header>
         <figure>
-          <img class="logo" src="{{ "/images/logo.svg" | relURL }}" alt="Contributor Covenant Logo">
+          <img class="logo" src="/images/logo.svg" alt="Contributor Covenant Logo">
           <figcaption>Contributor Covenant</figcaption>
         </figure>
         <nav id="navigation">
@@ -18,7 +18,7 @@
             <li><a href="/">Home</a></li>
             <li><a href="/adopters/">Adopters</a></li>
             {{ range last 1 (where $.Site.RegularPages "Section" "version") }}
-            <li><a href="{{ .Permalink }}">Latest Version</a></li>
+            <li><a href="{{ .Permalink | absLangURL }}">Latest Version</a></li>
             {{ end }}
             <li><a href="/translations/">Translations</a></li>
           </ul>

@@ -1,9 +1,9 @@
 baseURL = "https://www.contributor-covenant.org"
+# canonifyURLs = true
 languageCode = "en-us"
 title = "Contributor Covenant"
 disableKinds = ["RSS"]
 disablePathToLower = true # Gotta have dat CODE_OF_CONDUCT.xxx
-canonifyURLs = true
 
 DefaultContentLanguage = "en"
 hasCJKLanguage = true

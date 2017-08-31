@@ -151,108 +151,8 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="uk"
-                href="https://www.contributor-covenant.org/uk/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://www.contributor-covenant.org/zh-cn/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="el"
-                href="https://www.contributor-covenant.org/el/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://www.contributor-covenant.org/ja/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.contributor-covenant.org/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="hi"
-                href="https://www.contributor-covenant.org/hi/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://www.contributor-covenant.org/pt-br/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://www.contributor-covenant.org/pl/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://www.contributor-covenant.org/pt/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://www.contributor-covenant.org/it/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro"
-                href="https://www.contributor-covenant.org/ro/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://www.contributor-covenant.org/zh-tw/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="hu"
                 href="https://www.contributor-covenant.org/hu/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="bn"
-                href="https://www.contributor-covenant.org/bn/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.contributor-covenant.org/ru/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sv"
-                href="https://www.contributor-covenant.org/sv/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.contributor-covenant.org/de/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://www.contributor-covenant.org/ko/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="kn"
-                href="https://www.contributor-covenant.org/kn/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://www.contributor-covenant.org/nl/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="iw"
-                href="https://www.contributor-covenant.org/iw/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -261,8 +161,83 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="pl"
+                href="https://www.contributor-covenant.org/pl/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.contributor-covenant.org/ja/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://www.contributor-covenant.org/it/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="el"
+                href="https://www.contributor-covenant.org/el/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="kn"
+                href="https://www.contributor-covenant.org/kn/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hi"
+                href="https://www.contributor-covenant.org/hi/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.contributor-covenant.org/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="iw"
+                href="https://www.contributor-covenant.org/iw/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://www.contributor-covenant.org/pt-br/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.contributor-covenant.org/zh-tw/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.contributor-covenant.org/zh-cn/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.contributor-covenant.org/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://www.contributor-covenant.org/pt/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="tr"
                 href="https://www.contributor-covenant.org/tr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://www.contributor-covenant.org/ko/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.contributor-covenant.org/nl/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -271,8 +246,33 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="https://www.contributor-covenant.org/es/categories/"
+                hreflang="ro"
+                href="https://www.contributor-covenant.org/ro/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bn"
+                href="https://www.contributor-covenant.org/bn/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://www.contributor-covenant.org/sv/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.contributor-covenant.org/ru/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.contributor-covenant.org/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="https://www.contributor-covenant.org/uk/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -291,108 +291,8 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="uk"
-                href="https://www.contributor-covenant.org/uk/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://www.contributor-covenant.org/zh-cn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="el"
-                href="https://www.contributor-covenant.org/el/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://www.contributor-covenant.org/ja/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.contributor-covenant.org/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="hi"
-                href="https://www.contributor-covenant.org/hi/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://www.contributor-covenant.org/pt-br/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://www.contributor-covenant.org/pl/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://www.contributor-covenant.org/pt/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://www.contributor-covenant.org/it/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro"
-                href="https://www.contributor-covenant.org/ro/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://www.contributor-covenant.org/zh-tw/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="hu"
                 href="https://www.contributor-covenant.org/hu/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="bn"
-                href="https://www.contributor-covenant.org/bn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.contributor-covenant.org/ru/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sv"
-                href="https://www.contributor-covenant.org/sv/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.contributor-covenant.org/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://www.contributor-covenant.org/ko/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="kn"
-                href="https://www.contributor-covenant.org/kn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://www.contributor-covenant.org/nl/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="iw"
-                href="https://www.contributor-covenant.org/iw/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -401,8 +301,83 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="pl"
+                href="https://www.contributor-covenant.org/pl/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.contributor-covenant.org/ja/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://www.contributor-covenant.org/it/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="el"
+                href="https://www.contributor-covenant.org/el/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="kn"
+                href="https://www.contributor-covenant.org/kn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hi"
+                href="https://www.contributor-covenant.org/hi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.contributor-covenant.org/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="iw"
+                href="https://www.contributor-covenant.org/iw/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://www.contributor-covenant.org/pt-br/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.contributor-covenant.org/zh-tw/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.contributor-covenant.org/zh-cn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.contributor-covenant.org/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://www.contributor-covenant.org/pt/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="tr"
                 href="https://www.contributor-covenant.org/tr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://www.contributor-covenant.org/ko/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.contributor-covenant.org/nl/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -411,8 +386,33 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="https://www.contributor-covenant.org/es/"
+                hreflang="ro"
+                href="https://www.contributor-covenant.org/ro/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bn"
+                href="https://www.contributor-covenant.org/bn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://www.contributor-covenant.org/sv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.contributor-covenant.org/ru/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.contributor-covenant.org/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="https://www.contributor-covenant.org/uk/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -431,108 +431,8 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="uk"
-                href="https://www.contributor-covenant.org/uk/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://www.contributor-covenant.org/zh-cn/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="el"
-                href="https://www.contributor-covenant.org/el/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://www.contributor-covenant.org/ja/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.contributor-covenant.org/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="hi"
-                href="https://www.contributor-covenant.org/hi/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://www.contributor-covenant.org/pt-br/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://www.contributor-covenant.org/pl/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://www.contributor-covenant.org/pt/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://www.contributor-covenant.org/it/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro"
-                href="https://www.contributor-covenant.org/ro/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://www.contributor-covenant.org/zh-tw/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="hu"
                 href="https://www.contributor-covenant.org/hu/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="bn"
-                href="https://www.contributor-covenant.org/bn/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.contributor-covenant.org/ru/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sv"
-                href="https://www.contributor-covenant.org/sv/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.contributor-covenant.org/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://www.contributor-covenant.org/ko/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="kn"
-                href="https://www.contributor-covenant.org/kn/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://www.contributor-covenant.org/nl/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="iw"
-                href="https://www.contributor-covenant.org/iw/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -541,8 +441,83 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="pl"
+                href="https://www.contributor-covenant.org/pl/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.contributor-covenant.org/ja/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://www.contributor-covenant.org/it/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="el"
+                href="https://www.contributor-covenant.org/el/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="kn"
+                href="https://www.contributor-covenant.org/kn/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hi"
+                href="https://www.contributor-covenant.org/hi/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.contributor-covenant.org/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="iw"
+                href="https://www.contributor-covenant.org/iw/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://www.contributor-covenant.org/pt-br/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.contributor-covenant.org/zh-tw/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.contributor-covenant.org/zh-cn/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.contributor-covenant.org/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://www.contributor-covenant.org/pt/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="tr"
                 href="https://www.contributor-covenant.org/tr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://www.contributor-covenant.org/ko/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.contributor-covenant.org/nl/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -551,8 +526,33 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="https://www.contributor-covenant.org/es/tags/"
+                hreflang="ro"
+                href="https://www.contributor-covenant.org/ro/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bn"
+                href="https://www.contributor-covenant.org/bn/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://www.contributor-covenant.org/sv/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.contributor-covenant.org/ru/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.contributor-covenant.org/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="https://www.contributor-covenant.org/uk/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -571,103 +571,8 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="uk"
-                href="https://www.contributor-covenant.org/uk/version/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://www.contributor-covenant.org/zh-cn/version/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="el"
-                href="https://www.contributor-covenant.org/el/version/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://www.contributor-covenant.org/ja/version/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.contributor-covenant.org/fr/version/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="hi"
-                href="https://www.contributor-covenant.org/hi/version/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://www.contributor-covenant.org/pt-br/version/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://www.contributor-covenant.org/pl/version/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://www.contributor-covenant.org/it/version/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro"
-                href="https://www.contributor-covenant.org/ro/version/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://www.contributor-covenant.org/zh-tw/version/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="hu"
                 href="https://www.contributor-covenant.org/hu/version/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="bn"
-                href="https://www.contributor-covenant.org/bn/version/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.contributor-covenant.org/ru/version/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sv"
-                href="https://www.contributor-covenant.org/sv/version/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.contributor-covenant.org/de/version/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://www.contributor-covenant.org/ko/version/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="kn"
-                href="https://www.contributor-covenant.org/kn/version/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://www.contributor-covenant.org/nl/version/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="iw"
-                href="https://www.contributor-covenant.org/iw/version/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -676,8 +581,78 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="pl"
+                href="https://www.contributor-covenant.org/pl/version/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.contributor-covenant.org/ja/version/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://www.contributor-covenant.org/it/version/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="el"
+                href="https://www.contributor-covenant.org/el/version/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="kn"
+                href="https://www.contributor-covenant.org/kn/version/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hi"
+                href="https://www.contributor-covenant.org/hi/version/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.contributor-covenant.org/de/version/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="iw"
+                href="https://www.contributor-covenant.org/iw/version/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://www.contributor-covenant.org/pt-br/version/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.contributor-covenant.org/zh-tw/version/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.contributor-covenant.org/zh-cn/version/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.contributor-covenant.org/es/version/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="tr"
                 href="https://www.contributor-covenant.org/tr/version/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://www.contributor-covenant.org/ko/version/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.contributor-covenant.org/nl/version/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -686,8 +661,33 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="https://www.contributor-covenant.org/es/version/"
+                hreflang="ro"
+                href="https://www.contributor-covenant.org/ro/version/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bn"
+                href="https://www.contributor-covenant.org/bn/version/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://www.contributor-covenant.org/sv/version/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.contributor-covenant.org/ru/version/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.contributor-covenant.org/fr/version/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="https://www.contributor-covenant.org/uk/version/"
                 />
     <xhtml:link
                 rel="alternate"
