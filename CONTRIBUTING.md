@@ -2,7 +2,7 @@
 
 ## Code Style
 
-- Use tabs for indentation, spaces for spacing
+- Use spaces for indentation,
 - Order properties alphabetically
 
 ### HTML
@@ -31,3 +31,6 @@
 	background-color: white;
 }
 ```
+
+### Markdown
+- Do not use fancy quotes, dashes, and such; the Markdown processor will handle that.

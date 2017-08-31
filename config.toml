@@ -1,0 +1,145 @@
+baseURL = "https://www.contributor-covenant.org"
+# canonifyURLs = true
+languageCode = "en-us"
+title = "Contributor Covenant"
+disableKinds = ["RSS"]
+disablePathToLower = true # Gotta have dat CODE_OF_CONDUCT.xxx
+
+DefaultContentLanguage = "en"
+hasCJKLanguage = true
+EnableMissingTranslationPlaceholders = true
+
+googleAnalytics = "UA-56802475-1"
+
+[mediaTypes]
+[mediaTypes."text/markdown"]
+suffix = "md"
+
+[mediaTypes."text/plain"]
+suffix = "txt"
+
+[outputFormats]
+[outputFormats.Markdown]
+mediaType = "text/markdown"
+isPlainText = true
+basename = "CODE_OF_CONDUCT"
+
+[outputFormats.PlainText]
+mediaType = "text/plain"
+isPlainText = true
+basename = "CODE_OF_CONDUCT"
+
+[outputs]
+home = ["html"]
+page = ["html", "markdown", "plaintext"]
+
+# Add all translated languages here.
+[Languages]
+[Languages.bn]
+languageName = "Bengali"
+languageCode = "bn"
+
+[Languages.bs]
+languageName = "Bosnian"
+languageCode = "bs"
+
+[Languages.de]
+languageName = "Deutsch"
+languageCode = "de"
+
+[Languages.en]
+languageName = "English"
+languageCode = "en"
+weight = 1
+
+[Languages.el]
+languageName = "ελληνικά"
+languageCode = "el"
+
+[Languages.es]
+languageName = "Español"
+languageCode = "es"
+
+[Languages.fr]
+languageName = "Français"
+languageCode = "fr"
+
+[Languages.iw]
+languageName = "עברית"
+languageCode = "iw"
+
+[Languages.hi]
+languageName = "हिंदी"
+languageCode = "hi"
+
+[Languages.hu]
+languageName = "Magyar"
+languageCode = "hu"
+
+[Languages.it]
+languageName = "Italiano"
+languageCode = "it"
+
+[Languages.ja]
+languageName = "日本語"
+languageCode = "ja"
+
+[Languages.kn]
+languageName = "ಕನ್ನಡ"
+languageCode = "kn"
+
+[Languages.ko]
+languageName = "한국어"
+languageCode = "ko"
+
+[Languages.mk]
+languageName = "Македонски"
+languageCode = "mk"
+
+[Languages.nl]
+languageName = "Nederlands"
+languageCode = "nl"
+
+[Languages.pl]
+languageName = "Polski"
+languageCode = "pl"
+
+[Languages.pt]
+languageName = "Português"
+languageCode = "pt"
+
+[Languages.pt-br]
+languageName = "Português do Brasil"
+languageCode = "pt-br"
+
+[Languages.ro]
+languageName = "Română"
+languageCode = "ro"
+
+[Languages.ru]
+languageName = "Pусский"
+languageCode = "ru"
+
+[Languages.sl]
+languageName = "Slovenščina"
+languageCode = "sl"
+
+[Languages.sv]
+languageName = "Svenska"
+languageCode = "sv"
+
+[Languages.tr]
+languageName = "Türkçe"
+languageCode = "tr"
+
+[Languages.zh-tw]
+languageName = "繁體中文"
+languageCode = "zh-tw"
+
+[Languages.uk]
+languageName = "Українська"
+languageCode = "uk"
+
+[Languages.zh-cn]
+languageName = "简体中文"
+languageCode = "zh-cn"
