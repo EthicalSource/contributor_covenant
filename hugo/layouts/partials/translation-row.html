@@ -1,9 +1,9 @@
 <tr>
-  <td><a href="{{ .URL }}">{{ .Site.Language.LanguageName }}</a></td>
-  <td>{{ .Params.version }}</td>
-  <td>
-    <a class="icon icon-markdown" href="/version/1/4/">md</a>
-    <a class="icon icon-html" href="">html</a>
-    <a class="icon icon-text" href="">txt</a>
+  <td class="file-formats">
+    {{ partial "file-formats.html" . }}
   </td>
+  <td>
+    <a href="{{ .Permalink }}">{{ .Site.Language.LanguageName }}</a>
+  </td>
+  <td>{{ .Params.version }}</td>
 </tr>

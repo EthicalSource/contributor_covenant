@@ -1,12 +1,12 @@
 <!doctype html>
-<html lang="{{ .Site.LanguageCode | default "en-us" }}">
+<html lang="{{ .Site.LanguageCode }}">
   <head>
     <meta charset="utf-8">
     <title>{{ .Site.Title }}: {{ .Title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="{{ "/css/main.css" | relURL }}">
   </head>
-  <body>
+  <body{{ with .Section }} id="{{ . }}"{{ end }}>
     <div>
       <header>
         <figure>
@@ -18,7 +18,7 @@
             <li><a href="/">Home</a></li>
             <li><a href="/adopters/">Adopters</a></li>
             {{ range last 1 (where $.Site.RegularPages "Section" "version") }}
-            <li><a href="{{ .URL }}">Latest Version</a></li>
+            <li><a href="{{ .Permalink }}">Latest Version</a></li>
             {{ end }}
             <li><a href="/translations/">Translations</a></li>
           </ul>
@@ -26,16 +26,16 @@
       </header>
     </div>
     <div id="veil">
-{{ block "main" . }}
-{{ end }}
+      {{ block "main" . }}
+      {{ end }}
       <footer>
         <p>
-          The Contributor Covenant was created by <a href="http://where.coraline.codes/" title="Coraline Ada Ehmke">Coraline Ada Ehmke</a> in 2014 and is released under the <a href="https://github.com/ContributorCovenant/contributor_covenant/blob/master/LICENSE.md">Creative Commons Attribution 4.0 International Public License</a>.<br>
+          The Contributor Covenant was created by <a href="http://where.coraline.codes/" title="Coraline Ada Ehmke">Coraline Ada Ehmke</a> in 2014 and is released under the <a href="https://github.com/ContributorCovenant/contributor_covenant/blob/master/LICENSE.md"><abbr title="Creative Commons — Attribution 4.0 International — CC BY 4.0">CC BY 4.0</abbr> License</a>.<br>
           Support this and other diversity initiatives through <a href="https://www.patreon.com/coraline" title="Patreon">our Patreon</a>.
         </p>
       </footer>
     </div>
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i%7CRoboto+Mono:300,300i,400,400i,500,500i">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:200,200i,300,300i,400,400i,500,500i,600,600i&amp;subset=latin-ext,vietnamese">
     {{ template "_internal/google_analytics.html" . }}
-  <body>
-<html>
+  </body>
+</html>
