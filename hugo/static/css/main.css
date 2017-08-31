@@ -19,7 +19,7 @@ html {
 body {
   background: hsl(288, 80%, 25%);
   color: #000;
-  font: 400 1.25rem/1.875rem "Circular Sp UI v3", sans-serif;
+  font: 300 1.25rem/1.875rem Montserrat, sans-serif;
   font-synthesis: none;
   -moz-hanging-punctuation: first last allow-end;
   -ms-hanging-punctuation: first last allow-end;
@@ -33,16 +33,10 @@ body {
   text-size-adjust: 100%;
 }
 
-@media (max-width: 32rem) {
-  body {
-    padding: 1.5rem 0;
-  }
-}
-
 section {
   box-sizing: border-box;
   margin: 0 auto;
-  max-width: 43rem;
+  max-width: 47rem;
   padding: 1.5rem;
 }
 
@@ -50,6 +44,10 @@ ul,
 ol {
   list-style-position: outside;
   margin: 1.5rem 0 1.5rem 1.5rem;
+}
+
+li {
+  margin-bottom: .375rem;
 }
 
 header {
@@ -89,7 +87,7 @@ table {
 th {
   font-size: inherit;
   font-weight: 500;
-  padding-bottom: .75rem;
+  padding: 0 1.5rem .75rem 0;
   text-align: left;
 }
 
@@ -102,24 +100,23 @@ th {
 /* Headers */
 h1 {
   font-size: 1.25rem;
-  font-weight: 600;
-  letter-spacing: 0.125rem;
+  font-weight: 500;
+  letter-spacing: .125rem;
   line-height: 3rem;
-  margin: 1.5rem 0 3rem;
+  margin: 1.5rem 0;
   text-align: center;
   text-transform: uppercase;
 }
 
 h2 {
   font-size: 2rem;
-  font-weight: 500;
+  font-weight: 400;
   line-height: 3rem;
   margin: 1.5rem 0;
-  word-spacing: -.125rem;
 }
 
 * + h2 {
-  margin-top: 4rem;
+  margin-top: 3rem;
 }
 
 h4 {
@@ -132,13 +129,12 @@ p {
   -webkit-hyphens: auto;
   hyphens: auto;
   margin: 1.5rem 0;
-  text-align: justify;
 }
 
 /* Inline Elements */
 a {
   color: hsl(288, 80%, 25%);
-  font-weight: 500;
+  font-weight: 400;
   text-decoration: none;
   transition: color 125ms, background-color 125ms;
 }
@@ -159,8 +155,8 @@ strong {
 
 code,
 kbd {
-  font-family: "Circular Sp UI v3", monospace;
-  letter-spacing: 0.125rem;
+  font-family: Montserrat, monospace;
+  letter-spacing: .0625rem;
 }
 
 cite {
@@ -173,6 +169,7 @@ cite::before {
 
 #veil {
   background: #fff;
+  border-radius: .25rem;
 }
 
 /* Utility Classes */
@@ -187,19 +184,41 @@ cite::before {
   font-weight: 500;
 }
 
-.translations td:first-child {
+.translations td {
   padding-right: 1.5rem;
 }
 
-.translations td:nth-last-child(2) {
+.translations td:last-child {
   width: 90%;
 }
 
+.translations td:first-child {
+  vertical-align: middle;
+}
+
+/* It's hard to add classes in markdown. */
+#adopters section ul {
+  list-style: none;
+  -moz-column-count: 2;
+  -ms-column-count: 2;
+  -webkit-column-count: 2;
+  column-count: 2;
+  -moz-column-fill: balance;
+  -ms-column-fill: balance;
+  -webkit-column-fill: balance;
+  column-fill: balance;
+  margin-left: 0;
+}
+
+/*
 .translations tr:not(:hover) .icon {
   background: #e6e6e6;
   border-color: #e6e6e6;
   color: #4d4d4d;
 }
+*/
+
+.translations dt { display: none; }
 
 .icon {
   background: hsl(288, 80%, 25%);
@@ -208,19 +227,17 @@ cite::before {
   display: inline-block;
   font-size: .75rem;
   font-weight: 600;
-  letter-spacing: .125rem;
   line-height: 1rem;
-  margin-right: .125rem;
+  margin-left: .125rem;
   padding: .25rem .25rem .25rem .375rem;
   text-transform: uppercase;
-  vertical-align: text-bottom;
 }
 
-.icon-html {
+.icon-md {
   background: hsl(158, 80%, 20%);
 }
 
-.icon-text {
+.icon-txt {
   background: hsl(42, 80%, 50%);
 }
 
@@ -229,17 +246,30 @@ cite::before {
   color: #fff;
 }
 
-.icon-html:hover {
+.icon-md:hover {
   background: hsl(158, 80%, 30%);
 }
 
-.icon-text:hover {
+.icon-txt:hover {
   background: hsl(42, 80%, 60%);
+}
+
+.formats {
+  font-size: .625rem;
+  font-weight: 600;
+  letter-spacing: .125rem;
+  line-height: .625rem;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+.formats > * {
+  display: inline-block;
 }
 
 header figcaption {
   font-size: 3rem;
-  font-weight: 500;
+  font-weight: 400;
   line-height: 3rem;
   margin: 1.5rem 0 3rem;
 }
@@ -253,18 +283,37 @@ header nav ul {
 }
 
 header nav li {
-  display: inline;
+  display: inline-block;
 }
 
-header nav li:not(:last-child) {
-  margin-right: 1.5rem;
+header nav li {
+  margin: 0 .75rem;
 }
 
 header nav a {
   color: #fff;
+  font-weight: 500;
 }
 
 header nav a:focus,
 header nav a:hover {
-  color: hsl(288, 80%, 85%);
+  color: hsl(288, 75%, 85%);
 }
+
+@media (max-width: 32rem) {
+  body {
+    padding: 1.5rem 0;
+  }
+
+  #veil {
+    border-radius: initial;
+  }
+
+  #adopters section ul {
+    -moz-column-count: 1;
+    -ms-column-count: 1;
+    -webkit-column-count: 1;
+    column-count: 1;
+  }
+}
+
