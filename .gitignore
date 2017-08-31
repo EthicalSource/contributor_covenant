@@ -1,2 +1,2 @@
-# Netlify Hugo is too old, so we need to push the output directory for now
-# public
+# Hugo output directory
+/public
