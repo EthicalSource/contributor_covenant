@@ -17,9 +17,9 @@ for the latest discussions involving the current and future versions of Contribu
 
 ## Translating
 
-We're always looking for new localizations of Contributor Covenant and are thankful to the volunteers who spend their time on translations. Now, thanks to @wfdd, there is a [Pandoc HTML generation template for v1.4](version/1/4/.index-template.html) of the CoC.
+We're always looking for new localizations of Contributor Covenant and are thankful to the volunteers who spend their time on translations.
 
-If you are interested in doing a translation, follow these steps:
+If you are interested in doing a translation, please follow these steps:
 
 * Fork the repo and make a branch for your translation.
 * Create a markdown file with your translation in `version/1/4/code-of-conduct.YOURTWOLETTERLANGUAGECODE.md`.
