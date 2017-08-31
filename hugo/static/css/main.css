@@ -86,7 +86,7 @@ table {
 
 th {
   font-size: inherit;
-  font-weight: 500;
+  font-weight: 400;
   padding: 0 1.5rem .75rem 0;
   text-align: left;
 }
@@ -174,8 +174,8 @@ cite::before {
 
 /* Utility Classes */
 .logo {
-  height: 8rem;
-  width: 8rem;
+  height: 4.5rem;
+  width: 4.5rem;
 }
 
 .error,
@@ -259,6 +259,7 @@ cite::before {
   font-weight: 600;
   letter-spacing: .125rem;
   line-height: .625rem;
+  text-align: center;
   text-transform: uppercase;
   white-space: nowrap;
 }
@@ -268,7 +269,7 @@ cite::before {
 }
 
 header figcaption {
-  font-size: 3rem;
+  font-size: 2.5rem;
   font-weight: 400;
   line-height: 3rem;
   margin: 1.5rem 0 3rem;
