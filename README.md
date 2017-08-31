@@ -22,13 +22,14 @@ We're always looking for new localizations of Contributor Covenant and are thank
 If you are interested in doing a translation, follow these steps:
 
 * Fork the repo and make a branch for your translation.
-* Create a markdown file with your translation in `version/1/4/YOURTWOLETTERLANGUAGECODE/code_of_conduct.md`
+* Create a markdown file with your translation in `version/1/4/YOURTWOLETTERLANGUAGECODE/code_of_conduct.md`.
+* If it's a new language, add it to `config.toml`, with a localized name.
 * Open a pull request.
 * We will put out a call to have one or more other native speakers review the translation.
 * Collaborate until the translation is satisfactory.
-* Create two additional files: a text file (`code_of_conduct.txt`), and an HTML file (`code_of_conduct.htm`).
-* Add a link to your translation files to `i18n/index.html`
 * We will merge your translation!
+* HTML and plain text versions are automatically generated from your markdown file.
+* A link to your translation is automatically added to the translations page.
 
 ## Examples of Projects Using the Contributor Covenant
 
