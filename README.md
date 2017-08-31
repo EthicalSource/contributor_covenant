@@ -22,7 +22,7 @@ We're always looking for new localizations of Contributor Covenant and are thank
 If you are interested in doing a translation, follow these steps:
 
 * Fork the repo and make a branch for your translation.
-* Create a markdown file with your translation in `version/1/4/YOURTWOLETTERLANGUAGECODE/code_of_conduct.md`.
+* Create a markdown file with your translation in `version/1/4/code-of-conduct.YOURTWOLETTERLANGUAGECODE.md`.
 * If it's a new language, add it to `config.toml`, with a localized name.
 * Open a pull request.
 * We will put out a call to have one or more other native speakers review the translation.
