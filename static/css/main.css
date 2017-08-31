@@ -167,6 +167,10 @@ cite::before {
   content: "— ";
 }
 
+abbr {
+  text-decoration: none;
+}
+
 #veil {
   background: #fff;
   border-radius: .25rem;
