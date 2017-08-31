@@ -2,7 +2,7 @@
 version = "1.4"
 +++
 
-# Código de Conducta convenido para Contribuyentes
+# Código de Conducta convenido para Contribuyentes
 
 ## Nuestro compromiso
 
