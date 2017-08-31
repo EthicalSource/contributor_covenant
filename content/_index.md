@@ -32,9 +32,9 @@ Pledge your respect and appreciation for contributors and participants in your o
 
 You can view and download the latest version of the Contributor Covenant here:
 
-- [English (Markdown version)](version/1/4/code_of_conduct.md)
-- [English (HTML version)](version/1/4/)
-- [English (text version)](version/1/4/code_of_conduct.txt)
+- [English (Markdown version)](version/1/4/code-of-conduct/CODE_OF_CONDUCT.md)
+- [English (HTML version)](version/1/4/code-of-conduct/)
+- [English (text version)](version/1/4/code-of-conduct/CODE_OF_CONDUCT.txt)
 
 For translations of the Contributor Covenant, please see our [translations page](/translations/).
 
