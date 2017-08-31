@@ -25,7 +25,7 @@ An easy way to begin addressing this problem is to be overt in our openness, wel
 The Contributor Covenant can be one way to express these values.
 Pledge your respect and appreciation for contributors and participants in your open source project by adding an explicit `CODE_OF_CONDUCT.md` to your project repository.
 
-(While more focused on events and conferences, this [101 + FAQ](http://www.ashedryden.com/blog/codes-of-conduct-101-faq) addresses many of the common questions and concerns around codes of conduct.)
+(While more focused on events and conferences, this [101 + FAQ](https://www.ashedryden.com/blog/codes-of-conduct-101-faq) addresses many of the common questions and concerns around codes of conduct.)
 
 
 ## Contributor Covenant v1.4.1
@@ -36,7 +36,7 @@ You can view and download the latest version of the Contributor Covenant here:
 - [English (HTML version)](version/1/4/)
 - [English (text version)](version/1/4/code_of_conduct.txt)
 
-For translations of the Contributor Covenant, please see our [internationalization page](/i18n/).
+For translations of the Contributor Covenant, please see our [translations page](/translations/).
 
 The Contributor Covenant uses semantic versioning for revisions so all URLs are permanent.
 Previous versions are available here: [1.0](version/1/0/0/), [1.1](version/1/1/0/), [1.2](version/1/2/0/), and [1.3](version/1/3/0/)

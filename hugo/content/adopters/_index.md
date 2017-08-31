@@ -13,6 +13,7 @@ A sample of projects that have adopted the Contributor Covenant:
 - [The Anadromi Project](https://github.com/anadromi/the-anadromi-project)
 - [Android IMSI-Catcher Detector](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector)
 - [AngularJS](https://github.com/angular/code-of-conduct)
+- [APInf](https://github.com/apinf/platform)
 - [angular-formly](https://github.com/formly-js/angular-formly)
 - [Asqatasun](https://github.com/Asqatasun/Asqatasun)
 - [Atom](https://github.com/atom/atom)
