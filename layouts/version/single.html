@@ -1,5 +1,5 @@
 {{ define "main" }}
-<section>
+<section{{ with .Language.Get "writingDirection" }} dir="{{ . }}"{{ end }}>
 {{ .Content }}
 </section>
 <section class="formats">
