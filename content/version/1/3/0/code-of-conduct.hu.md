@@ -1,5 +1,6 @@
 +++
 version = "1.3"
+aliases = ["/version/1/3/0/hu"]
 +++
 
 # Közreműködők Magatartási Kódexe
@@ -25,4 +26,4 @@ Ez a Magatartási Kódex érvényes mind a projekt felületén és a valós éle
 
 Bármilyen gyalázkodó, zaklatójellegű vagy egyébként elfogadhatatlan magatartást jelentse egy fenntartónak a(z) [INSERT EMAIL ADDRESS] címen. Minden egyes panasz átnézésre és kivizsgálásra, valamint a körülményeknek meglelelő válaszlépések megtételére sor kerül. A fenntartók elkötelezettek afelé hogy az incidens és a bejelentője adatai bizalmas kezelendőek.
 
-Ez a Magatartási Kódex a [Contributor Covenant](https://www.contributor-covenant.org) alapján készült. A Kódex 1.3.0 verziója megtalálható a [https://www.contributor-covenant.org/version/1/3/0/hu](https://www.contributor-covenant.org/version/1/3/0/hu) címen.
+Ez a Magatartási Kódex a [Contributor Covenant](https://www.contributor-covenant.org) alapján készült. A Kódex 1.3.0 verziója megtalálható a https://www.contributor-covenant.org/hu/version/1/3/0/code-of-conduct/ címen.

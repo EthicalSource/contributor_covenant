@@ -1,5 +1,6 @@
 +++
 version = "1.4"
+aliases = ["/version/1/4/pt_br"]
 +++
 
 # Código de Conduta para Colaboradores
@@ -72,4 +73,4 @@ determinadas por outros membros da liderança do projeto.
 ## Atribuição
 
 Este Código de Conduta é adaptado do [Contributor Covenant](https://www.contributor-covenant.org),
-versão 1.4, disponível em [https://www.contributor-covenant.org/version/1/4/pt_br/](https://www.contributor-covenant.org/version/1/4/pt_br/)
+versão 1.4, disponível em https://www.contributor-covenant.org/pt-br/version/1/4/code-of-conduct/

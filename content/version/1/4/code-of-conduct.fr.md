@@ -1,5 +1,6 @@
 +++
 version = "1.4"
+aliases = ["/version/1/4/fr"]
 +++
 
 # Charte Code de Conduite Contributeurs
@@ -77,5 +78,5 @@ répercussions définies par d'autres membres de la direction du projet.
 
 Ce Code de Conduite est adapté du [Contributor Covenant](https://www.contributor-covenant.org),
 version 1.4.0, disponible à
-<https://www.contributor-covenant.org/version/1/4/fr>
+<https://www.contributor-covenant.org/fr/version/1/4/code-of-conduct>
 

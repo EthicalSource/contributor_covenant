@@ -1,5 +1,6 @@
 +++
 version = "1.4"
+aliases = ["/version/1/4/es"]
 +++
 
 # Código de Conducta convenido para Contribuyentes
@@ -44,7 +45,6 @@ Administradores que no sigan o que no hagan cumplir este Código de Conducta pue
 
 ## Atribución
 
-Este Código de Conducta es una adaptación del [Contributor Covenant][homepage], versión 1.4, disponible en [https://www.contributor-covenant.org/version/1/4/es/][version]
+Este Código de Conducta es una adaptación del [Contributor Covenant][homepage], versión 1.4, disponible en https://www.contributor-covenant.org/es/version/1/4/code-of-conduct/
 
 [homepage]: https://www.contributor-covenant.org
-[version]: https://www.contributor-covenant.org/version/1/4/es/

@@ -1,5 +1,6 @@
 +++
 version = "1.4"
+aliases = ["/version/1/4/hi"]
 +++
 
 आचार संहिता # योगदानकर्ता वाचा
@@ -72,7 +73,6 @@ version = "1.4"
 ## रोपण
 
 इस आचार संहिता [योगदानकर्ता वाचा] [मुखपृष्ठ], संस्करण 1.4 से अनुकूलित है,
-पर उपलब्ध [https://www.contributor-covenant.org/version/1/4][version]
+पर उपलब्ध https://www.contributor-covenant.org/hi/version/1/4/code-of-conduct/
 
 [मुखपृष्ठ]: https://www.contributor-covenant.org
-[संस्करण]: https://www.contributor-covenant.org/version/1/4/

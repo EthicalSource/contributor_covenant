@@ -1,5 +1,6 @@
 +++
 version = "1.3"
+aliases = ["/version/1/3/0/sl"]
 +++
 
 # Kodeks ravnanja sodelavcev
@@ -46,8 +47,6 @@ dolžni vzdrževati zaupnost poročevalca
 incidenta.
 
 Ta kodeks ravnanja je prilagojen glede na [Pakt sodelavcev][homepage]
-verzije 1.3.0, ki je na voljo na
-[https://www.contributor-covenant.org/version/1/3/0/sl/][version]
+verzije 1.3.0, ki je na voljo na https://www.contributor-covenant.org/sl/version/1/3/0/code-of-conduct/
 
 [homepage]: https://www.contributor-covenant.org
-[version]: https://www.contributor-covenant.org/version/1/3/0/

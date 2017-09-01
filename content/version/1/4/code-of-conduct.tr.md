@@ -1,5 +1,6 @@
 +++
 version = "1.4"
+aliases = ["/version/1/4/tr"]
 +++
 
 # Katkıcı Ahdi Topluluk Sözleşmesi
@@ -67,7 +68,6 @@ karşı geçici veya kalıcı yaptırımlar uygulayabilir.
 ## Kaynak
 
 Bu Topluluk Sözleşmesi, [Contributor Covenant][homepage] 1.4 sürümünden çevrilmiştir,
-aslına bu adresten erişebilirsiniz [https://www.contributor-covenant.org/version/1/4][version]
+aslına bu adresten erişebilirsiniz https://www.contributor-covenant.org/tr/version/1/4/code-of-conduct/
 
 [homepage]: https://www.contributor-covenant.org
-[version]: https://www.contributor-covenant.org/version/1/4/

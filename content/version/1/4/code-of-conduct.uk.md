@@ -1,5 +1,6 @@
 +++
 version = "1.4"
+aliases = ["/version/1/4/uk"]
 +++
 
 # Пакт про участь - Кодекс поведінки
@@ -71,7 +72,6 @@ version = "1.4"
 ## Посилання
 
 Цей Кодекс поведінки заснований на [Пакті про участь][homepage], версії 1.4,
-що знаходиться за адресою [https://www.contributor-covenant.org/version/1/4/uk/][version]
+що знаходиться за адресою https://www.contributor-covenant.org/uk/version/1/4/code-of-conduct/
 
 [homepage]: https://www.contributor-covenant.org
-[version]: https://www.contributor-covenant.org/version/1/4/uk/

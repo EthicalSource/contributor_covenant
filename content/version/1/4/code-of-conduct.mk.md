@@ -1,5 +1,6 @@
 +++
 version = "1.4"
+aliases = ["/version/1/4/mk"]
 +++
 
 # Договор за Соработник - Kодекс на Oднесување
@@ -45,7 +46,6 @@ version = "1.4"
 ## Припишување
 
 Овој кодекс на однесување е прилагоден од [Contributor Covenant][homepage], верзија 1.4,
-достапна на [https://www.contributor-covenant.org/version/1/4][version]
+достапна на https://www.contributor-covenant.org/mk/version/1/4/code-of-conduct/
 
 [homepage]: https://www.contributor-covenant.org
-[version]: https://www.contributor-covenant.org/version/1/4/

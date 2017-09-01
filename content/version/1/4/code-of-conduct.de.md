@@ -1,5 +1,6 @@
 +++
 version = "1.4"
+aliases = ["/version/1/4/de"]
 +++
 
 # Vereinbarung über Verhaltenskodex für Mitwirkende
@@ -44,4 +45,4 @@ Projektverantwortliche, welche den Verhaltenskodex nicht befolgen, oder nicht na
 
 ## Bezug
 
-Dieser Verhaltenskodex basiert auf dem Contributor Covenant, Version 1.4, verfügbar unter https://www.contributor-covenant.org/version/1/4/de/
+Dieser Verhaltenskodex basiert auf dem Contributor Covenant, Version 1.4, verfügbar unter https://www.contributor-covenant.org/de/version/1/4/code-of-conduct/

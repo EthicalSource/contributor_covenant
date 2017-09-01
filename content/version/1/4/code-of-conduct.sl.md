@@ -1,5 +1,6 @@
 +++
 version = "1.4"
+aliases = ["/version/1/4/sl"]
 +++
 
 # Kodeks obnašanja zveze sodelavcev
@@ -71,7 +72,6 @@ veri, se lahko soočijo z začasnimi ali trajnimi posledicami, ki jih določijo 
 ## Dodelitev
 
 Ta kodeks ravnanja je prilagojen glede na [Zvezo sodelavcev][homepage], verzije 1.4,
-ki je na voljo na [https://www.contributor-covenant.org/version/1/4/sl/][version]
+ki je na voljo na https://www.contributor-covenant.org/sl/version/1/4/code-of-conduct/
 
 [homepage]: https://www.contributor-covenant.org
-[version]: https://www.contributor-covenant.org/version/1/4/sl/

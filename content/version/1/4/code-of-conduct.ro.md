@@ -1,5 +1,6 @@
 +++
 version = "1.4"
+aliases = ["/version/1/4/ro"]
 +++
 
 # Codul de Conduită al Contributorului
@@ -69,8 +70,6 @@ alţi membrii din conducerea proiectului.
 ## Afiliere
 
 Acest Cod de Conduită este adaptat conform [Codului de Conduită al Contributorului]  
-[homepage], versiunea 1.4, disponibil la [https://www.contributor-covenant.org/version/1/4]
-[version]                                                                          
+[homepage], versiunea 1.4, disponibil la https://www.contributor-covenant.org/ro/version/1/4/code-of-conduct/
 
 [homepage]: https://www.contributor-covenant.org
-[version]: https://www.contributor-covenant.org/version/1/4/

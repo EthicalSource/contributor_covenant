@@ -1,5 +1,6 @@
 +++
 version = "1.4"
+aliases = ["/version/1/4/ru"]
 +++
 
 # Кодекс Поведения участника
@@ -42,7 +43,6 @@ version = "1.4"
 
 ## Атрибуция
 
-Данный Кодекс Поведения основан на [Contributor Covenant][сайт], версия 1.4.0 доступна на [https://www.contributor-covenant.org/version/1/4/ru/][версия].
+Данный Кодекс Поведения основан на [Contributor Covenant][сайт], версия 1.4.0 доступна на https://www.contributor-covenant.org/ru/version/1/4/code-of-conduct/
 
 [сайт]: https://www.contributor-covenant.org
-[версия]: https://www.contributor-covenant.org/version/1/4/ru/

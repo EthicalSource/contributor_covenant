@@ -1,5 +1,6 @@
 +++
 version = "1.4"
+aliases = ["/version/1/4/iw"]
 +++
 
 # קוד התנהגות לתורם
@@ -59,7 +60,6 @@ version = "1.4"
 ## יחוס
 
 קוד התנהגות זה מותאם מאמנת התורם, גרסה 1.4, 
-הזמינה ב https://www.contributor-covenant.org/version/1/4/
+הזמינה ב https://www.contributor-covenant.org/iw/version/1/4/code-of-conduct/
 
 [homepage]: https://www.contributor-covenant.org
-[version]: https://www.contributor-covenant.org/version/1/4/

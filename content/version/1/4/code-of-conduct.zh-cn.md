@@ -1,5 +1,6 @@
 +++
 version = "1.4"
+aliases = ["/version/1/4/cn"]
 +++
 
 # 参与者公约
@@ -49,7 +50,6 @@ version = "1.4"
 ## 来源
 
 本行为标准改编自[贡献者公约][主页]，版本 1.4
-可在此观看[https://www.contributor-covenant.org/version/1/4/](版本)
+可在此观看https://www.contributor-covenant.org/zh-cn/version/1/4/code-of-conduct/
 
 [主页]: https://www.contributor-covenant.org
-[版本]: https://www.contributor-covenant.org/version/1/4/
