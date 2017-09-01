@@ -1,5 +1,6 @@
 +++
 version = "1.4"
+aliases = ["/version/1/4/nl"]
 +++
 
 # Gedragscode voor Bijdragers
@@ -71,7 +72,6 @@ de projectleiding.
 ## Attributie
 
 Deze Gedragscode is een  aangepaste versie van  de [Contributor Covenant][homepage],
-versie 1.4, beschikbaar op [https://www.contributor-covenant.org/version/1/4/nl/][version]
+versie 1.4, beschikbaar op https://www.contributor-covenant.org/nl/version/1/4/code-of-conduct/
 
 [homepage]: https://www.contributor-covenant.org
-[version]: https://www.contributor-covenant.org/version/1/4/nl/

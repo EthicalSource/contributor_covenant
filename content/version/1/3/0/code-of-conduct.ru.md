@@ -1,5 +1,6 @@
 +++
 version = "1.3"
+aliases = ["/version/1/3/0/ru"]
 +++
 
 # Кодекс поведения автора
@@ -48,6 +49,6 @@ version = "1.3"
 Разработчики проекта обязаны сохранять конфиденциальность
 в отношении сообщившего об инциденте.
 
-Кодекс Поведения основан на [Contributor Covenant][https://www.contributor-covenant.org],
+Кодекс Поведения основан на [Contributor Covenant](https://www.contributor-covenant.org),
 версия 1.3.0, доступна на
-[https://www.contributor-covenant.org/version/1/3/0/ru/][https://www.contributor-covenant.org/version/1/3/0/ru/]
+https://www.contributor-covenant.org/ru/version/1/3/0/code-of-conduct/

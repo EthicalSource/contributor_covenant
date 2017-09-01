@@ -1,5 +1,6 @@
 +++
 version = "1.3"
+aliases = ["/version/1/3/0/es/"]
 +++
 
 # Código de Conducta para Contribuyentes
@@ -24,4 +25,4 @@ Este código de conducta aplica, tanto a los espacios del proyecto como a espaci
 
 Ejemplos de abuso, acoso u otro comportamiento inaceptable pueden ser reportados al administrador del proyecto en [INSERTE CORREO AQUÍ]. Todas las quejas serán revisadas e investigadas, generando un resultado apropiado a las circunstancias. Los administradores tienen la obligación de mantener la confidencialidad de la persona que reportó el incidente.
 
-Este Código de Conducta es una adaptación del [Contributor Covenant](https://www.contributor-covenant.org), versión 1.3.0, disponible en [https://www.contributor-covenant.org/version/1/3/0/es/](https://www.contributor-covenant.org/version/1/3/0/es/)
+Este Código de Conducta es una adaptación del [Contributor Covenant](https://www.contributor-covenant.org), versión 1.3.0, disponible en https://www.contributor-covenant.org/es/version/1/3/0/code-of-conduct/

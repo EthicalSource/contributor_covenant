@@ -1,5 +1,6 @@
 +++
 version = "1.4"
+aliases = ["/version/1/4/sv"]
 +++
 
 # Medarbetarförbundets Uppförandekod
@@ -73,7 +74,6 @@ medlemmar av projektets ledning.
 ## Attribuering
 
 Denna Uppförandekod är anpassad efter [Contributor Covenant][hemsida],
-version 1.4, tillgänglig på [https://www.contributor-covenant.org/version/1/4][version]
+version 1.4, tillgänglig på https://www.contributor-covenant.org/sv/version/1/4/code-of-conduct/
 
 [hemsida]: https://www.contributor-covenant.org
-[version]: https://www.contributor-covenant.org/version/1/4/

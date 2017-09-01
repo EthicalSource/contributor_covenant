@@ -1,5 +1,6 @@
 +++
 version = "1.4"
+aliases = ["/version/1/4/el"]
 +++
 
 # Κώδικας δεοντολογίας «Contributor Covenant»
@@ -73,7 +74,6 @@ version = "1.4"
 
 Αυτός ο κώδικας δεοντολογίας έχει προσαρμοστεί από το
 «[Contributor Covenant][οικοσελίδα]», με αριθμό έκδοσης 1.4, διαθέσιμο από
-<[https://www.contributor-covenant.org/version/1/4][έκδοση]>.
+<https://www.contributor-covenant.org/el/version/1/4/code-of-conduct/>.
 
 [οικοσελίδα]: https://www.contributor-covenant.org
-[έκδοση]: https://www.contributor-covenant.org/version/1/4/
