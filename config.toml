@@ -67,6 +67,7 @@ languageCode = "fr"
 [Languages.iw]
 languageName = "עברית"
 languageCode = "iw"
+writingDirection = "rtl"
 
 [Languages.hi]
 languageName = "हिंदी"
