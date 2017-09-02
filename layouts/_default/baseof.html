@@ -17,9 +17,9 @@
           <ul>
             <li><a href="/">Home</a></li>
             <li><a href="/adopters/">Adopters</a></li>
-            {{ range last 1 (where $.Site.RegularPages "Section" "version") }}
+            {{- range last 1 (where $.Site.RegularPages "Section" "version") -}}
             <li><a href="{{ .Permalink | absLangURL }}">Latest Version</a></li>
-            {{ end }}
+            {{- end -}}
             <li><a href="/translations/">Translations</a></li>
           </ul>
         </nav>

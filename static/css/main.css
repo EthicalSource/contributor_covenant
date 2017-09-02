@@ -293,11 +293,15 @@ header nav ul {
 }
 
 header nav li {
-  display: inline-block;
+  display: inline;
 }
 
 header nav li {
-  margin: 0 .75rem;
+  margin: 0 1.5rem 0 0;
+}
+
+header nav li:last-child {
+  margin-right: 0;
 }
 
 header nav a {
@@ -310,7 +314,11 @@ header nav a:hover {
   color: hsl(288, 75%, 85%);
 }
 
-@media (max-width: 32rem) {
+@media (max-width: 640px) {
+  html {
+    font-size: .75rem;
+  }
+
   body {
     padding: 1.5rem 0;
   }
