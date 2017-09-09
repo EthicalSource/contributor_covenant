@@ -24,6 +24,6 @@ Azzal, hogy elfogadják a Magatartási Kódexet, a projekt fenntartók kötelezi
 
 Ez a Magatartási Kódex érvényes mind a projekt felületén és a valós életben egyaránt, bármikor amikor egy személy képviseli a projektet és a hozzá tartozó közösséget.
 
-Bármilyen gyalázkodó, zaklatójellegű vagy egyébként elfogadhatatlan magatartást jelentse egy fenntartónak a(z) [INSERT EMAIL ADDRESS] címen. Minden egyes panasz átnézésre és kivizsgálásra, valamint a körülményeknek meglelelő válaszlépések megtételére sor kerül. A fenntartók elkötelezettek afelé hogy az incidens és a bejelentője adatai bizalmas kezelendőek.
+Bármilyen gyalázkodó, zaklató jellegű vagy egyébként elfogadhatatlan magatartást jelentse egy fenntartónak a(z) [INSERT EMAIL ADDRESS] címen. Minden egyes panasz átnézésre és kivizsgálásra, valamint a körülményeknek meglelelő válaszlépések megtételére sor kerül. A fenntartók elkötelezettek afelé hogy az incidens és a bejelentője adatai bizalmas kezelendőek.
 
 Ez a Magatartási Kódex a [Contributor Covenant](https://www.contributor-covenant.org) alapján készült. A Kódex 1.3.0 verziója megtalálható a https://www.contributor-covenant.org/hu/version/1/3/0/code-of-conduct/ címen.
