@@ -77,6 +77,10 @@ languageCode = "hi"
 languageName = "Magyar"
 languageCode = "hu"
 
+[Languages.is]
+languageName = "Íslenska"
+languageCode = "is"
+
 [Languages.it]
 languageName = "Italiano"
 languageCode = "it"
