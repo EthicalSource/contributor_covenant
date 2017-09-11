@@ -48,7 +48,7 @@ varanlega hvern þann þáttakenda fyrir hverja þá hegðun sem það telur
 
 ## Umfang
 
-Þessar hátternisrelgur eiga bæði við innan verkenis og í opinberum rýmum þar
+Þessar hátternisreglur eiga bæði við innan verkefnis og í opinberum rýmum þar
 sem einstaklingur er fulltrúi verkefnis eða samfélags þess. Dæmi um það að vera
 fulltrúi verkefnis eða samfélags tekur til notktunar á opinberum netföngum
 verkefnis, skrif á samfélagsmiðlum, eða starfa sem skipaður fulltrúi á atburði,
@@ -57,12 +57,12 @@ verið frekar skilgreint og skýrt af umsjónarfólki verkefnis.
 
 ## Fullnusta
 
-Tilvik af ofbeldisfullri , áreitni, eða annarskonar óviðunandi hegðunnar geta
+Tilvik af ofbeldisfullri, áreitni, eða annarskonar óviðunandi hegðunnar geta
 verið tilkynntar með því að hafa samband við verkefnateymi í [NETFANG HÉR].
 Allar kvartanir verða yfirfarnar og rannskaðar og munu leiða til viðbragða sem
 eru talin nauðsynleg og viðeigandi fyrir aðstæður. Verkefnateymi er skylt til að
 halda trúnað er bundið trúnaði við þann sem tilkynnir atvik. Frekari upplýsingar
-um sértækar  framfylgdarstefnur gætu verið tilkynntar sérstaklega.
+um sértækar framfylgdarstefnur gætu verið tilkynntar sérstaklega.
 
 Umsjónarfólk verkefnisins sem fylgir ekki eða framfylgir ekki hegðunarreglum í
 góðri trú getur átt von á tímabundnum eða varanlegum afleiðingum ákveðnum af
