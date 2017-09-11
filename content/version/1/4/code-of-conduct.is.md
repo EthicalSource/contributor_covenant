@@ -23,7 +23,7 @@ Dæmi um hegðun sem stuðlar að jákvæðu umhverfi:
 * Leggja áherslu á það sem er best fyrir samfélagið
 * Sýna öðrum meðlimum samkennd
 
-Dæmi um óviðunandi hegðun þáttakenda:
+Dæmi um óviðunandi hegðun þátttakenda:
 
 * Notkun kynferðislegs máls eða myndmáls og óvelkomin kynferðisleg athygli eða
   áreitni
@@ -43,7 +43,7 @@ sanngjarnar úrbætur í svari við öllum tilvikum óviðunandi hegðunnar.
 Umsjónarfólk verkefnis hefur rétt og ber skylda til að fjarlægja, breyta, eða
 hafna athugasemdum, „commitum“, kóða, wiki breytingum, málum, og öðrum framlögum
 sem ekki eru í takt við þessar hátternisreglur, eða að banna tímabundið eða
-varanlega hvern þann þáttakenda fyrir hverja þá hegðun sem það telur
+varanlega hvern þann þátttakanda fyrir hverja þá hegðun sem það telur
 óviðeigandi, ógnandi, dónalega, eða skaðlega.
 
 ## Umfang
@@ -61,7 +61,7 @@ Tilvik af ofbeldisfullri, áreitni, eða annarskonar óviðunandi hegðunnar get
 verið tilkynntar með því að hafa samband við verkefnateymi í [NETFANG HÉR].
 Allar kvartanir verða yfirfarnar og rannskaðar og munu leiða til viðbragða sem
 eru talin nauðsynleg og viðeigandi fyrir aðstæður. Verkefnateymi er skylt til að
-halda trúnað er bundið trúnaði við þann sem tilkynnir atvik. Frekari upplýsingar
+halda trúnað við þann sem tilkynnir atvik. Frekari upplýsingar
 um sértækar framfylgdarstefnur gætu verið tilkynntar sérstaklega.
 
 Umsjónarfólk verkefnisins sem fylgir ekki eða framfylgir ekki hegðunarreglum í
