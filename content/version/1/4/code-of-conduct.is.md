@@ -27,7 +27,8 @@ Dæmi um óviðunandi hegðun þátttakenda:
 
 * Notkun kynferðislegs máls eða myndmáls og óvelkomin kynferðisleg athygli eða
   áreitni
-* „Trolling“, móðgandi/niðrandi ummæli og persónulegar eða pólitískar árásir
+* Vísvitandi móðgandi/niðrandi ummæli og persónulegar eða pólitískar árásir
+  („trolling“)
 * Áreitni í hvaða formi sem er
 * Útgáfa á persónulegum upplýsingum annara, svo sem eiginlegs eða rafræns
   heimilisfangs án skýrs leyfis
