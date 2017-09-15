@@ -19,7 +19,7 @@ html {
 body {
   background: hsl(288, 80%, 25%);
   color: #000;
-  font: 300 1.25rem/1.875rem Montserrat, sans-serif;
+  font: 300 1.25rem/1.875rem "Metropolis", sans-serif;
   font-synthesis: none;
   -moz-hanging-punctuation: first last allow-end;
   -ms-hanging-punctuation: first last allow-end;
@@ -104,8 +104,8 @@ th {
 
 /* Headers */
 h1 {
-  font-size: 1.25rem;
-  font-weight: 500;
+  font-size: 1rem;
+  font-weight: 600;
   letter-spacing: .125rem;
   line-height: 3rem;
   margin: 1.5rem 0;
@@ -115,7 +115,7 @@ h1 {
 
 h2 {
   font-size: 2rem;
-  font-weight: 400;
+  font-weight: 500;
   line-height: 3rem;
   margin: 1.5rem 0;
 }
@@ -160,7 +160,7 @@ strong {
 
 code,
 kbd {
-  font-family: Montserrat, monospace;
+  font-family: "Metropolis", monospace;
   letter-spacing: .0625rem;
 }
 
@@ -278,10 +278,10 @@ abbr {
 }
 
 header figcaption {
-  font-size: 2.5rem;
-  font-weight: 400;
+  font-size: 2rem;
+  font-weight: 500;
   line-height: 3rem;
-  margin: 1.5rem 0 3rem;
+  margin: 1.5rem 0;
 }
 
 header nav {
