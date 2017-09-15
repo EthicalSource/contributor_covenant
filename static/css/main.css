@@ -91,7 +91,7 @@ table {
 
 th {
   font-size: inherit;
-  font-weight: 400;
+  font-weight: 500;
   padding: 0 1.5rem .75rem 0;
   text-align: left;
 }
@@ -139,7 +139,7 @@ p {
 /* Inline Elements */
 a {
   color: hsl(288, 80%, 25%);
-  font-weight: 400;
+  font-weight: 500;
   text-decoration: none;
   transition: color 125ms, background-color 125ms;
 }
