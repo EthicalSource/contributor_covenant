@@ -243,7 +243,7 @@ abbr {
   font-size: .75rem;
   font-weight: 600;
   line-height: 1rem;
-  margin-left: .125rem;
+  margin-right: .125rem;
   padding: .25rem .25rem .25rem .375rem;
   text-transform: uppercase;
 }
