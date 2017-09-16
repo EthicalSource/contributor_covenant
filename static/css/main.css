@@ -33,6 +33,7 @@ body {
   text-size-adjust: 100%;
 }
 
+header,
 section {
   box-sizing: border-box;
   margin: 0 auto;
@@ -56,11 +57,8 @@ li {
 }
 
 header {
-  background: hsl(288, 80%, 25%);
 /*  border-bottom: .5rem solid hsl(43, 90%, 65%); /* 245deg apart */
   color: #fff;
-  padding: 1.5rem;
-  text-align: center;
 }
 
 footer {
@@ -183,10 +181,11 @@ abbr {
 
 /* Utility Classes */
 .logo {
-  display: block;
-  height: 4.5rem;
-  margin: 0 auto;
-  width: 4.5rem;
+  display: inline-block;
+  height: 3rem;
+  margin-right: .75rem;
+  vertical-align: -.8125rem;
+  width: 3rem;
 }
 
 .error,
@@ -283,11 +282,15 @@ abbr {
   display: inline-block;
 }
 
+header figure {
+  line-height: 3rem;
+  margin-bottom: 1.5rem;
+}
+
 header figcaption {
+  display: inline-block;
   font-size: 2rem;
   font-weight: 500;
-  line-height: 3rem;
-  margin: 1.5rem 0;
 }
 
 header nav {
