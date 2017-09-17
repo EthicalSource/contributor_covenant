@@ -94,6 +94,7 @@ A sample of projects that have adopted the Contributor Covenant:
 - [.NET Foundation](http://www.dotnetfoundation.org/code-of-conduct)
 - [nteract](http://nteract.io/)
 - [OAPI ShieldsUp](https://github.com/oapi/shieldsup)
+- [OpenCAD](https://github.com/StormlightTech/OpenCAD-wiki)
 - [OpenDominion](https://github.com/WaveHack/OpenDominion)
 - [OpenDroneMap](https://github.com/OpenDroneMap/OpenDroneMap)
 - [OpenProject](https://www.openproject.org/)
