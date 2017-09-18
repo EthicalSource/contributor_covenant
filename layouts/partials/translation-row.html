@@ -3,7 +3,7 @@
     {{ partial "file-formats.html" . }}
   </td>
   <td>
-    <a href="{{ .Permalink | absLangURL }}">{{ .Site.Language.LanguageName }}</a>
+    <a href="{{ .Permalink | absLangURL }}">{{ .Language.LanguageName }}</a>
   </td>
   <td>{{ .Params.version }}</td>
 </tr>
