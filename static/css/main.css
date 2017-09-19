@@ -210,8 +210,7 @@ abbr {
   width: 90%;
 }
 
-/* It's hard to add classes in markdown. */
-#adopters section ul {
+.data-list {
   list-style: none;
   -moz-column-count: 2;
   -ms-column-count: 2;
@@ -224,13 +223,11 @@ abbr {
   margin-left: 0;
 }
 
-/*
-.translations tr:not(:hover) .icon {
-  background: #e6e6e6;
-  border-color: #e6e6e6;
-  color: #4d4d4d;
+.data-list li {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
-*/
 
 .translations dt { display: none; }
 
@@ -334,13 +331,6 @@ header nav a:hover {
 
   #veil {
     border-radius: initial;
-  }
-
-  #adopters section ul {
-    -moz-column-count: 1;
-    -ms-column-count: 1;
-    -webkit-column-count: 1;
-    column-count: 1;
   }
 }
 
