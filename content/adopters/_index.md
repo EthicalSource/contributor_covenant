@@ -170,6 +170,7 @@ A sample of projects that have adopted the Contributor Covenant:
 - [Your First PR](https://github.com/yourfirstpr/)
 - [ZoneMinder](https://github.com/ZoneMinder/)
 - [Java Builders Generator](https://github.com/khabali/java-builders-generator)
+- [prance (Resolving Swagger/OpenAPI 2.0 Parser)](https://github.com/jfinkhaeuser/prance)
 
 To add your project to the list, [submit a pull
 request](https://github.com/CoralineAda/contributor_covenant "Contributor Covenant source code").
