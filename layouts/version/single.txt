@@ -1,2 +1,2 @@
 {{- /* Oh dear, this is hacky. */ -}}
-{{ safeHTML ( replaceRE "</?[^>]+>" "" ( replaceRE "<li>([^<]+)</li>" "* $1" ( .RawContent | markdownify ) ) ) }}
+{{ .RawContent | markdownify | replaceRE "<li>([^<]+)</li>" "* $1" | replaceRE "</?[^>]+>" "" | safeHTML }}
