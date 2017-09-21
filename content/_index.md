@@ -32,11 +32,11 @@ Pledge your respect and appreciation for contributors and participants in your o
 
 You can view and download the latest version of the Contributor Covenant here:
 
-- [English (Markdown version)](version/1/4/code-of-conduct/CODE_OF_CONDUCT.md)
-- [English (HTML version)](version/1/4/code-of-conduct/)
-- [English (text version)](version/1/4/code-of-conduct/CODE_OF_CONDUCT.txt)
+- [English (Markdown version)]({{< ref "/version/1/4/code-of-conduct.md" "markdown" >}})
+- [English (HTML version)]({{< ref "/version/1/4/code-of-conduct.md" >}})
+- [English (text version)]({{< ref "/version/1/4/code-of-conduct.md" "plaintext" >}})
 
-For translations of the Contributor Covenant, please see our [translations page](/translations/).
+For translations of the Contributor Covenant, please see our [translations page]({{< ref "translations.md" >}}).
 
 The Contributor Covenant uses semantic versioning for revisions so all URLs are permanent.
 {{< previous-versions >}}
@@ -96,7 +96,7 @@ Some resources useful for thinking about enforcement:
 
 This code of conduct has already been adopted by over [15,000 open source projects](https://github.com/search?l=&q=%22This+Code+of+Conduct+is+adapted+from+the+%5BContributor+Covenant%5D%22+path%3A%22%2F%22+fork%3Afalse&ref=advsearch&type=Code).
 Here are just a few major projects using the Contributor Covenant.
-[See this page for more](adopters/ "Other adopters of the Contributor Covenant").
+[See this page for more]({{< ref "adopters.md" >}} "Other adopters of the Contributor Covenant").
 
 {{< data-list "data/featured-adopters.csv" >}}
 
