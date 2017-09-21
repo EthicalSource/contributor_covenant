@@ -72,6 +72,6 @@ veri, se lahko soočijo z začasnimi ali trajnimi posledicami, ki jih določijo 
 ## Dodelitev
 
 Ta kodeks ravnanja je prilagojen glede na [Zvezo sodelavcev][homepage], verzije 1.4,
-ki je na voljo na https://www.contributor-covenant.org/sl/version/1/4/code-of-conduct/
+ki je na voljo na https://www.contributor-covenant.org/sl/version/1/4/code-of-conduct.html
 
 [homepage]: https://www.contributor-covenant.org

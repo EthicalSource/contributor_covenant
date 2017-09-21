@@ -47,6 +47,6 @@ aliases = ["/version/1/4/kn"]
 
 ## ಆಟ್ರಿಬ್ಯೂಷನ್
 
-ಈ ನೀತಿ ಸಂಹಿತೆಯು [ಕೊಡುಗೆದಾರರ ಒಪ್ಪಂದ][ಮುಖಪುಟ], ವರ್ಷನ 1.4, ಇಂದ ಅಳವಡಿಸಲ್ಪಟ್ಟಿದೆ ಮತ್ತು https://www.contributor-covenant.org/kn/version/1/4/code-of-conduct/ ನಲ್ಲಿ ಲಭ್ಯವಿದೆ.
+ಈ ನೀತಿ ಸಂಹಿತೆಯು [ಕೊಡುಗೆದಾರರ ಒಪ್ಪಂದ][ಮುಖಪುಟ], ವರ್ಷನ 1.4, ಇಂದ ಅಳವಡಿಸಲ್ಪಟ್ಟಿದೆ ಮತ್ತು https://www.contributor-covenant.org/kn/version/1/4/code-of-conduct.html ನಲ್ಲಿ ಲಭ್ಯವಿದೆ.
 
 [ಮುಖಪುಟ]: https://www.contributor-covenant.org

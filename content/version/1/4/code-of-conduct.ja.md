@@ -69,7 +69,7 @@ aliases = ["/version/1/4/ja"]
 ## 帰属
 
 この行動規範は
-https://www.contributor-covenant.org/version/1/4/code-of-conduct/ にある
+https://www.contributor-covenant.org/version/1/4/code-of-conduct.html にある
 [Contributor Covenant][homepage] バージョン 1.4 に適合しています。
 
 [homepage]: https://www.contributor-covenant.org

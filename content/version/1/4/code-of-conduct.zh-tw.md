@@ -50,6 +50,6 @@ aliases = ["/version/1/4/tw"]
 ## 來源
 
 本行為準則改編自[貢獻者公約][首頁]，版本 1.4
-可在此觀看https://www.contributor-covenant.org/zh-tw/version/1/4/code-of-conduct/
+可在此觀看https://www.contributor-covenant.org/zh-tw/version/1/4/code-of-conduct.html
 
 [首頁]: https://www.contributor-covenant.org

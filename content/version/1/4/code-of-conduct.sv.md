@@ -74,6 +74,6 @@ medlemmar av projektets ledning.
 ## Attribuering
 
 Denna Uppförandekod är anpassad efter [Contributor Covenant][hemsida],
-version 1.4, tillgänglig på https://www.contributor-covenant.org/sv/version/1/4/code-of-conduct/
+version 1.4, tillgänglig på https://www.contributor-covenant.org/sv/version/1/4/code-of-conduct.html
 
 [hemsida]: https://www.contributor-covenant.org

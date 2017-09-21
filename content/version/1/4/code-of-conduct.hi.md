@@ -73,6 +73,6 @@ aliases = ["/version/1/4/hi"]
 ## रोपण
 
 इस आचार संहिता [योगदानकर्ता वाचा] [मुखपृष्ठ], संस्करण 1.4 से अनुकूलित है,
-पर उपलब्ध https://www.contributor-covenant.org/hi/version/1/4/code-of-conduct/
+पर उपलब्ध https://www.contributor-covenant.org/hi/version/1/4/code-of-conduct.html
 
 [मुखपृष्ठ]: https://www.contributor-covenant.org

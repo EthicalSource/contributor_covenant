@@ -74,6 +74,6 @@ aliases = ["/version/1/4/el"]
 
 Αυτός ο κώδικας δεοντολογίας έχει προσαρμοστεί από το
 «[Contributor Covenant][οικοσελίδα]», με αριθμό έκδοσης 1.4, διαθέσιμο από
-<https://www.contributor-covenant.org/el/version/1/4/code-of-conduct/>.
+<https://www.contributor-covenant.org/el/version/1/4/code-of-conduct.html>.
 
 [οικοσελίδα]: https://www.contributor-covenant.org

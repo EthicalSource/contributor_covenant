@@ -70,6 +70,6 @@ alţi membrii din conducerea proiectului.
 ## Afiliere
 
 Acest Cod de Conduită este adaptat conform [Codului de Conduită al Contributorului]  
-[homepage], versiunea 1.4, disponibil la https://www.contributor-covenant.org/ro/version/1/4/code-of-conduct/
+[homepage], versiunea 1.4, disponibil la https://www.contributor-covenant.org/ro/version/1/4/code-of-conduct.html
 
 [homepage]: https://www.contributor-covenant.org

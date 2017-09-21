@@ -51,4 +51,4 @@ Os administradores são obrigados a manter a confidencialidade em relação
 ao elemento que reportou o incidente.
 
 Este Código de Conduta é adaptado do [Contributor Covenant](https://www.contributor-covenant.org),
-versão 1.3.0, disponível em https://www.contributor-covenant.org/pt-br/version/1/3/0/code-of-conduct/
+versão 1.3.0, disponível em https://www.contributor-covenant.org/pt-br/version/1/3/0/code-of-conduct.html

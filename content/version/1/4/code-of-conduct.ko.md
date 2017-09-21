@@ -61,7 +61,7 @@ aliases = ["/version/1/4/ko"]
 ## 참고
 
 이 행동 강령은 [기여자 규약][homepage] 의 1.4 버전을 변형하였습니다. 그 내용은
-https://www.contributor-covenant.org/ko/version/1/4/code-of-conduct/ 에서
+https://www.contributor-covenant.org/ko/version/1/4/code-of-conduct.html 에서
 확인할 수 있습니다.
 
 [homepage]: https://www.contributor-covenant.org

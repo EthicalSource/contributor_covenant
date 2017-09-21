@@ -72,6 +72,6 @@ aliases = ["/version/1/4/uk"]
 ## Посилання
 
 Цей Кодекс поведінки заснований на [Пакті про участь][homepage], версії 1.4,
-що знаходиться за адресою https://www.contributor-covenant.org/uk/version/1/4/code-of-conduct/
+що знаходиться за адресою https://www.contributor-covenant.org/uk/version/1/4/code-of-conduct.html
 
 [homepage]: https://www.contributor-covenant.org
