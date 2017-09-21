@@ -37,11 +37,11 @@
         <nav id="navigation">
           <ul>
             <li><a href="/">Home</a></li>
-            <li><a href="/adopters/">Adopters</a></li>
+            <li><a href="{{ ref . "adopters.md" }}">Adopters</a></li>
             {{- range last 1 (where $.Site.RegularPages "Section" "version") -}}
             <li><a href="{{ .Permalink | absLangURL }}">Latest&nbsp;Version</a></li>
             {{- end -}}
-            <li><a href="/translations/">Translations</a></li>
+            <li><a href="{{ ref . "translations.md" }}">Translations</a></li>
           </ul>
         </nav>
       </header>
