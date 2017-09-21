@@ -47,4 +47,4 @@ Održavatelji projekta koji ne prate ili primijene ovaj kodeks ponašanja mogu b
 
 ## Pripisivanje
 
-Ovaj kodeks ponašanja je preuzet iz [Contributor Covenant](https://www.contributor-covenant.org), verzija 1.4, dostupan na https://www.contributor-covenant.org/bs/version/1/4/code-of-conduct/
+Ovaj kodeks ponašanja je preuzet iz [Contributor Covenant](https://www.contributor-covenant.org), verzija 1.4, dostupan na https://www.contributor-covenant.org/bs/version/1/4/code-of-conduct.html

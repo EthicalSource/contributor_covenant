@@ -68,6 +68,6 @@ aliases = ["/version/1/4/bn"]
 ## অধ্যাস
 
 এই আচরনবিধি [Contributor Covenant][homepage], version 1.4 থেকে উদ্ভূত হয়েছে,
-এখানে পাওয়া যাবে https://www.contributor-covenant.org/bn/version/1/4/code-of-conduct/
+এখানে পাওয়া যাবে https://www.contributor-covenant.org/bn/version/1/4/code-of-conduct.html
 
 [homepage]: https://www.contributor-covenant.org

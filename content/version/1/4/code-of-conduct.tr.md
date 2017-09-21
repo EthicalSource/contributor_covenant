@@ -68,6 +68,6 @@ karşı geçici veya kalıcı yaptırımlar uygulayabilir.
 ## Kaynak
 
 Bu Topluluk Sözleşmesi, [Contributor Covenant][homepage] 1.4 sürümünden çevrilmiştir,
-aslına bu adresten erişebilirsiniz https://www.contributor-covenant.org/tr/version/1/4/code-of-conduct/
+aslına bu adresten erişebilirsiniz https://www.contributor-covenant.org/tr/version/1/4/code-of-conduct.html
 
 [homepage]: https://www.contributor-covenant.org

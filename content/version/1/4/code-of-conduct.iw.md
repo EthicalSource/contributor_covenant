@@ -60,6 +60,6 @@ aliases = ["/version/1/4/iw"]
 ## יחוס
 
 קוד התנהגות זה מותאם מאמנת התורם, גרסה 1.4, 
-הזמינה ב https://www.contributor-covenant.org/iw/version/1/4/code-of-conduct/
+הזמינה ב https://www.contributor-covenant.org/iw/version/1/4/code-of-conduct.html
 
 [homepage]: https://www.contributor-covenant.org

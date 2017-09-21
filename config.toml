@@ -3,11 +3,12 @@ baseURL = "https://www.contributor-covenant.org"
 languageCode = "en-us"
 title = "Contributor Covenant"
 disableKinds = ["RSS"]
-disablePathToLower = true # Gotta have dat CODE_OF_CONDUCT.xxx
 
 DefaultContentLanguage = "en"
 hasCJKLanguage = true
 EnableMissingTranslationPlaceholders = true
+
+uglyURLs = true
 
 googleAnalytics = "UA-56802475-1"
 
@@ -15,19 +16,14 @@ googleAnalytics = "UA-56802475-1"
 [mediaTypes."text/markdown"]
 suffix = "md"
 
-[mediaTypes."text/plain"]
-suffix = "txt"
-
 [outputFormats]
 [outputFormats.Markdown]
 mediaType = "text/markdown"
 isPlainText = true
-basename = "CODE_OF_CONDUCT"
 
 [outputFormats.PlainText]
 mediaType = "text/plain"
 isPlainText = true
-basename = "CODE_OF_CONDUCT"
 
 [outputs]
 home = ["html"]

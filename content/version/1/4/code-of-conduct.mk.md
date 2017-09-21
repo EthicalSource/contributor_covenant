@@ -46,6 +46,6 @@ aliases = ["/version/1/4/mk"]
 ## Припишување
 
 Овој кодекс на однесување е прилагоден од [Contributor Covenant][homepage], верзија 1.4,
-достапна на https://www.contributor-covenant.org/mk/version/1/4/code-of-conduct/
+достапна на https://www.contributor-covenant.org/mk/version/1/4/code-of-conduct.html
 
 [homepage]: https://www.contributor-covenant.org

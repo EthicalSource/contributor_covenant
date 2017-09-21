@@ -51,4 +51,4 @@ aliases = ["/version/1/3/0/ru"]
 
 Кодекс Поведения основан на [Contributor Covenant](https://www.contributor-covenant.org),
 версия 1.3.0, доступна на
-https://www.contributor-covenant.org/ru/version/1/3/0/code-of-conduct/
+https://www.contributor-covenant.org/ru/version/1/3/0/code-of-conduct.html
