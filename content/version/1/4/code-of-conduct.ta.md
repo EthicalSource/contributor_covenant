@@ -1,6 +1,6 @@
 +++
 version = "1.4"
-aliases = ["/version/1/4/sv"]
+aliases = ["/version/1/4/ta"]
 +++
 
 # பங்களிப்பாளர் ஒப்பந்தம்: நடத்தை விதி
