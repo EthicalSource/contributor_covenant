@@ -29,6 +29,11 @@ isPlainText = true
 home = ["html"]
 page = ["html", "markdown", "plaintext"]
 
+# https://gohugo.io/getting-started/configuration/#configure-blackfriday
+[blackfriday]
+  plainIDAnchors = true
+  hrefTargetBlank = true
+
 # Add all translated languages here.
 [Languages]
 [Languages.bn]
