@@ -1,6 +1,11 @@
 1.2.0
-
 - Adds language to introductory paragraph stating the purpose of including a code of conduct
 - Additional examples of unacceptable behavior
 - Stronger language regarding enforcement, including explicit commitment by maintainers
 to fairly and consistently enforce the code of conduct
+
+1.3.0
+- Adds language specifying that project maintainers may exclude participants for
+inappropriate conduct that falls outside of the scope of the CoC
+- Specifies investigation procedure and emphasizes anonymity of reporter
+- Placeholder for contacting project admins
