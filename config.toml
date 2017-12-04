@@ -16,6 +16,9 @@ googleAnalytics = "UA-56802475-1"
 [mediaTypes."text/markdown"]
 suffix = "md"
 
+[mediaTypes."text/asciidoc"]
+suffix = "adoc"
+
 [outputFormats]
 [outputFormats.Markdown]
 mediaType = "text/markdown"
@@ -25,9 +28,13 @@ isPlainText = true
 mediaType = "text/plain"
 isPlainText = true
 
+[outputFormats.AsciiDoc]
+mediaType = "text/asciidoc"
+isPlainText = true
+
 [outputs]
 home = ["html"]
-page = ["html", "markdown", "plaintext"]
+page = ["html", "markdown", "plaintext", "asciidoc"]
 
 # Add all translated languages here.
 [Languages]

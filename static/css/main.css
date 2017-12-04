@@ -252,6 +252,10 @@ abbr {
   background: hsl(42, 80%, 50%);
 }
 
+.icon-adoc {
+  background: hsl(201, 80%, 35%);
+}
+
 .icon:hover {
   background-color: hsl(288, 80%, 35%);
   color: #fff;
@@ -263,6 +267,10 @@ abbr {
 
 .icon-txt:hover {
   background: hsl(42, 80%, 60%);
+}
+
+.icon-adoc:hover {
+  background: hsl(201, 80%, 45%);
 }
 
 .formats {
