@@ -80,6 +80,10 @@ languageCode = "hi"
 languageName = "Magyar"
 languageCode = "hu"
 
+[Languages.id]
+languageName = "Indonesia"
+languageCode = "id"
+
 [Languages.is]
 languageName = "Íslenska"
 languageCode = "is"
