@@ -7,13 +7,6 @@ aliases = ["/version/1/4"]
 
 ## Janji Kami
 
-In the interest of fostering an open and welcoming environment, we as
-contributors and maintainers pledge to making participation in our project and
-our community a harassment-free experience for everyone, regardless of age, body
-size, disability, ethnicity, gender identity and expression, level of experience,
-education, socio-economic status, nationality, personal appearance, race,
-religion, or sexual identity and orientation.
-
 Dalam minat kami untuk membuat lingkungan yang terbuka dan ramah, kami sebagai 
 kontributor dan pengelola berjanji untuk membuat partisipasi dalam proyek kami
 dan komunitas kami bebas dari pelecehan untuk semua orang, tanap memandang usia,
@@ -34,28 +27,28 @@ yang positif meliputi :
 
 Contoh perilaku yang tidak dapat diterima oleh partisipan meliputi :
 
-* The use of sexualized language or imagery and unwelcome sexual attention or
-  advances
-* Trolling, insulting/derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or electronic
-  address, without explicit permission
+* Penggunaan bahasa atau citra seksual dan perhatian seksual yang tidak diinginkan.
+* Trolling, komentar menghina, dan serangan terhadap individual atau pandangan politik.
+* Pelecahan umum atau pribadi
+* Menerbitkan informasi pribadi orang lain, seperti alamat fisik atau elektronik,
+tanpa izin.
+* Perilaku lain yang dapat dianggap tidak sesuai dalam pengaturan profesional
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
 
-## Our Responsibilities
+## Responsibilitas Kami
 
-Project maintainers are responsible for clarifying the standards of acceptable
-behavior and are expected to take appropriate and fair corrective action in
-response to any instances of unacceptable behavior.
+Pengelola proyek bertanggung jawab untuk mengklarifikasi standar perilaku
+yang dapat diterima dan diharapkan untuk melakukan tindakan korektif yang tepat
+dan adil di Indonesia menanggapi kasus perilaku yang tidak dapat diterima.
 
-Project maintainers have the right and responsibility to remove, edit, or
-reject comments, commits, code, wiki edits, issues, and other contributions
-that are not aligned to this Code of Conduct, or to ban temporarily or
-permanently any contributor for other behaviors that they deem inappropriate,
-threatening, offensive, or harmful.
+Pengelola proyek mempunyai hak dan responsibilitas untuk menghapus, mengedit atau
+menolak komentar, commit, kode, suntingan wiki, masalah dan kontribusi lainnya
+yang tidak sesuai dengan Kode Etik ini, atau untuk melarang sementara
+atau secara permanen kontributor untuk perilaku lain yang mereka anggap tidak tepat,
+mengancam, menyinggung atau berbahaya.
 
-## Scope
+## Cakupan
 
 This Code of Conduct applies both within project spaces and in public spaces
 when an individual is representing the project or its community. Examples of
