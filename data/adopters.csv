@@ -10,9 +10,11 @@ APInf, https://github.com/apinf/platform
 angular-formly, https://github.com/formly-js/angular-formly
 Asqatasun, https://github.com/Asqatasun/Asqatasun
 Atom, https://github.com/atom/atom
+AVA, https://github.com/avajs/ava
 Babel, https://github.com/babel/babel
 Baleen Migrations, https://github.com/baleen/migrations
 Baleen CLI, https://github.com/baleen/cli
+Begynner, https://github.com/marcker/begynner
 Bionode, http://bionode.io
 Bridge.NET, http://bridge.net
 c-3po, https://c-3po.js.org
@@ -20,6 +22,7 @@ Cake, http://cakebuild.net
 Calypso (WordPress.com), https://github.com/Automattic/wp-calypso
 Celluloid, https://github.com/celluloid/celluloid
 Cesium, https://github.com/AnalyticalGraphicsInc/cesium
+Chalk, https://github.com/chalk/chalk
 Changelog.com, https://changelog.com/
 Checkstyle for Haxe, https://github.com/HaxeCheckstyle/haxe-checkstyle
 chef-rvm, https://github.com/fnichol/chef-rvm
@@ -29,6 +32,7 @@ CocoaPods, https://github.com/cocoapods/cocoapods
 CodeBuddies, https://github.com/codebuddiesdotorg/cb-v2-scratch
 composer, https://github.com/composer/composer
 concurrent-ruby, https://github.com/ruby-concurrency/concurrent-ruby
+conduct, https://github.com/sindresorhus/conduct
 Contrast-Finder, https://github.com/Asqatasun/Contrast-Finder
 Crackle, https://github.com/jordanekay/Crackle
 Crystal, https://github.com/manastech/crystal
@@ -64,6 +68,7 @@ HaskellNow.org, http://www.haskellnow.org/wiki/WikiStart#Projects
 HealingRa.in Projects, https://gitlab.com/groups/healing-rain
 Holidays, https://github.com/holidays/holidays
 Homebrew-Cask, https://github.com/caskroom/homebrew-cask
+Hotels.com, https://github.com/HotelsDotCom
 HTTPotion, https://github.com/myfreeweb/httpotion
 if me, https://github.com/julianguyen/ifme
 iText, http://itextpdf.com/
@@ -73,6 +78,7 @@ Jenkins, https://jenkins-ci.org/conduct/
 Johnny-Five, https://github.com/rwaldron/johnny-five
 JRuby, https://github.com/jruby/jruby/
 JRuby Gradle, https://github.com/jruby-gradle/jruby-gradle-plugin
+json-rpc, https://github.com/pavlov99/json-rpc
 Kickoff, https://github.com/TryKickoff/kickoff/
 Kong, https://github.com/mashape/kong/
 Kubernetes, https://github.com/kubernetes/kubernetes/
@@ -103,12 +109,14 @@ Pash, https://github.com/Pash-Project/Pash
 PatternFly, https://github.com/patternfly/patternfly
 Perfect, https://github.com/PerfectlySoft/Perfect
 Pexip - Video Conferencing SDK, https://github.com/pexip/pexkit-sdk
+pg_chameleon - MySQL to PostgreSQL replica, https://github.com/the4thdoctor/pg_chameleon
 pimutils, https://pimutils.org/coc
 PiVPN, https://github.com/pivpn/pivpn
 Pixi.js Haxe Externs, https://github.com/pixijs/pixi-haxe
 Playscii, http://vectorpoem.com/playscii
 pmap, https://github.com/bruceadams/pmap
 PRAW, https://github.com/praw-dev/praw
+Pre-filled repository, https://github.com/GuglielmoPepe/pre-filled-repository
 Pressbooks, https://github.com/pressbooks/pressbooks
 ProcessIterator, https://github.com/console-helpers/process-iterator
 PyBBIO, https://github.com/graycatlabs/PyBBIO
@@ -161,6 +169,7 @@ Vox Pupuli, https://voxpupuli.org/
 Vue.js, https://github.com/vuejs/vue
 WAI-request-spec, https://gitlab.com/cpp.cabrera/wai-request-spec
 Waud, https://github.com/adireddy/waud
+XO, https://github.com/sindresorhus/xo
 xoreos, https://github.com/xoreos/xoreos
 yargs, https://github.com/bcoe/yargs
 Your First PR, https://github.com/yourfirstpr/
