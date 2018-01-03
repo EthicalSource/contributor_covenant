@@ -1,0 +1,22 @@
+{{ define "main" }}
+<section>
+  <h2>{{ .Title }}</h2>
+  <p>{{ .Description }}</p>
+  <table class="translations">
+    <thead>
+      <tr>
+        <th>Formats</th><th>Language</th><th>Version</th>
+      </tr>
+    </thead>
+    <tbody>
+    {{ range last 1 (where $.Site.RegularPages "Section" "version") }}
+    {{ partial "translation-row.html" . }}
+    {{ range .Translations }}
+    {{ partial "translation-row.html" . }}
+    {{ end }}
+    {{ end }}
+    </tbody>
+  </table>
+  {{ .Content }}
+</section>
+{{ end }}

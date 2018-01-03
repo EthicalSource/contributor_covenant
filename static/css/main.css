@@ -1,0 +1,344 @@
+/*
+  Color palette. Make shades by varying lightness.
+  Purple: hsl(288, 80%, 25%) 
+  Green:  hsl(158, 80%, 20%)
+  Yellow: hsl(42, 80%, 50%)
+  Red:    hsl(338, 100%, 40%)
+*/
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* Primary Elements */
+html {
+  height: 100%;
+}
+
+body {
+  background: hsl(288, 80%, 25%);
+  color: #000;
+  font: 300 1.25rem/1.875rem "Metropolis", sans-serif;
+  font-synthesis: none;
+  -moz-hanging-punctuation: first last allow-end;
+  -ms-hanging-punctuation: first last allow-end;
+  -webkit-hanging-punctuation: first last allow-end;
+  hanging-punctuation: first last allow-end;
+  min-height: 100%;
+  padding: 1.5rem;
+  -moz-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+header,
+section {
+  box-sizing: border-box;
+  margin: 0 auto;
+  max-width: 47rem;
+  padding: 1.5rem;
+}
+
+ul,
+ol {
+  list-style-position: outside;
+  margin: 1.5rem 0 1.5rem 1.5rem;
+}
+
+[dir="rtl"] ul,
+[dir="rtl"] ol {
+  margin: 1.5rem 1.5rem 1.5rem 0;
+}
+
+li {
+  margin-bottom: .375rem;
+}
+
+header {
+/*  border-bottom: .5rem solid hsl(43, 90%, 65%); /* 245deg apart */
+  color: #fff;
+}
+
+footer {
+  font-size: .875rem;
+  text-align: center;
+  padding: 1.5rem;
+}
+
+footer p {
+  text-align: center;
+}
+
+blockquote {
+  border-left: .25rem solid hsl(43, 90%, 65%);
+  border-left: .25rem solid hsl(288, 80%, 25%);
+  padding-left: 1.25rem;
+}
+
+pre {
+  padding-left: 1.5rem;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+}
+
+th {
+  font-size: inherit;
+  font-weight: 500;
+  padding: 0 1.5rem .75rem 0;
+  text-align: left;
+}
+
+td,
+th {
+  vertical-align: initial;
+  white-space: nowrap;
+}
+
+/* Headers */
+h1 {
+  font-size: 1rem;
+  font-weight: 600;
+  letter-spacing: .125rem;
+  line-height: 3rem;
+  margin: 1.5rem 0;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 3rem;
+  margin: 1.5rem 0;
+}
+
+* + h2 {
+  margin-top: 3rem;
+}
+
+h4 {
+  font-weight: normal;
+}
+
+p {
+  -moz-hyphens: auto;
+  -ms-hyphens: auto;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+  margin: 1.5rem 0;
+}
+
+/* Inline Elements */
+a {
+  color: hsl(288, 80%, 25%);
+  font-weight: 500;
+  text-decoration: none;
+  transition: color 125ms, background-color 125ms;
+}
+
+a:focus,
+a:hover {
+  color: hsl(288, 80%, 45%);
+}
+
+a span {
+  color: #000;
+  font-weight: 300;
+}
+
+strong {
+  font-weight: 400;
+}
+
+code,
+kbd {
+  font-family: "Metropolis", monospace;
+  letter-spacing: .0625rem;
+}
+
+cite {
+  font-style: italic;
+}
+
+cite::before {
+  content: "— ";
+}
+
+abbr {
+  text-decoration: none;
+}
+
+#veil {
+  background: #fff;
+  border-radius: .25rem;
+}
+
+/* Utility Classes */
+.logo {
+  display: inline-block;
+  height: 3rem;
+  margin-right: .75rem;
+  vertical-align: -.8125rem;
+  width: 3rem;
+}
+
+.error,
+.important {
+  color: hsl(338, 100%, 40%);
+  font-weight: 600;
+}
+
+.translations td {
+  padding-right: 1.5rem;
+}
+
+.translations td:first-child {
+  vertical-align: middle;
+}
+
+.translations tr > :last-child {
+  text-align: right;
+}
+
+.translations td:nth-last-child(2) {
+  width: 90%;
+}
+
+.data-list {
+  list-style: none;
+  -moz-column-count: 2;
+  -ms-column-count: 2;
+  -webkit-column-count: 2;
+  column-count: 2;
+  -moz-column-fill: balance;
+  -ms-column-fill: balance;
+  -webkit-column-fill: balance;
+  column-fill: balance;
+  margin-left: 0;
+}
+
+.data-list li {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.translations dt { display: none; }
+
+.icon {
+  background: hsl(288, 80%, 25%);
+  border-radius: .25rem;
+  color: #fff;
+  display: inline-block;
+  font-size: .75rem;
+  font-weight: 600;
+  line-height: 1rem;
+  margin-right: .125rem;
+  padding: .25rem .25rem .25rem .375rem;
+  text-transform: uppercase;
+}
+
+.icon-md {
+  background: hsl(158, 80%, 20%);
+}
+
+.icon-txt {
+  background: hsl(42, 80%, 50%);
+}
+
+.icon-adoc {
+  background: hsl(201, 80%, 35%);
+}
+
+.icon:hover {
+  background-color: hsl(288, 80%, 35%);
+  color: #fff;
+}
+
+.icon-md:hover {
+  background: hsl(158, 80%, 30%);
+}
+
+.icon-txt:hover {
+  background: hsl(42, 80%, 60%);
+}
+
+.icon-adoc:hover {
+  background: hsl(201, 80%, 45%);
+}
+
+.formats {
+  font-size: .625rem;
+  font-weight: 600;
+  letter-spacing: .125rem;
+  line-height: .625rem;
+  text-align: center;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+.formats > * {
+  display: inline-block;
+}
+
+header figure {
+  line-height: 3rem;
+  margin-bottom: 1.5rem;
+}
+
+header figcaption {
+  display: inline-block;
+  font-size: 2rem;
+  font-weight: 500;
+}
+
+header nav {
+}
+
+header nav ul {
+  list-style-type: none;
+  margin: 0;
+}
+
+header nav li {
+  display: inline;
+}
+
+header nav li {
+  margin: 0 1.5rem 0 0;
+}
+
+header nav li:last-child {
+  margin-right: 0;
+}
+
+header nav a {
+  color: #fff;
+  font-weight: 500;
+}
+
+header nav a:focus,
+header nav a:hover {
+  color: hsl(288, 75%, 85%);
+}
+
+@media (max-width: 640px) {
+  html {
+    font-size: .75rem;
+  }
+
+  body {
+    padding: 1.5rem 0;
+  }
+
+  #veil {
+    border-radius: initial;
+  }
+}
+
