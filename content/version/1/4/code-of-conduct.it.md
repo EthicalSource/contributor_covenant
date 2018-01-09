@@ -31,7 +31,7 @@ Esempi di comportamento inaccettabile:
 personali o di ordine politico
 * Molestie pubbliche o private
 * Pubblicazione di informazioni private di un individuo, quali l'indirizzo 
-reale e/o elettronico, senza l'esplicito consenso
+fisico e/o elettronico, senza l'esplicito consenso
 * Altre condotte che potrebbero essere ragionevolmente considerate 
 inappropriate in un ambiente professionale
 
