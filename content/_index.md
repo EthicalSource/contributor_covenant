@@ -54,6 +54,8 @@ npm install -g covgen
 covgen <your_email_address>
 ```
 
+If you have npm 5.x installed you can run `npx covgen <your_email_address>` instead of installing globally.
+
 For subsequent projects, simply repeat the second command.
 
 You may want to add language similar to this to introduce your code of conduct:
