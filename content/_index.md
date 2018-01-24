@@ -4,7 +4,7 @@ title = "A Code of Conduct for Open Source Projects"
 
 ## A Code of Conduct for Open Source Projects
 
-Open Source has always been a foundation of the Internet, and with the advent of social open source networks this is more true than ever. 
+Open Source has always been a foundation of the Internet, and with the advent of social open source networks this is more true than ever.
 But free, libre, and open source projects suffer from a startling lack of diversity, with dramatically low representation by women, people of color, and other marginalized populations.
 
 Part of this problem lies with the very structure of some projects: the use of insensitive language, thoughtless use of pronouns, assumptions of gender, and even sexualized or culturally insensitive names.
@@ -110,6 +110,7 @@ Here are just a few major projects using the Contributor Covenant.
 - [curl](https://github.com/bagder/curl)
 - [Diaspora](http://github.com/diaspora/diaspora)
 - [Discourse](https://github.com/discourse/discourse)
+- [Dotnet Foundation](http://www.dotnetfoundation.org/code-of-conduct)
 - [Eclipse](https://eclipse.org)
 - [Electron](https://github.com/electron/electron)
 - [Elixir](https://github.com/elixir-lang/elixir)
