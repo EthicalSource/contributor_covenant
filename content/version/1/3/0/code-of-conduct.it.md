@@ -1,5 +1,6 @@
 +++
 version = "1.3"
+aliases = ["/version/1/3/0/it"]
 +++
 
 # Codice di Comportamento del Collaboratore
@@ -25,4 +26,4 @@ Questo Codice di Comportamento è applicabile sia al progetto online che agli sp
 
 Casi di comportamento ingiurioso, molesto o altrimenti inaccettabile possono essere riportati contattando il responsabile del progetto tramite [INSERIRE INDIRIZZO EMAIL]. Tutti i reclami saranno revisionati ed indagati e risulteranno in una risposta ritenuta necessaria ed appropriata alle circostanze. I responsabili sono obbligati a manterere riserbo rispetto a chi riporta un caso.
 
-Questo Codice di Comportamento è adattato da [Contributor Covenant](https://www.contributor-covenant.org), versione 1.3.0, disponibile presso [https://www.contributor-covenant.org/version/1/3/0/it](https://www.contributor-covenant.org/version/1/3/0/it)
+Questo Codice di Comportamento è adattato da [Contributor Covenant](https://www.contributor-covenant.org), versione 1.3.0, disponibile presso https://www.contributor-covenant.org/it/version/1/3/0/code-of-conduct.html

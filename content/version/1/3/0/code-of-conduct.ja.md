@@ -1,5 +1,6 @@
 +++
 version = "1.3"
+aliases = ["/version/1/3/0/ja"]
 +++
 
 # コントリビュータの行動規範
@@ -42,6 +43,6 @@ version = "1.3"
 すべての苦情はレビュー、調査され、状況に応じて必要かつ適切と判断された
 対応を取ります。メンテナは報告者についての守秘義務を有します。
 
-この行動規範は、https://www.contributor-covenant.org/version/1/3/0/ja/ で公開
-されている [コントリビュータ協定](https://www.contributor-covenant.org) バー
-ジョン 1.3.0 に適合しています。
+この行動規範は、https://www.contributor-covenant.org/ja/version/1/3/0/code-of-conduct.html
+で公開 されている [コントリビュータ協定](https://www.contributor-covenant.org)
+バー ジョン 1.3.0 に適合しています。

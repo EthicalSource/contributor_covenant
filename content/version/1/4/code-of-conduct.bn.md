@@ -1,5 +1,6 @@
 +++
 version = "1.4"
+aliases = ["/version/1/4/bn"]
 +++
 
 # কনট্রিবিউটরদের আচরনবিধি
@@ -67,7 +68,6 @@ version = "1.4"
 ## অধ্যাস
 
 এই আচরনবিধি [Contributor Covenant][homepage], version 1.4 থেকে উদ্ভূত হয়েছে,
-এখানে পাওয়া যাবে [https://www.contributor-covenant.org/version/1/4][version]
+এখানে পাওয়া যাবে https://www.contributor-covenant.org/bn/version/1/4/code-of-conduct.html
 
 [homepage]: https://www.contributor-covenant.org
-[version]: https://www.contributor-covenant.org/version/1/4/

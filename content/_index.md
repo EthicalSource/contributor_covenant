@@ -32,15 +32,14 @@ Pledge your respect and appreciation for contributors and participants in your o
 
 You can view and download the latest version of the Contributor Covenant here:
 
-- [English (Markdown version)](version/1/4/code-of-conduct/CODE_OF_CONDUCT.md)
-- [English (HTML version)](version/1/4/code-of-conduct/)
-- [English (text version)](version/1/4/code-of-conduct/CODE_OF_CONDUCT.txt)
+- [English (Markdown version)]({{< ref "/version/1/4/code-of-conduct.md" "markdown" >}})
+- [English (HTML version)]({{< ref "/version/1/4/code-of-conduct.md" >}})
+- [English (text version)]({{< ref "/version/1/4/code-of-conduct.md" "plaintext" >}})
 
-For translations of the Contributor Covenant, please see our [translations page](/translations/).
+For translations of the Contributor Covenant, please see our [translations page]({{< ref "translations.md" >}}).
 
 The Contributor Covenant uses semantic versioning for revisions so all URLs are permanent.
-Previous versions are available here: [1.0](/version/1/0/0/code-of-conduct/), [1.1](/version/1/1/0/code-of-conduct/), [1.2](/version/1/2/0/code-of-conduct/), and [1.3](/version/1/3/0/code-of-conduct/)
-
+{{< previous-versions >}}
 
 ## Using the Contributor Covenant
 
@@ -54,6 +53,8 @@ Assuming that you have [Node.js](https://nodejs.org/en/ "Node.js Homepage") inst
 npm install -g covgen
 covgen <your_email_address>
 ```
+
+If you have npm 5.x installed you can run `npx covgen <your_email_address>` instead of installing globally.
 
 For subsequent projects, simply repeat the second command.
 
@@ -90,66 +91,17 @@ Some resources useful for thinking about enforcement:
 - [Community Safety and Accountability](http://safetyfirstpdx.org)
 - [Enforcing Your Code of Conduct: Effective Incident Response](http://www.slideshare.net/aeschright/enforcing-your-code-of-conduct-effective-incident-response)
 - [Django Code of Conduct Enforcement Manual](https://www.djangoproject.com/conduct/enforcement-manual/)
-- [jQuery Foundation Code of Conduct Enforcement Manual](https://jquery.org/conduct/enforcement-manual/)
+- [jQuery Foundation Code of Conduct Enforcement Manual](https://js.foundation/community/code-of-conduct/enforcement)
 
 
 ## Adopters of the Contributor Covenant
 
-This code of conduct has already been adopted by over [15,000 open source projects](https://github.com/search?l=&q=%22This+Code+of+Conduct+is+adapted+from+the+%5BContributor+Covenant%5D%22+path%3A%22%2F%22+fork%3Afalse&ref=advsearch&type=Code).
+This code of conduct has already been adopted by over [40,000 open source projects](https://github.com/search?l=&q=%22This+Code+of+Conduct+is+adapted+from+the+%5BContributor+Covenant%5D%22+path%3A%22%2F%22+fork%3Afalse&ref=advsearch&type=Code).
 Here are just a few major projects using the Contributor Covenant.
-[See this page for more](adopters/ "Other adopters of the Contributor Covenant").
 
-- [Atom](https://github.com/atom/atom)
-- [AngularJS](https://github.com/angular/code-of-conduct)
-- [Babel](https://github.com/babel/babel)
-- [Bundler](https://github.com/bundler/bundler)
-- [chef-rvm](https://github.com/fnichol/chef-rvm)
-- [Cog](https://github.com/operable/cog)
-- [Colloquy](http://colloquy.info)
-- [Crystal](https://github.com/manastech/crystal)
-- [curl](https://github.com/bagder/curl)
-- [Diaspora](http://github.com/diaspora/diaspora)
-- [Discourse](https://github.com/discourse/discourse)
-- [Dotnet Foundation](http://www.dotnetfoundation.org/code-of-conduct)
-- [Eclipse](https://eclipse.org)
-- [Electron](https://github.com/electron/electron)
-- [Elixir](https://github.com/elixir-lang/elixir)
-- [Exercism.io](https://github.com/exercism/exercism.io)
-- [Faveo Helpdesk](https://github.com/ladybirdweb/faveo-helpdesk)
-- [freedesktop](https://www.freedesktop.org/wiki/)
-- [GitLab](https://github.com/gitlabhq/gitlabhq)
-- [Grav](https://github.com/getgrav/grav)
-- [Homebrew-Cask](https://github.com/caskroom/homebrew-cask)
-- [Jekyll](https://github.com/jekyll/jekyll)
-- [Jenkins](https://jenkins-ci.org/conduct/)
-- [Johnny-Five](https://github.com/rwaldron/johnny-five)
-- [JRuby](https://github.com/jruby/jruby/)
-- [Hanami](http://hanamirb.org/community#code-of-conduct)
-- [Kong](https://github.com/mashape/kong/)
-- [Kubernetes](https://github.com/kubernetes/kubernetes/)
-- [Metasploit Framework](https://github.com/rapid7/metasploit-framework)
-- [Mono](https://github.com/mono/mono)
-- [Mozilla Webmaker](https://www.webmaker.org/)
-- [.NET Foundation](http://www.dotnetfoundation.org/code-of-conduct)
-- [PiVPN](https://github.com/pivpn/pivpn)
-- [Rails](https://github.com/rails/rails)
-- [rbenv](https://github.com/rbenv/rbenv)
-- [ROM](https://github.com/rom-rb/rom)
-- [RSpec](https://github.com/rspec/rspec)
-- [ruby-community](https://github.com/apeiros/ruby-community)
-- [rubygems](https://github.com/rubygems/rubygems)
-- [RubyGems.org](https://github.com/rubygems/rubygems.org)
-- [RVM](https://github.com/rvm/rvm)
-- [Shoes](https://github.com/shoes/shoes4)
-- [Spring](https://github.com/spring-projects)
-- [Swift](https://swift.org/community/#code-of-conduct)
-- [Taiga.io](https://github.com/taigaio/code-of-conduct)
-- [TinyMCE](https://www.tinymce.com/docs/advanced/contributing-to-open-source/)
-- [Twisted](https://github.com/twisted/twisted)
-- [Visual F\#](https://github.com/Microsoft/visualfsharp)
-- [Volt.rb](https://github.com/voltrb/volt)
-- [Vue.js](https://github.com/vuejs/vue)
-- [Yarn](https://github.com/yarnpkg/yarn)
+{{< data-list "data/featured-adopters.csv" >}}
+
+[See this page for more]({{< ref "adopters.md" >}} "Other adopters of the Contributor Covenant").
 
 To add your project to the list, [submit a pull request](https://github.com/CoralineAda/contributor_covenant "Contributor Covenant source code").
 

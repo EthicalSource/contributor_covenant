@@ -1,5 +1,6 @@
 +++
 version = "1.4"
+aliases = ["/version/1/4/ja"]
 +++
 
 # コントリビューター行動規範
@@ -68,8 +69,7 @@ version = "1.4"
 ## 帰属
 
 この行動規範は
-[https://www.contributor-covenant.org/version/1/4][version] にある
+https://www.contributor-covenant.org/version/1/4/code-of-conduct.html にある
 [Contributor Covenant][homepage] バージョン 1.4 に適合しています。
 
 [homepage]: https://www.contributor-covenant.org
-[version]: https://www.contributor-covenant.org/version/1/4/

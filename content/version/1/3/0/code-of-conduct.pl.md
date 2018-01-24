@@ -1,5 +1,6 @@
 +++
 version = "1.3"
+aliases = ["/version/1/3/0/pl"]
 +++
 
 # Kodeks postępowania współtwórców
@@ -25,4 +26,4 @@ Niniejszy kodeks stosuje się nie tylko w działaniach wprost związanych z tym 
 
 Przypadki obraźliwego, zastraszającego lub w inny sposób nieakceptowalnego zachowania mogą być zgłaszane do opiekuna tego projektu drogą elektroniczną pod adresem [TWÓJ ADRES EMAIL]. Wszystkie zażalenia i uwagi zostaną rozpatrzone i będą podstawą do analizy. W przypadku potwierdzenia się zarzutów zostaną podjęte odpowiednie do przewinienia środki zaradcze. Opiekunowie tego projektu są zobligowani do zachowania poufności danych osób zgłaszających incydent.
 
-Niniejszy Kodeks postępowania jest zgodny z [Contributor Covenant](https://www.contributor-covenant.org) w wersji 1.3.0. Oryginalny tekst można znaleźć pod adresem: [https://www.contributor-covenant.org/version/1/3/0/pl](https://www.contributor-covenant.org/version/1/3/0/pl)
+Niniejszy Kodeks postępowania jest zgodny z [Contributor Covenant](https://www.contributor-covenant.org) w wersji 1.3.0. Oryginalny tekst można znaleźć pod adresem: https://www.contributor-covenant.org/pl/version/1/3/0/code-of-conduct.html

@@ -1,5 +1,6 @@
 +++
 version = "1.4"
+aliases = ["/version/1/4/pl"]
 +++
 
 # Przymierze Współpracy — Kodeks Postępowania
@@ -74,10 +75,8 @@ liderów projektu.
 ## Autorstwo
 
 Ten Kodeks Postępowania został zaadaptowany z [Contributor Covenant][homepage] w
-wersji 1.4, dostępnej pod adresem [https://www.contributor-covenant.org/version/1/4][version]
-(w języku angielskim) oraz [https://www.contributor-covenant.org/version/1/4/pl][version_pl]
+wersji 1.4, dostępnej pod adresem https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
+(w języku angielskim) oraz https://www.contributor-covenant.org/pl/version/1/4/code-of-conduct.html
 (w języku polskim).
 
 [homepage]: https://www.contributor-covenant.org/
-[version]: https://www.contributor-covenant.org/version/1/4/
-[version_pl]: https://www.contributor-covenant.org/version/1/4/pl/

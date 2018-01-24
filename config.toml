@@ -3,11 +3,12 @@ baseURL = "https://www.contributor-covenant.org"
 languageCode = "en-us"
 title = "Contributor Covenant"
 disableKinds = ["RSS"]
-disablePathToLower = true # Gotta have dat CODE_OF_CONDUCT.xxx
 
 DefaultContentLanguage = "en"
 hasCJKLanguage = true
 EnableMissingTranslationPlaceholders = true
+
+uglyURLs = true
 
 googleAnalytics = "UA-56802475-1"
 
@@ -15,23 +16,25 @@ googleAnalytics = "UA-56802475-1"
 [mediaTypes."text/markdown"]
 suffix = "md"
 
-[mediaTypes."text/plain"]
-suffix = "txt"
+[mediaTypes."text/asciidoc"]
+suffix = "adoc"
 
 [outputFormats]
 [outputFormats.Markdown]
 mediaType = "text/markdown"
 isPlainText = true
-basename = "CODE_OF_CONDUCT"
 
 [outputFormats.PlainText]
 mediaType = "text/plain"
 isPlainText = true
-basename = "CODE_OF_CONDUCT"
+
+[outputFormats.AsciiDoc]
+mediaType = "text/asciidoc"
+isPlainText = true
 
 [outputs]
 home = ["html"]
-page = ["html", "markdown", "plaintext"]
+page = ["html", "markdown", "plaintext", "asciidoc"]
 
 # Add all translated languages here.
 [Languages]
@@ -67,6 +70,7 @@ languageCode = "fr"
 [Languages.iw]
 languageName = "עברית"
 languageCode = "iw"
+writingDirection = "rtl"
 
 [Languages.hi]
 languageName = "हिंदी"
@@ -75,6 +79,10 @@ languageCode = "hi"
 [Languages.hu]
 languageName = "Magyar"
 languageCode = "hu"
+
+[Languages.is]
+languageName = "Íslenska"
+languageCode = "is"
 
 [Languages.it]
 languageName = "Italiano"

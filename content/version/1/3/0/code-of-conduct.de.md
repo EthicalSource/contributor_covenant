@@ -1,5 +1,6 @@
 +++
 version = "1.3"
+aliases = ["/version/1/3/0/de/"]
 +++
 
 # Verhaltenskodex für Mitwirkende
@@ -25,4 +26,4 @@ Dieser Verhaltenskodex gilt sowohl innerhalb des Projektbereichs als auch in öf
 
 Fälle von missbräuchlichem, belästigendem oder anderweitig nicht akzeptablen Verhalten können den Projektverantwortlichen unter [EMAIL ADRESSE EINFÜGEN] gemeldet werden. Alle Beschwerden werden geprüft und untersucht, und werden zu einer Reaktion führen, die angesichts der Umstände für notwendig und angemessen gehalten wird. Die Verantwortlichen sind verpflichtet, über diejenigen, die Vorfälle gemeldet haben, Verschwiegenheit zu wahren.
 
-Dieser Verhaltenskodex ist abgeleitet vom [Contributor Covenant](https://www.contributor-covenant.org), Version 1.3.0, verfügbar unter [https://www.contributor-covenant.org/version/1/3/0/de/](https://www.contributor-covenant.org/version/1/3/0/de/)
+Dieser Verhaltenskodex ist abgeleitet vom [Contributor Covenant](https://www.contributor-covenant.org), Version 1.3.0, verfügbar unter https://www.contributor-covenant.org/de/version/1/3/0/code-of-conduct.html
