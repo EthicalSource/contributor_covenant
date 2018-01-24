@@ -91,7 +91,7 @@ Some resources useful for thinking about enforcement:
 - [Community Safety and Accountability](http://safetyfirstpdx.org)
 - [Enforcing Your Code of Conduct: Effective Incident Response](http://www.slideshare.net/aeschright/enforcing-your-code-of-conduct-effective-incident-response)
 - [Django Code of Conduct Enforcement Manual](https://www.djangoproject.com/conduct/enforcement-manual/)
-- [jQuery Foundation Code of Conduct Enforcement Manual](https://jquery.org/conduct/enforcement-manual/)
+- [jQuery Foundation Code of Conduct Enforcement Manual](https://js.foundation/community/code-of-conduct/enforcement)
 
 
 ## Adopters of the Contributor Covenant
