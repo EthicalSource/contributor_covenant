@@ -50,29 +50,29 @@ mengancam, menyinggung atau berbahaya.
 
 ## Cakupan
 
-This Code of Conduct applies both within project spaces and in public spaces
-when an individual is representing the project or its community. Examples of
-representing a project or community include using an official project e-mail
-address, posting via an official social media account, or acting as an appointed
-representative at an online or offline event. Representation of a project may be
-further defined and clarified by project maintainers.
+Kode Etik ini berlaku baik di dalam proyek maupun di dalam publik
+ketika seseorang mewakili proyek atau komunitasnya. Contoh dari
+mewakili sebuah proyek atau komunitas termasuk menggunakan alamat email resmi proyek,
+posting melalui akun media sosial resmi, atau bertindak sebagai orang yand ditunjuk
+menjadi perwakilan di acara online atau offline. Representasi proyek mungkin
+selanjutnya didefinisikan dan diklarifikasi oleh pengelola proyek.
 
-## Enforcement
+## Pelaksanaan
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at [INSERT EMAIL ADDRESS]. All
-complaints will be reviewed and investigated and will result in a response that
-is deemed necessary and appropriate to the circumstances. The project team is
-obligated to maintain confidentiality with regard to the reporter of an incident.
-Further details of specific enforcement policies may be posted separately.
+Contoh perilaku kasar, pelecehan, atau tidak dapat diterima yang terjadi
+dapat dilaporkan kepada tim inti proyek di [INSERT EMAIL ADDRESS]. Semua keluhan
+akan ditinjau dan diselidiki dan akan menghasilkan tanggapan yang dianggap perlu 
+dan sesuai dengan keadaan. Tim inti proyek berkewajiban menjaga kerahasiaan reporter
+berkenaan dengan reporter suatu insiden. Rincian lebih lanjut tentang kebijakan 
+penegakan khusus dapat diposkan secara terpisah.
 
-Project maintainers who do not follow or enforce the Code of Conduct in good
-faith may face temporary or permanent repercussions as determined by other
-members of the project's leadership.
+Pengelola proyek yang tidak mengikuti atau melaksanakan Kode Etik dengan itikad
+baik mungkin akan menghadapi dampak sementara atau permanen seperti yang ditentukan
+oleh para anggota lain dari pimpinan proyek.
 
 ## Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
-available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
+Kode Etik ini diadaptasi dari [Contributor Covenant][homepage], versi 1.4,
+tersedia di https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
 
 [homepage]: https://www.contributor-covenant.org
