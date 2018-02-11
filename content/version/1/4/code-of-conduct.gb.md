@@ -33,7 +33,7 @@ You can contribute to creating a positive environment in many ways. For example 
 
 You should not:
 
-* use sexualized language or imagery
+* use sexualised language or imagery
 * make unwelcome sexual advances
 * troll, and make insulting or derogatory comments
 * make personal or political attacks
@@ -43,7 +43,7 @@ You should not:
 
 ## Our responsibilities
 
-As project maintainers, we are responsible for clarifying the standards of acceptable behavior and we are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
+As project maintainers, we are responsible for clarifying the standards of acceptable behaviour and we are expected to take appropriate and fair corrective action in response to any instances of unacceptable behaviour.
 
 We have the right and responsibility to remove, edit, or reject:
 
@@ -54,7 +54,7 @@ We have the right and responsibility to remove, edit, or reject:
 * issues
 * other contributions that are not aligned to this code of conduct
 
-We also reserve the right to temporarily or permanently ban any contributor for other behaviors we deem inappropriate, threatening, offensive, or harmful.
+We also reserve the right to temporarily or permanently ban any contributor for other behaviours we deem inappropriate, threatening, offensive, or harmful.
 
 ## Scope
 
@@ -69,7 +69,7 @@ Project maintainers may further define and clarify representation of a project.
 
 ## Enforcement
 
-You should report any instances of abusive, harassing, or otherwise unacceptable behavior to the project team at [INSERT EMAIL ADDRESS]. The project team will review and investigate all complaints, and will respond in a way that it deems appropriate to the circumstances. The project team is obligated to maintain the anonymity of the reporter of an incident. We may post further details of specific enforcement policies separately.
+You should report any instances of abusive, harassing, or otherwise unacceptable behaviour to the project team at [INSERT EMAIL ADDRESS]. The project team will review and investigate all complaints, and will respond in a way that it deems appropriate to the circumstances. The project team is obligated to maintain the anonymity of the reporter of an incident. We may post further details of specific enforcement policies separately.
 
 Project maintainers who do not follow or enforce this code of conduct in good faith may face temporary or permanent consequences. These will be determined by members of the project's leadership.
 
