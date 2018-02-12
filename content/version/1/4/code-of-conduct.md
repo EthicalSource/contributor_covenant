@@ -15,6 +15,8 @@ In order to create an open and welcoming environment, we as contributors and mai
 * ethnicity
 * gender identity and expression
 * level of experience
+* education
+* socio-economic status
 * nationality
 * personal appearance
 * race
