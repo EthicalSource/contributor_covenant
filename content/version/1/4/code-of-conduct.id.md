@@ -21,9 +21,9 @@ yang positif meliputi :
 
 * Memakai bahasa yang ramah dan inklusif
 * Menghormati sudut pandang dan pengalaman yang berbeda
-* Dengan anggun menerima kritik konstruktif
+* Menerima kritik konstruktif dengan baik
 * Fokus terhadap apa yang terbaik bagi komunitas
-* Menunjukan empati terhadap anggota komunitas yang lain
+* Menunjukan empati kepada anggota komunitas yang lain
 
 Contoh perilaku yang tidak dapat diterima oleh partisipan meliputi :
 
@@ -32,9 +32,7 @@ Contoh perilaku yang tidak dapat diterima oleh partisipan meliputi :
 * Pelecahan umum atau pribadi
 * Menerbitkan informasi pribadi orang lain, seperti alamat fisik atau elektronik,
 tanpa izin.
-* Perilaku lain yang dapat dianggap tidak sesuai dalam pengaturan profesional
-* Other conduct which could reasonably be considered inappropriate in a
-  professional setting
+* Perilaku lain yang dapat dianggap tidak sesuai dalam lingkungan profesional
 
 ## Responsibilitas Kami
 
