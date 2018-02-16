@@ -7,10 +7,10 @@ aliases = ["/version/1/4"]
 
 ## Janji Kami
 
-Dalam minat kami untuk membuat lingkungan yang terbuka dan ramah, kami sebagai 
+Sesuai minat kami untuk membuat lingkungan yang terbuka dan ramah, kami sebagai 
 kontributor dan pengelola berjanji untuk membuat partisipasi dalam proyek kami
-dan komunitas kami bebas dari pelecehan untuk semua orang, tanap memandang usia,
-ukuran tubuh, disabilitas, etnik, identitas gender dan ekspresinya, tingkat pengalaman, pendidikan, status sosial ekonomi, nationalitas, penampilan pribadi, ras, agama, atau identitas dan orientasi seksual.
+dan komunitas kami bebas dari pelecehan untuk semua orang, tanpa memandang usia,
+ukuran tubuh, disabilitas, kelompok etnis, identitas gender dan ekspresinya, tingkat pengalaman, pendidikan, status sosial ekonomi, kewarganegaraan, penampilan pribadi, ras, agama, atau identitas dan orientasi seksual.
 
 ## Standar Kami
 
@@ -21,7 +21,7 @@ yang positif meliputi :
 * Menghormati sudut pandang dan pengalaman yang berbeda
 * Menerima kritik konstruktif dengan baik
 * Fokus terhadap apa yang terbaik bagi komunitas
-* Menunjukan empati kepada anggota komunitas yang lain
+* Menunjukkan empati kepada anggota komunitas yang lain
 
 Contoh perilaku yang tidak dapat diterima oleh partisipan meliputi :
 
@@ -34,11 +34,9 @@ tanpa izin.
 
 ## Tanggung Jawab Kami
 
-Pengelola proyek bertanggung jawab untuk mengklarifikasi standar perilaku
-yang dapat diterima dan diharapkan untuk melakukan tindakan korektif yang tepat
-dan adil di Indonesia menanggapi kasus perilaku yang tidak dapat diterima.
+Pengelola proyek bertanggung jawab untuk mengklarifikasi standar perilaku yang dapat diterima dan diharapkan untuk melakukan tindakan korektif yang tepat dan adil di Indonesia dalam menanggapi kasus perilaku yang tidak dapat diterima.
 
-Pengelola proyek mempunyai hak dan responsibilitas untuk menghapus, mengedit atau
+Pengelola proyek mempunyai hak dan tanggung jawab untuk menghapus, mengedit atau
 menolak komentar, commit, kode, suntingan wiki, masalah dan kontribusi lainnya
 yang tidak sesuai dengan Kode Etik ini, atau untuk melarang sementara
 atau secara permanen kontributor untuk perilaku lain yang mereka anggap tidak tepat, mengancam, menyinggung atau berbahaya.
@@ -53,8 +51,8 @@ mewakili sebuah proyek atau komunitas termasuk menggunakan alamat email resmi pr
 
 Contoh perilaku kasar, pelecehan, atau tidak dapat diterima yang terjadi
 dapat dilaporkan kepada tim inti proyek di [INSERT EMAIL ADDRESS]. Semua keluhan
-akan ditinjau dan diselidiki dan akan menghasilkan tanggapan yang dianggap perlu 
-dan sesuai dengan keadaan. Tim inti proyek berkewajiban menjaga kerahasiaan reporter berkenaan dengan reporter suatu insiden. Rincian lebih lanjut tentang kebijakan penegakan khusus dapat diposkan secara terpisah.
+akan ditinjau dan diselidiki dan akan diberikan tanggapan yang dianggap perlu 
+dan sesuai dengan keadaan. Tim inti proyek berkewajiban menjaga kerahasiaan pelapor berkenaan dengan pelapor suatu insiden. Rincian lebih lanjut tentang kebijakan penegakan khusus akan dipublikasikan secara terpisah.'
 
 Pengelola proyek yang tidak mengikuti atau melaksanakan Kode Etik dengan itikad
 baik mungkin akan menghadapi dampak sementara atau permanen seperti yang ditentukan
