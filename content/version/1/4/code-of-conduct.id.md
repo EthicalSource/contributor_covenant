@@ -34,25 +34,26 @@ tanpa izin.
 
 ## Tanggung Jawab Kami
 
-Pengelola proyek bertanggung jawab untuk mengklarifikasi standar perilaku yang dapat diterima dan diharapkan untuk melakukan tindakan korektif yang tepat dan adil di Indonesia dalam menanggapi kasus perilaku yang tidak dapat diterima.
+Pengelola proyek bertanggung jawab untuk mengklarifikasi standar perilaku yang dapat diterima dan diharapkan untuk melakukan tindakan korektif yang tepat dan adil dalam menanggapi kasus perilaku yang tidak dapat diterima.
 
-Pengelola proyek mempunyai hak dan tanggung jawab untuk menghapus, mengedit atau
-menolak komentar, commit, kode, suntingan wiki, masalah dan kontribusi lainnya
+Pengelola proyek mempunyai hak dan tanggung jawab untuk menghapus, mengedit, atau
+menolak komentar, commit, kode, suntingan wiki, masalah, dan kontribusi lainnya
 yang tidak sesuai dengan Kode Etik ini, atau untuk melarang sementara
-atau secara permanen kontributor untuk perilaku lain yang mereka anggap tidak tepat, mengancam, menyinggung atau berbahaya.
+atau secara permanen kontributor untuk perilaku lain yang mereka anggap tidak tepat, mengancam, menyinggung, atau berbahaya.
 
 ## Cakupan
 
-Kode Etik ini berlaku baik di dalam proyek maupun di dalam publik
+Kode Etik ini berlaku baik di dalam proyek maupun di ruang publik
 ketika seseorang mewakili proyek atau komunitasnya. Contoh dari
 mewakili sebuah proyek atau komunitas termasuk menggunakan alamat email resmi proyek, posting melalui akun media sosial resmi, atau bertindak sebagai orang yand ditunjuk menjadi perwakilan di acara online atau offline. Representasi proyek mungkin selanjutnya didefinisikan dan diklarifikasi oleh pengelola proyek.
 
-## Pelaksanaan
+## Penegakan
 
-Contoh perilaku kasar, pelecehan, atau tidak dapat diterima yang terjadi
+Kejdian perilaku kasar, pelecehan, atau tidak dapat diterima yang terjadi
 dapat dilaporkan kepada tim inti proyek di [INSERT EMAIL ADDRESS]. Semua keluhan
-akan ditinjau dan diselidiki dan akan diberikan tanggapan yang dianggap perlu 
-dan sesuai dengan keadaan. Tim inti proyek berkewajiban menjaga kerahasiaan pelapor berkenaan dengan pelapor suatu insiden. Rincian lebih lanjut tentang kebijakan penegakan khusus akan dipublikasikan secara terpisah.'
+akan ditinjau dan diselidiki dan akan menghasilkan tanggapan yang dianggap perlu 
+dan sesuai dengan keadaan. Tim inti proyek berkewajiban menjaga kerahasiaan pelapor berkenaan dengan pelapor suatu insiden. 
+Rincian lebih lanjut tentang kebijakan penegakan khusus akan dipublikasikan secara terpisah.
 
 Pengelola proyek yang tidak mengikuti atau melaksanakan Kode Etik dengan itikad
 baik mungkin akan menghadapi dampak sementara atau permanen seperti yang ditentukan
