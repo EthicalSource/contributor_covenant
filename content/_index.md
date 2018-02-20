@@ -103,10 +103,10 @@ Here are just a few major projects using the Contributor Covenant.
 
 [See this page for more]({{< ref "adopters.md" >}} "Other adopters of the Contributor Covenant").
 
-To add your project to the list, [submit a pull request](https://github.com/CoralineAda/contributor_covenant "Contributor Covenant source code").
+To add your project to the list, [submit a pull request](https://github.com/ContributorCovenant/contributor_covenant "Contributor Covenant source code").
 
 
 ## How to Contribute
 
-The Contributor Covenant is a living document, and has been [open sourced](https://github.com/CoralineAda/contributor_covenant "Contributor Covenant source code").
+The Contributor Covenant is a living document, and has been [open sourced](https://github.com/ContributorCovenant/contributor_covenant "Contributor Covenant source code").
 Contributions in the form of issues and pull requests are welcomed and encouraged.
