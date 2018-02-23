@@ -14,7 +14,7 @@ ukuran tubuh, disabilitas, kelompok etnis, identitas gender dan ekspresinya, tin
 
 ## Standar Kami
 
-Contoh perilaku yang berkontribusi untuk menciptakan sebuah lingkungan
+Kejadian perilaku yang berkontribusi untuk menciptakan sebuah lingkungan
 yang positif meliputi :
 
 * Memakai bahasa yang ramah dan inklusif
