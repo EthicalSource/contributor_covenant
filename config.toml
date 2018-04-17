@@ -155,3 +155,7 @@ languageCode = "uk"
 [Languages.zh-cn]
 languageName = "简体中文"
 languageCode = "zh-cn"
+
+[Languages.th]
+languageName = "ไทย"
+languageCode = "th"
