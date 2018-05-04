@@ -1,1 +1,1 @@
-{{ .RawContent }}
+{{ .RawContent | safeHTML }}
