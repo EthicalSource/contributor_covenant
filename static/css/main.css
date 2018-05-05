@@ -9,7 +9,7 @@
   --color-primary-lighter: hsl(288, 80%, 45%);
   --color-primary-lightest: hsl(288, 80%, 75%);
   --color-green: hsl(153, 90%, 30%);
-  --color-yellow: hsl(63, 100%, 40%);
+  --color-orange: hsl(18, 100%, 50%);
   --color-red: hsl(333, 100%, 40%);
   --color-blue: hsl(198, 90%, 40%);
   --color-black: #000;
@@ -252,7 +252,7 @@ abbr {
 }
 
 .icon-txt {
-  background: var(--color-yellow);
+  background: var(--color-orange);
 }
 
 .icon-adoc {
