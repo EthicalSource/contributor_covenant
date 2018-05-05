@@ -1,12 +1,8 @@
 <dl class="formats">
   <dt>Other formats:</dt>
-  <dd>
-    <a class="icon icon-md" href="{{ .Permalink | replaceRE "\\.html$" ".md" | absLangURL }}"><abbr title="Markdown">md</abbr></a>
-  </dd>
-  <dd>
-    <a class="icon icon-txt" href="{{ .Permalink | replaceRE "\\.html$" ".txt" | absLangURL }}"><abbr title="Plain text">txt</abbr></a>
-  </dd>
-  <dd>
-    <a class="icon icon-adoc" href="{{ .Permalink | replaceRE "\\.html$" ".adoc" | absLangURL }}"><abbr title="AsciiDoc">adoc</abbr></a>
-  </dd>
+  {{ range ( after 1 .OutputFormats ) }}
+    {{ $ext := index ( last 1 ( split .MediaType "+" ) ) 0 }}
+    <dd><a class="icon icon-{{ $ext }}" href="{{ .Permalink | absLangURL }}"><abbr title="{{ .Name }}">{{ $ext }}</abbr></a></dd>
+  {{ end }}
 </dl>
+
