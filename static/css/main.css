@@ -185,10 +185,10 @@ abbr {
 /* Utility Classes */
 .logo {
   display: inline-block;
-  height: 3rem;
+  height: 2.625rem;
   margin-right: .75rem;
   vertical-align: -.8125rem;
-  width: 3rem;
+  width: 2.625rem;
 }
 
 .error,
@@ -285,7 +285,7 @@ header figure {
 
 header figcaption {
   display: inline-block;
-  font-size: 2rem;
+  font-size: 1.625rem;
   font-weight: 500;
 }
 
@@ -316,6 +316,15 @@ header a:hover {
 @media (min-width: 414px) {
   header nav li:first-child {
     display: initial;
+  }
+
+  header figcaption {
+    font-size: 2rem;
+  }
+
+  .logo {
+    height: 3rem;
+    width: 3rem;
   }
 }
 
