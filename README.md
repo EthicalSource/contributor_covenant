@@ -52,5 +52,5 @@ If you are interested in doing a translation, please follow these steps:
 
 ## Examples of Projects Using the Contributor Covenant
 
-This code of conduct has been adopted by [more than 30,000 open source projects](https://github.com/search?l=&q=%22This+Code+of+Conduct+is+adapted+from+the+%5BContributor+Covenant%5D%22+path%3A%22%2F%22+fork%3Afalse&ref=advsearch&type=Code&utf8=✓).
+This code of conduct has been adopted by [more than 40,000 open source projects](https://github.com/search?l=&q=%22This+Code+of+Conduct+is+adapted+from+the+%5BContributor+Covenant%5D%22+path%3A%22%2F%22+fork%3Afalse&ref=advsearch&type=Code&utf8=✓).
 For a partial list, see [our adopters page](https://www.contributor-covenant.org/adopters.html).
