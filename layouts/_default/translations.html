@@ -9,12 +9,21 @@
       </tr>
     </thead>
     <tbody>
-    {{ range last 1 (where $.Site.RegularPages "Section" "version") }}
-    {{ partial "translation-row.html" . }}
-    {{ range .Translations }}
-    {{ partial "translation-row.html" . }}
-    {{ end }}
-    {{ end }}
+      {{ $latest := ( where $.Site.RegularPages "Section" "version" ).Reverse }}
+      {{ range $latest }}
+        {{ if $.Page.Scratch.Get .Language.LanguageName }}
+        {{ else }}
+          {{ partial "translation-row.html" . }}
+          {{ $.Page.Scratch.Set .Language.LanguageName 1 }}
+        {{ end }}
+        {{ range .Translations }}
+          {{ if $.Page.Scratch.Get .Language.LanguageName }}
+          {{ else }}
+            {{ partial "translation-row.html" . }}
+            {{ $.Page.Scratch.Set .Language.LanguageName 1 }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
     </tbody>
   </table>
   {{ .Content }}

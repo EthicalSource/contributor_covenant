@@ -99,7 +99,7 @@ Some resources useful for thinking about enforcement:
 This code of conduct has already been adopted by over [40,000 open source projects](https://github.com/search?l=&q=%22This+Code+of+Conduct+is+adapted+from+the+%5BContributor+Covenant%5D%22+path%3A%22%2F%22+fork%3Afalse&ref=advsearch&type=Code).
 Here are just a few major projects using the Contributor Covenant.
 
-{{< data-list "data/featured-adopters.csv" >}}
+{{< data-list "static/featured-adopters.csv" >}}
 
 [See this page for more]({{< ref "adopters.md" >}} "Other adopters of the Contributor Covenant").
 
