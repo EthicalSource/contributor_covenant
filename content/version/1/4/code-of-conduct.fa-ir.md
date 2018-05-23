@@ -57,5 +57,4 @@
 این پیمان نحوه ی برخورد از [پیمان مشارکت][صفحه نخست]، نسخه ۱.۴، که در آدرس
 https://www.contributor-covenant.org/version/1/4/code-of-conduct.html در دسترس است
 برداشته شده است.
-
 [صفحه نخست]: https://www.contributor-covenant.org
