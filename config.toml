@@ -165,3 +165,4 @@ languageCode = "zh-cn"
 [Languages.fa-IR]
 languageName = "فارسی"
 languageCode = "fa-IR"
+writingDirection = "rtl"
