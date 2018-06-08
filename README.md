@@ -47,7 +47,7 @@ If you are interested in doing a translation, please follow these steps:
 ## Adding a Project to the List of Adopters
 
 * Fork the repo.
-* Add a new row to the [adopters.csv](data/adopters.csv), with the project name in the first column, and the project URL in the second column.
+* Add a new row to the [adopters.csv](static/adopters.csv), with the project name in the first column, and the project URL in the second column.
 * Open a pull request.
 
 ## Examples of Projects Using the Contributor Covenant
