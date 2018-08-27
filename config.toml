@@ -73,6 +73,10 @@ languageCode = "es"
 languageName = "Français"
 languageCode = "fr"
 
+[Languages.gl]
+languageName = "Galego"
+languageCode = "gl"
+
 [Languages.iw]
 languageName = "עברית"
 languageCode = "iw"
