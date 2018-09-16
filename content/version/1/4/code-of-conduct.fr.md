@@ -12,7 +12,7 @@ engageons, en tant que contributeurs et responsables de ce projet, à faire
 de la participation une expérience exempte de harcèlement pour tout le
 monde, quel que soit le niveau d'expérience, le sexe, l'identité ou
 l'expression de genre, l'orientation sexuelle, le handicap, l'apparence
-personnelle, la taille physique, la race, l'origine ethnique, l'âge, la
+personnelle, la taille physique, l'origine ethnique, l'âge, la
 religion ou la nationalité.
 
 ## Nos critères
