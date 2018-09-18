@@ -37,7 +37,7 @@ attaques personnelles ou d'ordre politique
 * toute conduite qui pourrait être raisonnablement considérée comme
 inappropriée dans le milieu professionnel
 
-# Nos responsabilités
+## Nos responsabilités
 
 Les mainteneurs doivent clarifier les critères de comportement acceptables
 de ce projet : il est attendu de leur part qu'ils prennent les mesures
