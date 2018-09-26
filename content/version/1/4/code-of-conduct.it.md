@@ -20,17 +20,17 @@ religione o identità e orientamento sessuale.
 Esempi di comportamenti che contribuiscono alla creazione di un ambiente
 positivo:
 
-* Usare un linguaggio accogliente e inclusivo
+* Uso di un linguaggio accogliente e inclusivo
 * Rispettare i punti di vista ed esperienze differenti
 * Accettare con garbo le critiche costruttive
 * Concentrarsi su ciò che è meglio per la comunità
-* Mostrare Empatia nei confronti degli altri membri della comunità
+* Mostrare empatia nei confronti degli altri membri della comunità
 
 Esempi di comportamento inaccettabile dei partecipanti:
 
 * L'uso di linguaggio o immagini sessualizzate e l'attenzione sessuale o
   advance indesiderate
-* Troll, commenti offensivi e attacchi personali o politici
+* Comportamenti da troll, commenti offensivi e attacchi personali o politici
 * Molestie in pubblico o in privato
 * Pubblicazione di informazioni private altrui, ad esempio un indirizzo postale o
   elettronico, senza autorizzazione esplicita
