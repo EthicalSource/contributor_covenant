@@ -41,3 +41,10 @@ Project maintainers are the arbiters of code of conduct violations and are the u
 
 ### Does the prohibition on publishing private information include email addresses sent to a public list?
 No. Information that has voluntarily been published to a public location does not fall under the category of private information. Such public information may be used within the context of the project according to project norms (such as in commit meta-data in code repositories), without that constituting a breach of the code of conduct.
+
+### Why are 'ethnicity' and 'race' called out as two separate pivots? Aren't these terms interchangeable?
+
+* **Ethnicity** (or ethnic group) is a category of people who identify with each other based on similarities such as common ancestry, language, history, society, culture or nation.
+* **Race** is the grouping of humans based on shared physical or social qualities into categories generally viewed as distinct by society and usually resulting from genetic ancestry.
+
+We recognize different cultures and the process of translation might make the differences between these terms less apparent. Violence and discrimination can occur based on the perception of either and sometimes both at the same time which is why it is important to call them out as two separate concepts.
