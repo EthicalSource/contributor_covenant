@@ -29,7 +29,7 @@ positivo:
 Esempi di comportamento inaccettabile dei partecipanti:
 
 * L'uso di linguaggio o immagini sessualizzate e l'attenzione sessuale o
-  advance indesiderate
+  avance indesiderate
 * Comportamenti da troll, commenti offensivi e attacchi personali o politici
 * Molestie in pubblico o in privato
 * Pubblicazione di informazioni private altrui, ad esempio un indirizzo postale o
