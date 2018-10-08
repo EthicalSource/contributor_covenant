@@ -36,8 +36,15 @@ Only if you define political correctness as the belief that women, non-binary pe
 ### What is so wrong that white males dominate a certain profession?
 Women and men of all backgrounds, ethnicities, and races can have competence and interest in software development and deserve equal access to opportunities in open source and tech. But the low rate at which marginalized people are recruited, and the <a href="https://www.kaporcenter.org/tech-leavers/">high rate at which they leave the industry</a>, point to a larger cultural and systemic problem. Codes of conduct attempt to address this in  part by reducing the potential for discrimination, explicit and implicit bias, and the negative impact of homogeneous teams.
 
+### I don't agree with Coraline Ada Ehmke's politics. Should I avoid this code of conduct?
+If you're a meritocracy fan, you already abide by the principle of separating the person from the contribution. And even if you're not, adopting the Contributor Covenant does not imply any political or social orientation aside from the (unfortunately politicized) goal of making your project welcoming and inclusive to people of all backgrounds.
+
 ### Doesn't a code of conduct give too much power to project maintainers?
 Project maintainers are the arbiters of code of conduct violations and are the unquestioned leaders of the projects they own. Without a code of conduct, a project maintainer has the power to eject any contributor from a project for any (or no) reason at all. A properly enforced code of conduct creates a social contract between and among contributors and maintainers that make such abuses of power less acceptable and common. If you don't trust a project maintainer to act in a just and fair way, you probably should consider not participating in their community.
+
+### Can I be cited for a code of conduct violation for something that I say on Twitter or other social media site?
+
+The Contributor Covenant only applies in project spaces and when an individual is representing a project. Your conduct outside of these situations is not governed by the code of conduct.
 
 ### Does the prohibition on publishing private information include email addresses sent to a public list?
 No. Information that has voluntarily been published to a public location does not fall under the category of private information. Such public information may be used within the context of the project according to project norms (such as in commit meta-data in code repositories), without that constituting a breach of the code of conduct.
@@ -50,4 +57,5 @@ No. Information that has voluntarily been published to a public location does no
 We recognize different cultures and the process of translation might make the differences between these terms less apparent. Violence and discrimination can occur based on the perception of either and sometimes both at the same time which is why it is important to call them out as two separate concepts.
 
 ### The Contributor Covenant explicitly lists a set of protected classes; does this make it acceptable to discriminate or make others feel unwelcome based on other factors?
+
 No. The Contributor Covenant explicitly lists protected classes for many reasons, such as reminding people to give them appropriate consideration, and assuring people in those protected classes that they are welcome. However, this is not an invitation for rules lawyers to seek loopholes, or to discriminate against others or make people feel unwelcome based on criteria not listed here. (With the notable caveat that <a href="https://en.wikipedia.org/wiki/Paradox_of_tolerance">those who discriminate or make others feel unwelcome are themselves not welcome</a>.)
