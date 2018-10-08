@@ -48,3 +48,6 @@ No. Information that has voluntarily been published to a public location does no
 * **Race** is the grouping of humans based on shared physical or social qualities into categories generally viewed as distinct by society and usually resulting from genetic ancestry.
 
 We recognize different cultures and the process of translation might make the differences between these terms less apparent. Violence and discrimination can occur based on the perception of either and sometimes both at the same time which is why it is important to call them out as two separate concepts.
+
+### The Contributor Covenant explicitly lists a set of protected classes; does this make it acceptable to discriminate or make others feel unwelcome based on other factors?
+No. The Contributor Covenant explicitly lists protected classes for many reasons, such as reminding people to give them appropriate consideration, and assuring people in those protected classes that they are welcome. However, this is not an invitation for rules lawyers to seek loopholes, or to discriminate against others or make people feel unwelcome based on criteria not listed here. (With the notable caveat that <a href="https://en.wikipedia.org/wiki/Paradox_of_tolerance">those who discriminate or make others feel unwelcome are themselves not welcome</a>.)
