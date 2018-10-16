@@ -4,6 +4,8 @@ title = "Frequently Asked Questions about the Contributor Covenant"
 
 ## Frequently Asked Questions
 
+We recognize that the adoption of a code of conduct can be a source of confusion or even anger for some people in an open source community. This FAQ is intended to address some of the common concerns that we see raised by people whose reaction to adoption is a negative one, and we hope it will help alleviate some of their concerns.
+
 ### Are codes of conduct a mechanism for turning project governance over to "social justice warriors"?
 Project maintainers are responsible for tailoring and enforcing the codes of conduct that they adopt. A code of conduct does not grant any authority or power to anyone outside of this group. Even if pressure is applied from a third party, such as on social media, the project maintainers alone have the authority to enforce the code of conduct and are under no obligation to bow to external pressure.
 
