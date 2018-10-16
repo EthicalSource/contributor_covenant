@@ -68,7 +68,7 @@ You may also use the permalinks given above to reference from your project home 
 
 <strong class="important">Important!</strong> You must add a contact method to the placeholder in the document so that people know how to report violations.
 
-*The Contributor Covenant is released under the [Creative Commons Attribution 4.0 International Public License](https://github.com/ContributorCovenant/contributor_covenant/blob/master/LICENSE.md), which requires that attribution be included.*
+*The Contributor Covenant is released under the [Creative Commons Attribution 4.0 International Public License](https://github.com/ContributorCovenant/contributor_covenant/blob/release/LICENSE.md), which requires that attribution be included.*
 
 
 ## Enforcing the Contributor Covenant
