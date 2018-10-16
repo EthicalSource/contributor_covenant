@@ -47,6 +47,7 @@ page = ["html", "markdown", "plaintext", "asciidoc"]
 [Languages.ar]
 languageName = "العربية"
 languageCode = "ar"
+writingDirection = "rtl"
 
 [Languages.bn]
 languageName = "Bengali"
