@@ -13,7 +13,7 @@ Please feel free to submit pull requests or open issues to improve the language
 of this document or to provide additional [translations](http://contributor-covenant.org/version/1/3/0/i18n/).
 
 You should also check the [issues](https://github.com/ContributorCovenant/contributor_covenant/issues)
-for the latest discussions involving the current and future versions of Contributor Covenant.
+for the latest discussions involving the current and future versions of the Contributor Covenant.
 
 To build the website locally, first install [Hugo](https://gohugo.io) using your package manager of choice.
 For example, using [Homebrew](https://brew.sh) on macOS:
@@ -30,7 +30,7 @@ hugo server -D
 
 ## Translating
 
-We're always looking for new localizations of Contributor Covenant and are thankful to the volunteers who spend their time on translations.
+We're always looking for new localizations of the Contributor Covenant and are thankful to the volunteers who spend their time on translations.
 
 If you are interested in doing a translation, please follow these steps:
 
