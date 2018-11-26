@@ -1,7 +1,7 @@
 Contributor Covenant
 ====================
 
-The most popular code of conduct for open source projects with over 40,000 adoptions.
+The most popular code of conduct for open source projects with over 100,000 adoptions.
 
 ## Project Home Page
 
@@ -61,5 +61,6 @@ If you are interested in doing a translation, please follow these steps:
 
 ## Examples of Projects Using the Contributor Covenant
 
-This code of conduct has been adopted by [more than 40,000 open source projects](https://github.com/search?l=&q=%22This+Code+of+Conduct+is+adapted+from+the+%5BContributor+Covenant%5D%22+path%3A%22%2F%22+fork%3Afalse&ref=advsearch&type=Code&utf8=✓).
+This code of conduct has been adopted by 
+[more than 100,000 open source projects](https://github.com/search?q=%22This+Code+of+Conduct+is+adapted+from+the+[Contributor+Covenant]%22+fork%3Afalse&type=Code).
 For a partial list, see [our adopters page](https://www.contributor-covenant.org/adopters.html).
