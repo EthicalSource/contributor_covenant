@@ -2,7 +2,7 @@
 
 ## Code Style
 
-- Use spaces for indentation,
+- Use spaces for indentation
 - Order properties alphabetically
 
 ### HTML

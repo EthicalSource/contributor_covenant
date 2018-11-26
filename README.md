@@ -5,7 +5,7 @@ The most popular code of conduct for open source projects with over 40,000 adopt
 
 ## Project Home Page
 
-For an overview and usage instructions, please visit [contributor-covenant.org](http://contributor-covenant.org/)
+For an overview and usage instructions, please visit [contributor-covenant.org](http://contributor-covenant.org/).
 
 ## Contributing
 
@@ -35,7 +35,7 @@ We're always looking for new localizations of the Contributor Covenant and are t
 If you are interested in doing a translation, please follow these steps:
 
 * Fork the repo and make a branch for your translation.
-* If it's a new language, add it to `config.toml`, with a localized name and language code/optional region (e.g. `pt` or `pt-br`.)
+* If it's a new language, add it to `config.toml`, with a localized name and language code/optional region (e.g. `pt` or `pt-br`).
 * Create a markdown file with your translation in `version/1/4/code-of-conduct.LANGUAGECODE.md`.
 * Open a pull request.
 * We will put out a call to have one or more other native speakers review the translation.
