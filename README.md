@@ -5,12 +5,12 @@ The most popular code of conduct for open source projects with over 40,000 adopt
 
 ## Project Home Page
 
-For an overview and usage instructions, please visit [contributor-covenant.org](http://contributor-covenant.org/).
+For an overview and usage instructions, please visit [contributor-covenant.org](https://contributor-covenant.org/).
 
 ## Contributing
 
 Please feel free to submit pull requests or open issues to improve the language
-of this document or to provide additional [translations](http://contributor-covenant.org/version/1/3/0/i18n/).
+of this document or to provide additional [translations](https://www.contributor-covenant.org/translations).
 
 You should also check the [issues](https://github.com/ContributorCovenant/contributor_covenant/issues)
 for the latest discussions involving the current and future versions of the Contributor Covenant.
