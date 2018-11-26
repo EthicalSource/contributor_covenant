@@ -17,8 +17,7 @@ You should also check the [issues](https://github.com/ContributorCovenant/contri
 for the latest discussions involving the current and future versions of the Contributor Covenant.
 
 To build the website locally, first [install Hugo](https://gohugo.io/getting-started/installing)
-using your package manager of choice.
-
+using your package manager of choice.  
 For example, on Debian/Ubuntu:
 ```
 apt-get install hugo
@@ -41,7 +40,7 @@ are thankful to the volunteers who spend their time on translations.
 
 If you are interested in doing a translation, please follow these steps:
 
-* Fork the repo and make a branch for your translation.
+* Fork the repository and make a branch for your translation.
 * If it's a new language, add it to `config.toml`,
   with a localized name and language code/optional region (e.g. `pt` or `pt-br`).
 * Create a markdown file with your translation in `version/1/4/code-of-conduct.LANGUAGECODE.md`.
@@ -54,8 +53,8 @@ If you are interested in doing a translation, please follow these steps:
 
 ## Adding a Project to the List of Adopters
 
-* Fork the repo.
-* Add a new row to the [adopters.csv](static/adopters.csv),
+* Fork the repository.
+* Add a new row to the [adopters.csv](static/adopters.csv) file,
   with the project name in the first column, and the project URL in the second column.
 * Open a pull request.
 
