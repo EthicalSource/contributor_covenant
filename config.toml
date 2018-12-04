@@ -14,13 +14,13 @@ googleAnalytics = "UA-56802475-1"
 
 [mediaTypes]
 [mediaTypes."text/markdown"]
-suffixes = ["md"]
+suffix = "md"
 
 [mediaTypes."text/plain"]
-suffixes = ["txt"]
+suffix = "txt"
 
 [mediaTypes."text/asciidoc"]
-suffixes = ["adoc"]
+suffix = "adoc"
 
 [outputFormats]
 [outputFormats.Markdown]
