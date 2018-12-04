@@ -8,5 +8,6 @@ description = "You can view and download the latest version of the Contributor C
 We're looking for new localizations of Contributor Covenant and are thankful to the volunteers who spend their time on translations.
 Instructions for translators can be found [here](https://github.com/ContributorCovenant/contributor_covenant#translating).
 
-The Contributor Covenant uses semantic versioning for revisions so all URLs are permanent.
+The Contributor Covenant uses [semantic versioning](https://semver.org/) 
+for revisions so all URLs are permanent.
 {{< previous-versions >}}
