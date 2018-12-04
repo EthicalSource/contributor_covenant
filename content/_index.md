@@ -89,7 +89,7 @@ Consider if your project team has the willingness and maturity to follow through
 Some resources useful for thinking about enforcement:
 
 - [Community Safety and Accountability](http://safetyfirstpdx.org)
-- [Enforcing Your Code of Conduct: Effective Incident Response](http://www.slideshare.net/aeschright/enforcing-your-code-of-conduct-effective-incident-response)
+- [Enforcing Your Code of Conduct: Effective Incident Response](https://www.slideshare.net/aeschright/enforcing-your-code-of-conduct-effective-incident-response)
 - [Django Code of Conduct Enforcement Manual](https://www.djangoproject.com/conduct/enforcement-manual/)
 - [jQuery Foundation Code of Conduct Enforcement Manual](https://js.foundation/community/code-of-conduct/enforcement)
 - [How Mozilla is Making Code of Conduct Enforcement Real - and Scaling It](https://medium.com/mozilla-open-innovation/how-were-making-code-of-conduct-enforcement-real-and-scaling-it-3e382cf94415)
@@ -97,7 +97,8 @@ Some resources useful for thinking about enforcement:
 
 ## Adopters of the Contributor Covenant
 
-This code of conduct has already been adopted by over [100,000 open source projects](https://github.com/search?p=98&q=fork%3Afalse+%22This+Code+of+Conduct+is+adapted+from+the+Contributor+Covenant%22+language%3AMarkdown&type=Code).
+This code of conduct has already been adopted by over 
+[100,000 open source projects](https://github.com/search?q=%22This+Code+of+Conduct+is+adapted+from+the+[Contributor+Covenant]%22+fork%3Afalse&type=Code).
 Here are just a few major projects using the Contributor Covenant.
 
 {{< data-list "static/featured-adopters.csv" >}}
