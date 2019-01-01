@@ -66,5 +66,5 @@ For a partial list, see [our adopters page](https://www.contributor-covenant.org
 
 ## License
 
-The Contributor Covenant is open source and free culture released under the terms of the 
+The Contributor Covenant is free and open, released under the terms of the 
 [Creative Commons Attribution 4.0 International](LICENSE.md) public license.
