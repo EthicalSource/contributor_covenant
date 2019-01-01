@@ -7,25 +7,11 @@ title = "A Code of Conduct for Open Source Projects"
 Open Source has always been a foundation of the Internet, and with the advent of social open source networks this is more true than ever.
 But free, libre, and open source projects suffer from a startling lack of diversity, with dramatically low representation by women, people of color, and other marginalized populations.
 
-Part of this problem lies with the very structure of some projects: the use of insensitive language, thoughtless use of pronouns, assumptions of gender, and even sexualized or culturally insensitive names.
+Often it is the unintentional assumptions and actions of project maintainers and participants that make open source projects unwelcoming (or even hostile) to marginalized people: assumptions of gender or race, sexualized or otherwise inappropriate language, or a lack of regard for the safety and well-being of vulnerable people.
 
-Marginalized people also suffer some of the unintended consequences of dogmatic insistence on meritocratic principles of governance.
-Studies have shown that organizational cultures that value meritocracy [often result in greater inequality](http://asq.sagepub.com/content/55/4/543.short).
-People with "merit" are often [excused for their bad behavior](https://modelviewculture.com/pieces/the-dehumanizing-myth-of-the-meritocracy) in public spaces based on the value of their technical contributions.
-Meritocracy also naively assumes a level playing field, in which everyone has access to the same resources, free time, and common life experiences to draw upon.
-These factors and more make contributing to open source a daunting prospect for many people, especially women and other underrepresented people.
+One way to begin addressing this problem is to be overt in our openness, welcoming all people to contribute, and pledging in return to value them as human beings and to foster an atmosphere of kindness, cooperation, and understanding.
 
-(For more critical analysis of meritocracy, refer to [this entry](http://geekfeminism.wikia.com/wiki/Meritocracy) on the Geek Feminism wiki.)
-
-
-## A Small Step Forward
-
-An easy way to begin addressing this problem is to be overt in our openness, welcoming all people to contribute, and pledging in return to value them as human beings and to foster an atmosphere of kindness, cooperation, and understanding.
-
-The Contributor Covenant can be one way to express these values.
-Pledge your respect and appreciation for contributors and participants in your open source project by adding an explicit `CODE_OF_CONDUCT.md` to your project repository.
-
-(While more focused on events and conferences, this [101 + FAQ](https://www.ashedryden.com/blog/codes-of-conduct-101-faq) addresses many of the common questions and concerns around codes of conduct.)
+Adopting the Contributor Covenant can be one way to express and codify these values and signal your intention to make your open source community welcoming, diverse, and inclusive.
 
 
 ## Contributor Covenant v1.4.1
@@ -99,7 +85,7 @@ Some resources useful for thinking about enforcement:
 
 This code of conduct has already been adopted by over
 [200,000 open source projects](https://github.com/search?l=Markdown&q=%22Contributor+Covenant%22+fork%3Afalse&type=Code).
-Here are just a few major projects using the Contributor Covenant.
+Here are just a few major projects and organizations using the Contributor Covenant.
 
 {{< data-list "static/featured-adopters.csv" >}}
 
