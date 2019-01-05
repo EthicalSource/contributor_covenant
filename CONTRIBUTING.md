@@ -29,7 +29,14 @@
 .third-class {
 	background-color: white;
 }
-```
-
+``
+`.class {
+	color: #4C1161;
+	font-size: 1.1rem;
+}
+.second-class,
+.third-class {
+	background-color: white;
+}
 ### Markdown
 - Do not use fancy quotes, dashes, and such; the Markdown processor will handle that.
