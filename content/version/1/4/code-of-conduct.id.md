@@ -7,7 +7,7 @@ aliases = ["/version/1/4"]
 
 ## Ikrar Kami
 
-Dalam minat kami untuk menumbuhkan lingkungan yang terbuka dan ramah, kami sebagai 
+Dalam minat kami untuk menumbuhkan lingkungan yang terbuka dan ramah, kami sebagai
 kontributor dan pengelola berjanji untuk membuat partisipasi dalam proyek kami
 dan komunitas kami bebas dari pelecehan bagi semua orang, tanpa memandang usia,
 ukuran tubuh, disabilitas, kelompok etnis, identitas gender dan ekspresinya, tingkat pengalaman, pendidikan, status sosial ekonomi, kewarganegaraan, penampilan pribadi, ras, agama, atau identitas dan orientasi seksual.
@@ -49,7 +49,7 @@ mewakili sebuah proyek atau komunitas termasuk dalam menggunakan alamat email re
 
 Kejadian perilaku kasar, pelecehan, atau tidak dapat diterima yang terjadi
 dapat dilaporkan kepada tim inti proyek di [INSERT EMAIL ADDRESS]. Semua keluhan
-akan ditinjau, diselidiki dan akan menghasilkan tanggapan yang dianggap perlu 
+akan ditinjau, diselidiki dan akan menghasilkan tanggapan yang dianggap perlu
 dan sesuai dengan keadaan. Tim inti proyek berkewajiban menjaga kerahasiaan pelapor yang berkenaan dengan laporan suatu insiden. Rincian lebih lanjut tentang kebijakan penegakan khusus akan dipublikasikan secara terpisah.
 
 Pengelola proyek yang tidak mengikuti atau melaksanakan Kode Etik dengan itikad
@@ -59,7 +59,7 @@ oleh para anggota lain dari pimpinan proyek.
 ## Atribut
 
 Kode Etik ini diadaptasi dari [Contributor Covenant][homepage], versi 1.4,
-tersedia di [https://www.contributor-covenant.org/version/1/4/code-of-conduct.html] [version]
+tersedia di [https://www.contributor-covenant.org/version/1/4/code-of-conduct.html][version]
 
 [homepage]: https://www.contributor-covenant.org
 [version]: http://contributor-covenant.org/version/1/4/
