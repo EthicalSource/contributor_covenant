@@ -49,7 +49,10 @@ You may want to add language similar to this to introduce your code of conduct:
 > Conduct. By participating in this project you agree to abide by its
 > terms.
 
-You may also use the permalinks given above to reference from your project home page.
+You may also use the permalinks given above to reference from your project home page. If you are using a markdown README file, you may want to add a badge like this one ![Contributor Covenant Badge](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg) using the code below.
+```
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](code-of-conduct.md)
+```
 
 <strong class="important">Important!</strong> You must add a contact method to the placeholder in the document so that people know how to report violations.
 
