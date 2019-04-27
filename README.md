@@ -23,6 +23,11 @@ For example, on Debian/Ubuntu:
 apt-get install hugo
 ```
 
+or if you are using Arch Linux:
+```
+pacman -S hugo
+```
+
 or using [Homebrew](https://brew.sh) on macOS:
 ```
 brew install hugo

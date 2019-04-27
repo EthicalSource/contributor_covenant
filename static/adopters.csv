@@ -1,24 +1,28 @@
+.NET Foundation, http://www.dotnetfoundation.org/code-of-conduct
 24 Pull Requests, https://github.com/24pullrequests/24pullrequests
 AASM, https://github.com/aasm/aasm
 Active Admin, https://github.com/activeadmin/activeadmin
 ActsAsTextcaptcha, https://github.com/matthutchinson/acts_as_textcaptcha
+Algorithm Archive, https://github.com/algorithm-archivists/algorithm-archive
 Algorrent, https://github.com/algorrent/algorrent
 All Algorithms, https://github.com/abranhe/algorithms
-The Anadromi Project, https://github.com/anadromi/the-anadromi-project
+AAMfP: a simple (Personal) Kanban metrics spreadsheet, https://bitbucket.org/marcobresciani/aamfp
 Android IMSI-Catcher Detector, https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector
+angular-formly, https://github.com/formly-js/angular-formly
 AngularJS, https://github.com/angular/code-of-conduct
 APInf, https://github.com/apinf/platform
-angular-formly, https://github.com/formly-js/angular-formly
 Asqatasun, https://github.com/Asqatasun/Asqatasun
 Atom, https://github.com/atom/atom
 AVA, https://github.com/avajs/ava
 Babel, https://github.com/babel/babel
-Baleen Migrations, https://github.com/baleen/migrations
 Baleen CLI, https://github.com/baleen/cli
+Baleen Migrations, https://github.com/baleen/migrations
 Begynner, https://github.com/marcker/begynner
 Bionode, http://bionode.io
+BioSigKit, https://github.com/hooman650/BioSigKit
 BootstrapVue, https://github.com/bootstrap-vue/bootstrap-vue
 Bridge.NET, http://bridge.net
+brightness_bashshell_script, https://github.com/gorlapraveen/brightness_bashshell_script
 c-3po, https://c-3po.js.org
 Cake, http://cakebuild.net
 Calypso (WordPress.com), https://github.com/Automattic/wp-calypso
@@ -30,15 +34,18 @@ CHAOSS Project, https://chaoss.community/
 Checkstyle for Haxe, https://github.com/HaxeCheckstyle/haxe-checkstyle
 chef-rvm, https://github.com/fnichol/chef-rvm
 clearwater.rb, https://github.com/clearwater-rb/clearwater
+Climate Equity Reference Calculator, https://github.com/climateequityreferenceproject/cerc-web
 CloudI, http://cloudi.org/faq.html#2_CodeOfConduct
 CocoaPods, https://github.com/cocoapods/cocoapods
 Codebridge, https://github.com/codebridge-za
 CodeBuddies, https://github.com/codebuddiesdotorg/cb-v2-scratch
+Coding Coach, https://github.com/Coding-Coach/coding-coach
 composer, https://github.com/composer/composer
 concurrent-ruby, https://github.com/ruby-concurrency/concurrent-ruby
 conduct, https://github.com/sindresorhus/conduct
 Contrast-Finder, https://github.com/Asqatasun/Contrast-Finder
 Crackle, https://github.com/jordanekay/Crackle
+Creative Commons, http://creativecommons.github.io/community/code-of-conduct/
 Crystal, https://github.com/manastech/crystal
 Cucumber, https://github.com/cucumber
 curl, https://github.com/bagder/curl
@@ -46,45 +53,48 @@ Data Retriever, https://github.com/weecology/retriever
 Dawnscanner, https://github.com/thesp0nge/dawnscanner
 DC/OS, https://dcos.io/
 Dependent, https://github.com/dependent/dependencies
+Deviser Platform, https://github.com/deviserplatform/deviserplatform
 Diaspora, https://github.com/diaspora/diaspora
 Discourse, https://github.com/discourse/discourse
 Dokku, https://github.com/dokku/dokku
 Doublify, https://github.com/doublify
+Drachenhorn, https://github.com/Drachenhorn-Team/Drachenhorn
 ECB Exchange, https://github.com/matthutchinson/ecb_exchange
-Eclipse, https://eclipse.org
 Eclipse Che, https://github.com/codenvy/che
+Eclipse, https://eclipse.org
 Eldest Daughter Questionnaire, https://github.com/eldest-daughter/ed-questionnaire
 Electron, https://github.com/electron/electron
 Elixir, https://github.com/elixir-lang/elixir
 Exercism.io, https://github.com/exercism/exercism.io
+Firefox Browser to B2B Communication, https://github.com/gorlapraveen/firefox_b2b_comm_radio_addon
 First Contributions, https://github.com/multunus/first-contributions
 Freedomotic, https://github.com/freedomotic/freedomotic
 friends, https://github.com/JacobEvelyn/friends
 Fukuzatsu, https://gitlab.com/coraline/fukuzatsu/tree/master
 GDS, https://github.com/alphagov
-GetTogether, https://github.com/GetTogetherComm/GetTogether
 GEOPM, https://geopm.github.io/
+GetTogether, https://github.com/GetTogetherComm/GetTogether
 Git for Windows, https://github.com/git-for-windows
 GitLab, https://gitlab.com/gitlab-org/gitlab-ce/
 Giveth, https://wiki.giveth.io/policy/codeofconduct/
-Golang, https://golang.org/conduct
-Google, https://opensource.google.com/docs/releasing/template/CODE_OF_CONDUCT/
 GNSS-SDR, https://github.com/gnss-sdr/gnss-sdr
 GNU Guix and GuixSD, https://www.gnu.org/software/guix/
+Golang, https://golang.org/conduct
+Golden Cobra, https://github.com/ikuseiGmbH/Goldencobra
+Google, https://opensource.google.com/docs/releasing/template/CODE_OF_CONDUCT/
+GoReleaser, https://github.com/goreleaser/releaser
 Grape, https://github.com/ruby-grape/grape
 Growing Devs, https://github.com/growingdevs/growingdevs.github.io
-Golden Cobra, https://github.com/ikuseiGmbH/Goldencobra
-GoReleaser, https://github.com/goreleaser/releaser
 Hacken.in, https://github.com/hacken-in/website
 Hanami, http://hanamirb.org/community#code-of-conduct
-Heptio Ark, https://github.com/heptio/ark
-Heptio Contour, https://github.com/heptio/contour
-Heptio Gimbal, https://github.com/heptio/gimbal
-Heptio Sonobuoy, https://github.com/heptio/sonobuoy
 HandBrake, https://github.com/HandBrake/HandBrake
 Haskell Fill in the Blanks, https://gitlab.com/cpp.cabrera/haskell-fill-in-the-blanks/tree/master
 HaskellNow.org, http://www.haskellnow.org/wiki/WikiStart#Projects
 HealingRa.in Projects, https://gitlab.com/groups/healing-rain
+Heptio Ark, https://github.com/heptio/ark
+Heptio Contour, https://github.com/heptio/contour
+Heptio Gimbal, https://github.com/heptio/gimbal
+Heptio Sonobuoy, https://github.com/heptio/sonobuoy
 Holidays, https://github.com/holidays/holidays
 Homebrew-Cask, https://github.com/caskroom/homebrew-cask
 Hotels.com, https://github.com/HotelsDotCom
@@ -94,15 +104,16 @@ Huh? iOS, https://github.com/Yaapete/Huh-iOS
 if me, https://github.com/julianguyen/ifme
 Intel OTC, https://01.org/blogs/2018/intel-covenant-code
 iText, http://itextpdf.com/
-Jekyll, https://github.com/jekyll/jekyll
+Java Builders Generator, https://github.com/khabali/java-builders-generator
 jekyll-octopod, https://jekyll-octopod.github.io/conduct/
+Jekyll, https://github.com/jekyll/jekyll
 Jenkins, https://jenkins-ci.org/conduct/
 Johnny-Five, https://github.com/rwaldron/johnny-five
-JRuby, https://github.com/jruby/jruby/
 JRuby Gradle, https://github.com/jruby-gradle/jruby-gradle-plugin
+JRuby, https://github.com/jruby/jruby/
 json-rpc, https://github.com/pavlov99/json-rpc
-Kiva, https://github.com/kiva
 Kickoff, https://github.com/TryKickoff/kickoff/
+Kiva, https://github.com/kiva
 Kong, https://github.com/mashape/kong/
 Kubernetes, https://github.com/kubernetes/kubernetes/
 LA Devs, https://github.com/la-devs/ladevs.org
@@ -110,8 +121,9 @@ Laravel.io, https://github.com/laravelio/portal
 LifxDash, https://github.com/matthutchinson/lifx_dash
 Linode, https://github.com/linode/docs
 Linux, https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=8a104f8b5867c682d994ffa7a74093c54469c11f
-Lolcommits, https://github.com/mroth/lolcommits
 Lolcommits Plugins, https://github.com/search?q=topic%3Alolcommits-plugin+org%3Alolcommits
+Lolcommits, https://github.com/mroth/lolcommits
+Mailchain, https://github.com/mailchain/mailchain
 Marquez, https://github.com/MarquezProject/marquez
 Mensa, https://github.com/jordanekay/Mensa
 Meridian, https://github.com/untilnow/meridian
@@ -122,13 +134,14 @@ Moya, https://github.com/Moya/Moya
 Mozilla Webmaker, https://www.webmaker.org/
 MyBB, https://mybb.com
 MyPaint, https://github.com/mypaint/mypaint
+N#, github.com/n-language/n-
 NColony, https://github.com/moshez/ncolony
 Neos, https://www.neos.io/
 Nerd Fonts, https://github.com/ryanoasis/nerd-fonts
 Nodejs Africa, https://nodejs.africa/
-.NET Foundation, http://www.dotnetfoundation.org/code-of-conduct
 nteract, http://nteract.io/
 OAPI ShieldsUp, https://github.com/oapi/shieldsup
+Open WebRTC Toolkit, https://github.com/open-webrtc-toolkit
 OpenDominion, https://github.com/WaveHack/OpenDominion
 OpenDroneMap, https://github.com/OpenDroneMap/OpenDroneMap
 OpenProject, https://www.openproject.org/
@@ -150,6 +163,7 @@ PiVPN, https://github.com/pivpn/pivpn
 Pixi.js Haxe Externs, https://github.com/pixijs/pixi-haxe
 Playscii, http://vectorpoem.com/playscii
 pmap, https://github.com/bruceadams/pmap
+prance (Resolving Swagger/OpenAPI 2.0 Parser), https://github.com/jfinkhaeuser/prance
 PRAW, https://github.com/praw-dev/praw
 Pre-filled repository, https://github.com/GuglielmoPepe/pre-filled-repository
 Pressbooks, https://github.com/pressbooks/pressbooks
@@ -162,38 +176,40 @@ QA-Tools, https://github.com/qa-tools/qa-tools
 Quack Lang, https://github.com/quack/quack
 Quick, https://github.com/Quick/Quick
 Rack::Attack, https://github.com/kickstarter/rack-attack
-Realm, https://realm.io/conduct/
 Rails, https://github.com/rails/rails
 Random Bookmark From Folder, https://github.com/PikadudeNo1/RandomBookmark
 rbenv, https://github.com/rbenv/rbenv
+ReactiveUI, https://github.com/reactiveui/reactiveui
+ReactiveX/RxJS, https://github.com/ReactiveX/RxJS
+Realm, https://realm.io/conduct/
 Recidiviz, https://github.com/Recidiviz/
 Redash, https://github.com/getredash/redash
 Rekrei, https://github.com/rekrei/rekrei
 Rocket.Chat, https://github.com//RocketChat/Rocket.Chat
 ROM, https://github.com/rom-rb/rom
 RSpec, https://github.com/rspec/rspec
-ruby-community, https://github.com/apeiros/ruby-community
 Ruby for Cats, https://github.com/rubyforcats
-RubyGems.org, https://github.com/rubygems/rubygems.org
 Ruby Hero Awards, https://github.com/rubyheroes/rubyheroes.com
+ruby-community, https://github.com/apeiros/ruby-community
+RubyGems.org, https://github.com/rubygems/rubygems.org
 RVM, https://github.com/rvm/rvm
-ReactiveUI, https://github.com/reactiveui/reactiveui
-ReactiveX/RxJS, https://github.com/ReactiveX/RxJS
 Salesforce OSS, https://github.com/salesforce/oss-template
-SassDoc, https://github.com/sassdoc/sassdoc
 Sass Guidelines, https://github.com/HugoGiraudel/sass-guidelines
+SassDoc, https://github.com/sassdoc/sassdoc
 Scrapy, https://scrapy.org/
 Serialport, https://github.com/voodootikigod/node-serialport
 Sevilla Maker Society, https://github.com/maker-society-svq
 Snipe-IT, https://github.com/snipe/snipe-it
 Snuffle, https://gitlab.com/coraline/snuffle/tree/master
 Software Carpentry, https://github.com/swcarpentry
-Storybook, https://github.com/storybooks/storybook
 SPIP, https://www.spip.net/
-Spring, https://github.com/spring-projects
 Spree, https://github.com/spree/spree
 Spring Boot, https://github.com/spring-projects/spring-boot
+Spring, https://github.com/spring-projects
 Squirrel for Windows, https://github.com/squirrel/squirrel.windows
+Stack.io, https://github.com/germanstack
+Storybook, https://github.com/storybooks/storybook
+Styled Hooks, https://github.com/colingourlay/styled-hooks
 SuiteCRM, https://suitecrm.com/
 Supergiant, https://supergiant.io/
 Swathanthra Malayalam Computing, https://smc.org.in
@@ -202,8 +218,10 @@ Swift, https://swift.org/community/#code-of-conduct
 Symfony, https://github.com/symfony/symfony
 Taiga.io, https://github.com/taigaio/code-of-conduct
 Tamiat CMS, https://github.com/tamiat/tamiat
+tbox, https://github.com/tboox/tbox
 Teem, https://github.com/P2Pvalue/teem/
 TensorFlow, https://github.com/tensorflow/tensorflow
+The Anadromi Project, https://github.com/anadromi/the-anadromi-project
 The PHP League OAuth 2.0 Server, https://github.com/thephpleague/oauth2-server
 Tide, https://github.com/wptide/wptide
 TinyMCE, https://www.tinymce.com/docs/advanced/contributing-to-open-source/
@@ -211,7 +229,6 @@ Tmuxinator, https://github.com/tmuxinator/tmuxinator
 Travis CI, https://travis-ci.community/t/code-of-conduct/64
 Turbolinks, https://github.com/turbolinks/turbolinks
 Twisted, https://github.com/twisted/twisted
-tbox, https://github.com/tboox/tbox
 UXP, https://github.com/MoonchildProductions/UXP
 Video.js, https://github.com/videojs/video.js
 VideoSnap, https://github.com/matthutchinson/videosnap
@@ -225,8 +242,8 @@ VSAlert, https://vsalert.vsanthanam.com
 Vue.js, https://github.com/vuejs/vue
 WAI-request-spec, https://gitlab.com/cpp.cabrera/wai-request-spec
 Waud, https://github.com/adireddy/waud
-XO, https://github.com/sindresorhus/xo
 xmake, https://github.com/tboox/xmake
+XO, https://github.com/sindresorhus/xo
 xoreos, https://github.com/xoreos/xoreos
 xterm.js, https://github.com/xtermjs/xterm.js
 yargs, https://github.com/bcoe/yargs
