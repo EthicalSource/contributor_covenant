@@ -7,8 +7,8 @@ aliases = ["/version/1/4"]
 
 ## Vállalásunk
 
-A nyitott és barátságos környezet megteremtése érdekében mi, mint résztvevők és fenntartók vállaljuk azt, hogy a projektünk és közösségünk zaklatásmentes mindenki számára, függetlenül az életkortól, test mérettől, fogyatékosságtól, etnikai hovatartozástól, nemi jellemzőktől, nemi identitástól és kifejezésétől, a tapasztalattól, az oktatástól, a társadalmi-gazdasági helyzettől, az állampolgárságtól, a személyes
-megjelenéstől, fajtól, vallástól vagy szexuális identitástól és orientációtól.
+A nyitott és barátságos környezet megteremtése érdekében mi, mint résztvevők és fenntartók vállaljuk azt, hogy a projektünk és közösségünk zaklatásmentes mindenki számára, függetlenül életkortól, test mérettől, fogyatékosságtól, etnikai hovatartozástól, nemi jellemzőktől, nemi identitástól és kifejezésétől, tapasztalattól, oktatástól, társadalmi-gazdasági helyzettől, állampolgárságtól, személyes
+megjelenéstől, fajtól, vallástól, szexuális identitástól és orientációtól.
 
 ## Szabályaink
 
@@ -16,7 +16,7 @@ Viselkedési példák, amelyek segítik a pozitív környezet létrehozását:
 
 * Barátságos és befogadó nyelv használata
 * Különböző szempontok és tapasztalatok tiszteletben tartása
-* Tisztelettudóan elfogadja a konstruktív kritikát
+* Az építő jellegű kritika elfogadása
 * A közösség érdekének szem előtt tartása
 * Más közösségi tagok felé mutatott empátia
 
@@ -36,12 +36,11 @@ A projektgazdáknak joguk és felelősségük, hogy eltávolítsák, szerkesszé
 
 ## Hatály
 
-Ez a Magatartási Kódex minden projektterületen érvényes, és akkor is érvényes, amikor az egyén nyilvános helyeken képviseli a projektet vagy annak közösségét. Például ilyen események a projekt vagy a közösség képviseletére használt hivatalos e-mail cím használata, vagy hivatalos szociális médiafiókon keresztül történő közzétételek, vagy kijelölt képviselőként egy online vagy offline eseményen történő részvétel. A hivatalos képviseletét a projektnek a projekt fenntartói még részletesebben definiálhatják és tisztázhatják.
+Ez a Magatartási Kódex minden projektterületen érvényes, és akkor is érvényes, amikor az egyén nyilvános helyeken képviseli a projektet vagy annak közösségét. Például ilyen események a projekt vagy a közösség képviseletére használt hivatalos e-mail cím használata, hivatalos szociális médiafiókon keresztül történő közzétételek, kijelölt képviselőként egy online vagy offline eseményen történő részvétel. A hivatalos képviseletét a projektnek a projekt fenntartói még részletesebben definiálhatják és tisztázhatják.
 
 ## Végrehajtás
 
-Bántalmazó, zaklató vagy általában elfogadhatatlan viselkedést a(z) [INSERT EMAIL ADDRESS] címen lehet jelenteni a projekt csapat részére. Minden panasz felülvizsgálatára, és kivizsgálásra kerül, a szükséges válaszlépések a körülményektől függően végre lesznek hajtva. A projekt csapat kötelessége a titoktartás egy esemény, vagy incidense tekintetében, a bejelentő személyére vonatkozóan.
-A végrehajtott intézkedések részletei külön megküldhetők.
+Bántalmazó, zaklató vagy általában elfogadhatatlan viselkedést a(z) [INSERT EMAIL ADDRESS] címen lehet jelenteni a projekt csapat részére. Minden panasz felülvizsgálatra, és kivizsgálásra kerül, a szükséges válaszlépések a körülményektől függően lesznek végrehajtva. A projekt csapat kötelessége a titoktartás egy esemény, vagy incidense tekintetében, a bejelentő személyére vonatkozóan. A végrehajtott intézkedések külön posztolhatók.
 
 Azok a projektgazdák, akik nem követik vagy nem hajtják végre jóhiszeműen a Magatartási Kódexet, átmeneti vagy tartós következményekkel számolhatnak, amit a projekt vezetés más tagjai határoznak meg.
 
