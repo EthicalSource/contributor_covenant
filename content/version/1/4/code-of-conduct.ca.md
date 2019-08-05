@@ -45,6 +45,6 @@ Les persones administradores que no segueixin o que no facin complir aquest Codi
 
 ## Atribució
 
-Aquest Codi de Conducta és una adaptació del [Contributor Covenant][homepage], versió 1.4, disponible a https://www.contributor-covenant.org/es/version/1/4/code-of-conduct.html
+Aquest Codi de Conducta és una adaptació del [Contributor Covenant][homepage], versió 1.4, disponible a https://www.contributor-covenant.org/ca/version/1/4/code-of-conduct.html
 
 [homepage]: https://www.contributor-covenant.org
