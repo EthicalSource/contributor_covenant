@@ -7,26 +7,11 @@ title = "A Code of Conduct for Open Source Projects"
 Open Source has always been a foundation of the Internet, and with the advent of social open source networks this is more true than ever.
 But free, libre, and open source projects suffer from a startling lack of diversity, with dramatically low representation by women, people of color, and other marginalized populations.
 
-Part of this problem lies with the very structure of some projects: the use of insensitive language, thoughtless use of pronouns, assumptions of gender, and even sexualized or culturally insensitive names.
+Often it is the unintentional assumptions and actions of project maintainers and participants that make open source projects unwelcoming (or even hostile) to marginalized people: making assumptions about gender or race, reinforcing stereotypes, using sexualized or otherwise inappropriate language, or demonstrating a lack of regard for the safety and well-being of vulnerable people.
 
-Marginalized people also suffer some of the unintended consequences of dogmatic insistence on meritocratic principles of governance.
-Studies have shown that organizational cultures that value meritocracy [often result in greater inequality](http://asq.sagepub.com/content/55/4/543.short).
-People with "merit" are often [excused for their bad behavior](https://modelviewculture.com/pieces/the-dehumanizing-myth-of-the-meritocracy) in public spaces based on the value of their technical contributions.
-Meritocracy also naively assumes a level playing field, in which everyone has access to the same resources, free time, and common life experiences to draw upon.
-These factors and more make contributing to open source a daunting prospect for many people, especially women and other underrepresented people.
+One way to begin addressing this problem is to be overt in our openness, welcoming all people to contribute, and pledging in return to value them as whole human beings and to foster an atmosphere of kindness, cooperation, and understanding.
 
-(For more critical analysis of meritocracy, refer to [this entry](http://geekfeminism.wikia.com/wiki/Meritocracy) on the Geek Feminism wiki.)
-
-
-## A Small Step Forward
-
-An easy way to begin addressing this problem is to be overt in our openness, welcoming all people to contribute, and pledging in return to value them as human beings and to foster an atmosphere of kindness, cooperation, and understanding.
-
-The Contributor Covenant can be one way to express these values.
-Pledge your respect and appreciation for contributors and participants in your open source project by adding an explicit `CODE_OF_CONDUCT.md` to your project repository.
-
-(While more focused on events and conferences, this [101 + FAQ](https://www.ashedryden.com/blog/codes-of-conduct-101-faq) addresses many of the common questions and concerns around codes of conduct.)
-
+Adopting the Contributor Covenant can be one way to express and codify these values and signal your intention to make your open source community welcoming, diverse, and inclusive.
 
 ## Contributor Covenant v1.4.1
 
@@ -64,9 +49,14 @@ You may want to add language similar to this to introduce your code of conduct:
 > Conduct. By participating in this project you agree to abide by its
 > terms.
 
-You may also use the permalinks given above to reference from your project home page.
+You may also use the permalinks given above to reference from your project home page. 
 
 <strong class="important">Important!</strong> You must add a contact method to the placeholder in the document so that people know how to report violations.
+
+If you are using a markdown README file in your source code repository, you may want to add a badge like this one ![Contributor Covenant Badge](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg) using the code below.
+```
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](code-of-conduct.md)
+```
 
 *The Contributor Covenant is released under the [Creative Commons Attribution 4.0 International Public License](https://github.com/ContributorCovenant/contributor_covenant/blob/release/LICENSE.md), which requires that attribution be included.*
 
@@ -97,9 +87,9 @@ Some resources useful for thinking about enforcement:
 
 ## Adopters of the Contributor Covenant
 
-This code of conduct has already been adopted by over 
-[100,000 open source projects](https://github.com/search?q=%22This+Code+of+Conduct+is+adapted+from+the+[Contributor+Covenant]%22+fork%3Afalse&type=Code).
-Here are just a few major projects using the Contributor Covenant.
+This code of conduct has already been adopted by over
+[200,000 open source projects](https://github.com/search?l=Markdown&q=%22Contributor+Covenant%22+fork%3Afalse&type=Code).
+Here are just a few major projects and organizations using the Contributor Covenant.
 
 {{< data-list "static/featured-adopters.csv" >}}
 

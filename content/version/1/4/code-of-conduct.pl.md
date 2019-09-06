@@ -8,10 +8,10 @@ aliases = ["/version/1/4/pl"]
 ## Nasza Przysięga
 
 W celu wspierania otwartego i przyjaznego środowiska, my — jako współpracownicy i
-opiekunowie projektu — zobowiązujemy się dopilnować aby uczestnictwo w naszym projekcie
+opiekunowie projektu — zobowiązujemy się dopilnować, aby uczestnictwo w naszym projekcie
 oraz przynależność do jego społeczności były pozbawiony nękania bez względu na budowę
 ciała, doświadczenie, kolor skóry, narodowość, niepełnosprawność, orientację i
-identyfikację seksualną, pochodzenie etniczne, religię, wiek, oraz wygląd zewnętrzny.
+identyfikację seksualną, pochodzenie etniczne, religię, wiek czy wygląd zewnętrzny.
 
 ## Nasze Standardy
 
@@ -39,25 +39,25 @@ Wśród przykładów zachowania, którego nie będziemy akceptować, są:
 ## Nasza Odpowiedzialność
 
 Opiekunowie projektu są odpowiedzialni za objaśnianie standardów akceptowalnego
-zachowania i reagowanie na wszelkie przypadki nieodpowiedniego zachowania w sposób
+zachowania i reagowanie na wszelkie przypadki nieodpowiedniego zachowania, w sposób
 sprawiedliwy i adekwatny do sytuacji.
 
-Opiekunowie projektu mają prawo i odpowiedzialność usuwania, edycji oraz odrzucania
-komentarzy, zmian w kodzie (ang. _commit_), edycji wiki, oraz innych treści, które
-łamią niniejszy Kodeks Postępowania, oraz mają prawo tymczasowo lub stale zablokować
-dostęp do projektu każdemu z współpracowników w przypadku gróźb bądź obraźliwych
-komentarzy pod adresem innych współpracowników a także innych zachowań, które uznają
+Opiekunowie projektu mają prawo do i są odpowiedzialni za usuwanie, edycję oraz odrzucanie
+komentarzy, zmian w kodzie (ang. _commit_), edycji Wiki, oraz innych treści, które
+łamią niniejszy Kodeks Postępowania, oraz mają prawo tymczasowo lub na stałe zablokować
+dostęp do projektu każdemu ze współpracowników: w przypadku gróźb bądź obraźliwych
+komentarzy pod adresem innych współpracowników, a także innych zachowań, które uznają
 za nieodpowiednie lub szkodliwe.
 
 ## Zakres działania
 
 Ten Kodeks Postępowania ma zastosowanie wewnątrz projektu, a w przypadku
 reprezentowania projektu lub jego społeczności przez współpracownika — także na zewnątrz
-niego. Do przykładów reprezentowania projektu zalicza się używanie oficjalnego adresu
-e-mail projektu, publikowanie na oficjalnym koncie w mediach społecznościowych, lub branie
+projektu. Do przykładów reprezentowania projektu zalicza się używanie oficjalnego adresu
+e-mail projektu, publikowanie na oficjalnym koncie w mediach społecznościowych lub branie
 udziału w wydarzeniu (zarówno w Internecie, jak i poza nim) jako oficjalny przedstawiciel
-projektu. Dokładny zakres pojęcia reprezentowania projektu może zostać objaśniony w
-bardziej szczegółowy sposób przez opiekunów projektu.
+projektu. Dokładny zakres pojęcia reprezentowania projektu może zostać objaśniony
+w bardziej szczegółowy sposób przez opiekunów projektu.
 
 ## Egzekwowanie
 
@@ -68,9 +68,8 @@ konieczne i odpowiednie do sytuacji. Zespół projektu ma obowiązek zachowania 
 osoby zgłaszającej incydent w tajemnicy. Bardziej szczegółowe zasady egzekwowania Kodeksu
 Postępowania mogą zostać udostępnione w osobnym dokumencie.
 
-Opiekunowie projektu, którzy nie respektują i nie egzekwują Kodeksu Postępowania
-w dobrej wierze mogą zostać tymczasowo lub stale ukarani, zgodnie z decyzją innych
-liderów projektu.
+Opiekunowie projektu, którzy nie respektują i nie egzekwują w dobrej wierze Kodeksu Postępowania,
+mogą zostać na stałe lub tymczasowo ukarani, zgodnie z decyzją innych liderów projektu.
 
 ## Autorstwo
 
