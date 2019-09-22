@@ -16,6 +16,7 @@ or to provide additional [translations](https://www.contributor-covenant.org/tra
 You should also check the [issues](https://github.com/ContributorCovenant/contributor_covenant/issues)
 for the latest discussions involving the current and future versions of the Contributor Covenant.
 
+### Build the website locally
 To build the website locally, first [install Hugo](https://gohugo.io/getting-started/installing)
 using your package manager of choice.  
 For example, on Debian/Ubuntu:
@@ -23,38 +24,38 @@ For example, on Debian/Ubuntu:
 apt-get install hugo
 ```
 
-or if you are using Arch Linux:
+If you are using Arch Linux:
 ```
 pacman -S hugo
 ```
 
-or using [Homebrew](https://brew.sh) on macOS:
+If you are using [Homebrew](https://brew.sh) on macOS:
 ```
 brew install hugo
 ```
 
-Then from the repository's root directory, start the development server:
+### Start the server
+From the repository's root directory, start the development server:
 ```
 hugo server -D
 ```
 
 ## Translating
 
-We're always looking for new localizations of the Contributor Covenant and
-are thankful to the volunteers who spend their time on translations.
+We're always looking for new localizations of the Contributor Covenant and are thankful to the volunteers who spend their time on translations.
 
 If you are interested in doing a translation, please follow these steps:
 
-* Fork the repository and make a branch for your translation.
-* If it's a new language, add it to `config.toml`,
+1. Fork the repository and make a branch for your translation.
+1. If it's a new language, add it to `config.toml`,
   with a localized name and language code/optional region (e.g. `pt` or `pt-br`).
-* Create a markdown file with your translation in `version/1/4/code-of-conduct.LANGUAGECODE.md`.
-* Open a pull request.
-* We will put out a call to have one or more other native speakers review the translation.
-* Collaborate until the translation is satisfactory.
-* We will merge your translation!
-* HTML and plain text versions are automatically generated from your markdown file.
-* A link to your translation is automatically added to the translations page.
+1. Create a markdown file with your translation in `version/1/4/code-of-conduct.LANGUAGECODE.md`.
+1. Open a pull request.
+1. We will put out a call to have one or more other native speakers review the translation.
+1. Collaborate until the translation is satisfactory.
+1. We will merge your translation!
+1. HTML and plain text versions are automatically generated from your markdown file.
+1. A link to your translation is automatically added to the translations page.
 
 ## Adding a Project to the List of Adopters
 
