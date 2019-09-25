@@ -88,7 +88,7 @@ Some resources useful for thinking about enforcement:
 ## Adopters of the Contributor Covenant
 
 This code of conduct has already been adopted by over
-[200,000 open source projects](https://github.com/search?l=Markdown&q=%22Contributor+Covenant%22+fork%3Afalse&type=Code).
+[300,000 open source projects](https://github.com/search?l=Markdown&q=%22Contributor+Covenant%22+fork%3Afalse&type=Code).
 Here are just a few major projects and organizations using the Contributor Covenant.
 
 {{< data-list "static/featured-adopters.csv" >}}
