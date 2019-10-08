@@ -36,7 +36,7 @@ Examples of unacceptable behavior include:
 
 Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.
 
-Community leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct.
+Community leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct. Reasons for moderation decisions are to be communicated appropriately by community leaders.
 
 ## Scope
 
@@ -78,8 +78,8 @@ Community leaders will follow these Community Impact Guidelines in determining t
 
 ## Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.5,
-available at https://www.contributor-covenant.org/version/1/5/code-of-conduct.html.
+This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 2.0,
+available at https://www.contributor-covenant.org/version/2/0/code-of-conduct.html.
 
 Community Impact Guidelines were inspired by [Mozilla's code of conduct enforcement ladder](https://github.com/mozilla/diversity).
 
