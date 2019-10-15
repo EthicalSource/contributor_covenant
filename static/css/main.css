@@ -83,6 +83,8 @@ blockquote {
 
 pre {
   padding-left: 1.5rem;
+  overflow-x: scroll;
+  white-space: nowrap; 
 }
 
 table {
