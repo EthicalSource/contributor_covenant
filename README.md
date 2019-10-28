@@ -1,7 +1,7 @@
 Contributor Covenant
 ====================
 
-The most popular code of conduct for open source projects with over 100,000 adoptions.
+The most popular code of conduct for open-source projects with over 100,000 adoptions.
 
 ## Project Home Page
 
