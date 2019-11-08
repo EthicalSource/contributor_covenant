@@ -1,16 +1,1 @@
-<svg width="256" height="256" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<title>Contributor Covenant Logo</title>
-<g id="Canvas">
-<g id="Subtract">
-<use xlink:href="#path0_fill" fill="#5E0D73"/>
-</g>
-<g id="Subtract">
-<use xlink:href="#path1_fill" transform="translate(58 24)" fill="#5E0D73"/>
-</g>
-</g>
-<defs>
-<path id="path0_fill" fill-rule="evenodd" d="M 182.787 12.2846C 173.005 9.49408 162.677 8 152 8C 90.1441 8 40 58.1441 40 120C 40 181.856 90.1441 232 152 232C 188.464 232 220.857 214.575 241.308 187.598C 219.87 228.272 177.173 256 128 256C 57.3076 256 0 198.692 0 128C 0 57.3076 57.3076 0 128 0C 147.604 0 166.179 4.40709 182.787 12.2846Z"/>
-<path id="path1_fill" fill-rule="evenodd" d="M 137.09 9.21342C 129.754 7.12056 122.008 6 114 6C 67.6081 6 30 43.6081 30 90C 30 136.392 67.6081 174 114 174C 141.348 174 165.643 160.931 180.981 140.698C 164.903 171.204 132.88 192 96 192C 42.9807 192 0 149.019 0 96C 0 42.9807 42.9807 0 96 0C 110.703 0 124.634 3.30532 137.09 9.21342Z"/>
-</defs>
-</svg>
-
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" version="1.1" viewBox="0 0 256 256"><title>Contributor Covenant Logo</title><g id="Canvas"><g id="Subtract"><use fill="#5E0D73" xlink:href="#path0_fill"/></g><g id="Subtract"><use fill="#5E0D73" transform="translate(58 24)" xlink:href="#path1_fill"/></g></g><defs><path id="path0_fill" fill-rule="evenodd" d="M 182.787 12.2846C 173.005 9.49408 162.677 8 152 8C 90.1441 8 40 58.1441 40 120C 40 181.856 90.1441 232 152 232C 188.464 232 220.857 214.575 241.308 187.598C 219.87 228.272 177.173 256 128 256C 57.3076 256 0 198.692 0 128C 0 57.3076 57.3076 0 128 0C 147.604 0 166.179 4.40709 182.787 12.2846Z"/><path id="path1_fill" fill-rule="evenodd" d="M 137.09 9.21342C 129.754 7.12056 122.008 6 114 6C 67.6081 6 30 43.6081 30 90C 30 136.392 67.6081 174 114 174C 141.348 174 165.643 160.931 180.981 140.698C 164.903 171.204 132.88 192 96 192C 42.9807 192 0 149.019 0 96C 0 42.9807 42.9807 0 96 0C 110.703 0 124.634 3.30532 137.09 9.21342Z"/></defs></svg>

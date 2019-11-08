@@ -1,18 +1,1 @@
-<svg width="16" height="16" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<title>Contributor Covenant Logo</title>
-<g id="Canvas">
-<g id="Group">
-<g id="Subtract">
-<use xlink:href="#path0_fill"/>
-</g>
-<g id="Subtract">
-<use xlink:href="#path1_fill" transform="translate(3.625 1.5)"/>
-</g>
-</g>
-</g>
-<defs>
-<path id="path0_fill" fill-rule="evenodd" d="M 11.4242 0.767785C 10.8128 0.59338 10.1673 0.5 9.5 0.5C 5.63401 0.5 2.5 3.63401 2.5 7.5C 2.5 11.366 5.63401 14.5 9.5 14.5C 11.779 14.5 13.8036 13.4109 15.0818 11.7248C 13.7419 14.267 11.0733 16 8 16C 3.58172 16 0 12.4183 0 8C 0 3.58172 3.58172 0 8 0C 9.22524 0 10.3862 0.275443 11.4242 0.767785Z"/>
-<path id="path1_fill" fill-rule="evenodd" d="M 8.56814 0.575839C 8.10963 0.445035 7.62549 0.375 7.125 0.375C 4.2255 0.375 1.875 2.7255 1.875 5.625C 1.875 8.5245 4.2255 10.875 7.125 10.875C 8.83423 10.875 10.3527 10.0582 11.3113 8.79364C 10.3064 10.7002 8.305 12 6 12C 2.68629 12 0 9.31371 0 6C 0 2.68629 2.68629 0 6 0C 6.91893 0 7.78962 0.206582 8.56814 0.575839Z"/>
-</defs>
-</svg>
-
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" version="1.1" viewBox="0 0 16 16"><title>Contributor Covenant Logo</title><g id="Canvas"><g id="Group"><g id="Subtract"><use xlink:href="#path0_fill"/></g><g id="Subtract"><use transform="translate(3.625 1.5)" xlink:href="#path1_fill"/></g></g></g><defs><path id="path0_fill" fill-rule="evenodd" d="M 11.4242 0.767785C 10.8128 0.59338 10.1673 0.5 9.5 0.5C 5.63401 0.5 2.5 3.63401 2.5 7.5C 2.5 11.366 5.63401 14.5 9.5 14.5C 11.779 14.5 13.8036 13.4109 15.0818 11.7248C 13.7419 14.267 11.0733 16 8 16C 3.58172 16 0 12.4183 0 8C 0 3.58172 3.58172 0 8 0C 9.22524 0 10.3862 0.275443 11.4242 0.767785Z"/><path id="path1_fill" fill-rule="evenodd" d="M 8.56814 0.575839C 8.10963 0.445035 7.62549 0.375 7.125 0.375C 4.2255 0.375 1.875 2.7255 1.875 5.625C 1.875 8.5245 4.2255 10.875 7.125 10.875C 8.83423 10.875 10.3527 10.0582 11.3113 8.79364C 10.3064 10.7002 8.305 12 6 12C 2.68629 12 0 9.31371 0 6C 0 2.68629 2.68629 0 6 0C 6.91893 0 7.78962 0.206582 8.56814 0.575839Z"/></defs></svg>
