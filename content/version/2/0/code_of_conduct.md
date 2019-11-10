@@ -11,26 +11,32 @@ We as members, contributors, and leaders pledge to make participation in our com
 
 We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
 
+We believe that a diverse community where people treat each other with respect is stronger, more vibrant and has more potential contributors and more sources for ideas. We aim for more diversity.
+
 ## Our Standards
 
 Examples of behavior that contributes to a positive environment for our community include:
 
 * Demonstrating empathy and kindness toward other people
+* Demonstrating mutual respect and tolerance towards other people
 * Being respectful of differing opinions, viewpoints, and experiences
 * Giving and gracefully accepting constructive feedback
 * Accepting responsibility and apologizing to those affected by our mistakes, and learning from the experience
 * Focusing on what is best not just for us as individuals, but for the overall community
+* Using inclusive, gender-neutral language in the documents we provide and when we talk to people. When referring to a group of people, we aim to use gender-neutral terms like “team”, “folks”, “everyone”.
 
 Examples of unacceptable behavior include:
 
 * The use of sexualized language or imagery, and sexual attention or
   advances of any kind
 * Trolling, insulting or derogatory comments, and personal or political attacks
-* Public or private harassment
+* Harassment
 * Publishing others' private information, such as a physical or email
   address, without their explicit permission
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
+* Discriminating against anyone. Although we have phrased the formal diversity statement generically to make it all-inclusive, we recognize that there are specific attributes that are used to discriminate against people. In alphabetical order, some of these attributes include (but are not limited to): age, culture, ethnicity, gender identity or expression, national origin, physical or mental difference, politics, race, religion, sex, sexual orientation, socio-economic status, and subculture. We welcome people regardless of these or other attributes.
+* Sexism and racism of any kind (including sexist and racist “jokes”), demeaning or insulting behaviour and harassment are seen as direct violations to this code of conduct. Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, inappropriate physical contact, and unwelcome sexual attention.
 
 ## Enforcement Responsibilities
 
@@ -74,7 +80,7 @@ Community leaders will follow these Community Impact Guidelines in determining t
 
 **Community Impact**: Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior,  harassment of an individual, or aggression toward or disparagement of classes of individuals.
 
-**Consequence**: A permanent ban from any sort of public interaction within the project community.
+**Consequence**: A permanent ban from any sort of public interaction within the community.
 
 ## Attribution
 
