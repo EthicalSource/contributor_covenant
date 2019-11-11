@@ -11,7 +11,7 @@ We as members, contributors, and leaders pledge to make participation in our com
 
 We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
 
-We believe that a diverse community where people treat each other with respect is stronger, more vibrant and has more potential contributors and more sources for ideas. We aim for more diversity.
+We believe that a diverse community where people treat each other with respect is stronger, more vibrant, and has more potential contributors and more sources for ideas. We aim for more diversity.
 
 ## Our Standards
 
