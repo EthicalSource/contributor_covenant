@@ -70,6 +70,36 @@ This code of conduct has been adopted by
 [more than 100,000 open source projects](https://github.com/search?q=%22This+Code+of+Conduct+is+adapted+from+the+[Contributor+Covenant]%22+fork%3Afalse&type=Code).
 For a partial list, see [our adopters page](https://www.contributor-covenant.org/adopters.html).
 
+## Contributors
+
+### Code Contributors
+
+This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
+<a href="https://github.com/ContributorCovenant/contributor_covenant/graphs/contributors"><img src="https://opencollective.com/contributor-covenant/contributors.svg?width=890&button=false" /></a>
+
+### Financial Contributors
+
+Become a financial contributor and help us sustain our community. [[Contribute](https://opencollective.com/contributor-covenant/contribute)]
+
+#### Individuals
+
+<a href="https://opencollective.com/contributor-covenant"><img src="https://opencollective.com/contributor-covenant/individuals.svg?width=890"></a>
+
+#### Organizations
+
+Support this project with your organization. Your logo will show up here with a link to your website. [[Contribute](https://opencollective.com/contributor-covenant/contribute)]
+
+<a href="https://opencollective.com/contributor-covenant/organization/0/website"><img src="https://opencollective.com/contributor-covenant/organization/0/avatar.svg"></a>
+<a href="https://opencollective.com/contributor-covenant/organization/1/website"><img src="https://opencollective.com/contributor-covenant/organization/1/avatar.svg"></a>
+<a href="https://opencollective.com/contributor-covenant/organization/2/website"><img src="https://opencollective.com/contributor-covenant/organization/2/avatar.svg"></a>
+<a href="https://opencollective.com/contributor-covenant/organization/3/website"><img src="https://opencollective.com/contributor-covenant/organization/3/avatar.svg"></a>
+<a href="https://opencollective.com/contributor-covenant/organization/4/website"><img src="https://opencollective.com/contributor-covenant/organization/4/avatar.svg"></a>
+<a href="https://opencollective.com/contributor-covenant/organization/5/website"><img src="https://opencollective.com/contributor-covenant/organization/5/avatar.svg"></a>
+<a href="https://opencollective.com/contributor-covenant/organization/6/website"><img src="https://opencollective.com/contributor-covenant/organization/6/avatar.svg"></a>
+<a href="https://opencollective.com/contributor-covenant/organization/7/website"><img src="https://opencollective.com/contributor-covenant/organization/7/avatar.svg"></a>
+<a href="https://opencollective.com/contributor-covenant/organization/8/website"><img src="https://opencollective.com/contributor-covenant/organization/8/avatar.svg"></a>
+<a href="https://opencollective.com/contributor-covenant/organization/9/website"><img src="https://opencollective.com/contributor-covenant/organization/9/avatar.svg"></a>
+
 ## License
 
 The Contributor Covenant is open source and free culture released under the terms of the 
