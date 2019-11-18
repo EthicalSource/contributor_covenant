@@ -17,9 +17,9 @@ Adopting the Contributor Covenant can be one way to express and codify these val
 
 You can view and download the latest version of the Contributor Covenant here:
 
-- [English (Markdown version)]({{< ref "/version/2/0/code-of-conduct.md" "markdown" >}})
-- [English (HTML version)]({{< ref "/version/2/0/code-of-conduct.md" >}})
-- [English (text version)]({{< ref "/version/2/0/code-of-conduct.md" "plaintext" >}})
+- [English (Markdown version)]({{< ref "/version/2/0/code_of_conduct.md" "markdown" >}})
+- [English (HTML version)]({{< ref "/version/2/0/code_of_conduct.md" >}})
+- [English (text version)]({{< ref "/version/2/0/code_of_conduct.md" "plaintext" >}})
 
 For translations of the Contributor Covenant, please see our [translations page]({{< ref "translations.md" >}}).
 
