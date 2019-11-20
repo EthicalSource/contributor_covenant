@@ -49,7 +49,7 @@ If you are interested in doing a translation, please follow these steps:
 1. Fork the repository and make a branch for your translation.
 1. If it's a new language, add it to `config.toml`,
   with a localized name and language code/optional region (e.g. `pt` or `pt-br`).
-1. Create a markdown file with your translation in `version/1/4/code-of-conduct.LANGUAGECODE.md`.
+1. Create a markdown file with your translation in `version/1/2/code_of_conduct.LANGUAGECODE.md`.
 1. Open a pull request.
 1. We will put out a call to have one or more other native speakers review the translation.
 1. Collaborate until the translation is satisfactory.
