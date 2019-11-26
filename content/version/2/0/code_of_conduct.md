@@ -11,7 +11,7 @@ We as members, contributors, and leaders pledge to make participation in our com
 
 We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
 
-We believe that a diverse community where people treat each other with respect is stronger, more vibrant, and has more potential contributors and more sources for ideas. We aim for more diversity.
+We believe that a diverse, welcoming, and inclusive community where people treat each other with respect is stronger, more vibrant, and has more potential contributors and more sources for ideas.
 
 ## Our Standards
 
@@ -23,7 +23,7 @@ Examples of behavior that contributes to a positive environment for our communit
 * Giving and gracefully accepting constructive feedback
 * Accepting responsibility and apologizing to those affected by our mistakes, and learning from the experience
 * Focusing on what is best not just for us as individuals, but for the overall community
-* Using inclusive, gender-neutral language in the documents we provide and when we talk to people. When referring to a group of people, we aim to use gender-neutral terms like “team”, “folks”, “everyone”.
+* Using inclusive, gender-neutral language. When referring to a group of people, aim to use gender-neutral terms (e.g. “team”, “folks”, “everyone”).
 
 Examples of unacceptable behavior include:
 
