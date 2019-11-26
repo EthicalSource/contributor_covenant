@@ -7,7 +7,7 @@ aliases = ["/version/2/0/es"]
 
 ## Nuestro compromiso
 
-Nosotros, como miembros, contribuyentes y administradores nos comprometemos a hacer de la participación en nuestra comunidad una experiencia libre de acoso para todo el mundo, independientemente de la edad, dimensión corporal, minusvalía visible o invisible, etnicidad, características sexuales, identidad y expresión de género, nivel de experiencia, educación, nivel socio-económico, nacionalidad, apariencia personal, raza, religión, o identidad u orientación sexual.
+Nosotres, como miembros, contribuyentes y administradores nos comprometemos a hacer de la participación en nuestra comunidad una experiencia libre de acoso para todo el mundo, independientemente de la edad, dimensión corporal, minusvalía visible o invisible, etnicidad, características sexuales, identidad y expresión de género, nivel de experiencia, educación, nivel socio-económico, nacionalidad, apariencia personal, raza, religión, o identidad u orientación sexual.
 
 Nos comprometemos a actuar e interactuar de maneras que contribuyan a una comunidad abierta, acogedora, diversa, inclusiva y sana.
 
@@ -18,8 +18,8 @@ Ejemplos de comportamiento que contribuyen a crear un ambiente positivo para nue
 * Demostrar empatía y amabilidad ante otras personas
 * Respeto a diferentes opiniones, puntos de vista y experiencias
 * Dar y aceptar adecuadamente retroalimentación constructiva
-* Aceptar la responsabilidad y disculparse ante quienes se vean afectados por nuestros errores, aprendiendo de la experiencia
-* Centrarse en lo que sea mejor no sólo para nosotros como individuos, sino para la comunidad en general
+* Aceptar la responsabilidad y disculparse ante quienes se vean afectades por nuestros errores, aprendiendo de la experiencia
+* Centrarse en lo que sea mejor no sólo para nosotres como individues, sino para la comunidad en general
 
 Ejemplos de comportamiento inaceptable:
 
@@ -34,29 +34,29 @@ Ejemplos de comportamiento inaceptable:
 
 ## Aplicación de las responsabilidades
 
-Los administradores de la comunidad son responsables de aclarar y hacer cumplir nuestros estándares de comportamiento aceptable y tomarán acciones apropiadas y correctivas de forma justa en respuesta a cualquier comportamiento que consideren inapropiado, amenazante, ofensivo o dañino.
+Les administradores de la comunidad son responsables de aclarar y hacer cumplir nuestros estándares de comportamiento aceptable y tomarán acciones apropiadas y correctivas de forma justa en respuesta a cualquier comportamiento que consideren inapropiado, amenazante, ofensivo o dañino.
 
-Los administradores de la comunidad tendrán el derecho y la responsabilidad de eliminar, editar o rechazar comentarios, _commits_, código, ediciones de páginas de wiki, _issues_ y otras contribuciones que no se alineen con este Código de Conducta, y comunicarán las razones para sus decisiones de moderación cuando sea apropiado.
+Les administradores de la comunidad tendrán el derecho y la responsabilidad de eliminar, editar o rechazar comentarios, _commits_, código, ediciones de páginas de wiki, _issues_ y otras contribuciones que no se alineen con este Código de Conducta, y comunicarán las razones para sus decisiones de moderación cuando sea apropiado.
 
 ## Alcance
 
-Este código de conducta aplica tanto a espacios del proyecto como a espacios públicos donde un individuo esté en representación del proyecto o comunidad. Ejemplos de esto incluyen el uso de la cuenta oficial de correo electrónico, publicaciones a través de las redes sociales oficiales, o presentaciones con personas designadas en eventos en línea o no.
+Este código de conducta aplica tanto a espacios del proyecto como a espacios públicos donde une individue esté en representación del proyecto o comunidad. Ejemplos de esto incluyen el uso de la cuenta oficial de correo electrónico, publicaciones a través de las redes sociales oficiales, o presentaciones con personas designadas en eventos en línea o no.
 
 ## Aplicación
 
-Instancias de comportamiento abusivo, acosador o inaceptable de otro modo podrán ser reportadas a los administradores de la comunidad responsables del cumplimiento a través de [INSERTAR MÉTODO DE CONTACTO]. Todas las quejas serán evaluadas e investigadas de una manera puntual y justa.
+Instancias de comportamiento abusivo, acosador o inaceptable de otro modo podrán ser reportadas a les administradores de la comunidad responsables del cumplimiento a través de [INSERTAR MÉTODO DE CONTACTO]. Todas las quejas serán evaluadas e investigadas de una manera puntual y justa.
 
-Todos los administradores de la comunidad están obligados a respetar la privacidad y la seguridad de quienes reporten incidentes.
+Todes los administradores de la comunidad están obligados a respetar la privacidad y la seguridad de quienes reporten incidentes.
 
 ## Guías de Aplicación
 
-Los administradores de la comunidad seguirán estas Guías de Impacto en la Comunidad para determinar las consecuencias de cualquier acción que juzguen como un incumplimiento de este Código de Conducta:
+Les administradores de la comunidad seguirán estas Guías de Impacto en la Comunidad para determinar las consecuencias de cualquier acción que juzguen como un incumplimiento de este Código de Conducta:
 
 ### 1. Corrección
 
 **Impacto en la Comunidad**: El uso de lenguaje inapropiado u otro comportamiento considerado no profesional o no acogedor en la comunidad.
 
-**Consecuencia**: Un aviso escrito y privado por parte de los administradores de la comunidad, proporcionando claridad alrededor de la naturaleza de este incumplimiento y una explicación de por qué el comportamiento es inaceptable. Una disculpa pública podría ser solicitada.
+**Consecuencia**: Un aviso escrito y privado por parte de les administradores de la comunidad, proporcionando claridad alrededor de la naturaleza de este incumplimiento y una explicación de por qué el comportamiento es inaceptable. Una disculpa pública podría ser solicitada.
 
 ### 2. Aviso
 
@@ -72,7 +72,7 @@ Los administradores de la comunidad seguirán estas Guías de Impacto en la Comu
 
 ### 4. Expulsión permanente
 
-**Impacto en la Comunidad**: Demostrar un patrón sistemático de incumplimientos de los estándares de la comunidad, incluyendo conductas inapropiadas prolongadas en el tiempo, acoso de individuos, o agresiones o menosprecio a grupos de individuos.
+**Impacto en la Comunidad**: Demostrar un patrón sistemático de incumplimientos de los estándares de la comunidad, incluyendo conductas inapropiadas prolongadas en el tiempo, acoso de individues, o agresiones o menosprecio a grupos de individues.
 
 **Consecuencia**: Una expulsión permanente de cualquier tipo de interacción pública con la comunidad del proyecto.
 
