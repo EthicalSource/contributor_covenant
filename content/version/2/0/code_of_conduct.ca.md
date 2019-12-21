@@ -7,7 +7,7 @@ aliases = ["/version/2/0/ca"]
 
 ## El nostre compromís
 
-Nosaltres, com a membres, col·laboradors i administradors ens comprometem a fer de la participació en la nostra comunitat una experiència lliure d'assetjament per a tothom, independentment de l'edat, dimensió corporal, discapacitat visible o invisible, etnicitat, característiques sexuals, identitat i expressió de gènere, nivell d'experiència, educació, nivell socioeconòmic, nacionalitat, aparença personal, raça, religió, identitat o orientació sexual.
+Nosaltres, com a membres, col·laboradors i administradors ens comprometem a fer de la participació en la nostra comunitat una experiència lliure d'assetjament per a tothom, independentment de l'edat, mida corporal, discapacitat visible o invisible, etnicitat, característiques sexuals, identitat i expressió de gènere, nivell d'experiència, educació, nivell socioeconòmic, nacionalitat, aparença personal, raça, religió, identitat o orientació sexual.
 
 Ens comprometem a actuar i interactuar de maneres que contribueixin a una comunitat oberta, acollidora, diversa, inclusiva i sana.
 
