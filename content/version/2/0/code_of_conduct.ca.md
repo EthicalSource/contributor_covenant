@@ -31,7 +31,7 @@ Exemples de comportament inacceptable:
 
 ## Aplicació de les responsabilitats
 
-Els administradors de la comunitat són responsables d'aclarir i fer complir els nostres estàndards de comportament acceptable i prendran accions apropiades i correctives de manera justa en resposta a qualsevol comportament que considerin inapropiat, amenaçador, ofensiu o nociu.
+Els administradors de la comunitat són responsables d'aclarir i fer complir els nostres estàndards de comportament acceptable i prendran accions correctives justes i apropiades en resposta a qualsevol comportament que considerin inapropiat, amenaçador, ofensiu o nociu.
 
 Els administradors de la comunitat tindran el dret i la responsabilitat d'eliminar, editar o rebutjar comentaris, _commits_, codi, edicions de pàgines de wiki, _issues_ i altres contribucions que no s'alineïn amb aquest Codi de Conducta, i comunicaran les raons de les seves decisions de moderació quan sigui apropiat.
 
