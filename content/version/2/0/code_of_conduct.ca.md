@@ -21,7 +21,7 @@ Exemples de comportament que contribueixen a crear un ambient positiu per a la n
 * Acceptar la responsabilitat i disculpar-se davant els que es vegin afectats pels nostres errors, aprenent de l'experiència
 * Centrar-se en el que sigui millor no sols per a nosaltres com a individus, sinó per a la comunitat en general
 
-Exemples de comportament inacceptable:
+Exemples de comportament inapropiat:
 
 * L'ús de llenguatge o imatges sexualitzades, i atencions o aproximacions sexuals de qualsevol tipus
 * Comentaris provocadors (_trolling_), insultants o despectius, i atacs personals o polítics
@@ -41,7 +41,7 @@ Aquest Codi de Conducta és d'aplicació dins de tots els espais de la comunitat
 
 ## Aplicació
 
-Casos de comportament abusiu, assetjador o de qualsevol altre caire inacceptable podran ser reportats als administradors de la comunitat responsables del compliment a través de [INSERIR MÈTODE DE CONTACTE]. Totes les queixes seran investigades i avaluades de forma justa i puntual.
+Casos de comportament abusiu, assetjador o de qualsevol altre caire inapropiat podran ser reportats als administradors de la comunitat responsables del compliment a través de [INSERIR MÈTODE DE CONTACTE]. Totes les queixes seran investigades i avaluades de forma justa i puntual.
 
 Tots els administradors de la comunitat estan obligats a respectar la privacitat i la seguretat de qui reporti incidents.
 
@@ -53,7 +53,7 @@ Els administradors de la comunitat seguiran aquestes Pautes d'Impacte en la Comu
 
 **Impacte en la Comunitat**: L'ús de llenguatge inapropiat o qualsevol altre comportament considerat no professional o no acollidor en la comunitat.
 
-**Conseqüència**: Un avís escrit i privat per part dels administradors de la comunitat, proporcionant claredat al voltant de la naturalesa d'aquest incompliment i una explicació de per què el comportament és inacceptable. Una disculpa pública podria ser sol·licitada.
+**Conseqüència**: Un avís escrit i privat per part dels administradors de la comunitat, proporcionant claredat al voltant de la naturalesa d'aquest incompliment i una explicació de per què el comportament és inapropiat. Es podria sol·licitar una disculpa pública.
 
 ### 2. Avís
 
