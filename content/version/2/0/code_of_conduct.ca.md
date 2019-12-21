@@ -51,27 +51,27 @@ Els administradors de la comunitat seguiran aquestes Pautes d'Impacte en la Comu
 
 ### 1. Correcció
 
-*Impacte en la Comunitat*: L'ús de llenguatge inapropiat o qualsevol altre comportament considerat no professional o no acollidor en la comunitat.
+**Impacte en la Comunitat**: L'ús de llenguatge inapropiat o qualsevol altre comportament considerat no professional o no acollidor en la comunitat.
 
-*Conseqüència**: Un avís escrit i privat per part dels administradors de la comunitat, proporcionant claredat al voltant de la naturalesa d'aquest incompliment i una explicació de per què el comportament és inacceptable. Una disculpa pública podria ser sol·licitada.
+**Conseqüència**: Un avís escrit i privat per part dels administradors de la comunitat, proporcionant claredat al voltant de la naturalesa d'aquest incompliment i una explicació de per què el comportament és inacceptable. Una disculpa pública podria ser sol·licitada.
 
 ### 2. Avís
 
-*Impacte en la Comunitat*: Un incompliment causat per un únic incident o per una cadena d'accions.
+**Impacte en la Comunitat**: Un incompliment causat per un únic incident o per una cadena d'accions.
 
-*Conseqüència**: Un avís amb conseqüències per comportament prolongat. No s'interactua amb les persones involucrades, incloent interacció no sol·licitada amb els qui es troben aplicant el Codi de Conducta, per un període especificat de temps. Això inclou evitar les interaccions en espais de la comunitat, així com a través dels canals externs com les xarxes socials. Incomplir aquests termes pot conduir a una expulsió temporal o permanent.
+**Conseqüència**: Un avís amb conseqüències per comportament prolongat. No s'interactua amb les persones involucrades, incloent interacció no sol·licitada amb els qui es troben aplicant el Codi de Conducta, per un període especificat de temps. Això inclou evitar les interaccions en espais de la comunitat, així com a través dels canals externs com les xarxes socials. Incomplir aquests termes pot conduir a una expulsió temporal o permanent.
 
 ### 3. Expulsió temporal
 
-*Impacte en la Comunitat*: Una sèrie d'incompliments dels estàndards de la comunitat, incloent comportament inapropiat continu.
+**Impacte en la Comunitat**: Una sèrie d'incompliments dels estàndards de la comunitat, incloent comportament inapropiat continu.
 
-*Conseqüència**: Una restricció (__ban__) temporal de qualsevol forma d'interacció o comunicació pública amb la comunitat durant un interval de temps especificat. No es permet interactuar de manera pública o privada amb les persones involucrades, incloent interaccions no sol·licitades amb els qui es troben aplicant el Codi de Conducta durant aquest període. Incomplir aquests termes pot conduir a una expulsió permanent.
+**Conseqüència**: Una restricció (__ban__) temporal de qualsevol forma d'interacció o comunicació pública amb la comunitat durant un interval de temps especificat. No es permet interactuar de manera pública o privada amb les persones involucrades, incloent interaccions no sol·licitades amb els qui es troben aplicant el Codi de Conducta durant aquest període. Incomplir aquests termes pot conduir a una expulsió permanent.
 
 ### 4. Expulsió permanent
 
-*Impacte en la Comunitat*: Demostrar un patró sistemàtic d'incompliments dels estàndards de la comunitat, incloent conductes inapropiades prolongades en el temps, assetjament d'individus, agressions o menyspreu a grups d'individus.
+**Impacte en la Comunitat**: Demostrar un patró sistemàtic d'incompliments dels estàndards de la comunitat, incloent conductes inapropiades prolongades en el temps, assetjament d'individus, agressions o menyspreu a grups d'individus.
 
-*Conseqüència**: Una restricció (__ban__) permanent de qualsevol forma d'interacció pública amb la comunitat del projecte.
+**Conseqüència**: Una restricció (__ban__) permanent de qualsevol forma d'interacció pública amb la comunitat del projecte.
 
 ## Atribució
 
