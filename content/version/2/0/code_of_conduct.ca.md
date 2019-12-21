@@ -24,7 +24,7 @@ Exemples de comportament que contribueixen a crear un ambient positiu per a la n
 Exemples de comportament inacceptable:
 
 * L'ús de llenguatge o imatges sexualitzades, i atencions o aproximacions sexuals de qualsevol tipus
-* Comentaris despectius (_trolling_), insultants o derogatoris, i atacs personals o polítics
+* Comentaris provocadors (_trolling_), insultants o despectius, i atacs personals o polítics
 * L'assetjament en públic o en privat
 * Publicar informació privada d'altres persones, com adreces físiques o de correu electrònic, sense el seu permís explícit
 * Altres conductes que puguin ser raonablement considerades com a inapropiades en un entorn professional
