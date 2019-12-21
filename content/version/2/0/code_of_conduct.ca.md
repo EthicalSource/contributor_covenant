@@ -16,7 +16,7 @@ Ens comprometem a actuar i interactuar de maneres que contribueixin a una comuni
 Exemples de comportament que contribueixen a crear un ambient positiu per a la nostra comunitat:
 
 * Demostrar empatia i amabilitat davant d'altres persones
-* Respectar les diferents opinions, punts de vista i/o experiències
+* Respectar les diferents opinions, punts de vista, i experiències
 * Donar i acceptar de forma elegant qualsevol crítica constructiva
 * Acceptar la responsabilitat i disculpar-se davant els que es vegin afectats pels nostres errors, aprenent de l'experiència
 * Centrar-se en el que sigui millor no sols per a nosaltres com a individus, sinó per a la comunitat en general
