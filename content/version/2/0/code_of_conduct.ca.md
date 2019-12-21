@@ -37,7 +37,7 @@ Els administradors de la comunitat tindran el dret i la responsabilitat d'elimin
 
 ## Abast
 
-Aquest Codi de Conducta aplica dins de tots els espais de la comunitat, i també aplica quan un individu representa oficialment a la comunitat en espais públics. Exemples de representació inclouen l'ús del compte oficial de correu electrònic, publicacions a través de les xarxes socials oficials, o les persones designades com a representants en esdeveniments en línia o en viu.
+Aquest Codi de Conducta és d'aplicació dins de tots els espais de la comunitat, i també aplica quan un individu representa oficialment a la comunitat en espais públics. Exemples de representació inclouen l'ús del compte oficial de correu electrònic, publicacions a través de les xarxes socials oficials, o actuar com a representant designat en esdeveniments en línia o no.
 
 ## Aplicació
 
