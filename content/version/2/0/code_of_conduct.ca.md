@@ -63,7 +63,7 @@ Els administradors de la comunitat seguiran aquestes Pautes d'Impacte en la Comu
 
 ### 3. Expulsió temporal
 
-**Impacte en la Comunitat**: Una sèrie d'incompliments dels estàndards de la comunitat, incloent comportament inapropiat continu.
+**Impacte en la Comunitat**: Una sèrie d'incompliments dels estàndards de la comunitat, incloent comportament inapropiat continuat.
 
 **Conseqüència**: Una restricció (__ban__) temporal de qualsevol forma d'interacció o comunicació pública amb la comunitat durant un interval de temps especificat. No es permet interactuar de manera pública o privada amb les persones involucrades, incloent interaccions no sol·licitades amb els qui es troben aplicant el Codi de Conducta durant aquest període. Incomplir aquests termes pot conduir a una expulsió permanent.
 
