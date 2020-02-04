@@ -7,6 +7,7 @@ Bundler, https://github.com/bundler/bundler
 chef-rvm, https://github.com/fnichol/chef-rvm
 Cloud Native Compute Foundation, https://www.cncf.io
 CocoaPods, https://github.com/cocoapods/cocoapods
+code.gov, https://github.com/GSA/code-gov/
 Creative Commons, http://creativecommons.github.io/community/code-of-conduct/
 Cucumber, https://github.com/cucumber
 Crystal, https://github.com/manastech/crystal
@@ -17,6 +18,8 @@ Eclipse, https://eclipse.org
 Electron, https://github.com/electron/electron
 Elixir, https://github.com/elixir-lang/elixir
 Exercism.io, https://github.com/exercism/exercism.io
+Gatsby, https://github.com/gatsbyjs/gatsby
+git, https://github.com/gitster/git
 GitLab, https://gitlab.com/gitlab-org/gitlab-ce/
 Golang, https://golang.org/conduct
 Google, https://opensource.google.com/docs/releasing/template/CODE_OF_CONDUCT/
@@ -33,8 +36,10 @@ Metasploit Framework, https://github.com/rapid7/metasploit-framework
 Mono, https://github.com/mono/mono
 Mozilla Webmaker, https://www.webmaker.org/
 .NET Foundation, http://www.dotnetfoundation.org/code-of-conduct
+Node.js, https://github.com/nodejs
 Rails, https://github.com/rails/rails
 rbenv, https://github.com/rbenv/rbenv
+React, https://github.com/facebook/react
 ROM, https://github.com/rom-rb/rom
 RSpec, https://github.com/rspec/rspec
 ruby-community, https://github.com/apeiros/ruby-community
@@ -46,8 +51,10 @@ Shoes, https://github.com/shoes/shoes4
 Spring, https://github.com/spring-projects
 Swift, https://swift.org/community/#code-of-conduct
 Symfony, https://github.com/symfony/symfony
+Target, https://github.com/target
 TensorFlow, https://github.com/tensorflow/tensorflow
 Travis CI, https://travis-ci.community/t/code-of-conduct/64
+Twilio, https://github.com/twilio
 Visual F#, https://github.com/Microsoft/visualfsharp
 Vue.js, https://github.com/vuejs/vue
 Yarn, https://github.com/yarnpkg/yarn

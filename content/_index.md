@@ -13,13 +13,13 @@ One way to begin addressing this problem is to be overt in our openness, welcomi
 
 Adopting the Contributor Covenant can be one way to express and codify these values and signal your intention to make your open source community welcoming, diverse, and inclusive.
 
-## Contributor Covenant v1.4.1
+## Contributor Covenant v2.0
 
 You can view and download the latest version of the Contributor Covenant here:
 
-- [English (Markdown version)]({{< ref "/version/1/4/code-of-conduct.md" "markdown" >}})
-- [English (HTML version)]({{< ref "/version/1/4/code-of-conduct.md" >}})
-- [English (text version)]({{< ref "/version/1/4/code-of-conduct.md" "plaintext" >}})
+- [English (Markdown version)]({{< ref "/version/2/0/code_of_conduct.md" "markdown" >}})
+- [English (HTML version)]({{< ref "/version/2/0/code_of_conduct.md" >}})
+- [English (text version)]({{< ref "/version/2/0/code_of_conduct.md" "plaintext" >}})
 
 For translations of the Contributor Covenant, please see our [translations page]({{< ref "translations.md" >}}).
 
@@ -49,13 +49,13 @@ You may want to add language similar to this to introduce your code of conduct:
 > Conduct. By participating in this project you agree to abide by its
 > terms.
 
-You may also use the permalinks given above to reference from your project home page. 
+You may also use the permalinks given above to reference from your project home page.
 
 <strong class="important">Important!</strong> You must add a contact method to the placeholder in the document so that people know how to report violations.
 
-If you are using a markdown README file in your source code repository, you may want to add a badge like this one ![Contributor Covenant Badge](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg) using the code below.
+If you are using a markdown README file in your source code repository, you may want to add a badge like this one ![Contributor Covenant Badge](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg) using the code below.
 ```
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](code-of-conduct.md)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
 ```
 
 *The Contributor Covenant is released under the [Creative Commons Attribution 4.0 International Public License](https://github.com/ContributorCovenant/contributor_covenant/blob/release/LICENSE.md), which requires that attribution be included.*
