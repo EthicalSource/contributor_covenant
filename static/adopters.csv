@@ -53,6 +53,14 @@ Crystal, https://github.com/manastech/crystal
 Cucumber, https://github.com/cucumber
 curl, https://github.com/bagder/curl
 Data Retriever, https://github.com/weecology/retriever
+datacoco-batch, https://github.com/equinoxfitness/datacoco-batch
+datacoco-cloud, https://github.com/equinoxfitness/datacoco-cloud
+datacoco-core, https://github.com/equinoxfitness/datacoco-core
+datacoco-db, https://github.com/equinoxfitness/datacoco-db
+datacoco-email_tools, https://github.com/equinoxfitness/datacoco-email_tools
+datacoco-ftp_tools, https://github.com/equinoxfitness/datacoco-ftp_tools
+datacoco-redis_tools, https://github.com/equinoxfitness/datacoco-redis_tools
+datacoco-secretsmanager, https://github.com/equinoxfitness/datacoco-secretsmanager
 Dawnscanner, https://github.com/thesp0nge/dawnscanner
 DC/OS, https://dcos.io/
 Dependent, https://github.com/dependent/dependencies
