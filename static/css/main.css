@@ -200,12 +200,8 @@ abbr {
   padding-right: 1.5rem;
 }
 
-.translations td:first-child {
+.translations td:last-child {
   vertical-align: middle;
-}
-
-.translations tr > :last-child {
-  text-align: right;
 }
 
 .translations td:nth-last-child(2) {
