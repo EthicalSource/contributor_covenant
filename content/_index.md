@@ -53,10 +53,19 @@ You may also use the permalinks given above to reference from your project home 
 
 <strong class="important">Important!</strong> You must add a contact method to the placeholder in the document so that people know how to report violations.
 
-If you are using a markdown README file in your source code repository, you may want to add a badge like this one ![Contributor Covenant Badge](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg) using the code below.
+If you are using a README file in your source code repository, you may want to add a badge like this one ![Contributor Covenant Badge](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg) using the code below.
+
+For a markdown README, add the below code where you would like to insert the badge:
 ```
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
 ```
+For a reStructuredText README, place `|Contributor Covenant|` where you would like the badge and add the below to your README file:
+```
+
+.. |Contributor Covenant| image:: https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg
+   :target: code_of_conduct.md
+```
+
 
 *The Contributor Covenant is released under the [Creative Commons Attribution 4.0 International Public License](https://github.com/ContributorCovenant/contributor_covenant/blob/release/LICENSE.md), which requires that attribution be included.*
 
