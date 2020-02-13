@@ -11,15 +11,19 @@ We as members, contributors, and leaders pledge to make participation in our com
 
 We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
 
+We believe that a diverse, welcoming, and inclusive community where people treat each other with respect is stronger, more vibrant, and has more potential contributors and more sources for ideas.
+
 ## Our Standards
 
 Examples of behavior that contributes to a positive environment for our community include:
 
 * Demonstrating empathy and kindness toward other people
+* Demonstrating mutual respect and tolerance towards other people
 * Being respectful of differing opinions, viewpoints, and experiences
 * Giving and gracefully accepting constructive feedback
 * Accepting responsibility and apologizing to those affected by our mistakes, and learning from the experience
 * Focusing on what is best not just for us as individuals, but for the overall community
+* Using inclusive, gender-neutral language. When referring to a group of people, aim to use gender-neutral terms (e.g. “team”, “folks”, “everyone”).
 
 Examples of unacceptable behavior include:
 
@@ -31,6 +35,8 @@ Examples of unacceptable behavior include:
   address, without their explicit permission
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
+* Discriminating against anyone. Although we have phrased the formal diversity statement generically to make it all-inclusive, we recognize that there are specific attributes that are used to discriminate against people. In alphabetical order, some of these attributes include (but are not limited to): age, culture, ethnicity, gender identity or expression, national origin, physical or mental difference, politics, race, religion, sex, sexual orientation, socio-economic status, and subculture. We welcome people regardless of these or other attributes.
+* Sexism and racism of any kind (including sexist and racist “jokes”), demeaning or insulting behavior, and harassment are seen as direct violations to this code of conduct. Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, inappropriate physical contact, and unwelcome sexual attention.
 
 ## Enforcement Responsibilities
 
