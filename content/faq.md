@@ -1,5 +1,6 @@
 +++
 title = "Frequently Asked Questions about the Contributor Covenant"
+aliases = ["faq"]
 +++
 
 ## Frequently Asked Questions
