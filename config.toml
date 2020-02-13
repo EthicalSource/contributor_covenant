@@ -8,7 +8,7 @@ DefaultContentLanguage = "en"
 hasCJKLanguage = true
 EnableMissingTranslationPlaceholders = true
 
-uglyURLs = true
+uglyURLs = false
 
 googleAnalytics = "UA-56802475-1"
 
