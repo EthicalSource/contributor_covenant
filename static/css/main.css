@@ -312,7 +312,7 @@ header a:hover {
   color: var(--color-primary-lightest);
 }
 
-@media (min-width: 414px) {
+@media (min-width: 30px) {
 
   body {
     border-top: 13rem solid var(--color-primary);
@@ -335,6 +335,10 @@ header a:hover {
     display: initial;
   }
 
+  header nav li {
+    font-size: .5rem;
+  }
+
   header figcaption {
     font-size: 2rem;
   }
@@ -347,6 +351,10 @@ header a:hover {
 
 @media (min-width: 640px) {
   html {
+    font-size: 1rem;
+  }
+
+  header nav li {
     font-size: 1rem;
   }
 
