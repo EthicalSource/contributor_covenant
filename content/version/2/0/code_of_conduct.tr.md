@@ -12,7 +12,7 @@ kimlik ve ifadesi, tecrübe seviyesi, eğitim, sosyo-ekonomik durum,
 milliyet, kişisel görünüm, ırk, din veya cinsel kimlik
 ve yönelim ayrımı gözetmeden keyifli ve güvenli bir tecrübe haline getirmeyi taahhüt ederiz.
 
-Açık, misafirperver, çeşitliliği destekleyen, kapsayıcı ve sağlıklı bir topluluk oluşturacak şekilde hareket etmeyi ve etkileşim kurmayı taahhüt ediyoruz..
+Açık, misafirperver, çeşitliliği destekleyen, kapsayıcı ve sağlıklı bir topluluk oluşturacak şekilde hareket etmeyi ve etkileşim kurmayı taahhüt ediyoruz.
 
 ## Standartlarımız
 
@@ -21,12 +21,12 @@ Bizim için olumlu bir topluluk ortamına katkıda bulunan davranış örnekleri
 - Diğer insanlara karşı empati ve nezaket göstermek
 - Farklı görüşlere, bakış açılarına ve deneyimlere saygılı olmak
 - Yapıcı geri bildirim verme ve geri bildirimi zarifçe kabul etme
-- Sorumluluğu kabul etmek ve hatalarımızdan etkilenenlerden özür dilemek,ve bu deneyimlerden öğrenme
+- Sorumluluğu kabul etmek, hatalarımızdan etkilenenlerden özür dilemek ve bu deneyimlerden öğrenme
 - Sadece kendimiz için değil, topluluk için en iyi olana odaklanmak
 
 Kabul edilemez davranış örnekleri şunları içerir:
 
-- Cinselleştirilmiş dil veya imgelerin ve cinsel ilgi veyaher türlü cinsel avantajın kullanımı
+- Cinselleştirilmiş dil veya imgelerin ve cinsel ilgi veya her türlü cinsel avantajın kullanımı
 - Trolleme, hakaret veya aşağılayıcı yorumlar ve kişisel veya politik saldırılar
 - Açıktan veya gizli taciz
 - Açık izinleri olmadan fiziksel adresleri veya e-posta gibi başkalarının özel bilgilerini yayınlama
