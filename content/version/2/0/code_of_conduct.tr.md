@@ -7,8 +7,8 @@ aliases = ["/version/2/0"]
 
 ## Taahhüdümüz
 
-Herkes için açık ve erişilebilir bir ortam sağlamak amacıyla üyeler, katkıda bulunanlar ve liderler olarak biz katkı vermeyi yaş, beden ölçüsü, görünür veya görünmez sakatlık, etnik köken, cinsiyet özellikleri, cinsel
-kimlik ve ifade, tecrübe seviyesi, eğitim, sosyo-ekonomik durum,
+Herkes için açık ve erişilebilir bir ortam sağlamak amacıyla üyeler, katkıda bulunanlar ve liderler olarak biz katkı vermeyi yaş, beden ölçüsü, görünür veya görünmez sakatlık, etnik köken, cinsiyet özellikleri, cisnsiyet
+kimlik ve ifadesi, tecrübe seviyesi, eğitim, sosyo-ekonomik durum,
 milliyet, kişisel görünüm, ırk, din veya cinsel kimlik
 ve yönelim ayrımı gözetmeden keyifli ve güvenli bir tecrübe haline getirmeyi taahhüt ederiz.
 
