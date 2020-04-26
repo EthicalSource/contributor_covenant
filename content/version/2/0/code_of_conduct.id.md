@@ -9,7 +9,7 @@ aliases = ["/version/2/0"]
 
 Kami sebagai anggota, kontributor, dan pengelola berikrar untuk membuat
 partisipasi dalam komunitas kami terbebas dari pelecehan bagi semua orang,
-tanpa memandang usia, ukuran tubuh, diasbilitas yang tampak maupun tidak,
+tanpa memandang usia, ukuran tubuh, disabilitas yang tampak maupun tidak,
 kelompok etnis, karakteristik seksual, identitas gender dan ekspresinya, tingkat
 pengalaman, pendidikan, status sosial ekonomi, kewarganegaraan, penampilan
 pribadi, ras, agama, atau identitas dan orientasi seksual.
@@ -25,7 +25,7 @@ komunitas kami meliputi:
 * Menunjukkan rasa empati dan kebaikan kepada orang lain
 * Menghormati pada opini, pandangan, dan pengalaman yang berbeda
 * Memberikan dan menerima secara sopan umban balik yang konstruktif
-* Menerima tanggungjawab dan meminta maaf kepada yang terdampak dari kesalahan
+* Menerima tanggung jawab dan meminta maaf kepada yang terdampak dari kesalahan
   kita, dan belajar dari pengalaman
 * Fokus terhadap apa yang terbaik tidak hanya untuk diri pribadi, tetapi untuk
   keseluruhan komunitas
@@ -51,7 +51,7 @@ tidak dapat diterima, mengancam, ofensif, atau membahayakan.
 
 Pengelola komunitas mempunyai hak dan tanggung jawab untuk menghapus, mengedit,
 atau menolak komentar, commit, kode, suntingan wiki, isu, dan kontribusi lainnya
-yang tidak sesuai dengan Kode Etik ini, dan akan akan mengomunikasikan alasan
+yang tidak sesuai dengan Kode Etik ini, dan akan mengomunikasikan alasan
 keputusan moderasi bila perlu.
 
 ## Lingkup
@@ -63,7 +63,6 @@ yang resmi, mengirim kiriman melalui akun media sosial resmi, atau mewakili
 sebagai perwakilan yang ditunjuk pada kegiatan daring atau luring.
 
 ## Penegakan
-
 
 Kejadian perilaku kasar, pelecehan, atau tidak dapat diterima yang terjadi
 dapat dilaporkan kepada pengelola komunitas di [INSERT CONTACT METHOD] untuk
@@ -91,7 +90,7 @@ tidak pantas. Permintaan maaf publik mungkin diminta.
 ### 2. Peringatan
 
 **Dampak Komunitas**: Suatu pelanggaran melalui insiden tunggal atau
-serangkaian tindakan .
+serangkaian tindakan.
 
 **Konsenkuensi**: Peringatan beserta konsenkuensi untuk kelanjutan perilaku.
 Tidak ada interaksi dengan orang-orang yang terlibat, termasuk interaksi yang 
