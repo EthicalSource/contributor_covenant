@@ -23,7 +23,7 @@ Contoh perilaku yang berkontribusi dalam sebuah lingkungan yang positif dalam
 komunitas kami meliputi:
 
 * Menunjukkan rasa empati dan kebaikan kepada orang lain
-* Menghormati pada opini, pandangan, dan pengalaman yang berbeda
+* Menghormati opini, pandangan, dan pengalaman yang berbeda
 * Memberikan dan menerima secara sopan umban balik yang konstruktif
 * Menerima tanggung jawab dan meminta maaf kepada yang terdampak dari kesalahan
   kita, dan belajar dari pengalaman
@@ -37,8 +37,8 @@ Contoh perilaku yang tidak dapat diterima meliputi:
 * Trolling, komentar yang menghina atau merendahkan, dan serangan terhadap
   individual atau politik
 * Pelecehan secara umum atau pribadi
-* Menerbitkan informasi orang lain, seperti alamat fisik atau surat elektronik,
-  tanpa sepengahuan orang tersebut
+* Menerbitkan informasi pribadi orang lain, seperti alamat fisik atau email,
+  tanpa persejutuan orang tersebut
 * Perilaku lainnya yang secara wajar dapat dianggap tidak seusai dalam
   lingkungan profesional
 
@@ -52,15 +52,15 @@ tidak dapat diterima, mengancam, ofensif, atau membahayakan.
 Pengelola komunitas mempunyai hak dan tanggung jawab untuk menghapus, mengedit,
 atau menolak komentar, commit, kode, suntingan wiki, isu, dan kontribusi lainnya
 yang tidak sesuai dengan Kode Etik ini, dan akan mengomunikasikan alasan
-keputusan moderasi bila perlu.
+keputusan moderasi bila diperlukan.
 
 ## Lingkup
 
 Kode Etik ini berlaku di semua ruang lingkup komunitas, dan juga berlaku ketika
 individu secara resmi mewakili komunitas di ruang lingkup publik.
-Contoh dalam perwakilan komunitas seperti menggunakan alamat surat elektronik
-yang resmi, mengirim kiriman melalui akun media sosial resmi, atau mewakili
-sebagai perwakilan yang ditunjuk pada kegiatan daring atau luring.
+Contoh dalam perwakilan komunitas seperti menggunakan alamat email yang resmi,
+mengirim kiriman melalui akun media sosial resmi, atau mewakili sebagai
+perwakilan yang ditunjuk pada kegiatan online maupun offine.
 
 ## Penegakan
 
@@ -81,7 +81,7 @@ Kode Etik ini:
 ### 1. Koreksi
 
 **Dampak Komunitas**: Penggunaan bahasa yang tidak pantas atau perilaku lain
-yang dianggap tidak profesional atau tidak disukai dalam komunitas.
+yang dianggap tidak profesional atau tidak pantas dalam komunitas.
 
 **Konsenkuensi**: Peringatan tertulis dari pengelola komunitas secara pribadi,
 meliputi penjelasan mengenai pelanggaran dan penjelasan mengapa perilaku itu
@@ -94,7 +94,7 @@ serangkaian tindakan.
 
 **Konsenkuensi**: Peringatan beserta konsenkuensi untuk kelanjutan perilaku.
 Tidak ada interaksi dengan orang-orang yang terlibat, termasuk interaksi yang 
-idak diminta dengan mereka yang menerapkan Kode Etik, dalam tempo waktu yang
+tidak diminta dengan mereka yang menerapkan Kode Etik, dalam tempo waktu yang
 telah ditentukan. Hal ini juga termasuk menghindari interaksi di ruang
 komunitas serta saluran eksternal seperti media sosial. Melanggar ketentuan ini
 dapat menyebabkan pemblokiran sementara atau permanen.
