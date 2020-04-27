@@ -1,16 +1,10 @@
-+++
-version = "2.0"
-aliases = ["/version/2/0"]
-+++
++++ version = "2.0" aliases = ["/version/2/0"] +++
 
 # Katkıcı Ahdi Topluluk Sözleşmesi
 
 ## Taahhüdümüz
 
-Herkes için açık ve erişilebilir bir ortam sağlamak amacıyla üyeler, katkıda bulunanlar ve liderler olarak biz katkı vermeyi yaş, beden ölçüsü, görünür veya görünmez sakatlık, etnik köken, cinsiyet özellikleri, cisnsiyet
-kimlik ve ifadesi, tecrübe seviyesi, eğitim, sosyo-ekonomik durum,
-milliyet, kişisel görünüm, ırk, din veya cinsel kimlik
-ve yönelim ayrımı gözetmeden keyifli ve güvenli bir tecrübe haline getirmeyi taahhüt ederiz.
+Herkes için açık ve erişilebilir bir ortam sağlamak amacıyla üyeler, katkıda bulunanlar ve liderler olarak biz katkı vermeyi yaş, beden ölçüsü, görünür veya görünmez sakatlık, etnik köken, cinsiyet özellikleri, cinsiyet kimlik ve ifadesi, tecrübe seviyesi, eğitim, sosyo-ekonomik durum, milliyet, kişisel görünüm, ırk, din veya cinsel kimlik ve yönelim ayrımı gözetmeden keyifli ve güvenli bir tecrübe haline getirmeyi taahhüt ediyoruz.
 
 Açık, misafirperver, çeşitliliği destekleyen, kapsayıcı ve sağlıklı bir topluluk oluşturacak şekilde hareket etmeyi ve etkileşim kurmayı taahhüt ediyoruz.
 
@@ -21,7 +15,7 @@ Bizim için olumlu bir topluluk ortamına katkıda bulunan davranış örnekleri
 - Diğer insanlara karşı empati ve nezaket göstermek
 - Farklı görüşlere, bakış açılarına ve deneyimlere saygılı olmak
 - Yapıcı geri bildirim verme ve geri bildirimi zarifçe kabul etme
-- Sorumluluğu kabul etmek, hatalarımızdan etkilenenlerden özür dilemek ve bu deneyimlerden öğrenme
+- Sorumluluğu kabul etmek ve hatalarımızdan etkilenenlerden özür dilemek, ve bu deneyimlerden öğrenme
 - Sadece kendimiz için değil, topluluk için en iyi olana odaklanmak
 
 Kabul edilemez davranış örnekleri şunları içerir:
@@ -32,11 +26,11 @@ Kabul edilemez davranış örnekleri şunları içerir:
 - Açık izinleri olmadan fiziksel adresleri veya e-posta gibi başkalarının özel bilgilerini yayınlama
 - Profesyonel bir ortamda makul sayılmayabilecek diğer davranışlar
 
-## Yetki Sorumluluklar
+## Uygulama Sorumlulukları
 
 Topluluk liderleri, kabul edilebilir davranış standartlarımızı açıklamaktan ve uygulamaktan sorumludur ve uygunsuz, tehdit edici, saldırgan veya zararlı gördükleri davranışlara karşılık olarak uygun ve adil düzeltici önlemler alacaktır.
 
-Topluluk liderleri, bu Davranış Kurallarına uymayan yorumları, commit'leri, kodları, wiki düzenlemelerini, sorunları ve diğer katkıları kaldırma, düzenleme veya reddetme hakkına ve sorumluluğuna sahiptir ve gerektiğinde denetleme kararlarının nedenlerini bildirir.
+Topluluk liderleri, bu Davranış Kurallarına uymayan yorumları, commit'leri, kodları, wiki düzenlemelerini, sorun kayıtlarını ve diğer katkıları kaldırma, düzenleme veya reddetme hakkına ve sorumluluğuna sahiptir ve gerektiğinde denetleme kararlarının nedenlerini bildirir.
 
 ## Kapsam
 
@@ -62,7 +56,7 @@ Topluluk liderleri, bu Davranış Kurallarını ihlal ettiklerini düşündükle
 
 **Topluluk Etkisi**: Tek bir veya bir dizi olayda ihlal.
 
-**Sonuç**: Davranış sürekliliği için sonuçları olan bir uyarı. Belirli bir süre için Davranış Kurallarını uygulayanlarla istenmeyen etkileşim dahil, olaya dahil olan kişilerle etkileşim yasağı getirilir. Bu, sosyal medya gibi dış kanalların yanı sıra topluluk alanlarında etkileşimden kaçınmayı içerir. Bu şartları ihlal etmek geçici veya kalıcı bir yasaklamaya yol açabilir.
+**Sonuç**: Davranış sürekliliği için sonuçları belirten bir uyarı. Belirli bir süre için Davranış Kurallarını uygulayanlarla istenmeyen etkileşim dahil, olaya dahil olan kişilerle etkileşim yasağı getirilir. Bu, sosyal medya gibi dış kanalların yanı sıra topluluk alanlarında etkileşimden uzaklaştırılmayı içerir. Bu şartları ihlal etmek geçici veya kalıcı bir yasaklamaya yol açabilir.
 
 ### 3. Geçici Yasak
 
@@ -78,9 +72,7 @@ Topluluk liderleri, bu Davranış Kurallarını ihlal ettiklerini düşündükle
 
 ## Kaynak
 
-Bu Davranış Kuralları [Katılımcı Sözleşmesinden] uyarlanmıştır,
-sürüm 2.0'a şu adresten ulaşılabilir:
-https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
+Bu Davranış Kuralları [Katılımcı Sözleşmesinden] uyarlanmıştır, sürüm 2.0'a şu adresten ulaşılabilir: https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
 
 Topluluk Etki Yönergeleri [Mozilla'nın davranış kuralları icra merdiveninden](https://github.com/mozilla/diversity) ilham alındı.
 
