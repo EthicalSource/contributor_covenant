@@ -43,14 +43,14 @@ atau secara permanen, berkontribusi dalam hal perilaku lain yang di anggap tidak
 
 Kode Etik ini berlaku baik di dalam proyek maupun di ruang publik
 ketika seseorang mewakili proyek atau komunitasnya. Contoh dari
-mewakili sebuah proyek atau komunitas termasuk dalam menggunakan alamat email resmi proyek, posting melalui akun media sosial resmi, atau bertindak sebagai orang yand ditunjuk menjadi perwakilan di acara online atau offline. Representasi proyek mungkin selanjutnya didefinisikan dan diklarifikasi oleh pengelola proyek.
+mewakili sebuah proyek atau komunitas termasuk dalam menggunakan alamat email resmi proyek, posting melalui akun media sosial resmi, atau bertindak sebagai orang yang ditunjuk menjadi perwakilan di acara online atau offline. Representasi proyek mungkin selanjutnya didefinisikan dan diklarifikasi oleh pengelola proyek.
 
 ## Penegakan
 
 Kejadian perilaku kasar, pelecehan, atau tidak dapat diterima yang terjadi
 dapat dilaporkan kepada tim inti proyek di [INSERT EMAIL ADDRESS]. Semua keluhan
 akan ditinjau, diselidiki dan akan menghasilkan tanggapan yang dianggap perlu
-dan sesuai dengan keadaan. Tim inti proyek berkewajiban menjaga kerahasiaan pelapor yang berkenaan dengan laporan suatu insiden. Rincian lebih lanjut tentang kebijakan penegakan khusus akan dipublikasikan secara terpisah.
+dan sesuai dengan keadaan. Tim inti proyek berkewajiban menjaga kerahasiaan pelapor yang berkenaan dengan pelaporan suatu insiden. Rincian lebih lanjut tentang kebijakan penegakan khusus akan dipublikasikan secara terpisah.
 
 Pengelola proyek yang tidak mengikuti atau melaksanakan Kode Etik dengan itikad
 baik mungkin akan menghadapi dampak sementara atau permanen seperti yang ditentukan
