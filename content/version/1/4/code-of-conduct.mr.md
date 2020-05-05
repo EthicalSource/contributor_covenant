@@ -69,7 +69,7 @@ aliases = ["/version/1/4/mr"]
 ## श्रेय
 
 ही आचारसंहिता [सहयोगकर्ता करार] [मुख्यपृष्ठ], आवृत्ती १.४,
-https://www.contributor-covenant.org/version/1/4/code-of-conduct.html वर उपलब्ध आहे.
+https://www.contributor-covenant.org/mr/version/1/4/code-of-conduct.html वर उपलब्ध आहे.
 
 [मुख्यपृष्ठ]: https://www.contributor-covenant.org
 
