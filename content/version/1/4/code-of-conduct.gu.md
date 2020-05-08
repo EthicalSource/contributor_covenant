@@ -68,9 +68,9 @@ aliases = ["/version/1/4/gu"]
 ## શ્રેય
 
 આ આચારસંહિતા [ફાળકોનો ઠરાવ] [મુખ્યપૃષ્ઠ], આવૃત્તિ ૧.૪,
-https://www.contributor-coveament.org/version/1/4/code-of-conduct.html પર ઉપલબ્ધ છે
+https://www.contributor-covenant.org/version/gu/1/4/code-of-conduct.html પર ઉપલબ્ધ છે
 
 [મુખ્યપૃષ્ઠ]: https://www.contributor-coveament.org
 
 આચારસંહિતા વિશેના સામાન્ય પ્રશ્નોના જવાબો માટે, જુઓ
-https://www.contributor-coveament.org/faq
+https://www.contributor-covenant.org/faq
