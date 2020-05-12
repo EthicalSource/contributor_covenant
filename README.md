@@ -1,5 +1,6 @@
 Contributor Covenant
 ====================
+![An ethical open source project](https://img.shields.io/badge/open-ethical-%234baaaa "An ethical open source project")
 
 The most popular code of conduct for open source projects with over 100,000 adoptions.
 
