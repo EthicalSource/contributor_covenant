@@ -33,5 +33,5 @@ The BDFL can change the governance structure of the community at will.
 
 [![CommunityRule derived](https://communityrule.info/assets/CommunityRule-derived-000000.svg)](http://communityrule.info)
 
-Created with [CommunityRule](http://communityrule.info)
+Created with [CommunityRule](http://communityrule.info)   
 [Creative Commons BY-SA](http://creativecommons.org/licenses/by-sa/4.0/).
