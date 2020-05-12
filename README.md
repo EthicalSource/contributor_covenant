@@ -4,6 +4,11 @@ Contributor Covenant
 
 The most popular code of conduct for open source projects with over 100,000 adoptions.
 
+## Our Community
+
+This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
+<a href="https://github.com/ContributorCovenant/contributor_covenant/graphs/contributors"><img src="https://opencollective.com/contributor-covenant/contributors.svg?width=890&button=false" /></a>
+
 ## Project Home Page
 
 For an overview and usage instructions, please visit 
@@ -71,22 +76,15 @@ This code of conduct has been adopted by
 [more than 100,000 open source projects](https://github.com/search?q=%22This+Code+of+Conduct+is+adapted+from+the+[Contributor+Covenant]%22+fork%3Afalse&type=Code).
 For a partial list, see [our adopters page](https://www.contributor-covenant.org/adopters.html).
 
-## Contributors
-
-### Code Contributors
-
-This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
-<a href="https://github.com/ContributorCovenant/contributor_covenant/graphs/contributors"><img src="https://opencollective.com/contributor-covenant/contributors.svg?width=890&button=false" /></a>
-
-### Financial Contributors
+## Financial Contributors
 
 Become a financial contributor and help us sustain our community. [[Contribute](https://opencollective.com/contributor-covenant/contribute)]
 
-#### Individuals
+### Individuals
 
 <a href="https://opencollective.com/contributor-covenant"><img src="https://opencollective.com/contributor-covenant/individuals.svg?width=890"></a>
 
-#### Organizations
+### Organizations
 
 Support this project with your organization. Your logo will show up here with a link to your website. [[Contribute](https://opencollective.com/contributor-covenant/contribute)]
 
