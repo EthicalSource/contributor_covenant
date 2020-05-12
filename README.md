@@ -6,7 +6,7 @@ The most popular code of conduct for open source projects with over 100,000 adop
 
 ## Our Community
 
-This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
+This project exists thanks to all the people who contribute.
 <a href="https://github.com/ContributorCovenant/contributor_covenant/graphs/contributors"><img src="https://opencollective.com/contributor-covenant/contributors.svg?width=890&button=false" /></a>
 
 ## Project Home Page
