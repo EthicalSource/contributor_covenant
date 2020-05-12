@@ -9,6 +9,11 @@ The most popular code of conduct for open source projects with over 100,000 adop
 This project exists thanks to all the people who contribute.
 <a href="https://github.com/ContributorCovenant/contributor_covenant/graphs/contributors"><img src="https://opencollective.com/contributor-covenant/contributors.svg?width=890&button=false" /></a>
 
+## Governance
+For project governance, see [our governance document](GOVERNANCE.md)
+
+We always collaborate in the open. 
+
 ## Project Home Page
 
 For an overview and usage instructions, please visit 
