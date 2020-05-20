@@ -57,6 +57,10 @@ languageCode = "bn"
 languageName = "Bosnian"
 languageCode = "bs"
 
+[Languages.ca]
+languageName = "Català"
+languageCode = "ca"
+
 [Languages.de]
 languageName = "Deutsch"
 languageCode = "de"
