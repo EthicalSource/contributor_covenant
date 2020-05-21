@@ -111,6 +111,10 @@ languageCode = "it"
 languageName = "日本語"
 languageCode = "ja"
 
+[Languages.mr]
+languageName = "मराठी"
+languageCode = "mr"
+
 [Languages.kn]
 languageName = "ಕನ್ನಡ"
 languageCode = "kn"
