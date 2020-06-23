@@ -11,7 +11,7 @@ Often it is the unintentional assumptions and actions of project maintainers and
 
 One way to begin addressing this problem is to be overt in our openness, welcoming all people to contribute, and pledging in return to value them as whole human beings and to foster an atmosphere of kindness, cooperation, and understanding.
 
-Adopting the Contributor Covenant can be one way to express and codify these values and signal your intention to make your open source community welcoming, diverse, and inclusive.
+Adopting the Contributor Covenant can be one way to express and codify these values and signal your intention to make your open source community welcoming, diverse, inclusive, and equitable.
 
 ## Contributor Covenant v2.0
 
