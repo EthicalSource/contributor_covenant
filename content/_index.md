@@ -35,8 +35,8 @@ Thanks to [Simon Vansintjan](https://github.com/simonv3/covenant-generator) ther
 Assuming that you have [Node.js](https://nodejs.org/en/ "Node.js Homepage") installed, simply run the following two commands from your project folder:
 
 ```
-npm install -g covgen
-covgen <your_email_address>
+npm install -g covgen; 
+covgen "<your_email_address>";
 ```
 
 If you have npm 5.x installed you can run `npx covgen <your_email_address>` instead of installing globally.
