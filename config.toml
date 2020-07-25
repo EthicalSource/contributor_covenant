@@ -1,0 +1,185 @@
+baseURL = "https://www.contributor-covenant.org"
+# canonifyURLs = true
+languageCode = "en-us"
+title = "Contributor Covenant"
+disableKinds = ["RSS"]
+
+DefaultContentLanguage = "en"
+hasCJKLanguage = true
+EnableMissingTranslationPlaceholders = true
+
+uglyURLs = false
+
+googleAnalytics = "UA-56802475-1"
+
+[mediaTypes]
+[mediaTypes."text/markdown"]
+suffixes = ["md"]
+
+[mediaTypes."text/plain"]
+suffixes = ["txt"]
+
+[mediaTypes."text/asciidoc"]
+suffixes = ["adoc"]
+
+[outputFormats]
+[outputFormats.Markdown]
+mediaType = "text/markdown"
+isPlainText = true
+baseName = "CODE_OF_CONDUCT"
+
+[outputFormats.PlainText]
+mediaType = "text/plain"
+isPlainText = true
+baseName = "CODE_OF_CONDUCT"
+
+[outputFormats.AsciiDoc]
+mediaType = "text/asciidoc"
+isPlainText = true
+baseName = "CODE_OF_CONDUCT"
+
+[outputs]
+home = ["html"]
+page = ["html", "markdown", "plaintext", "asciidoc"]
+
+# Add all translated languages here.
+[Languages]
+[Languages.ar]
+languageName = "العربية"
+languageCode = "ar"
+writingDirection = "rtl"
+
+[Languages.bn]
+languageName = "Bengali"
+languageCode = "bn"
+
+[Languages.bs]
+languageName = "Bosnian"
+languageCode = "bs"
+
+[Languages.ca]
+languageName = "Català"
+languageCode = "ca"
+
+[Languages.de]
+languageName = "Deutsch"
+languageCode = "de"
+
+[Languages.en]
+languageName = "English"
+languageCode = "en"
+weight = 1
+
+[Languages.el]
+languageName = "ελληνικά"
+languageCode = "el"
+
+[Languages.es]
+languageName = "Español"
+languageCode = "es"
+
+[Languages.fr]
+languageName = "Français"
+languageCode = "fr"
+
+[Languages.gu]
+languageName = "ગુજરાતી"
+languageCode = "gu"
+
+[Languages.hi]
+languageName = "हिंदी"
+languageCode = "hi"
+
+[Languages.hu]
+languageName = "Magyar"
+languageCode = "hu"
+
+[Languages.id]
+languageName = "Indonesian"
+languageCode = "id"
+
+[Languages.is]
+languageName = "Íslenska"
+languageCode = "is"
+
+[Languages.it]
+languageName = "Italiano"
+languageCode = "it"
+
+[Languages.iw]
+languageName = "עברית"
+languageCode = "iw"
+writingDirection = "rtl"
+
+[Languages.ja]
+languageName = "日本語"
+languageCode = "ja"
+
+[Languages.mr]
+languageName = "मराठी"
+languageCode = "mr"
+
+[Languages.kn]
+languageName = "ಕನ್ನಡ"
+languageCode = "kn"
+
+[Languages.ko]
+languageName = "한국어"
+languageCode = "ko"
+
+[Languages.mk]
+languageName = "Македонски"
+languageCode = "mk"
+
+[Languages.nl]
+languageName = "Nederlands"
+languageCode = "nl"
+
+[Languages.pl]
+languageName = "Polski"
+languageCode = "pl"
+
+[Languages.pt]
+languageName = "Português"
+languageCode = "pt"
+
+[Languages.pt-br]
+languageName = "Português do Brasil"
+languageCode = "pt-br"
+
+[Languages.ro]
+languageName = "Română"
+languageCode = "ro"
+
+[Languages.ru]
+languageName = "Русский"
+languageCode = "ru"
+
+[Languages.sl]
+languageName = "Slovenščina"
+languageCode = "sl"
+
+[Languages.sv]
+languageName = "Svenska"
+languageCode = "sv"
+
+[Languages.tr]
+languageName = "Türkçe"
+languageCode = "tr"
+
+[Languages.zh-tw]
+languageName = "繁體中文"
+languageCode = "zh-tw"
+
+[Languages.uk]
+languageName = "Українська"
+languageCode = "uk"
+
+[Languages.zh-cn]
+languageName = "简体中文"
+languageCode = "zh-cn"
+
+[Languages.fa-IR]
+languageName = "فارسی"
+languageCode = "fa-IR"
+writingDirection = "rtl"
