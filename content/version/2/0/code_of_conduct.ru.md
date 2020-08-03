@@ -33,23 +33,15 @@ aliases = ["/version/2/0"]
 
 ## Обязанности
 
-Community leaders are responsible for clarifying and enforcing our standards of
-acceptable behavior and will take appropriate and fair corrective action in
-response to any behavior that they deem inappropriate, threatening, offensive,
-or harmful.
+Лидеры сообщества отвечают за зазъяснение и применение наших стандартов приемлемого поведения и будут предпринимать соответствующие и честные меры по исправлению положения в ответ на любое поведение, которое они сочтут неприемлимыми, угрожающими, оскорбительными или вредными.
 
-Community leaders have the right and responsibility to remove, edit, or reject
-comments, commits, code, wiki edits, issues, and other contributions that are
-not aligned to this Code of Conduct, and will communicate reasons for moderation
-decisions when appropriate.
+Лидеры сообщества обладают правом и обязанностю удалять, редактировать или отклонять
+комментарии, коммиты, код, изменения в вики, вопросы и другой вклад, который не совпадает с Кодексом Поведения, и предоставят причины принятого решения, когда потребуется.
 
 ## Область применения
 
-This Code of Conduct applies within all community spaces, and also applies when
-an individual is officially representing the community in public spaces.
-Examples of representing our community include using an official e-mail address,
-posting via an official social media account, or acting as an appointed
-representative at an online or offline event.
+Данный Кодекс Поведения применим во всех общественных местах, а также когда человек официально представляет сообщество в публичных местах.
+Примеры представления проекта или сообщества включают использование официального электронного адреса, публикации в официальном аккаунте в социальных сетях, или упоминания как представителя в онлайн или оффлайн мероприятии.
 
 ## Исполнение
 
