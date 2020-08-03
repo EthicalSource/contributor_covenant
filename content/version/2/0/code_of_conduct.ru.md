@@ -19,23 +19,19 @@ aliases = ["/version/2/0"]
 * Проявление эмпатии к другим участникам проекта
 * Уважение к чужой точке зрения и опыту
 * Конструктивная критика и принятие конструктивной критики
-* Accepting responsibility and apologizing to those affected by our mistakes,
-  and learning from the experience
-* Focusing on what is best not just for us as individuals, but for the
-  overall community
+* Принятие отвественности, принесение извинений тем, кто пострадал от наших ошибок
+  и извлечение уроков из опыта
+* Ориентирование на то, что лучше подходит для сообщества, а не только для нас лично
 
 Примеры неприемлемого поведения участников включают в себя:
 
-* The use of sexualized language or imagery, and sexual attention or
-  advances of any kind
-* Trolling, insulting or derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or email
-  address, without their explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
-  professional setting
+* Использование выражений или изображений сексуального характера и нежелательное сексуальное внимание или домогательство в любой форме
+* Троллинг, оскорбительные или уничижительные комментарии, переход на личности или затрагивание политических убеждений
+* Публичное или личное домогательство
+* Публикация личной информации других лиц, например, физического или электронного адреса, без явного разрешения
+* Иное поведение, которое обоснованно считать неуместным в профессиональной обстановке
 
-## Enforcement Responsibilities
+## Обязанности
 
 Community leaders are responsible for clarifying and enforcing our standards of
 acceptable behavior and will take appropriate and fair corrective action in
@@ -47,7 +43,7 @@ comments, commits, code, wiki edits, issues, and other contributions that are
 not aligned to this Code of Conduct, and will communicate reasons for moderation
 decisions when appropriate.
 
-## Scope
+## Область применения
 
 This Code of Conduct applies within all community spaces, and also applies when
 an individual is officially representing the community in public spaces.
@@ -55,7 +51,7 @@ Examples of representing our community include using an official e-mail address,
 posting via an official social media account, or acting as an appointed
 representative at an online or offline event.
 
-## Enforcement
+## Исполнение
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement at
@@ -65,7 +61,7 @@ All complaints will be reviewed and investigated promptly and fairly.
 All community leaders are obligated to respect the privacy and security of the
 reporter of any incident.
 
-## Enforcement Guidelines
+## Руководство по исполнению
 
 Community leaders will follow these Community Impact Guidelines in determining
 the consequences for any action they deem in violation of this Code of Conduct:
