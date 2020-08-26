@@ -26,6 +26,7 @@ BioSigKit, https://github.com/hooman650/BioSigKit
 bitmath, https://github.com/tbielawa/bitmath/
 BootstrapVue, https://github.com/bootstrap-vue/bootstrap-vue
 Bridge.NET, https://bridge.net/
+Brighter, https://github.com/BrighterCommand/Brighter
 brightness_bashshell_script, https://github.com/gorlapraveen/brightness_bashshell_script
 c-3po, https://c-3po.js.org/
 Cake, https://cakebuild.net/
@@ -111,12 +112,11 @@ Hanami, http://hanamirb.org/community/#code-of-conduct
 HandBrake, https://github.com/HandBrake/HandBrake
 HaskellNow.org, http://www.haskellnow.org/#Projects
 HealingRa.in Projects, https://gitlab.com/groups/healing-rain
-Heptio Ark, https://github.com/vmware-tanzu/velero
 Heptio Contour, https://github.com/projectcontour/contour
 Heptio Gimbal, https://github.com/projectcontour/gimbal
-Heptio Sonobuoy, https://github.com/vmware-tanzu/sonobuoy
 Holidays, https://github.com/holidays/holidays
 Homebrew-Cask, https://github.com/Homebrew/homebrew-cask
+Hoppscotch, https://github.com/hoppscotch/hoppscotch
 Hotels.com, https://github.com/HotelsDotCom
 HTML5 Boilerplate, https://github.com/h5bp/html5-boilerplate
 HTTPicnic, https://github.com/henry-anderson/HTTPicnic
@@ -184,7 +184,6 @@ OWASP Juice Shop, https://owasp.org/www-project-juice-shop/
 OWASP ZAP, https://github.com/zaproxy/zaproxy
 Pale Moon, http://www.palemoon.org/
 Panamax, https://github.com/CenturyLinkLabs/panamax-ui
-Brighter, https://github.com/BrighterCommand/Brighter
 Pash, https://github.com/Pash-Project/Pash
 PatternFly, https://github.com/patternfly/patternfly
 Perfect, https://github.com/PerfectlySoft/Perfect
@@ -197,7 +196,6 @@ PiVPN, https://github.com/pivpn/pivpn
 Pixi.js Haxe Externs, https://github.com/pixijs/pixi-haxe
 Playscii, http://vectorpoem.com/playscii/
 pmap, https://github.com/bruceadams/pmap
-Hoppscotch, https://github.com/hoppscotch/hoppscotch
 postcss-glitch, https://github.com/crftd/postcss-glitch
 prance (Resolving Swagger/OpenAPI 2.0 Parser), https://github.com/jfinkhaeuser/prance
 PRAW, https://github.com/praw-dev/praw
@@ -242,6 +240,7 @@ Sevilla Maker Society, https://github.com/maker-society-svq
 Skyscanner, https://github.com/skyscanner
 Snipe-IT, https://github.com/snipe/snipe-it
 Snuffle, https://gitlab.com/coraline/snuffle/tree/master
+Sonobuoy, https://github.com/vmware-tanzu/sonobuoy
 Software Carpentry, https://github.com/swcarpentry
 Software Foundations Chinese Translation, https://github.com/Coq-zh/SF-zh
 SPIP, https://www.spip.net/fr_rubrique91.html
@@ -276,6 +275,7 @@ Turbolinks, https://github.com/turbolinks/turbolinks
 Twilio, https://github.com/twilio
 Twisted, https://github.com/twisted/twisted
 UXP, https://github.com/MoonchildProductions/UXP
+Velero, https://github.com/vmware-tanzu/velero
 Video.js, https://github.com/videojs/video.js
 VideoSnap, https://github.com/matthutchinson/videosnap
 vim cheat sheet, https://github.com/rtorr/vim-cheat-sheet
