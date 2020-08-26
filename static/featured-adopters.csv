@@ -3,47 +3,47 @@ Atom, https://github.com/atom/atom
 AngularJS, https://github.com/angular/code-of-conduct
 Babel, https://github.com/babel/babel
 Bootstrap, https://github.com/twbs/bootstrap
-Bundler, https://github.com/bundler/bundler
-chef-rvm, https://github.com/fnichol/chef-rvm
-Cloud Native Compute Foundation, https://www.cncf.io
+Bundler, https://github.com/rubygems/bundler
+chef-rvm, https://github.com/sous-chefs/rvm
+Cloud Native Compute Foundation, https://www.cncf.io/
 CocoaPods, https://github.com/cocoapods/cocoapods
 code.gov, https://github.com/GSA/code-gov/
-Creative Commons, http://creativecommons.github.io/community/code-of-conduct/
+Creative Commons, http://opensource.creativecommons.org/community/code-of-conduct/
 Cucumber, https://github.com/cucumber
-Crystal, https://github.com/manastech/crystal
-curl, https://github.com/bagder/curl
-Diaspora, http://github.com/diaspora/diaspora
+Crystal, https://github.com/crystal-lang/crystal
+curl, https://github.com/curl/curl
+Diaspora, https://github.com/diaspora/diaspora
 Discourse, https://github.com/discourse/discourse
-Eclipse, https://eclipse.org
+Eclipse, https://www.eclipse.org/
 Electron, https://github.com/electron/electron
 Elixir, https://github.com/elixir-lang/elixir
-Exercism.io, https://github.com/exercism/exercism.io
+Exercism.io, https://github.com/exercism/exercism
 Gatsby, https://github.com/gatsbyjs/gatsby
-git, https://github.com/gitster/git
-GitLab, https://gitlab.com/gitlab-org/gitlab-ce/
+git, https://github.com/git/git
+GitLab, https://gitlab.com/gitlab-org/gitlab-foss/
 Golang, https://golang.org/conduct
-Google, https://opensource.google.com/docs/releasing/template/CODE_OF_CONDUCT/
-Homebrew-Cask, https://github.com/caskroom/homebrew-cask
+Google, https://opensource.google/docs/releasing/template/CODE_OF_CONDUCT/
+Homebrew-Cask, https://github.com/Homebrew/homebrew-cask
 Intel OTC, https://01.org/blogs/2018/intel-covenant-code
 Jekyll, https://github.com/jekyll/jekyll
-Jenkins, https://jenkins-ci.org/conduct/
+Jenkins, https://www.jenkins.io/conduct/
 JRuby, https://github.com/jruby/jruby/
-JuneteenthConf, https://juneteenthconf.com
-Hanami, http://hanamirb.org/community#code-of-conduct
-Kong, https://github.com/mashape/kong/
+JuneteenthConf, https://juneteenthconf.com/
+Hanami, http://hanamirb.org/community/#code-of-conduct
+Kong, https://github.com/Kong/kong/
 Kubernetes, https://github.com/kubernetes/kubernetes/
 Linux, https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=8a104f8b5867c682d994ffa7a74093c54469c11f
 Metasploit Framework, https://github.com/rapid7/metasploit-framework
 Mono, https://github.com/mono/mono
-Mozilla Webmaker, https://www.webmaker.org/
-.NET Foundation, http://www.dotnetfoundation.org/code-of-conduct
+Mozilla Webmaker, https://foundation.mozilla.org/en/artifacts/webmaker/
+.NET Foundation, https://dotnetfoundation.org/about/code-of-conduct
 Node.js, https://github.com/nodejs
 Rails, https://github.com/rails/rails
 rbenv, https://github.com/rbenv/rbenv
 React, https://github.com/facebook/react
 ROM, https://github.com/rom-rb/rom
 RSpec, https://github.com/rspec/rspec
-ruby-community, https://github.com/apeiros/ruby-community
+ruby-community, https://github.com/ruby-community/ruby-community
 rubygems, https://github.com/rubygems/rubygems
 RubyGems.org, https://github.com/rubygems/rubygems.org
 RVM, https://github.com/rvm/rvm
@@ -56,6 +56,6 @@ Target, https://github.com/target
 TensorFlow, https://github.com/tensorflow/tensorflow
 Travis CI, https://travis-ci.community/t/code-of-conduct/64
 Twilio, https://github.com/twilio
-Visual F#, https://github.com/Microsoft/visualfsharp
+Visual F#, https://github.com/dotnet/fsharp
 Vue.js, https://github.com/vuejs/vue
 Yarn, https://github.com/yarnpkg/yarn
