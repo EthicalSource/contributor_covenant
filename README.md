@@ -4,6 +4,11 @@ Contributor Covenant
 
 The first and most popular code of conduct for open source and ethical open source projects and communities.
 
+## Project Home Page
+
+For an overview and usage instructions, please visit 
+[contributor-covenant.org](https://contributor-covenant.org/).
+
 ## Our Community
 We are grateful to the 300+ people from around the world who have contributed to the evolution of this historical document.
 
@@ -13,11 +18,6 @@ We are grateful to the 300+ people from around the world who have contributed to
 For project governance, see [our governance document](GOVERNANCE.md).
 
 We always collaborate in the open. 
-
-## Project Home Page
-
-For an overview and usage instructions, please visit 
-[contributor-covenant.org](https://contributor-covenant.org/).
 
 ## Contributing
 
