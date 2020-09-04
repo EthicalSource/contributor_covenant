@@ -10,7 +10,7 @@ For an overview and usage instructions, please visit
 [contributor-covenant.org](https://contributor-covenant.org/).
 
 ## Our Community
-We are grateful to the 300+ people from around the world who have contributed to the evolution of this historical document.
+We are grateful to the 300+ people from around the world who have contributed to the evolution of this historic document.
 
 <a href="https://github.com/ContributorCovenant/contributor_covenant/graphs/contributors"><img src="https://opencollective.com/contributor-covenant/contributors.svg?width=890&button=false" /></a>
 
