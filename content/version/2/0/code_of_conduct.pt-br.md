@@ -3,13 +3,13 @@ version = "2.0"
 aliases = ["/version/2/0"]
 +++
 
-# Código de Conduta para Colaboradores
+# Código de Conduta de Colaboração
 
 ## Nossa promessa
 
-Como participantes, colaboradores e lideranças, nós nos comprometemos a fazer com que a participação em nossa comunidade seja uma experiência livre de assédio para todas as pessoas, independentemente de idade, tamanho do corpo, deficiência aparente ou não aparente, etnia, características sexuais, identidade ou expressão de gênero, nível de experiência, educação, situação sócio-econômica, nacionalidade, aparência pessoal, raça, religião ou identidade e orientação sexuais.
+Como pessoas participantes, colaboradoras e líderes, nós nos comprometemos a fazer com que a participação em nossa comunidade seja uma experiência livre de assédio para todas as pessoas, independentemente de idade, tamanho do corpo, deficiência aparente ou não aparente, etnia, características sexuais, identidade ou expressão de gênero, nível de experiência, educação, situação sócio-econômica, nacionalidade, aparência pessoal, raça, religião ou identidade e orientação sexuais.
 
-Comprometemo-nos a agir e interagir de maneiras que contribuem para uma comunidade aberta, acolhedora, diversificada, inclusiva e saudável.
+Comprometemo-nos a agir e interagir de maneiras que contribuam para uma comunidade aberta, acolhedora, diversificada, inclusiva e saudável.
 
 ## Nossos padrões
 
@@ -23,7 +23,7 @@ Exemplos de comportamentos que contribuem para criar um ambiente positivo para a
 
 Exemplos de comportamentos inaceitáveis incluem:
 
-* Uso de linguagem ou imagens sexuais e atenção ou avanço sexual de qualquer natureza
+* Uso de linguagem ou imagens sexualizadas, bem como o assédio sexual ou de qualquer natureza
 * Comentários insultuosos/depreciativos e ataques pessoais ou políticos (*Trolling*)
 * Assédio público ou privado
 * Publicar informações particulares de outras pessoas, como um endereço de e-mail ou endereço físico, sem a permissão explícita delas
@@ -43,6 +43,7 @@ Exemplos de representação da nossa comunidade incluem usar um endereço de e-m
 ## Aplicação
 
 Ocorrências de comportamentos abusivos, de assédio ou que sejam inaceitáveis por qualquer outro motivo poderão ser reportadas para a liderança da comunidade, responsável pela aplicação, via contato [INSERIR MÉTODO DE CONTATO].
+
 Todas as reclamações serão revisadas e investigadas imediatamente e de maneira justa.
 
 A liderança da comunidade tem a obrigação de respeitar a privacidade e a segurança de quem reportar qualquer incidente.
