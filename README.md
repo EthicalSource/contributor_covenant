@@ -32,23 +32,23 @@ To build the website locally, first [install Hugo](https://gohugo.io/getting-sta
 using your package manager of choice.  
 For example, on Debian/Ubuntu:
 ```
-apt-get install hugo
+$ apt-get install hugo
 ```
 
 If you are using Arch Linux:
 ```
-pacman -S hugo
+$ pacman -S hugo
 ```
 
 If you are using [Homebrew](https://brew.sh) on macOS:
 ```
-brew install hugo
+$ brew install hugo
 ```
 
 ### Start the server
 From the repository's root directory, start the development server:
 ```
-hugo server -D
+$ hugo server -D
 ```
 
 ## Translating
