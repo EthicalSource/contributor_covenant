@@ -10,5 +10,5 @@ https://github.com/git/git/blob/master/CODE_OF_CONDUCT.md - Edit this link
 
 #### Checklist:
 
-- [ ] Have you checked to ensure there aren't other open [Pull Requests](../pulls) for the same update/change?
-- [ ] I have performed a self-review of submitted resource and its follows the guidelines of the project.
+- [ ] The code of conduct template has been updated with contact information (search for [INSERT CONTACT METHOD] under the Enforcement section)
+- [ ] I have reviewed the submitted resource and it follows the recommended adoption guidelines.
