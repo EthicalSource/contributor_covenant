@@ -163,6 +163,10 @@ languageCode = "sl"
 languageName = "Svenska"
 languageCode = "sv"
 
+[Languages.sw]
+languageName = "Kiswahili"
+languageCode = "sw"
+
 [Languages.tr]
 languageName = "Türkçe"
 languageCode = "tr"
