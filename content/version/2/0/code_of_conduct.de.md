@@ -12,7 +12,8 @@ verpflichten uns bei der Teilnahme an dem Projekt und unserer Gemeinschaft zu
 einer belästigungsfreien Erfahrung für jeden, unabhängig von Alter, Körpergröße,
 Behinderung, ethnischer Zuordnung, geschlechtlicher Identität und Ausdruck,
 Erfahrungsstufe, Bildung, sozialem Status, Nationalität, persönlicher
-Erscheinung, Rasse, Religion oder sexuelle Identität und Orientierung.
+Erscheinung, Rasse, Religion oder Geschlechtsidentität und sexueller
+Orientierung.
 
 Wir verpflichten uns, in einer Weise zu handeln und zu interagieren, die zu
 einer offenen, einladenden, vielfältigen, integrativen und gesunden Gemeinschaft
@@ -24,7 +25,7 @@ Beispiele für Verhaltensweisen, die zu einem positiven Umfeld für unsere
 Gemeinschaft beitragen, sind:
 
 - Einfühlungsvermögen und Freundlichkeit gegenüber anderen Menschen zeigen
-- Respekt vor unterschiedlichen Meinungen, Standpunkten und Erfahrungen
+- Unterschiedliche Meinungen, Standpunkte und Erfahrungen respektieren
 - Konstruktives Feedback geben und würdevoll annehmen
 - Verantwortung übernehmen und uns bei denjenigen entschuldigen, die von unseren
   Fehlern betroffen sind, und aus den Erfahrungen lernen
@@ -53,8 +54,8 @@ unangemessen, bedrohlich oder beleidigend halten, zu reagieren.
 Die Gemeinschaftsleiter haben das Recht und die Verantwortung Kommentare,
 Commits, Code, Wiki-Bearbeitungen, Support-Tickets und andere Beiträge, die
 nicht mit diesem Verhaltenskodex vereinbar sind zu entfernen, zu bearbeiten oder
-abzulehnen, und wird die Gründe für eine Mäßigung mitteilen Entscheidungen, wenn
-es angebracht ist.
+abzulehnen, und wird die Gründe für eine Mäßigung mitteilen, wenn es angebracht
+ist.
 
 ## Geltungsbereich
 
@@ -69,11 +70,11 @@ Offline-Veranstaltung.
 
 Fälle von missbräuchlichem, belästigendem oder anderweitig inakzeptablem
 Verhalten können unter [KONTAKTMETHODE EINFÜGEN] den für die Durchsetzung
-zuständigen Gemeinschaftsleiter gemeldet werden. Alle Beschwerden werden zeitnah
-und fair geprüft und ermittelt.
+zuständigen Gemeinschaftsleitern gemeldet werden. Alle Beschwerden werden
+zeitnah und fair geprüft und ermittelt.
 
-Alle Gemeinschaftsleiter sind verpflichtet, die Privatsphäre und Sicherheit des
-Berichterstatters eines Vorfalls zu respektieren.
+Alle Gemeinschaftsleiter sind verpflichtet, die Privatsphäre und Sicherheit
+desjenigen, der einen Vorfall gemeldet hat, zu respektieren.
 
 ## Durchsetzungsrichtlinien
 
