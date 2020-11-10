@@ -9,7 +9,7 @@ aliases = ["/version/2/0/de"]
 
 Wir als Mitglieder, Teilnehmende und Verantwortliche unserer Gemeinschaft
 verpflichten uns bei der Teilnahme an dem Projekt und unserer Gemeinschaft zu
-einer belästigungsfreien Erfahrung für jeden, unabhängig von Alter, Körpergröße,
+einer belästigungsfreien Erfahrung für alle, unabhängig von Alter, Körpergröße,
 Behinderung, ethnischer Zuordnung, geschlechtlicher Identität und Ausdruck,
 Erfahrungsstufe, Bildung, sozialem Status, Nationalität, persönlicher
 Erscheinung, Rasse, Religion oder Geschlechtsidentität und sexueller
