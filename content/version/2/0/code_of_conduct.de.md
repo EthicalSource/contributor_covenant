@@ -11,12 +11,12 @@ Wir als Mitglieder, Teilnehmende und Verantwortliche unserer Gemeinschaft
 verpflichten uns bei der Teilnahme an dem Projekt und unserer Gemeinschaft zu
 einer belästigungsfreien Erfahrung für alle, unabhängig von Alter, Körpergröße,
 Behinderung, ethnischer Zuordnung, geschlechtlicher Identität und Ausdruck,
-Erfahrungsstufe, Bildung, sozialem Status, Nationalität, persönlicher
+Grad der Erfahrung, Bildung, sozialem Status, Nationalität, persönlicher
 Erscheinung, Rasse, Religion oder Geschlechtsidentität und sexueller
 Orientierung.
 
 Wir verpflichten uns, in einer Weise zu handeln und zu interagieren, die zu
-einer offenen, einladenden, vielfältigen, integrativen und gesunden Gemeinschaft
+einer offenen, einladenden, vielfältigen, inklusiven und gesunden Gemeinschaft
 beiträgt.
 
 ## Unsere Standards
@@ -63,7 +63,7 @@ Dieser Verhaltenskodex gilt für alle Gemeinschaftsbereiche und gilt auch, wenn
 eine Einzelperson die Gemeinschaft offiziell in öffentlichen Bereichen vertritt.
 Beispiele für die Repräsentation unserer Gemeinschaft sind die Verwendung einer
 offiziellen E-Mail-Adresse, das Posten über ein offizielles Social-Media-Konto
-oder das Auftreten als ernannter Vertreter bei einer Online- oder
+oder das Auftreten als ernannte Vertretung bei einer Online- oder
 Offline-Veranstaltung.
 
 ## Umsetzung
