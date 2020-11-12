@@ -35,9 +35,9 @@ Gemeinschaft beitragen, sind:
 Beispiele für inakzeptables Verhalten sind:
 
 - Die Verwendung sexualisierter Sprache, Bilder oder Symbolik sowie unerwünschte
-  Versuche sexueller Anbahnung
-- Beleidigende oder abwertende Kommentare, persönliche oder politische Angriffe,
-  Nutzung des Internets für unbilliges Verhalten
+  Versuche sexueller Annäherung
+- Beleidigende oder abwertende Kommentare, persönliche oder politische Angriffe
+  und trollen
 - Öffentliche oder private Belästigungen
 - Das Veröffentlichen von privaten Informationen Anderer, wie zum Beispiel
   physische oder elektronische Adressen, ohne deren ausdrückliche Erlaubnis
@@ -46,12 +46,12 @@ Beispiele für inakzeptables Verhalten sind:
 
 ## Verantwortlichkeiten bei der Durchsetzung
 
-Die Gemeinschaftsleitenden sind verantwortlich dafür, unsere Standards für ein
+Die Gemeinschaftsleitung sind verantwortlich dafür, unsere Standards für ein
 akzeptables Benehmen klarzustellen und werden angemessen und fair
 korrigierende Maßnahmen ergreifen um auf jegliches Verhalten, das sie für
 unangemessen, bedrohlich oder beleidigend halten, zu reagieren.
 
-Die Gemeinschaftsleitenden haben das Recht und die Verantwortung Kommentare,
+Die Gemeinschaftsleitung haben das Recht und die Verantwortung Kommentare,
 Commits, Code, Wiki-Bearbeitungen, Support-Tickets und andere Beiträge, die
 nicht mit diesem Verhaltenskodex vereinbar sind zu entfernen, zu bearbeiten oder
 abzulehnen, und werden die Gründe für eine Mäßigung mitteilen, wenn es
@@ -70,15 +70,15 @@ Offline-Veranstaltung.
 
 Fälle von missbräuchlichem, belästigendem oder anderweitig inakzeptablem
 Verhalten können unter [KONTAKTMETHODE EINFÜGEN] den für die Durchsetzung
-zuständigen Gemeinschaftsleitenden gemeldet werden. Alle Beschwerden werden
+zuständigen Gemeinschaftsleitung gemeldet werden. Alle Beschwerden werden
 zeitnah und fair geprüft und ermittelt.
 
-Alle Gemeinschaftsleitenden sind verpflichtet, die Privatsphäre und die
+Alle Gemeinschaftsleitung sind verpflichtet, die Privatsphäre und die
 Sicherheit derjenigen, die einen Vorfall gemeldet haben, zu respektieren.
 
 ## Durchsetzungsrichtlinien
 
-Die Gemeinschaftsleitenden werden sich bei der Bestimmung der Konsequenzen für
+Die Gemeinschaftsleitung werden sich bei der Bestimmung der Konsequenzen für
 jede Handlung, die ihrer Ansicht nach gegen diesen Verhaltenskodex verstößt, an
 diese Richtlinien über die Auswirkungen in der Gemeinschaft halten:
 
@@ -88,10 +88,10 @@ diese Richtlinien über die Auswirkungen in der Gemeinschaft halten:
 anderes Verhalten, das in der Gemeinschaft als unprofessionell oder unwillkommen
 gilt.
 
-**Folge**: Eine private, schriftliche Verwarnung von den
-Gemeinschaftsleitenden, die Klarheit über die Art des Verstoßes und eine
-Erklärung dafür bietet, warum das Verhalten unangemessen war. Eine öffentliche
-Entschuldigung kann verlangt werden.
+**Folge**: Eine private, schriftliche Verwarnung von den Gemeinschaftsleitung,
+die Klarheit über die Art des Verstoßes und eine Erklärung dafür bietet, warum
+das Verhalten unangemessen war. Eine öffentliche Entschuldigung kann verlangt
+werden.
 
 ### 2. Verwarnung
 
