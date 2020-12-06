@@ -44,7 +44,7 @@ comportements acceptables et prendront des mesures correctives appropriées et �
 réponse à tout comportement qu'ils jugent inapproprié, menaçant, offensant ou nuisible.
 
 Les dirigeants de communauté ont le droit et la responsabilité de supprimer, modifier ou rejeter
-les commentaires, les _commits_, le code, les modifications du wiki, les questions et autres contributions qui
+les commentaires, les contributions, le code, les modifications de wikis, les rapports d'incidents ou de bogues et autres contributions qui
 ne sont pas alignés sur ce Code de Conduite et communiqueront les raisons de la modération
 le cas échéant.
 
