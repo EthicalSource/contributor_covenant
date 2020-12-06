@@ -6,7 +6,7 @@ En tant que membres, contributeurs et dirigeants, nous nous
 engageons à rendre la participation dans notre communauté 
 une expérience sans harcèlement, quel que soit l'âge, 
 
-la physionomie, la présence d'un handicap visible ou invisible, l'ethnie, 
+la physionomie, le handicap visible ou invisible, l'ethnie,
 les caractéristiques sexuelles, l'identité et l'expression de genre, 
 le niveau d'expérience, l'éducation, le statut socio-économique, 
 la nationalité, l'apparence personnelle, la race, la religion, 
