@@ -40,7 +40,7 @@ Exemples de comportements non acceptables :
 ## Nos responsabilités
 
 Les dirigeants de communauté sont chargés de clarifier et de faire respecter nos normes de
-comportements acceptables et prendront des mesures correctives appropriées et équitables comme
+comportements acceptables et prendront des mesures correctives appropriées et équitables en
 réponse à tout comportement qu'ils ou elles jugent inapproprié, menaçant, offensant ou nuisible.
 
 Les dirigeants de communauté ont le droit et la responsabilité de supprimer, modifier ou rejeter
