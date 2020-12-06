@@ -3,6 +3,7 @@
 ## Notre engagement
 
 En tant que membres, contributeurs et dirigeants, nous nous 
+En tant que membres, contributeur•trice•s et dirigeant•e•s, nous nous
 engageons à rendre la participation dans notre communauté 
 une expérience sans harcèlement, quel que soit l'âge, 
 
