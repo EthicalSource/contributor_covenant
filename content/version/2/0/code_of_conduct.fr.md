@@ -41,7 +41,7 @@ Exemples de comportements non acceptables :
 
 Les dirigeants de communauté sont chargés de clarifier et de faire respecter nos normes de
 comportements acceptables et prendront des mesures correctives appropriées et équitables comme
-réponse à tout comportement qu'ils jugent inapproprié, menaçant, offensant ou nuisible.
+réponse à tout comportement qu'ils ou elles jugent inapproprié, menaçant, offensant ou nuisible.
 
 Les dirigeants de communauté ont le droit et la responsabilité de supprimer, modifier ou rejeter
 les commentaires, les contributions, le code, les modifications de wikis, les rapports d'incidents ou de bogues et autres contributions qui
