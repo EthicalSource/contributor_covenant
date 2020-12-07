@@ -62,7 +62,7 @@ inacceptables peuvent être signalés en contactant l'équipe du projet à
 [INSÉRER UNE ADRESSE EMAIL]. 
 Toutes les plaintes seront examinées et feront l'objet d'une enquête rapide et équitable.
 
-Tous les dirigeants de communauté sont tenus de respecter la vie privée et la sécurité des
+Tou•te•s les dirigeant•e•s de la communauté sont tenu•e•s de respecter la vie privée et la sécurité des
 personnes ayant signalées un incident.
 
 ## Directives d'application
