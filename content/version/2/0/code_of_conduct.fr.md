@@ -120,7 +120,7 @@ disponible à
 [https://www.contributor-covenant.org/version/2/0/code_of_conduct.html][v2.0].
 
 Les Directives d'application on été inspirée par le
-[Mozilla's code of conduct enforcement ladder][Mozilla CoC].
+[Code of conduct enforcement ladder][Mozilla CoC] de Mozilla.
 
 Pour obtenir des réponses aux questions courantes sur ce code de conduite, consultez la FAQ à
 [https://www.contributor-covenant.org/faq][FAQ]. Les traductions sont disponibles
