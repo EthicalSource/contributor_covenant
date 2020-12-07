@@ -98,7 +98,7 @@ un comportement inapproprié soutenu.
 **Conséquence**: Un bannissement temporaire de toutes formes d'interactions ou de
 communications avec la communauté pendant une période déterminée. Aucune interaction publique ou
 privée avec les personnes concernées, y compris les interactions non sollicitées
-avec ceux qui appliquent le Code de Conduite, n'est autorisée pendant cette période.
+avec celles et ceux qui appliquent ce code de conduite, n'est autorisée pendant cette période.
 Le non-respect de ces conditions peut entraîner un bannissement permanent.
 
 ### 4. Bannissement permanent
