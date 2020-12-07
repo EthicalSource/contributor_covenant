@@ -105,7 +105,7 @@ Le non-respect de ces conditions peut entraîner un bannissement permanent.
 
 ### 4. Bannissement permanent
 
-**Impact Communautaire**: Démontrer un shéma récurrent de violation de standards de la 
+**Impact communautaire** : démontrer un schéma récurrent de violation des normes de la 
 communauté y compris un comportement inapproprié soutenu, le harcèlement d'un individu
 ainsi que l'agression ou le dénigrement de catégories d'individus.
 
