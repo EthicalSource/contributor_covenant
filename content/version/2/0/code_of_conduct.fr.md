@@ -110,7 +110,7 @@ ainsi que l'agression ou le dénigrement de catégories d'individus.
 **Conséquence** : un bannissement permanent de toutes formes d'interactions publiques au sein de
 la communauté.
 
-## Attribution
+## Attributions
 
 Ce code de conduite est adapté du
 [Contributor Covenant](https://www.contributor-covenant.org), version 2.0,
