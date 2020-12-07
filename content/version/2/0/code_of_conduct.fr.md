@@ -33,7 +33,7 @@ Exemples de comportements inacceptables :
 * La publication d'informations privées de tierces personnes, telles que des
   adresses physiques ou électroniques, sans permission explicite
 * Toute autre conduite qui pourrait raisonnablement être considérée comme inappropriée
-  dans le milieu professionnel
+  dans un cadre professionnel
 
 ## Nos responsabilités
 
