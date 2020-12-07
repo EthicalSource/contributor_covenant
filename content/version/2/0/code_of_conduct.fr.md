@@ -84,7 +84,7 @@ le comportement était inapproprié. Des excuses publiques peuvent être demand�
 
 **Impact communautaire** : une violation par un seul incident ou une série d'actions.
 
-**Conséquence**: Un avertissement avec des conséquences dû à la poursuite du comportement.
+**Conséquence** : un avertissement avec des conséquences dû à la poursuite du comportement.
 Aucune interaction avec les personnes concernées, y compris l'interaction non sollicitée avec
 celles et ceux qui sont chargé•e•s de l'application de ce code de conduite, pendant une période déterminée. 
 Cela comprend le fait d'éviter les interactions dans les espaces communautaires ainsi que sur les canaux externes
