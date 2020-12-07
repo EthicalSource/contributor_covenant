@@ -31,7 +31,7 @@ Exemples de comportements inacceptables :
   personnelles ou d'ordre politique
 * Le harcèlement en public ou en privé
 * La publication d'informations privées de tierces personnes, telles que des
-  adresses physiques ou électroniques, sans permission explicite
+  adresse postale ou une adresse électronique, sans leur autorisation explicite
 * Toute autre conduite qui pourrait raisonnablement être considérée comme inappropriée
   dans un cadre professionnel
 
