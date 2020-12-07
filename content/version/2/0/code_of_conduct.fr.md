@@ -51,7 +51,7 @@ le cas échéant.
 Ce code de conduite s'applique à la fois au sein des espaces du projet ainsi que
 dans les espaces publics lorsqu'un individu représente officiellement le projet ou sa
 communauté. Font parties des exemples de représentation d'un projet ou d'une
-communauté le fait d'utiliser une adresse email propre au projet, de poster sur
+communauté l'utilisation d'une adresse électronique officielle, la publication sur
 les réseaux sociaux à l'aide d'un compte officiel ou le fait d'agir en tant que représentant•e désigné•e
 projet au cours d'un évènement en ligne ou hors-ligne.
 
