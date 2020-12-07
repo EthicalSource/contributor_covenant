@@ -35,7 +35,7 @@ Exemples de comportements inacceptables :
 * Toute autre conduite qui pourrait raisonnablement être considérée comme inappropriée
   dans un cadre professionnel
 
-## Nos responsabilités
+## Responsabilités d'application
 
 Les dirigeant•e•s de la communauté sont chargé•e•s de clarifier et de faire respecter nos normes de
 comportements acceptables et prendront des mesures correctives appropriées et équitables en
