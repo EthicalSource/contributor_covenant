@@ -53,7 +53,7 @@ dans les espaces publics lorsqu'un individu représente officiellement le projet
 communauté. Font parties des exemples de représentation d'un projet ou d'une
 communauté l'utilisation d'une adresse électronique officielle, la publication sur
 les réseaux sociaux à l'aide d'un compte officiel ou le fait d'agir en tant que représentant•e désigné•e
-projet au cours d'un évènement en ligne ou hors-ligne.
+lors d'un événement en ligne ou hors-ligne
 
 ## Application
 
