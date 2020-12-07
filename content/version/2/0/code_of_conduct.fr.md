@@ -48,7 +48,7 @@ le cas échéant.
 
 ## Portée d'application
 
-Ce Code de Conduite s'applique à la fois au sein des espaces du projet ainsi que
+Ce code de conduite s'applique à la fois au sein des espaces du projet ainsi que
 dans les espaces publics lorsqu'un individu représente officiellement le projet ou sa
 communauté. Font parties des exemples de représentation d'un projet ou d'une
 communauté le fait d'utiliser une adresse email propre au projet, de poster sur
