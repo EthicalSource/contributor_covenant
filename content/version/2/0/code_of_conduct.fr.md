@@ -96,7 +96,7 @@ un bannissement temporaire ou permanent.
 **Impact Communautaire**: Une violation grave des normes communautaires, notamment
 un comportement inapproprié soutenu.
 
-**Conséquence**: Un bannissement temporaire de toutes formes d'interactions ou de
+**Conséquence** : un bannissement temporaire de toutes formes d'interactions ou de
 communications avec la communauté pendant une période déterminée. Aucune interaction publique ou
 privée avec les personnes concernées, y compris les interactions non sollicitées
 avec celles et ceux qui appliquent ce code de conduite, n'est autorisée pendant cette période.
