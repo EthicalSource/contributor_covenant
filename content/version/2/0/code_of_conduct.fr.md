@@ -119,7 +119,7 @@ Ce Code de Conduite est adapté du
 disponible à
 [https://www.contributor-covenant.org/version/2/0/code_of_conduct.html][v2.0].
 
-Les lignes directrices sur l'Impact Communautaire sont inspirées par
+Les Directives d'application on été inspirée par le
 [Mozilla's code of conduct enforcement ladder][Mozilla CoC].
 
 Afin d'obtenir des réponses aux questions communes à propos de ce code de conduite, référez vous à la FAQ à
