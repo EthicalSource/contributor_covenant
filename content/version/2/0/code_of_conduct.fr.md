@@ -18,7 +18,7 @@ ouverte, accueillante, diversifiée, inclusive et saine.
 
 Exemples de comportements qui contribuent à créer un environnement positif :
 
-* Faire preuve d'empathie et de bienvaillance envers les autres membres
+* Faire preuve d'empathie et de bienveillance envers les autres
 * Le respect des différents points de vue, opinions et expériences vécues
 * Donner et accepter poliment les critiques constructives
 * Assumer ses responsabilités et s'excuser auprès des personnes affectées par nos erreurs et apprendre de ces expériences
