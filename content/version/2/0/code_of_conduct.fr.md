@@ -58,7 +58,7 @@ lors d'un événement en ligne ou hors-ligne.
 ## Application
 
 Les cas de comportements abusifs, harcelants ou tout autre comportement
-inacceptables peuvent être signalés aux dirigeant•e•s de la communauté responsables de l'application à
+inacceptables peuvent être signalés aux dirigeant•e•s de la communauté responsables de l'application du code de conduite à
 [INSÉRER UNE ADRESSE EMAIL]. 
 Toutes les plaintes seront examinées et feront l'objet d'une enquête rapide et équitable.
 
