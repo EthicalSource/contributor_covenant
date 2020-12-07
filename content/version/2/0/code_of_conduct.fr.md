@@ -1,4 +1,4 @@
-# Charte Code de Conduite Contributeurs
+# Code de conduite _Contributor Covenant_
 
 ## Notre engagement
 
