@@ -67,7 +67,7 @@ personnes ayant signalées un incident.
 
 ## Directives d'application
 
-Les dirigeants de communauté suivront ces lignes directrices sur l'Impact Communautaire afin de déterminer
+Les dirigeant•e•s de communauté suivront ces directives d'application sur l'impact communautaire afin de déterminer
 les conséquences de toute action qu'ils jugent contraire au présent code de conduite :
 
 ### 1. Correction
