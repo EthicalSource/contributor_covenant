@@ -93,7 +93,6 @@ un bannissement temporaire ou permanent.
 ### 3. Bannissement temporaire
 
 **Impact communautaire** : une violation grave des normes communautaires, notamment
-
 un comportement inapproprié soutenu.
 
 **Conséquence** : un bannissement temporaire de toutes formes d'interactions ou de
