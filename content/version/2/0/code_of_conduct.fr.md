@@ -76,7 +76,7 @@ les conséquences de toute action qu'ils jugent contraire au présent Code de Co
 non professionnel ou indésirable dans la communauté.
 
 **Conséquence** : un avertissement écrit et privé de la part des dirigeant•e•s de la communauté, clarifiant
-une clarification sur la nature de la violation et une explication des raisons pour lesquelles
+la nature de la violation et expliquant pourquoi
 le comportement était inapproprié. Des excuses publiques peuvent être demandées.
 
 ### 2. Avertissement
