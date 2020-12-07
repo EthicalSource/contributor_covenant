@@ -106,7 +106,7 @@ Le non-respect de ces conditions peut entraîner un bannissement permanent.
 
 **Impact Communautaire**: Démontrer un shéma récurrent de violation de standards de la 
 communauté y compris un comportement inapproprié soutenu, le harcèlement d'un individu
-ainsi que l'agression ou le dénigrement de classes d'individus.
+ainsi que l'agression ou le dénigrement de catégories d'individus.
 
 **Conséquence**: Un bannissement permanent de toutes formes d'interactions publiques au sein de
 la communauté.
