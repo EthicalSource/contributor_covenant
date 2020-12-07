@@ -58,7 +58,7 @@ projet au cours d'un évènement en ligne ou hors-ligne.
 ## Application
 
 Les cas de comportements abusifs, harcelants ou tout autre comportement
-inacceptables peuvent être signalés en contactant l'équipe du projet à
+inacceptables peuvent être signalés aux dirigeant•e•s de la communauté responsables de l'application à
 [INSÉRER UNE ADRESSE EMAIL]. 
 Toutes les plaintes seront examinées et feront l'objet d'une enquête rapide et équitable.
 
