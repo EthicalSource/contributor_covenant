@@ -43,7 +43,7 @@ réponse à tout comportement qu'ils ou elles jugent inapproprié, menaçant, of
 
 Les dirigeant•e•s de la communauté ont le droit et la responsabilité de supprimer, modifier ou rejeter
 les commentaires, les contributions, le code, les modifications de wikis, les rapports d'incidents ou de bogues et autres contributions qui
-ne sont pas alignés sur ce Code de Conduite et communiqueront les raisons de la modération
+ne sont pas alignés sur ce code de conduite, et communiqueront les raisons des décisions de modération
 le cas échéant.
 
 ## Portée d'application
