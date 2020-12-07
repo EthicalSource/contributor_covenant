@@ -122,7 +122,7 @@ disponible à
 Les Directives d'application on été inspirée par le
 [Mozilla's code of conduct enforcement ladder][Mozilla CoC].
 
-Afin d'obtenir des réponses aux questions communes à propos de ce code de conduite, référez vous à la FAQ à
+Pour obtenir des réponses aux questions courantes sur ce code de conduite, consultez la FAQ à
 [https://www.contributor-covenant.org/faq][FAQ]. Les traductions sont disponibles
 sur [https://www.contributor-covenant.org/translations][translations].
 
