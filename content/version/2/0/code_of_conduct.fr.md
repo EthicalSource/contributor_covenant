@@ -75,7 +75,7 @@ les conséquences de toute action qu'ils jugent contraire au présent Code de Co
 **Impact Communautaire**: Utilisation d'un langage inapproprié ou tout autre comportement jugé
 non professionnel ou indésirable dans la communauté.
 
-**Conséquence**: Un avertissement privé et écrit des chefs de communauté, fournissant
+**Conséquence** : un avertissement écrit et privé de la part des dirigeant•e•s de la communauté, clarifiant
 une clarification sur la nature de la violation et une explication des raisons pour lesquelles
 le comportement était inapproprié. Des excuses publiques peuvent être demandées.
 
