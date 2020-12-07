@@ -73,7 +73,6 @@ les conséquences de toute action qu'ils jugent contraire au présent Code de Co
 ### 1. Correction
 
 **Impact communautaire** : utilisation d'un langage inapproprié ou tout autre comportement jugé
-
 non professionnel ou indésirable dans la communauté.
 
 **Conséquence** : un avertissement écrit et privé de la part des dirigeant•e•s de la communauté, clarifiant
