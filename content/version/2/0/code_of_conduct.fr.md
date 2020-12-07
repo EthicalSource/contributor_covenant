@@ -81,7 +81,7 @@ le comportement était inapproprié. Des excuses publiques peuvent être demand�
 
 ### 2. Avertissement
 
-**Impact communautaire** : une violation par un seul incident ou une série d'actions.
+**Impact communautaire** : un non-respect par un seul incident ou une série d'actions.
 
 **Conséquence** : un avertissement avec des conséquences dû à la poursuite du comportement.
 Aucune interaction avec les personnes concernées, y compris l'interaction non sollicitée avec
