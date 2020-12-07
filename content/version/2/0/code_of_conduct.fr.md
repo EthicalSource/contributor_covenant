@@ -30,7 +30,7 @@ Exemples de comportements inacceptables :
 * Le _trolling_, les commentaires insultants ou désobligeants et les attaques
   personnelles ou d'ordre politique
 * Le harcèlement en public ou en privé
-* La publication d'informations privées de tierces personnes, telles que des
+* La publication d'informations privées d'autrui, telle qu'une
   adresse postale ou une adresse électronique, sans leur autorisation explicite
 * Toute autre conduite qui pourrait raisonnablement être considérée comme inappropriée
   dans un cadre professionnel
