@@ -26,7 +26,7 @@ Voorbeelden van onaanvaardbaar gedrag zijn:
 
 * Het gebruik van geseksualiseerde taal of beelden, en seksuele aandacht of voorschotten van welke aard dan ook
 * "Trollen", beledigende of denigrerende opmerkingen, en persoonlijke of politieke aanvallen
-* Openbare of privé-intimidatie
+* Openbare- of privé-intimidatie
 * Publiceren van persoonlijke informatie van anderen, zoals een fysiek adres of e-mail adres, zonder hun uitdrukkelijke toestemming
 * Ander gedrag dat redelijkerwijs als ongepast zou kunnen worden beschouwd in een professionele setting
 
