@@ -34,7 +34,7 @@ Voorbeelden van onaanvaardbaar gedrag zijn:
 
 Gemeenschapsleiders zijn verantwoordelijk voor het verduidelijken en handhaven van onze normen van acceptabel gedrag en zal passende en eerlijke corrigerende maatregelen nemen in reactie op elk gedrag dat zij ongepast, bedreigend, aanstootgevend, of schadelijk vinden.
 
-Gemeenschapsleiders hebben het recht en de verantwoordelijkheid om opmerkingen, commits, code, wiki-bewerkingen, issues en andere bijdragen die niet in overeenstemming met deze Gedragscode zijn te verwijderen, bewerken of afwijzen, en zal redenen voor moderatie meedelen waar nodig.
+Communityleiders hebben het recht en de verantwoordelijkheid om opmerkingen, commits, code, wiki-bewerkingen, issues en andere bijdragen die niet in overeenstemming met deze Gedragscode zijn te verwijderen, bewerken of afwijzen en zullen redenen voor moderatie meedelen waar nodig.
 
 ## Toepassingsgebied
 
