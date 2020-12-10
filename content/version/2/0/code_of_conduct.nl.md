@@ -69,7 +69,7 @@ Gemeenschapsleiders zullen onderstaande "Community Impact Guidelines" volgen bij
 **Impact op de gemeenschap**: een ernstige schending van gemeenschapsnormen, inclusief aanhoudend ongepast gedrag.
 
 **Gevolg**: een tijdelijk verbod op elke vorm van interactie of openbare
-communicatie met de gemeenschap gedurende een bepaalde periode. Geen publieke of privé-interactie met de betrokken personen, inclusief ongevraagde interactie met degenen die de Gedragscode handhaven, is toegestaan ​​tijdens deze periode.
+communicatie met de community gedurende een bepaalde periode. Geen publieke- of privé-interactie met de betrokken personen, inclusief ongevraagde interactie met degenen die de Gedragscode handhaven, is toegestaan ​​tijdens deze periode.
 Het overtreden van deze voorwaarden kan leiden tot een permanente ban.
 
 ### 4. Permanente ban
