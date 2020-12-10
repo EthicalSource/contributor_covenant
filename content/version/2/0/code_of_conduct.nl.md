@@ -3,7 +3,7 @@ version = "2.0"
 aliases = ["/version/2/0"]
 +++
 
-# Contributor Convenant Gedragscode (Code of Conduct)
+# Contributor Covenant Gedragscode (Code of Conduct)
 
 ## Onze belofte
 
@@ -13,7 +13,7 @@ We beloven om te handelen en te communiceren op een manier die bijdraagt aan een
 
 ## Onze standaarden
 
-Voorbeelden van gedrag dat bijdraagt ​​aan een positieve omgeving voor onze community:
+Voorbeelden van gedrag dat bijdraagt aan een positieve omgeving voor onze community:
 
 * Empathie en vriendelijkheid tonen tegenover andere mensen
 * Verschillende meningen, standpunten en ervaringen respecteren
@@ -43,7 +43,7 @@ Voorbeelden van het vertegenwoordigen van onze community zijn onder meer het geb
 
 ## Handhaving
 
-Beledigend, intimiderend of anderszins onaanvaardbaar gedrag kan gerapporteerd worden aan de gemeenschapsleiders die verantwoordelijk zijn voor handhaving via [CONTACTMETHODE INVOEGEN].
+Beledigend, intimiderend of anderszins onaanvaardbaar gedrag kan gerapporteerd worden aan de communityleiders die verantwoordelijk zijn voor handhaving via [CONTACTMETHODE INVOEGEN].
 Alle klachten zullen onmiddellijk en eerlijk worden beoordeeld en onderzocht.
 
 Alle communityleiders zijn verplicht om de privacy en veiligheid van de melder van een incident te respecteren.
@@ -54,9 +54,9 @@ Communityleiders zullen onderstaande "Community Impact Guidelines" volgen bij he
 
 ### 1. Correctie
 
-**Impact op de community**: Gebruik van ongepast taalgebruik en ander gedrag dat onprofessioneel of als niet gewenst wordt geacht  in de community.
+**Impact op de community**: Gebruik van ongepast taalgebruik en ander gedrag dat onprofessioneel of als niet gewenst wordt geacht in de community.
 
-**Consequentie**: Een persoonlijke, schriftelijke waarschuwing van communityleiders, verduidelijking over de aard van de overtreding en een uitleg waarom het gedrag ongepast wordt geacht. Mogelijk wordt hierbij om een ​​openbare verontschuldiging gevraagd.
+**Consequentie**: Een persoonlijke, schriftelijke waarschuwing van communityleiders, verduidelijking over de aard van de overtreding en een uitleg waarom het gedrag ongepast wordt geacht. Mogelijk wordt hierbij om een openbare verontschuldiging gevraagd.
 
 ### 2. Waarschuwing
 
@@ -68,8 +68,7 @@ Communityleiders zullen onderstaande "Community Impact Guidelines" volgen bij he
 
 **Impact op de community**: Een ernstige schending van community normen, inclusief aanhoudend ongepast gedrag.
 
-**Consequentie**: Een tijdelijk verbod op elke vorm van interactie of openbare
-communicatie met de community gedurende een bepaalde periode. Geen publieke- of privé-interactie met de betrokken personen, inclusief ongevraagde interactie met degenen die de Gedragscode handhaven, is toegestaan ​​tijdens deze periode.
+**Consequentie**: Een tijdelijk verbod op elke vorm van interactie of openbare communicatie met de community gedurende een bepaalde periode. Geen publieke- of privé-interactie met de betrokken personen, inclusief ongevraagde interactie met degenen die de Gedragscode handhaven, is toegestaan tijdens deze periode.
 Het overtreden van deze voorwaarden kan leiden tot een permanente ban.
 
 ### 4. Permanente ban
