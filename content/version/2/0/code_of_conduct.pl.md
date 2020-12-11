@@ -93,7 +93,7 @@ działań.
 Brak interakcji z zaangażowanymi osobami, w tym dobrowolnymi interakcjami z osobami
 stosującymi Kodeks Postępowania, przez określony czas. Obejmuje to unikanie interakcji
 w przestrzeniach społeczności, a także w kanałach zewnętrznych, takich jak media społecznościowe.
-Naruszenie tych warunków może prowadzić do tymczasowego lub stałego zakazu.
+Naruszenie tych warunków może prowadzić do tymczasowej lub trwałej blokady.
 
 ### 3. Tymczasowa blokada
 
