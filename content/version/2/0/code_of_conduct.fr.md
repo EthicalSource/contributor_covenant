@@ -2,7 +2,7 @@
 
 ## Notre engagement
 
-En tant que membres, contributeur•trice•s et dirigeant•e•s, nous nous
+En tant que membres, contributeur·trice·s et dirigeant·e·s, nous nous
 engageons à faire de la participation à notre communauté
 une expérience sans harcèlement, quel que soit l'âge, 
 la taille corporelle, le handicap visible ou invisible, l'appartenance ethnique,
@@ -37,11 +37,11 @@ Exemples de comportements inacceptables :
 
 ## Responsabilités d'application
 
-Les dirigeant•e•s de la communauté sont chargé•e•s de clarifier et de faire respecter nos normes de
+Les dirigeant·e·s de la communauté sont chargé·e·s de clarifier et de faire respecter nos normes de
 comportements acceptables et prendront des mesures correctives appropriées et équitables en
 réponse à tout comportement qu'ils ou elles jugent inapproprié, menaçant, offensant ou nuisible.
 
-Les dirigeant•e•s de la communauté ont le droit et la responsabilité de supprimer, modifier ou rejeter
+Les dirigeant·e·s de la communauté ont le droit et la responsabilité de supprimer, modifier ou rejeter
 les commentaires, les contributions, le code, les modifications de wikis, les rapports d'incidents ou de bogues et autres contributions qui
 ne sont pas alignés sur ce code de conduite, et communiqueront les raisons des décisions de modération
 le cas échéant.
@@ -52,22 +52,22 @@ Ce code de conduite s'applique à la fois au sein des espaces du projet ainsi qu
 dans les espaces publics lorsqu'un individu représente officiellement le projet ou sa
 communauté. Font parties des exemples de représentation d'un projet ou d'une
 communauté l'utilisation d'une adresse électronique officielle, la publication sur
-les réseaux sociaux à l'aide d'un compte officiel ou le fait d'agir en tant que représentant•e désigné•e
+les réseaux sociaux à l'aide d'un compte officiel ou le fait d'agir en tant que représentant·e désigné·e
 lors d'un événement en ligne ou hors-ligne.
 
 ## Application
 
 Les cas de comportements abusifs, harcelants ou tout autre comportement
-inacceptables peuvent être signalés aux dirigeant•e•s de la communauté responsables de l'application du code de conduite à
+inacceptables peuvent être signalés aux dirigeant·e·s de la communauté responsables de l'application du code de conduite à
 [INSÉRER UNE ADRESSE EMAIL]. 
 Toutes les plaintes seront examinées et feront l'objet d'une enquête rapide et équitable.
 
-Tou•te•s les dirigeant•e•s de la communauté sont tenu•e•s de respecter la vie privée et la sécurité des
+Tou·te·s les dirigeant·e·s de la communauté sont tenu·e·s de respecter la vie privée et la sécurité des
 personnes ayant signalé un incident.
 
 ## Directives d'application
 
-Les dirigeant•e•s de communauté suivront ces directives d'application sur l'impact communautaire afin de déterminer
+Les dirigeant·e·s de communauté suivront ces directives d'application sur l'impact communautaire afin de déterminer
 les conséquences de toute action qu'ils jugent contraire au présent code de conduite :
 
 ### 1. Correction
@@ -75,7 +75,7 @@ les conséquences de toute action qu'ils jugent contraire au présent code de co
 **Impact communautaire** : utilisation d'un langage inapproprié ou tout autre comportement jugé
 non professionnel ou indésirable dans la communauté.
 
-**Conséquence** : un avertissement écrit et privé de la part des dirigeant•e•s de la communauté, clarifiant
+**Conséquence** : un avertissement écrit et privé de la part des dirigeant·e·s de la communauté, clarifiant
 la nature du non-respect et expliquant pourquoi
 le comportement était inapproprié. Des excuses publiques peuvent être demandées.
 
@@ -85,7 +85,7 @@ le comportement était inapproprié. Des excuses publiques peuvent être demand�
 
 **Conséquence** : un avertissement avec des conséquences dû à la poursuite du comportement.
 Aucune interaction avec les personnes concernées, y compris l'interaction non sollicitée avec
-celles et ceux qui sont chargé•e•s de l'application de ce code de conduite, pendant une période déterminée. 
+celles et ceux qui sont chargé·e·s de l'application de ce code de conduite, pendant une période déterminée. 
 Cela comprend le fait d'éviter les interactions dans les espaces communautaires ainsi que sur les canaux externes
 comme les médias sociaux. Le non-respect de ces conditions peut entraîner
 un bannissement temporaire ou permanent.
