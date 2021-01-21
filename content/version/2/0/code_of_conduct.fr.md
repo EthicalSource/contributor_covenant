@@ -1,3 +1,8 @@
++++
+version = "2.0"
+aliases = ["/version/2/0/fr"]
++++
+
 # Code de conduite _Contributor Covenant_
 
 ## Notre engagement
