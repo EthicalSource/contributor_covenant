@@ -97,17 +97,16 @@ Some resources useful for thinking about enforcement:
 ## Adopters of the Contributor Covenant
 
 This code of conduct has already been adopted by over
-[200,000 open source projects](https://github.com/search?l=Markdown&q=%22Contributor+Covenant%22+fork%3Afalse&type=Code).
+[50,000 open source projects](https://github.com/search?l=Markdown&q=%22Contributor+Covenant%22+fork%3Afalse&type=Code).
 Here are just a few major projects and organizations using the Contributor Covenant.
 
 {{< data-list "static/featured-adopters.csv" >}}
 
 [See this page for more]({{< ref "adopters.md" >}} "Other adopters of the Contributor Covenant").
 
-To add your project to the list, [submit a pull request](https://github.com/ContributorCovenant/contributor_covenant "Contributor Covenant source code").
+To add your project to the list, [submit a pull request](https://github.com/EthicalSource/contributor_covenant "Contributor Covenant source code").
 
 
 ## How to Contribute
 
-The Contributor Covenant is a living document, and has been [open sourced](https://github.com/ContributorCovenant/contributor_covenant "Contributor Covenant source code").
-Contributions in the form of issues and pull requests are welcomed and encouraged.
+The Contributor Covenant is a living document. You can contribute with issues, translations, pull requests, or donations in our [source repository](https://github.com/EthicalSource/contributor_covenant "Contributor Covenant source code").
