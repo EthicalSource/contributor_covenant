@@ -1,6 +1,6 @@
 +++
 version = "2.0"
-aliases = ["/version/2/0"]
+aliases = ["/version/2/0/cn"]
 +++
 
 # 贡献者行为准则公约
