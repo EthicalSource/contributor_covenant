@@ -31,6 +31,8 @@ The Contributor Covenant uses semantic versioning for revisions so all URLs are 
 We recommend that you add the Markdown or text version of the
 Contributor Covenant to your source code repository at the root level.
 
+We recommend that you thoroughly read the Enforcement Guidelines section. If the default version of consequences and their actions do not make sense within the context of your community, consider relocation of this section to another document, like FAQ or 'How to Report' page, that allows you to better describe your guidelines and associated consequences.
+
 Thanks to [Simon Vansintjan](https://github.com/simonv3/covenant-generator) there is an automated way to add Contributor Covenant to your project.
 Assuming that you have [Node.js](https://nodejs.org/en/ "Node.js Homepage") installed, simply run the following two commands from your project folder:
 
