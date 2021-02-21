@@ -43,7 +43,7 @@ Contributor Covenant uses semantic versioning for its revisions, so all URLs are
 
 ## How to Adopt Contributor Covenant
 
-Your code of conduct should be easy to locate, whether from your community's website or the root directory of your project's repository. 
+Your code of conduct should be easy to locate, whether as page on your community's website or a CODE_OF_CONDUCT.md file in the root directory of your project's repository. 
 
 *You must add a contact method to the placeholder in the document* so that people know how to report violations. 
 
