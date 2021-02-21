@@ -68,8 +68,7 @@ If your organization uses Contributor Covenant, or has used Contributor Covenant
 
 ## Adopters of the Contributor Covenant
 
-Contributor Covenant has been adopted by over
-[200,000 open source communities](https://github.com/search?l=Markdown&q=%22Contributor+Covenant%22+fork%3Afalse&type=Code) since 2014.
+Contributor Covenant has been adopted by over a hundred thousand open source communities and projects since 2014.
 Here are a few well-known communities using Contributor Covenant:
 
 {{< data-list "static/featured-adopters.csv" >}}
