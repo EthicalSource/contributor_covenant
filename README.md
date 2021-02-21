@@ -68,18 +68,12 @@ If you are interested in doing a translation, please follow these steps:
 1. HTML and plain text versions are automatically generated from your markdown file.
 1. A link to your translation is automatically added to the translations page.
 
-## Adding a Project to the List of Adopters
+## Registering Your Community as an Adopter
 
 * Fork the repository.
 * Add a new row to the [adopters.csv](static/adopters.csv) file,
-  with the project name in the first column, and the project URL in the second column.
+  with your community or project's name in the first column, and the corresponding URL in the second column.
 * Open a pull request.
-
-## Examples of Projects Using the Contributor Covenant
-
-This code of conduct has been adopted by 
-[more than 35,000 open source projects](https://github.com/search?q=%22This+Code+of+Conduct+is+adapted+from+the+[Contributor+Covenant]%22+fork%3Afalse&type=Code).
-For a partial list, see [our adopters page](https://www.contributor-covenant.org/adopters.html).
 
 ## Financial Contributors
 
@@ -91,7 +85,7 @@ Become a financial contributor and help us sustain our community. [[Contribute](
 
 ### Organizations
 
-Support this project with your organization. Your logo will show up here with a link to your website. [[Contribute](https://opencollective.com/contributor-covenant/contribute)]
+If your organization uses Contributor Covenant, you should consider supporting us financially with a recurring donation. Your logo will show up here with a link to your website. [[Contribute](https://opencollective.com/contributor-covenant/contribute)]
 
 <a href="https://opencollective.com/contributor-covenant/organization/0/website"><img src="https://opencollective.com/contributor-covenant/organization/0/avatar.svg"></a>
 <a href="https://opencollective.com/contributor-covenant/organization/1/website"><img src="https://opencollective.com/contributor-covenant/organization/1/avatar.svg"></a>
