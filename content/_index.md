@@ -28,6 +28,12 @@ These resources may be helpful in preparing for enforcement discussions:
 - [jQuery Foundation Code of Conduct Enforcement Manual](https://js.foundation/community/code-of-conduct/enforcement)
 - [How Mozilla is Making Code of Conduct Enforcement Real - and Scaling It](https://medium.com/mozilla-open-innovation/how-were-making-code-of-conduct-enforcement-real-and-scaling-it-3e382cf94415)
 
+It's equally as important to consider the opportunity of this document as a driver of positive change for discussion, and action that are critical for building safe and inclusive communities. Some resources that might be helpful in leveraging this document for inclusive design:
+
+- [CHAOSS Project Inclusive Leadership Metric](https://chaoss.community/metric-inclusive-leadership/) which encourages roles of influence designed with inclusion in mind.
+- [Open Source Inclusion Basic Checklist for Projects](https://github.com/mozilla/inclusion/blob/master/evaluation_tools/governance-basic.md)
+
+
 ## Contributor Covenant v2.0
 
 You can access the latest version of Contributor Covenant (2.0) here:
