@@ -53,7 +53,7 @@ unangemessen, bedrohlich oder beleidigend hält, zu reagieren.
 Die Gemeinschaftsleitung hat das Recht und die Verantwortung, Kommentare,
 Commits, Code, Wiki-Bearbeitungen, Support-Tickets und andere Beiträge, die
 nicht mit diesem Verhaltenskodex vereinbar sind, zu entfernen, zu bearbeiten
-oder abzulehnen, und werden die Gründe für eine Mäßigung mitteilen, wenn es
+oder abzulehnen, und wird die Gründe für eine Mäßigung mitteilen, wenn es
 angebracht ist.
 
 ## Geltungsbereich
