@@ -50,10 +50,10 @@ akzeptables Verhalten klarzustellen und wird angemessen und fair
 korrigierende Maßnahmen ergreifen um auf jegliches Verhalten, das sie für
 unangemessen, bedrohlich oder beleidigend hält, zu reagieren.
 
-Die Gemeinschaftsleitung hat das Recht und die Verantwortung Kommentare,
+Die Gemeinschaftsleitung hat das Recht und die Verantwortung, Kommentare,
 Commits, Code, Wiki-Bearbeitungen, Support-Tickets und andere Beiträge, die
-nicht mit diesem Verhaltenskodex vereinbar sind zu entfernen, zu bearbeiten oder
-abzulehnen, und werden die Gründe für eine Mäßigung mitteilen, wenn es
+nicht mit diesem Verhaltenskodex vereinbar sind, zu entfernen, zu bearbeiten
+oder abzulehnen, und werden die Gründe für eine Mäßigung mitteilen, wenn es
 angebracht ist.
 
 ## Geltungsbereich
