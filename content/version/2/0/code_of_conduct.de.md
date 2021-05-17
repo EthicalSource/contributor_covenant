@@ -10,10 +10,9 @@ aliases = ["/version/2/0/de"]
 Wir als Mitglieder, Teilnehmende und Verantwortliche unserer Gemeinschaft
 verpflichten uns bei der Teilnahme an dem Projekt und unserer Gemeinschaft zu
 einer belästigungsfreien Erfahrung für alle, unabhängig von Alter, Körpergröße,
-Behinderung, ethnischer Zuordnung, geschlechtlicher Identität und Ausdruck,
+Behinderung, ethnischer Zuordnung, Geschlechtermerkmalen, -identität und -ausdruck,
 Grad der Erfahrung, Bildung, sozialem Status, Nationalität, persönlicher
-Erscheinung, Rasse, Religion oder Geschlechtsidentität und sexueller
-Orientierung.
+Erscheinung, Rasse, Religion oder sexueller Identität und Orientierung.
 
 Wir verpflichten uns, in einer Weise zu handeln und zu interagieren, die zu
 einer offenen, einladenden, vielfältigen, inklusiven und gesunden Gemeinschaft
