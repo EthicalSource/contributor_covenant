@@ -47,7 +47,7 @@ Beispiele für inakzeptables Verhalten sind:
 ## Verantwortlichkeiten bei der Durchsetzung
 
 Die Gemeinschaftsleitung ist verantwortlich dafür, unsere Standards für ein
-akzeptables Benehmen klarzustellen und werden angemessen und fair
+akzeptables Verhalten klarzustellen und werden angemessen und fair
 korrigierende Maßnahmen ergreifen um auf jegliches Verhalten, das sie für
 unangemessen, bedrohlich oder beleidigend halten, zu reagieren.
 
