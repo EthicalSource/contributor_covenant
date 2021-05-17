@@ -8,11 +8,12 @@ aliases = ["/version/2/0/de"]
 ## Unsere Verpflichtung
 
 Wir als Mitglieder, Teilnehmende und Verantwortliche unserer Gemeinschaft
-verpflichten uns bei der Teilnahme an dem Projekt und unserer Gemeinschaft zu
-einer belästigungsfreien Erfahrung für alle, unabhängig von Alter, Körpergröße,
+verpflichten uns, allen Teilnehmenden an dem Projekt und unserer Gemeinschaft
+eine belästigungsfreie Beteiligung, unabhängig von Alter, Körpergröße,
 Behinderung, ethnischer Zuordnung, Geschlechtermerkmalen, -identität und -ausdruck,
 Grad der Erfahrung, Bildung, sozialem Status, Nationalität, persönlicher
-Erscheinung, Rasse, Religion oder sexueller Identität und Orientierung.
+Erscheinung, Rasse, Religion oder sexueller Identität und Orientierung
+zu ermöglichen.
 
 Wir verpflichten uns, in einer Weise zu handeln und zu interagieren, die zu
 einer offenen, einladenden, vielfältigen, inklusiven und gesunden Gemeinschaft
