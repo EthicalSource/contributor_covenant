@@ -65,7 +65,7 @@ offiziellen E-Mail-Adresse, das Posten über ein offizielles Social-Media-Konto
 oder das Auftreten als ernannte Vertretung bei einer Online- oder
 Offline-Veranstaltung.
 
-## Umsetzung
+## Durchsetzung
 
 Fälle von missbräuchlichem, belästigendem oder anderweitig inakzeptablem
 Verhalten können unter [KONTAKTMETHODE EINFÜGEN] der für die Durchsetzung
