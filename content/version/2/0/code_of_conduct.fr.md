@@ -24,7 +24,7 @@ ouverte, accueillante, diversifiée, inclusive et saine.
 Exemples de comportements qui contribuent à créer un environnement positif :
 
 * Faire preuve d'empathie et de bienveillance envers les autres
-* Être respectueux des opinions, points de vue et expériences divergents
+* Respecter les opinions, points de vue et expériences divergentes
 * Donner et recevoir avec grâce les critiques constructives
 * Assumer ses responsabilités et s'excuser auprès des personnes affectées par nos erreurs et apprendre de ces expériences
 * Se concentrer sur ce qui est le meilleur non pas uniquement pour nous en tant qu'individu, mais aussi pour l'ensemble de la communauté
@@ -42,9 +42,9 @@ Exemples de comportements inacceptables :
 
 ## Responsabilités d'application
 
-Les dirigeant·e·s de la communauté sont chargé·e·s de clarifier et de faire respecter nos normes de
+Les personnes dirigeantes de la communauté sont chargées de clarifier et de faire respecter nos normes de
 comportements acceptables et prendront des mesures correctives appropriées et équitables en
-réponse à tout comportement qu'ils ou elles jugent inapproprié, menaçant, offensant ou nuisible.
+réponse à tout comportement qu'elles jugent inapproprié, menaçant, offensant ou nuisible.
 
 Les dirigeant·e·s de la communauté ont le droit et la responsabilité de supprimer, modifier ou rejeter
 les commentaires, les contributions, le code, les modifications de wikis, les rapports d'incidents ou de bogues et autres contributions qui
@@ -67,13 +67,13 @@ inacceptables peuvent être signalés aux dirigeant·e·s de la communauté resp
 [INSÉRER UNE ADRESSE EMAIL]. 
 Toutes les plaintes seront examinées et feront l'objet d'une enquête rapide et équitable.
 
-Tou·te·s les dirigeant·e·s de la communauté sont tenu·e·s de respecter la vie privée et la sécurité des
+Toutes les personnes dirigeantes de la communauté sont tenues de respecter la vie privée et la sécurité des
 personnes ayant signalé un incident.
 
 ## Directives d'application
 
-Les dirigeant·e·s de communauté suivront ces directives d'application sur l'impact communautaire afin de déterminer
-les conséquences de toute action qu'ils jugent contraire au présent code de conduite :
+Les personnes dirigeantes de la communauté suivront ces directives d'application sur l'impact communautaire afin de déterminer
+les conséquences de toute action qu'elles jugent contraire au présent code de conduite :
 
 ### 1. Correction
 
@@ -90,7 +90,7 @@ le comportement était inapproprié. Des excuses publiques peuvent être demand�
 
 **Conséquence** : un avertissement avec des conséquences dû à la poursuite du comportement.
 Aucune interaction avec les personnes concernées, y compris l'interaction non sollicitée avec
-celles et ceux qui sont chargé·e·s de l'application de ce code de conduite, pendant une période déterminée. 
+les personnes chargées de l'application de ce code de conduite, pendant une période déterminée. 
 Cela comprend le fait d'éviter les interactions dans les espaces communautaires ainsi que sur les canaux externes
 comme les médias sociaux. Le non-respect de ces conditions peut entraîner
 un bannissement temporaire ou permanent.
