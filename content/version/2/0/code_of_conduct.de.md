@@ -8,12 +8,12 @@ aliases = ["/version/2/0/de"]
 ## Unsere Verpflichtung
 
 Wir als Mitglieder, Teilnehmende und Verantwortliche unserer Gemeinschaft
-verpflichten uns bei der Teilnahme an dem Projekt und unserer Gemeinschaft zu
-einer belästigungsfreien Erfahrung für alle, unabhängig von Alter, Körpergröße,
-Behinderung, ethnischer Zuordnung, geschlechtlicher Identität und Ausdruck,
+verpflichten uns, allen Teilnehmenden an dem Projekt und unserer Gemeinschaft
+eine belästigungsfreie Beteiligung, unabhängig von Alter, Körpergröße,
+Behinderung, ethnischer Zuordnung, Geschlechtermerkmalen, -identität und -ausdruck,
 Grad der Erfahrung, Bildung, sozialem Status, Nationalität, persönlicher
-Erscheinung, Rasse, Religion oder Geschlechtsidentität und sexueller
-Orientierung.
+Erscheinung, Rasse, Religion oder sexueller Identität und Orientierung
+zu ermöglichen.
 
 Wir verpflichten uns, in einer Weise zu handeln und zu interagieren, die zu
 einer offenen, einladenden, vielfältigen, inklusiven und gesunden Gemeinschaft
@@ -37,7 +37,7 @@ Beispiele für inakzeptables Verhalten sind:
 - Die Verwendung sexualisierter Sprache, Bilder oder Symbolik sowie unerwünschte
   Versuche sexueller Annäherung
 - Beleidigende oder abwertende Kommentare, persönliche oder politische Angriffe
-  und trollen
+  und Trollen
 - Öffentliche oder private Belästigungen
 - Das Veröffentlichen von privaten Informationen Anderer, wie zum Beispiel
   physische oder elektronische Adressen, ohne deren ausdrückliche Erlaubnis
@@ -47,14 +47,14 @@ Beispiele für inakzeptables Verhalten sind:
 ## Verantwortlichkeiten bei der Durchsetzung
 
 Die Gemeinschaftsleitung ist verantwortlich dafür, unsere Standards für ein
-akzeptables Benehmen klarzustellen und werden angemessen und fair
+akzeptables Verhalten klarzustellen und wird angemessen und fair
 korrigierende Maßnahmen ergreifen um auf jegliches Verhalten, das sie für
-unangemessen, bedrohlich oder beleidigend halten, zu reagieren.
+unangemessen, bedrohlich oder beleidigend hält, zu reagieren.
 
-Die Gemeinschaftsleitung hat das Recht und die Verantwortung Kommentare,
+Die Gemeinschaftsleitung hat das Recht und die Verantwortung, Kommentare,
 Commits, Code, Wiki-Bearbeitungen, Support-Tickets und andere Beiträge, die
-nicht mit diesem Verhaltenskodex vereinbar sind zu entfernen, zu bearbeiten oder
-abzulehnen, und werden die Gründe für eine Mäßigung mitteilen, wenn es
+nicht mit diesem Verhaltenskodex vereinbar sind, zu entfernen, zu bearbeiten
+oder abzulehnen, und wird die Gründe für eine Mäßigung mitteilen, wenn es
 angebracht ist.
 
 ## Geltungsbereich
@@ -66,7 +66,7 @@ offiziellen E-Mail-Adresse, das Posten über ein offizielles Social-Media-Konto
 oder das Auftreten als ernannte Vertretung bei einer Online- oder
 Offline-Veranstaltung.
 
-## Umsetzung
+## Durchsetzung
 
 Fälle von missbräuchlichem, belästigendem oder anderweitig inakzeptablem
 Verhalten können unter [KONTAKTMETHODE EINFÜGEN] der für die Durchsetzung
