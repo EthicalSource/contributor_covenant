@@ -37,7 +37,7 @@ Beispiele für inakzeptables Verhalten sind:
 - Die Verwendung sexualisierter Sprache, Bilder oder Symbolik sowie unerwünschte
   Versuche sexueller Annäherung
 - Beleidigende oder abwertende Kommentare, persönliche oder politische Angriffe
-  und trollen
+  und Trollen
 - Öffentliche oder private Belästigungen
 - Das Veröffentlichen von privaten Informationen Anderer, wie zum Beispiel
   physische oder elektronische Adressen, ohne deren ausdrückliche Erlaubnis
