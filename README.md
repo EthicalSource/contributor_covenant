@@ -12,7 +12,7 @@ For an overview and usage instructions, please visit
 ## Our Community
 We are grateful to the 300+ people from around the world who have contributed to the evolution of this historic document.
 
-<a href="https://github.com/ContributorCovenant/contributor_covenant/graphs/contributors"><img src="https://opencollective.com/contributor-covenant/contributors.svg?width=890&button=false" /></a>
+<a href="https://github.com/EthicalSource/contributor_covenant/graphs/contributors"><img src="https://opencollective.com/contributor-covenant/contributors.svg?width=890&button=false" /></a>
 
 ## Governance
 For project governance, see [our governance document](GOVERNANCE.md).
@@ -24,7 +24,7 @@ We always collaborate in the open.
 Please feel free to submit pull requests or open issues to improve the language of this document 
 or to provide additional [translations](https://www.contributor-covenant.org/translations).
 
-You should also check the [issues](https://github.com/ContributorCovenant/contributor_covenant/issues)
+You should also check the [issues](https://github.com/EthicalSource/contributor_covenant/issues)
 for the latest discussions involving the current and future versions of the Contributor Covenant.
 
 ### Build the website locally

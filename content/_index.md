@@ -60,7 +60,7 @@ For reStructuredText files, place `|Contributor Covenant|` where you would like 
    :target: code_of_conduct.md
 ```
 
-*Contributor Covenant is released under the [Creative Commons Attribution 4.0 International Public License](https://github.com/ContributorCovenant/contributor_covenant/blob/release/LICENSE.md), which requires that attribution be included.*
+*Contributor Covenant is released under the [Creative Commons Attribution 4.0 International Public License](https://github.com/EthicalSource/contributor_covenant/blob/release/LICENSE.md), which requires that attribution be included.*
 
 ## Support What You Value
 
@@ -76,4 +76,4 @@ Here are a few well-known communities using Contributor Covenant:
 [See this page for more]({{< ref "adopters.md" >}} "Other adopters of Contributor Covenant").
 
 To add your community to this list, [submit a pull
-request](https://github.com/ContributorCovenant/contributor_covenant/blob/release/README.md#registering-your-community-as-an-adopter "Contributor Covenant source code").
+request](https://github.com/EthicalSource/contributor_covenant/blob/release/README.md#registering-your-community-as-an-adopter "Contributor Covenant source code").

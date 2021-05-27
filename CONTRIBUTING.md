@@ -3,7 +3,7 @@
 Please feel free to submit pull requests or open issues to improve the language of this document 
 or to provide additional [translations](https://www.contributor-covenant.org/translations).
 
-You should also check the [issues](https://github.com/ContributorCovenant/contributor_covenant/issues)
+You should also check the [issues](https://github.com/EthicalSource/contributor_covenant/issues)
 for the latest discussions involving the current and future versions of the Contributor Covenant.
 
 ### Build the website locally
