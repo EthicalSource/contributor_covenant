@@ -56,7 +56,7 @@ Fællesskabets ledere følger denne Målestok for Alvorsgrad til at bestemme hvi
 
 ### 3. Midlertidig udelukkelse
 
-**Alvorsgrad**: En alvorlig overtrædelse af fælleskabets standarder, f.eks. genoptrædende episoder med uacceptabel opførsel.
+**Alvorsgrad**: En alvorlig overtrædelse af fælleskabets standarder, f.eks. gentagende episoder med uacceptabel opførsel.
 
 **Konsekvens**:
 Et midlertidigt forbud mod deltagelse i kommunikation med fællesskabet i en angiven tidsperiode. Ingen offentlig eller privat interaktion med de involverede parter samt ingen uopfordret henvendelse til dem, der er ansvarlige for håndhævelse af vores fællesskabsregler er tilladt i denne periode. Overtrædelse af de disse betingelser kan medføre permanent udelukkelse fra fællesskabet.
