@@ -12,7 +12,7 @@ Eksempler på hvordan der skabes en god stemning i vores fællesskab inkluderer:
 
 * At vise medfølelse og være venlig overfor andre.
 * At have respekt for andre meninger, synspunkter, og erfaringer.
-* At give og kærligt at modtage konstruktiv feedback.
+* At give og kærligt modtage konstruktiv feedback.
 * At tage ansvar og undskylde overfor dem, der bliver ramt af vores fejl og at lære af oplevelsen.
 * At fokusere på hvad der er bedst, ikke bare for os som individer, men for hele fællesskabet.
 
