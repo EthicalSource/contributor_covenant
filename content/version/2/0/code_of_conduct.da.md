@@ -2,7 +2,7 @@
 
 ## Vores løfte
 
-Som medlemmer og ledere lover vi at deltagelse i vores fællesskab bliver en chikanefri oplevelse for alle, uanset alder, kropsform, synlige eller usynlige handicap, etnicitet, køn, erfaringsniveau, uddannelse, social- eller økonomisk status, nationalitet, udseende, hudfarve, kaste, religion, eller seksuel orientering.
+Som medlemmer, bidragsydere og ledere lover vi at deltagelse i vores fællesskab bliver en chikanefri oplevelse for alle, uanset alder, kropsform, synlige eller usynlige handicap, etnicitet, køn, erfaringsniveau, uddannelse, social- eller økonomisk status, nationalitet, udseende, hudfarve, kaste, religion, eller seksuel orientering.
 
 Vi lover at deltage og samarbejde på en måde, der bidrager til at gøre fællesskabet åbent, imødekommende, mangfoldigt, inkluderende og velfungerende.
 
