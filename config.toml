@@ -61,6 +61,10 @@ languageCode = "bs"
 languageName = "Català"
 languageCode = "ca"
 
+[Languages.da]
+languageName = "Dansk"
+languageCode = "da"
+
 [Languages.de]
 languageName = "Deutsch"
 languageCode = "de"
