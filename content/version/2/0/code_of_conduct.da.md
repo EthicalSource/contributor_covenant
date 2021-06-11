@@ -28,6 +28,8 @@ Eksempler på uacceptabel opførsel inkluderer:
 
 Fællesskabets ledere er ansvarlige for at informere om og håndhæve vores standarder for acceptabel opførsel. Det sker ved på en retfærdig og proportionel måde at irettesætte opførsel som de bedømmer som uacceptabel, truende, offensiv eller skadelig.
 
+Fællesskabets ledere har retten og pligten til at fjerne, redigere eller afvise kommentarer, indsendt kode, wikirettelser, efterspørgsler, og andre bidrag der ikke overholder nærværende fællesskabregler. Begrundelsen for indgrebet vil blive meldt ud, hvis det virker passende.
+
 ## Afgrænsning
 
 Reglerne for deltagelse i fællesskabet gælder i alle vores fælles aktiviteter og ligeledes hvis fællesskabet repræsenteres i offentlige sammenhæng. Eksempler på hvornår fællesskabet repræsenteres offentligt er blandt andet brug af en officiel e-mail, at lave opslag fra officielle kontoer på sociale medier, eller deltagelse som en repræsentant for fællesskabet ved online eller offline begivenheder. 
