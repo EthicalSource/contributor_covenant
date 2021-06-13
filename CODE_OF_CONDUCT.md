@@ -3,15 +3,9 @@
 
 ## Our Pledge
 
-We as members, contributors, and leaders pledge to make participation in our
-community a harassment-free experience for everyone, regardless of age, body
-size, visible or invisible disability, ethnicity, sex characteristics, gender
-identity and expression, level of experience, education, socio-economic status,
-nationality, personal appearance, race, religion, or sexual identity
-and orientation.
+We as members, contributors, and leaders pledge to make participation in our community a harassment and discrimination-free experience for everyone, regardless of age, body size, visible or invisible disability, health, national, ethnic or social origin, sex characteristics, gender identity and expression, level of experience, education, language, profession, citizenship, immigration status, origin, place of birth or residence, property or socio-economic status, criminal records, marital status, family status, pregnancy, nationality, personal appearance, race, caste, color, religion or belief, sexual identity and orientation, political or other opinions, social identity, membership in a social group, or any characteristics other than that of individual merit.
 
-We pledge to act and interact in ways that contribute to an open, welcoming,
-diverse, inclusive, and healthy community.
+We pledge to act and interact in ways that do not contribute to systemic biases, but instead contribute to an open, welcoming, diverse, inclusive, and healthy community.
 
 ## Our Standards
 
