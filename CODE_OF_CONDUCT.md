@@ -57,11 +57,14 @@ Examples of representing our community include using an official e-mail address,
 posting via an official social media account, or acting as an appointed
 representative at an online or offline event.
 
+## Reporting
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported
+by sending an email to `conduct at ethicalsource dot dev`.
+
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at coraline c/o 
-idolhands dot com.
+reported to the community leaders responsible for enforcement at `conduct at ethicalsource dot dev`.
 
 All complaints will be reviewed and investigated promptly and fairly.
 
