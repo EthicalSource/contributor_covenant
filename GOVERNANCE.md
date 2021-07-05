@@ -26,9 +26,9 @@ In case of major changes, or conflict that contributors cannot resolve themselve
 the OES's governing committee has the responsibility for final decision-making.
 
 # Code of Conduct
-We strive for fair and transparent enforcement of our code of conduct, and prioritize
-the safety and well-being of those who are affected by a violation of our
-community norms and standards.
+We strive for fair and transparent enforcement of our [code of conduct](https://github.com/EthicalSource/contributor_covenant/blob/release/CODE_OF_CONDUCT.md), 
+and prioritize the safety and well-being of those who are affected by a violation of 
+our community norms and standards.
 
 ---
 
