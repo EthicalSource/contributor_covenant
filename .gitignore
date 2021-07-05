@@ -3,3 +3,5 @@
 
 # Vim swap files
 *.sw?
+
+.DS_Store
