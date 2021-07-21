@@ -1,8 +1,7 @@
 Contributor Covenant
 ====================
-![An ethical open source project](https://img.shields.io/badge/open-ethical-%234baaaa "An ethical open source project")
 
-The first and most popular code of conduct for open source and ethical open source projects and communities.
+The first and most popular code of conduct for open and ethical source communities.
 
 ## Project Home Page
 
@@ -12,7 +11,7 @@ For an overview and usage instructions, please visit
 ## Our Community
 We are grateful to the 300+ people from around the world who have contributed to the evolution of this historic document.
 
-<a href="https://github.com/ContributorCovenant/contributor_covenant/graphs/contributors"><img src="https://opencollective.com/contributor-covenant/contributors.svg?width=890&button=false" /></a>
+<a href="https://github.com/EthicalSource/contributor_covenant/graphs/contributors"><img src="https://opencollective.com/contributor-covenant/contributors.svg?width=890&button=false" /></a>
 
 ## Governance
 For project governance, see [our governance document](GOVERNANCE.md).
@@ -24,7 +23,7 @@ We always collaborate in the open.
 Please feel free to submit pull requests or open issues to improve the language of this document 
 or to provide additional [translations](https://www.contributor-covenant.org/translations).
 
-You should also check the [issues](https://github.com/ContributorCovenant/contributor_covenant/issues)
+You should also check the [issues](https://github.com/EthicalSource/contributor_covenant/issues)
 for the latest discussions involving the current and future versions of the Contributor Covenant.
 
 ### Build the website locally
@@ -68,18 +67,12 @@ If you are interested in doing a translation, please follow these steps:
 1. HTML and plain text versions are automatically generated from your markdown file.
 1. A link to your translation is automatically added to the translations page.
 
-## Adding a Project to the List of Adopters
+## Registering Your Community as an Adopter
 
 * Fork the repository.
 * Add a new row to the [adopters.csv](static/adopters.csv) file,
-  with the project name in the first column, and the project URL in the second column.
+  with your community or project's name in the first column, and the corresponding URL in the second column.
 * Open a pull request.
-
-## Examples of Projects Using the Contributor Covenant
-
-This code of conduct has been adopted by 
-[more than 35,000 open source projects](https://github.com/search?q=%22This+Code+of+Conduct+is+adapted+from+the+[Contributor+Covenant]%22+fork%3Afalse&type=Code).
-For a partial list, see [our adopters page](https://www.contributor-covenant.org/adopters.html).
 
 ## Financial Contributors
 
@@ -91,7 +84,7 @@ Become a financial contributor and help us sustain our community. [[Contribute](
 
 ### Organizations
 
-Support this project with your organization. Your logo will show up here with a link to your website. [[Contribute](https://opencollective.com/contributor-covenant/contribute)]
+If your organization uses Contributor Covenant, you should consider supporting us financially with a recurring donation. Your logo will show up here with a link to your website. [[Contribute](https://opencollective.com/contributor-covenant/contribute)]
 
 <a href="https://opencollective.com/contributor-covenant/organization/0/website"><img src="https://opencollective.com/contributor-covenant/organization/0/avatar.svg"></a>
 <a href="https://opencollective.com/contributor-covenant/organization/1/website"><img src="https://opencollective.com/contributor-covenant/organization/1/avatar.svg"></a>

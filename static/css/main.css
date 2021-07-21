@@ -335,10 +335,6 @@ header a:hover {
     display: initial;
   }
 
-  header nav li {
-    font-size: .5rem;
-  }
-
   header figcaption {
     font-size: 2rem;
   }
