@@ -8,7 +8,7 @@ Participating in open source is often a highly collaborative experience. We're e
 
 Some open source projects attract enough contributors that a community forms. A healthy open source community centers the shared values and norms of its members. While not all of these values are the exactly the same from community to community, there is a set of _core values and norms_ that are essential in a just and equitable software commons.
 
-Contributor Covenant is a code of conduct that you can adapt to express both these fundamental shared values, and the special norms and values that distinguish your own community. 
+Contributor Covenant is a code of conduct that you can adapt to express both these fundamental shared values, and the special norms and values that distinguish your own community.
 
 Adopting Contributor Covenant helps makes your community's values explicit, and signals your commitment to creating a welcoming and safe environment for everyone.
 
@@ -28,13 +28,13 @@ These resources may be helpful in preparing for enforcement discussions:
 - [jQuery Foundation Code of Conduct Enforcement Manual](https://js.foundation/community/code-of-conduct/enforcement)
 - [How Mozilla is Making Code of Conduct Enforcement Real - and Scaling It](https://medium.com/mozilla-open-innovation/how-were-making-code-of-conduct-enforcement-real-and-scaling-it-3e382cf94415)
 
-## Contributor Covenant v2.0
+## Contributor Covenant v2.1
 
-You can access the latest version of Contributor Covenant (2.0) here:
+You can access the latest version of Contributor Covenant (2.1) here:
 
-- [English (Markdown version)]({{< ref "/version/2/0/code_of_conduct.md" "markdown" >}})
-- [English (HTML version)]({{< ref "/version/2/0/code_of_conduct.md" >}})
-- [English (text version)]({{< ref "/version/2/0/code_of_conduct.md" "plaintext" >}})
+- [English (Markdown version)]({{< ref "/version/2/1/code_of_conduct.md" "markdown" >}})
+- [English (HTML version)]({{< ref "/version/2/1/code_of_conduct.md" >}})
+- [English (text version)]({{< ref "/version/2/1/code_of_conduct.md" "plaintext" >}})
 
 If you are not a native English speaker, you may find a volunteer-created translation of Contributor Covenant in your native language on the [translations page]({{< ref "translations.md" >}}).
 
@@ -43,20 +43,20 @@ Contributor Covenant uses semantic versioning for its revisions, so all URLs are
 
 ## How to Adopt Contributor Covenant
 
-Your code of conduct should be easy to locate, whether as page on your community's website or a CODE_OF_CONDUCT.md file in the root directory of your project's repository. 
+Your code of conduct should be easy to locate, whether as page on your community's website or a CODE_OF_CONDUCT.md file in the root directory of your project's repository.
 
-*You must add a contact method to the placeholder in the document* so that people know how to report violations. 
+*You must add a contact method to the placeholder in the document* so that people know how to report violations.
 
-If you are using a README file in your source code repository, you can display a badge like this one ![Contributor Covenant Badge](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg).
+If you are using a README file in your source code repository, you can display a badge like this one ![Contributor Covenant Badge](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg).
 
 For markdown files, use this code:
 ```
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](code_of_conduct.md)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 ```
 For reStructuredText files, place `|Contributor Covenant|` where you would like the badge and add this to the bottom of the file:
 ```
 
-.. |Contributor Covenant| image:: https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg
+.. |Contributor Covenant| image:: https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg
    :target: code_of_conduct.md
 ```
 
