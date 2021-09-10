@@ -73,6 +73,7 @@ datacoco-redis_tools, https://github.com/equinoxfitness/datacoco-redis_tools
 datacoco-secretsmanager, https://github.com/equinoxfitness/datacoco-secretsmanager
 Dawnscanner, https://github.com/thesp0nge/dawnscanner
 DC/OS, https://dcos.io/
+Deckhouse, https://github.com/deckhouse/deckhouse
 Dependent, https://github.com/dependent/dependencies
 DevAndDev, https://devand.dev/
 Deviser Platform, https://github.com/deviserplatform/deviserplatform
@@ -144,6 +145,7 @@ Johnny-Five, https://github.com/rwaldron/johnny-five
 Jolie, https://jolie-lang.org/
 JRuby Gradle, https://github.com/jruby-gradle/jruby-gradle-plugin
 JRuby, https://github.com/jruby/jruby/
+JSON Schema, https://github.com/json-schema-org/json-schema-spec
 JuneteenthConf, https://juneteenthconf.com/
 json-rpc, https://github.com/pavlov99/json-rpc
 Kickoff, https://github.com/TryKickoff/kickoff/
@@ -268,6 +270,7 @@ Spree, https://github.com/spree/spree
 Spring Boot, https://github.com/spring-projects/spring-boot
 Spring, https://github.com/spring-projects
 Squirrel for Windows, https://github.com/squirrel/squirrel.windows
+SquirrelJME, https://squirreljme.cc/
 Stack.io, https://github.com/germanstack
 Storybook, https://github.com/storybookjs/storybook
 Styled Hooks, https://github.com/colingourlay/styled-hooks
