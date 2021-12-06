@@ -132,6 +132,6 @@ innerhalb der Gemeinschaft.
 
 Dieser Verhaltenskodex basiert auf dem [Contributor Covenant][homepage],
 Version 2.0, verfügbar unter
-<https://www.contributor-covenant.org/de/version/2/0/code-of-conduct>
+<https://www.contributor-covenant.org/de/version/2/0/code_of_conduct>
 
 [homepage]: https://www.contributor-covenant.org
