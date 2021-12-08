@@ -184,6 +184,6 @@ languageName = "فارسی"
 languageCode = "fa-IR"
 writingDirection = "rtl"
 
-[Languages.pa]
+[Languages.pun]
 languageName = "ਪੰਜਾਬੀ"
-languageCode = "pa"
+languageCode = "pun"
