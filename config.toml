@@ -183,3 +183,7 @@ languageCode = "zh-cn"
 languageName = "فارسی"
 languageCode = "fa-IR"
 writingDirection = "rtl"
+
+[Languages.pa]
+languageName = "ਪੰਜਾਬੀ"
+languageCode = "pa-pan"
