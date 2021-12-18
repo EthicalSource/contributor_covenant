@@ -8,10 +8,10 @@ aliases = ["faq"]
 We recognize that the adoption of a code of conduct can be a source of confusion or even anger for some people in an open source community. This FAQ is intended to address some of the common concerns that we see raised by people whose reaction to adoption is a negative one, and we hope it will help alleviate some of their concerns.
 
 ### Are codes of conduct a mechanism for turning project governance over to "social justice warriors"?
-Project maintainers are responsible for tailoring and enforcing the codes of conduct that they adopt. A code of conduct does not grant any authority or power to anyone outside of this group. Even if pressure is applied from a third party, such as on social media, the project maintainers alone have the authority to enforce the code of conduct and are under no obligation to bow to external pressure.
+Project maintainers are responsible for tailoring and enforcing the codes of conduct that they adopt. A code of conduct does not grant any authority or power to anyone outside this group. Even if pressure is applied from a third party, such as on social media, the project maintainers alone have the authority to enforce the code of conduct and are under no obligation to bow to external pressure.
 
 ### What should I do if I have been accused of violating the code of conduct?
-The first step when dealing with accusations of violation of the code of conduct is to deal with it in a professional manner. Do not respond with sarcasm, attack the code of conduct or its enforcement, or the accuser. Calmly focus on the evidence of what happened, work to understand any damage you may have caused, and examine how your intentions may have inadvertently caused harm. The more you stick to the facts of what happened, and demonstrate your willingness to work with the enforcement team as they evaluate the claim, the better. Most importantly, trust the project maintainers to act in a fair and just manner.
+The first step when dealing with accusations of violation of the code of conduct is to deal with it professionally. Do not respond with sarcasm, attack the code of conduct or its enforcement, or the accuser. Calmly focus on the evidence of what happened, work to understand any damage you may have caused, and examine how your intentions may have inadvertently caused harm. The more you stick to the facts of what happened, and demonstrate your willingness to work with the enforcement team as they evaluate the claim, the better. Most importantly, trust the project maintainers to act in a fair and just manner.
 
 ### Won't a code of conduct have a negative effect on the end product?
 There is no evidence that adopting a code of conduct has a negative effect on code quality. But it will affect the experience of those who participate in communities where the <abbr title="Code of Conduct">CoC</abbr> is enforced. Ensuring that more people feel safe contributing to the project can significantly improve the quality of the codebase.
@@ -46,17 +46,17 @@ If you're a meritocracy fan, you already abide by the principle of separating th
 Project maintainers are the arbiters of code of conduct violations and are the unquestioned leaders of the projects they own. Without a code of conduct, a project maintainer has the power to eject any contributor from a project for any (or no) reason at all. A properly enforced code of conduct creates a social contract between and among contributors and maintainers that make such abuses of power less acceptable and common. If you don't trust a project maintainer to act in a just and fair way, you probably should consider not participating in their community.
 
 ### Can I be cited for a code of conduct violation for something that I say on Twitter or other social media site?
-Contributor Covenant only applies in project spaces and when an individual is representing a project. Your conduct outside of these situations is not governed by the code of conduct.
+Contributor Covenant only applies in project spaces and when an individual is representing a project. Your conduct outside these situations is not governed by the code of conduct.
 
 ### Does the prohibition on publishing private information include email addresses sent to a public list?
 No. Information that has voluntarily been published to a public location does not fall under the category of private information. Such public information may be used within the context of the project according to project norms (such as in commit metadata in code repositories), without that constituting a breach of the code of conduct.
 
 ### Why are 'ethnicity' and 'race' called out as two separate pivots? Aren't these terms interchangeable?
 
-* **Ethnicity** (or ethnic group) is a category of people who identify with each other based on similarities such as common ancestry, language, history, society, culture or nation.
+* **Ethnicity** (or ethnic group) is a category of people who identify with each other based on similarities such as common ancestry, language, history, society, culture, or nation.
 * **Race** is the grouping of humans based on shared physical or social qualities into categories generally viewed as distinct by society and usually resulting from genetic ancestry.
 
-We recognize different cultures and the process of translation might make the differences between these terms less apparent. Violence and discrimination can occur based on the perception of either and sometimes both at the same time which is why it is important to call them out as two separate concepts.
+We recognize different cultures, and the process of translation might make the differences between these terms less apparent. Violence and discrimination can occur based on the perception of either and sometimes both at the same time, which is why it is important to call them out as two separate concepts.
 
 ### Contributor Covenant explicitly lists a set of protected classes; does this make it acceptable to discriminate or make others feel unwelcome based on other factors?
 No. Contributor Covenant explicitly lists protected classes for many reasons, such as reminding people to give them appropriate consideration, and assuring people in those protected classes that they are welcome. However, this is not an invitation for rules lawyers to seek loopholes, or to discriminate against others or make people feel unwelcome based on criteria not listed here. (With the notable caveat that <a href="https://en.wikipedia.org/wiki/Paradox_of_tolerance">those who discriminate or make others feel unwelcome are themselves not welcome</a>.)

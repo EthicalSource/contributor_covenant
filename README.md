@@ -63,7 +63,7 @@ If you are interested in doing a translation, please follow these steps:
 1. Open a pull request.
 1. We will put out a call to have one or more other native speakers review the translation.
 1. Collaborate until the translation is satisfactory.
-1. We will merge your translation!
+1. We will merge your translation.
 1. HTML and plain text versions are automatically generated from your markdown file.
 1. A link to your translation is automatically added to the translations page.
 
