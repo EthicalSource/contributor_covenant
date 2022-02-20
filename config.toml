@@ -78,6 +78,10 @@ languageCode = "el"
 languageName = "Español"
 languageCode = "es"
 
+[Languages.es-AND]
+languageName = "Andalûh EPA"
+languageCode = "es-and"
+
 [Languages.fr]
 languageName = "Français"
 languageCode = "fr"
