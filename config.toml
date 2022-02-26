@@ -82,9 +82,10 @@ languageCode = "es"
 languageName = "Français"
 languageCode = "fr"
 
-[Languages.gu]
-languageName = "ગુજરાતી"
-languageCode = "gu"
+[Languages.iw]
+languageName = "עברית"
+languageCode = "iw"
+writingDirection = "rtl"
 
 [Languages.hi]
 languageName = "हिंदी"
@@ -105,11 +106,6 @@ languageCode = "is"
 [Languages.it]
 languageName = "Italiano"
 languageCode = "it"
-
-[Languages.iw]
-languageName = "עברית"
-languageCode = "iw"
-writingDirection = "rtl"
 
 [Languages.ja]
 languageName = "日本語"
