@@ -8,19 +8,19 @@ DefaultContentLanguage = "en"
 hasCJKLanguage = true
 EnableMissingTranslationPlaceholders = true
 
-uglyURLs = true
+uglyURLs = false
 
 googleAnalytics = "UA-56802475-1"
 
 [mediaTypes]
 [mediaTypes."text/markdown"]
-suffix = "md"
+suffixes = ["md"]
 
 [mediaTypes."text/plain"]
-suffix = "txt"
+suffixes = ["txt"]
 
 [mediaTypes."text/asciidoc"]
-suffix = "adoc"
+suffixes = ["adoc"]
 
 [outputFormats]
 [outputFormats.Markdown]
@@ -57,6 +57,10 @@ languageCode = "bn"
 languageName = "Bosnian"
 languageCode = "bs"
 
+[Languages.ca]
+languageName = "Català"
+languageCode = "ca"
+
 [Languages.de]
 languageName = "Deutsch"
 languageCode = "de"
@@ -78,10 +82,9 @@ languageCode = "es"
 languageName = "Français"
 languageCode = "fr"
 
-[Languages.iw]
-languageName = "עברית"
-languageCode = "iw"
-writingDirection = "rtl"
+[Languages.gu]
+languageName = "ગુજરાતી"
+languageCode = "gu"
 
 [Languages.hi]
 languageName = "हिंदी"
@@ -103,9 +106,18 @@ languageCode = "is"
 languageName = "Italiano"
 languageCode = "it"
 
+[Languages.iw]
+languageName = "עברית"
+languageCode = "iw"
+writingDirection = "rtl"
+
 [Languages.ja]
 languageName = "日本語"
 languageCode = "ja"
+
+[Languages.mr]
+languageName = "मराठी"
+languageCode = "mr"
 
 [Languages.kn]
 languageName = "ಕನ್ನಡ"

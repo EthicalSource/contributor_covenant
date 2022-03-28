@@ -1,82 +1,26 @@
 +++
-title = "A Code of Conduct for Open Source Projects"
+title = "A Code of Conduct for Open Source and Other Digital Commons Communities"
 +++
 
-## A Code of Conduct for Open Source Projects
+## A Code of Conduct for Open Source Communities
 
-Open Source has always been a foundation of the Internet, and with the advent of social open source networks this is more true than ever.
-But free, libre, and open source projects suffer from a startling lack of diversity, with dramatically low representation by women, people of color, and other marginalized populations.
+Participating in open source is often a highly collaborative experience. We're encouraged to create in public view, and we're incentivized to welcome contributions of all kinds from people around the world. This makes the practice of open source as much social as it is technical.
 
-Often it is the unintentional assumptions and actions of project maintainers and participants that make open source projects unwelcoming (or even hostile) to marginalized people: making assumptions about gender or race, reinforcing stereotypes, using sexualized or otherwise inappropriate language, or demonstrating a lack of regard for the safety and well-being of vulnerable people.
+Some open source projects attract enough contributors that a community forms. A healthy open source community centers the shared values and norms of its members. While not all of these values are the exactly the same from community to community, there is a set of _core values and norms_ that are essential in a just and equitable software commons.
 
-One way to begin addressing this problem is to be overt in our openness, welcoming all people to contribute, and pledging in return to value them as whole human beings and to foster an atmosphere of kindness, cooperation, and understanding.
+Contributor Covenant is a code of conduct that you can adapt to express both these fundamental shared values, and the special norms and values that distinguish your own community.
 
-Adopting the Contributor Covenant can be one way to express and codify these values and signal your intention to make your open source community welcoming, diverse, and inclusive.
+Adopting Contributor Covenant helps makes your community's values explicit, and signals your commitment to creating a welcoming and safe environment for everyone.
 
-## Contributor Covenant v2.0
+## Before You Adopt Contributor Covenant
 
-You can view and download the latest version of the Contributor Covenant here:
+It's important to understand that simply adopting Contributor Covenant will not prevent conflict or toxicity in your community.
 
-- [English (Markdown version)]({{< ref "/version/2/0/code_of_conduct.md" "markdown" >}})
-- [English (HTML version)]({{< ref "/version/2/0/code_of_conduct.md" >}})
-- [English (text version)]({{< ref "/version/2/0/code_of_conduct.md" "plaintext" >}})
+As a leader you are responsible for the safe, fair, and transparent enforcement of your community's code of conduct. A code of conduct without such enforcement sends a false signal that a community is welcoming and inclusive, which can have a disastrous impact on marginalized or otherwise vulnerable people.
 
-For translations of the Contributor Covenant, please see our [translations page]({{< ref "translations.md" >}}).
+Before you decide to adopt Contributor Covenant, take the time to discuss enforcement with other trusted members of your community. Thoroughly read the Enforcement Guidelines section of the document. If the suggested actions and consequences don't suit the context of your community, consider moving this section to another document (such as an FAQ or 'How to Report' page) and adapting it to your needs.
 
-The Contributor Covenant uses semantic versioning for revisions so all URLs are permanent.
-{{< previous-versions >}}
-
-## Using the Contributor Covenant
-
-We recommend that you add the Markdown or text version of the
-Contributor Covenant to your source code repository at the root level.
-
-Thanks to [Simon Vansintjan](https://github.com/simonv3/covenant-generator) there is an automated way to add Contributor Covenant to your project.
-Assuming that you have [Node.js](https://nodejs.org/en/ "Node.js Homepage") installed, simply run the following two commands from your project folder:
-
-```
-npm install -g covgen
-covgen <your_email_address>
-```
-
-If you have npm 5.x installed you can run `npx covgen <your_email_address>` instead of installing globally.
-
-For subsequent projects, simply repeat the second command.
-
-You may want to add language similar to this to introduce your code of conduct:
-
-> Please note that this project is released with a Contributor Code of
-> Conduct. By participating in this project you agree to abide by its
-> terms.
-
-You may also use the permalinks given above to reference from your project home page.
-
-<strong class="important">Important!</strong> You must add a contact method to the placeholder in the document so that people know how to report violations.
-
-If you are using a markdown README file in your source code repository, you may want to add a badge like this one ![Contributor Covenant Badge](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg) using the code below.
-```
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
-```
-
-*The Contributor Covenant is released under the [Creative Commons Attribution 4.0 International Public License](https://github.com/ContributorCovenant/contributor_covenant/blob/release/LICENSE.md), which requires that attribution be included.*
-
-
-## Enforcing the Contributor Covenant
-
-> Morality cannot be legislated, but behavior can be regulated.
->
-> <cite>Dr. Martin Luther King, Jr.</cite>
-
-**Do not** simply add the Contributor Covenant to your project and assume that any problems with civility, harassment, or discrimination will be solved.
-As a project maintainer you must be committed to enforcing the code of conduct.
-A code of conduct without enforcement sends a false signal that your project is welcoming and inclusive, and can create a dangerous situation for marginalized people who participate.
-Adding the Contributor Covenant to a project places responsibility on the project team that must not be taken lightly.
-
-Before adopting the Contributor Covenant take the time to discuss and decide how to deal with problems as they emerge.
-Document the policy and procedure for enforcement, and add it to your README or in another visible, appropriate place.
-Consider if your project team has the willingness and maturity to follow through on your enforcement procedures.
-
-Some resources useful for thinking about enforcement:
+These resources may be helpful in preparing for enforcement discussions:
 
 - [Community Safety and Accountability](http://safetyfirstpdx.org)
 - [Enforcing Your Code of Conduct: Effective Incident Response](https://www.slideshare.net/aeschright/enforcing-your-code-of-conduct-effective-incident-response)
@@ -84,21 +28,52 @@ Some resources useful for thinking about enforcement:
 - [jQuery Foundation Code of Conduct Enforcement Manual](https://js.foundation/community/code-of-conduct/enforcement)
 - [How Mozilla is Making Code of Conduct Enforcement Real - and Scaling It](https://medium.com/mozilla-open-innovation/how-were-making-code-of-conduct-enforcement-real-and-scaling-it-3e382cf94415)
 
+## Contributor Covenant v2.1
+
+You can access the latest version of Contributor Covenant (2.1) here:
+
+- [English (Markdown version)]({{< ref "/version/2/1/code_of_conduct.md" "markdown" >}})
+- [English (HTML version)]({{< ref "/version/2/1/code_of_conduct.md" >}})
+- [English (text version)]({{< ref "/version/2/1/code_of_conduct.md" "plaintext" >}})
+
+If you are not a native English speaker, you may find a volunteer-created translation of Contributor Covenant in your native language on the [translations page]({{< ref "translations.md" >}}).
+
+Contributor Covenant uses semantic versioning for its revisions, so all URLs are permanent.
+{{< previous-versions >}}
+
+## How to Adopt Contributor Covenant
+
+Your code of conduct should be easy to locate, whether as page on your community's website or a CODE_OF_CONDUCT.md file in the root directory of your project's repository.
+
+*You must add a contact method to the placeholder in the document* so that people know how to report violations.
+
+If you are using a README file in your source code repository, you can display a badge like this one ![Contributor Covenant Badge](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg).
+
+For markdown files, use this code:
+```
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
+```
+For reStructuredText files, place `|Contributor Covenant|` where you would like the badge and add this to the bottom of the file:
+```
+
+.. |Contributor Covenant| image:: https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg
+   :target: code_of_conduct.md
+```
+
+*Contributor Covenant is released under the [Creative Commons Attribution 4.0 International Public License](https://github.com/EthicalSource/contributor_covenant/blob/release/LICENSE.md), which requires that attribution be included.*
+
+## Support What You Value
+
+If your organization uses Contributor Covenant, or has used Contributor Covenant in the creation of its own code of conduct, please consider [supporting us financially with a recurring donation](https://opencollective.com/contributor-covenant/contribute).
 
 ## Adopters of the Contributor Covenant
 
-This code of conduct has already been adopted by over
-[200,000 open source projects](https://github.com/search?l=Markdown&q=%22Contributor+Covenant%22+fork%3Afalse&type=Code).
-Here are just a few major projects and organizations using the Contributor Covenant.
+Contributor Covenant has been adopted by over a hundred thousand open source communities and projects since 2014.
+Here are a few well-known communities using Contributor Covenant:
 
 {{< data-list "static/featured-adopters.csv" >}}
 
-[See this page for more]({{< ref "adopters.md" >}} "Other adopters of the Contributor Covenant").
+[See this page for more]({{< ref "adopters.md" >}} "Other adopters of Contributor Covenant").
 
-To add your project to the list, [submit a pull request](https://github.com/ContributorCovenant/contributor_covenant "Contributor Covenant source code").
-
-
-## How to Contribute
-
-The Contributor Covenant is a living document, and has been [open sourced](https://github.com/ContributorCovenant/contributor_covenant "Contributor Covenant source code").
-Contributions in the form of issues and pull requests are welcomed and encouraged.
+To add your community to this list, [submit a pull
+request](https://github.com/EthicalSource/contributor_covenant/blob/release/README.md#registering-your-community-as-an-adopter "Contributor Covenant source code").
