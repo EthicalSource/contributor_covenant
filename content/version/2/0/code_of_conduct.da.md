@@ -1,3 +1,8 @@
++++
+version = "2.0"
+aliases = ["/version/2/0/da"]
++++
+
 # Aftale om regler for deltagelse i fælleskabet
 
 ## Vores løfte
@@ -32,7 +37,7 @@ Fællesskabets ledere har retten og pligten til at fjerne, redigere eller afvise
 
 ## Afgrænsning
 
-Reglerne for deltagelse i fællesskabet gælder i alle vores fælles aktiviteter og ligeledes hvis fællesskabet repræsenteres i offentlige sammenhæng. Eksempler på hvornår fællesskabet repræsenteres offentligt er blandt andet brug af en officiel e-mail, at lave opslag fra officielle kontoer på sociale medier, eller deltagelse som en repræsentant for fællesskabet ved online eller offline begivenheder. 
+Reglerne for deltagelse i fællesskabet gælder i alle vores fælles aktiviteter og ligeledes hvis fællesskabet repræsenteres i offentlige sammenhæng. Eksempler på hvornår fællesskabet repræsenteres offentligt er blandt andet brug af en officiel e-mail, at lave opslag fra officielle kontoer på sociale medier, eller deltagelse som en repræsentant for fællesskabet ved online eller offline begivenheder.
 
 ## Håndhævelse
 
