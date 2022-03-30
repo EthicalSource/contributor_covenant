@@ -1,5 +1,6 @@
 .NET Foundation, https://dotnetfoundation.org/about/code-of-conduct
 24 Pull Requests, https://github.com/24pullrequests/24pullrequests
+A/B Tester, https://github.com/gabrieltempass/ab-tester
 AASM, https://github.com/aasm/aasm
 ACM-W NITK, https://github.com/acm-w-nitk/acm-w-nitk.github.io
 Actionhero, https://www.actionherojs.com/
@@ -10,6 +11,7 @@ Algorrent, https://github.com/algorrent/algorrent
 All Algorithms, https://github.com/AllAlgorithms/algorithms
 Airbnb, https://airbnb.io/codeofconduct/
 Amsterdam.rb, https://amsrb.org/code-of-conduct/
+Ancient Beast, https://AncientBeast.com
 Android IMSI-Catcher Detector, https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector
 angular-formly, https://github.com/formly-js/angular-formly
 AngularJS, https://github.com/angular/code-of-conduct
@@ -24,6 +26,7 @@ Babel, https://github.com/babel/babel
 Baleen CLI, https://github.com/baleen/cli
 Baleen Migrations, https://github.com/baleen/migrations
 BcnEng, https://bcneng.org
+Beagle Framework,https://github.com/ZupIT/beagle
 Begynner, https://github.com/marcker/begynner
 Bionode, https://www.bionode.io/
 BioSigKit, https://github.com/hooman650/BioSigKit
@@ -41,6 +44,7 @@ Cesium, https://github.com/CesiumGS/cesium
 Chalk, https://github.com/chalk/chalk
 Changelog.com, https://changelog.com/
 CHAOSS Project, https://chaoss.community/
+CharlesCD,https://github.com/ZupIT/charlescd
 Chatwoot, https://www.chatwoot.com/docs/contributing-guide/code-of-conduct
 Checkstyle for Haxe, https://github.com/HaxeCheckstyle/haxe-checkstyle
 chef-rvm, https://github.com/sous-chefs/rvm
@@ -87,16 +91,19 @@ Dokku, https://github.com/dokku/dokku
 Doublify, https://github.com/doublify
 Drachenhorn, https://github.com/Drachenhorn-Team/Drachenhorn
 Dracut, https://github.com/dracutdevs/dracut
+dxw, https://www.dxw.com
 ECB Exchange, https://github.com/matthutchinson/ecb_exchange
 Eclipse Che, https://github.com/eclipse/che
 Eclipse, https://www.eclipse.org/
 Eldest Daughter Questionnaire, https://github.com/eldest-daughter/ed-questionnaire
 Electron, https://github.com/electron/electron
+elimu.ai, https://github.com/elimu-ai
 Elixir, https://github.com/elixir-lang/elixir
 Exercism.io, https://github.com/exercism/exercism
 Facebook, https://opensource.facebook.com/code-of-conduct
 Firefox Browser to B2B Communication, https://github.com/gorlapraveen/firefox_b2b_comm_radio_addon
 First Contributions, https://github.com/firstcontributions/first-contributions
+Flickr, https://blog.flickr.net/en/2022/02/14/safer-internet-day-and-open-source-codes-of-conduct/
 Freedomotic, https://github.com/freedomotic/freedomotic
 friends, https://github.com/JacobEvelyn/friends
 Fukuzatsu, https://gitlab.com/coraline/fukuzatsu/tree/master
@@ -111,6 +118,7 @@ GitLab, https://gitlab.com/gitlab-org/gitlab-foss/
 Giveth, https://wiki.giveth.io/policy/codeofconduct/
 Glimpse, https://glimpse-editor.org
 GlobaLeaks, https://github.com/globaleaks/GlobaLeaks
+GMT, https://www.generic-mapping-tools.org/
 GNSS-SDR, https://github.com/gnss-sdr/gnss-sdr
 GNU Guix and GuixSD, https://guix.gnu.org/
 Golang, https://golang.org/conduct
@@ -132,6 +140,7 @@ Heptio Gimbal, https://github.com/projectcontour/gimbal
 Holidays, https://github.com/holidays/holidays
 Homebrew-Cask, https://github.com/Homebrew/homebrew-cask
 Hoppscotch, https://github.com/hoppscotch/hoppscotch
+Horusec,https://github.com/ZupIT/horusec
 Hotels.com, https://github.com/HotelsDotCom
 HTML5 Boilerplate, https://github.com/h5bp/html5-boilerplate
 HTTPicnic, https://github.com/henry-anderson/HTTPicnic
@@ -169,6 +178,7 @@ Lolcommits, https://github.com/lolcommits/lolcommits
 Mailchain, https://github.com/mailchain/mailchain
 Mapbox, https://github.com/mapbox
 Mailspring, https://github.com/Foundry376/Mailspring
+Marc Bernard Tools, https://github.com/Marc-Bernard-Tools/MBT-Base
 Mattermost, https://github.com/mattermost
 Maximilian, https://github.com/WillLiu360/maximilian
 Marquez, https://github.com/MarquezProject/marquez
@@ -193,8 +203,10 @@ Node.js, https://github.com/nodejs
 Noice, https://github.com/ashutoshgngwr/noice
 nteract, https://nteract.io/
 OAPI ShieldsUp, https://github.com/oapi/shieldsup
+Ombi, https://ombi.network
 Onnx-go, https://github.com/owulveryck/onnx-go
 Open WebRTC Toolkit, https://github.com/open-webrtc-toolkit
+OpenArchive, https://open-archive.org/
 OpenDominion, https://github.com/OpenDominion/OpenDominion
 OpenDroneMap, https://github.com/OpenDroneMap/ODM
 OpenJS Foundation, https://github.com/openjs-foundation/
@@ -216,6 +228,7 @@ PeteBishwhip, https://github.com/PeteBishwhip/
 Pexip - Video Conferencing SDK, https://github.com/pexip/pexkit-sdk
 pg_chameleon - MySQL to PostgreSQL replica, https://github.com/the4thdoctor/pg_chameleon
 phpMyAdmin, https://www.phpmyadmin.net/
+PHPStan, https://phpstan.org/
 pimutils, https://pimutils.org/coc/
 PiVPN, https://github.com/pivpn/pivpn
 Pixi.js Haxe Externs, https://github.com/pixijs/pixi-haxe
@@ -229,10 +242,12 @@ Pre-filled repository, https://github.com/GuglielmoPepe/pre-filled-repository
 Pressbooks, https://github.com/pressbooks/pressbooks
 ProcessIterator, https://github.com/console-helpers/process-iterator
 PyBBIO, https://github.com/graycatlabs/PyBBIO
+PyGMT, https://github.com/GenericMappingTools/pygmt
 PyMC3, https://github.com/pymc-devs/pymc3
 PyMC4, https://github.com/pymc-devs/pymc4
 Python-dwca-reader, https://github.com/BelgianBiodiversityPlatform/python-dwca-reader
 Python Girona, https://pythongirona.cat/
+PyVista, https://github.com/pyvista/pyvista
 QA-Tools, https://github.com/qa-tools/qa-tools
 Quack Lang, https://github.com/quack/quack
 Quick, https://github.com/Quick/Quick
@@ -243,12 +258,15 @@ rbenv, https://github.com/rbenv/rbenv
 React, https://github.com/facebook/react
 ReactiveUI, https://github.com/reactiveui/reactiveui
 ReactiveX/RxJS, https://github.com/ReactiveX/RxJS
+React to styled, https://github.com/react-to/react-to-styled
 Realm, https://realm.io/conduct/
 Recidiviz, https://github.com/Recidiviz/
 Redash, https://github.com/getredash/redash
 Rekrei, https://github.com/rekrei/rekrei
 Repo Template, https://github.com/krishdevdb/repo-template
 Reseter.css, https://github.com/krishdevdb/reseter.css
+Ring Programming Language, https://github.com/ring-lang/ring
+Ritchie CLI,https://github.com/ZupIT/ritchie-cli
 Robocar, https://github.com/Yaacoub/Robocar
 Rocket.Chat, https://github.com//RocketChat/Rocket.Chat
 ROM, https://github.com/rom-rb/rom
@@ -273,6 +291,8 @@ Snuffle, https://gitlab.com/coraline/snuffle/tree/master
 Sonobuoy, https://github.com/vmware-tanzu/sonobuoy
 Software Carpentry, https://github.com/swcarpentry
 Software Foundations Chinese Translation, https://github.com/Coq-zh/SF-zh
+Sovereign Cloud Stack, https://github.com/SovereignCloudStack/Docs/
+SOULs, https://github.com/elsoul/souls
 SPIP, https://www.spip.net/fr_rubrique91.html
 Spree, https://github.com/spree/spree
 Spring Boot, https://github.com/spring-projects/spring-boot
@@ -281,13 +301,16 @@ Squirrel for Windows, https://github.com/squirrel/squirrel.windows
 SquirrelJME, https://squirreljme.cc/
 Stack.io, https://github.com/germanstack
 StackGres, https://stackgres.io
+Starship, https://starship.rs/
 Storybook, https://github.com/storybookjs/storybook
 Styled Hooks, https://github.com/colingourlay/styled-hooks
+SubsonicGroupFinder, https://github.com/SubsonicGroupFinder/
 SuiteCRM, https://suitecrm.com/
 Supergiant, https://supergiant.io/thank-you/
 Swathanthra Malayalam Computing, https://smc.org.in/
 SwellRT, https://github.com/P2Pvalue/swellrt/
 Swift, https://swift.org/community/#code-of-conduct
+Swiss Post, https://github.com/swisspost
 Symfony, https://github.com/symfony/symfony
 Taiga.io, https://github.com/taigaio/code-of-conduct
 Tahoe-LAFS, https://github.com/tahoe-lafs/tahoe-lafs
@@ -301,6 +324,7 @@ Termidinator, https://github.com/Yaacoub/Termidinator
 The Anadromi Project, https://github.com/anadromi/the-anadromi-project
 The PHP League OAuth 2.0 Server, https://github.com/thephpleague/oauth2-server
 Tide, https://github.com/wptide/wptide
+TigrisDB, https://github.com/tigrisdata/tigrisdb
 TinyMCE, https://www.tiny.cloud/docs/configure/contributing-to-open-source/
 Tmuxinator, https://github.com/tmuxinator/tmuxinator
 Travis CI, https://travis-ci.community/t/code-of-conduct/64
@@ -310,6 +334,7 @@ Twisted, https://github.com/twisted/twisted
 União Colegial de Minas Gerais, https://github.com/ucmg
 UXP, https://github.com/MoonchildProductions/UXP
 Velero, https://github.com/vmware-tanzu/velero
+Viash, https://github.com/viash-io/viash
 Video.js, https://github.com/videojs/video.js
 VideoSnap, https://github.com/matthutchinson/videosnap
 vim cheat sheet, https://github.com/rtorr/vim-cheat-sheet
@@ -319,6 +344,7 @@ Visual F#, https://github.com/dotnet/fsharp
 Volt.rb, https://github.com/voltrb/volt
 Vox Pupuli, https://voxpupuli.org/
 VSAlert, https://vsalert.vsanthanam.com
+VSTeam, https://github.com/MethodsAndPractices/vsteam
 Vue.js, https://github.com/vuejs/vue
 WAI-request-spec, https://gitlab.com/cpp.cabrera/wai-request-spec
 Waud, https://github.com/adireddy/waud
