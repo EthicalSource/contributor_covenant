@@ -1,0 +1,31 @@
+{{ define "main" }}
+<section>
+  <h2>{{ .Title }}</h2>
+  <p>{{ .Description }}</p>
+  <table class="translations">
+    <thead>
+      <tr>
+        <th>Language</th><th>Version</th><th>Formats</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{ $latest := ( where $.Site.RegularPages "Section" "version" ).Reverse }}
+      {{ range $latest }}
+        {{ if $.Page.Scratch.Get .Language.LanguageName }}
+        {{ else }}
+          {{ partial "translation-row.html" . }}
+          {{ $.Page.Scratch.Set .Language.LanguageName 1 }}
+        {{ end }}
+        {{ range .Translations }}
+          {{ if $.Page.Scratch.Get .Language.LanguageName }}
+          {{ else }}
+            {{ partial "translation-row.html" . }}
+            {{ $.Page.Scratch.Set .Language.LanguageName 1 }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    </tbody>
+  </table>
+  {{ .Content }}
+</section>
+{{ end }}

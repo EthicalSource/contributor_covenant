@@ -1,0 +1,14 @@
+{{- /*
+Very hacky way of converting markdown to asciidoc.
+Because the covenant uses rather simple syntax, we can get away with this :)
+
+Order of operations is:
+* Replace markdown # headers for = asciidoc
+* Transform links in the form of [text][reference] to text + remove reference links at end.
+  This is similar to what the txt conversion does, and it's very hard to convert with just regexps -- if we want to
+  keep these links it'll probably be easier to just convert them to [text](url) format.
+* Transform links in the form of [text](url) to asciidoc's link:url[text]
+* Transform links in the <url> form to asciidoc's link:url[url]
+
+*/ -}}
+{{ .RawContent | replaceRE "#" "=" | replaceRE "\\[([^\\]]*)\\][ \\n]*\\[[^\\]]*\\]" "$1" | replaceRE "\\[[^\\]]*\\]: .*" "" | replaceRE "\\[([^\\]]*)\\]\\((https{0,1}:.*)\\)" "link:$2[$1]" | replaceRE "<(https{0,1}:.*)>" "link:$1[$1]" | safeHTML }}

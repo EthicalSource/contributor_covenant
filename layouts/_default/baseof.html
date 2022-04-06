@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="{{ .Site.LanguageCode }}">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ .Site.Title }}: {{ .Title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico">
+    <link rel="apple-touch-icon" sizes="57x57" href="/images/apple-touch-icon-57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/images/apple-touch-icon-60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/images/apple-touch-icon-72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/images/apple-touch-icon-76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/images/apple-touch-icon-114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/images/apple-touch-icon-120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/images/apple-touch-icon-144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/images/apple-touch-icon-152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-180.png">
+    <link rel="mask-icon" href="/images/mask-icon.svg" color="#5e0c72">
+    <link rel="stylesheet" href="{{ "css/fonts.css" | relURL }}">
+    <link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
+  </head>
+  <body{{ with .Section }} id="{{ . }}"{{ end }}>
+    <div>
+      <header>
+        <figure>
+          <figcaption>
+            <a href="/">Contributor Covenant</a>
+          </figcaption>
+          <a href="/">
+            <img class="logo" src="/images/logo.svg" alt="Contributor Covenant Logo">
+          </a>
+        </figure>
+        <nav id="navigation">
+          <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/adopters">Adopters</a></li>
+            {{- range last 1 (where $.Site.RegularPages "Section" "version") -}}
+            <li><a href="{{ .Permalink | absLangURL }}">Latest&nbsp;Version</a></li>
+            {{- end -}}
+            <li><a href="/translations">Translations</a></li>
+            <li><a href="/faq" title="Frequently Asked Questions">FAQ</a></li>
+          </ul>
+        </nav>
+      </header>
+    </div>
+    <div id="veil">
+      {{ block "main" . }}
+      {{ end }}
+      <footer>
+        <p>
+          Contributor Covenant was created by <a href="https://where.coraline.codes/" title="Coraline Ada Ehmke">Coraline Ada Ehmke</a> in 2014 and is released under the <a href="https://github.com/EthicalSource/contributor_covenant/blob/release/LICENSE.md"><abbr title="Creative Commons — Attribution 4.0 International — CC BY 4.0">CC BY 4.0</abbr> License</a>.<br>
+          Contributor Covenant is stewarded by the <a href="https://ethicalsource.dev">Organization for Ethical Source</a>, and we welcome <a href="https://github.com/EthicalSource/contributor_covenant">contributions, including translations</a>.
+        </p>
+      </footer>
+    </div>
+  </body>
+</html>

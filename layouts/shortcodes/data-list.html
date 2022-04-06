@@ -1,0 +1,8 @@
+<ul class="data-list">
+  {{ $data := getCSV "," (.Get 0) }}
+  {{ range $i, $r := sort (after 1 $data) "value" }}
+    <li>
+      <a href="{{ trim (index $r 1) " " | safeURL }}">{{ trim (index $r 0) " " }}</a>
+    </li>
+  {{ end }}
+</ul>
