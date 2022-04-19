@@ -1,37 +1,38 @@
-#
+# Contributor Covenant
 
-## Basics
+This project is managed by the members of the Organization for Ethical Source, in
+accordance with its [governance structure](https://ethicalsource.dev/governance/).
 
-Coraline Ada Ehmke (@coralineada), the benevolent dictator for life (BDFL), holds ultimate decision-making power while seeking to represent a balance of the views and the best interests of the community as a whole.
+We strive to center the [Ethical Source Principles](https://ethicalsource.dev/principles/)
+in all the work we do and the decisions we make.
 
-## Participants
+# Mission
+Contributor Covenant ignited a revolution in how we think about open source
+communities, and continues to be a critical component of its practice.
+Our mission is to guide the continued evolution of Contributor Covenant,
+ensuring that this foundational document continues to serve open source
+communities in their efforts to center justice and equity in their practices.
 
-Membership is open to anyone who wants to join.
+# Decision-making
 
-The BDFL can remove misbehaving members at will for the sake of the common good.
+## Lazy consensus
+Most decisions, such as approval of minor copy edits or the addition of a translation,
+are made in public through comments on pull requests or issues on our Github
+repository. Decisions about such changes are presumed to pass in the absence of
+objections.
 
-In the event that the BDFL is unable or unwilling to continue leadership, the BDFL may appoint a new BDFL or choose to alter the governance structure entirely.
+## Committee responsibilities
+In case of major changes, or conflict that contributors cannot resolve themselves,
+the OES's governing committee has the responsibility for final decision-making.
 
-## Policy
-
-The BDFL sets the community's policies and makes decisions for the community, taking reasonable account of input from other community members.
-
-The BDFL is responsible for implementing—or delegating implementation of—policies and other decisions.
-
-If members are not happy with the BDFL's leadership, they are free to voice their concerns or leave the community.
-
-## Process
-
-Community members are free to discuss and debate community policies, practices, and culture.
-
-## Evolution
-
-The BDFL can change the governance structure of the community at will.
-
+# Code of Conduct
+We strive for fair and transparent enforcement of our [code of conduct](https://github.com/EthicalSource/contributor_covenant/blob/release/CODE_OF_CONDUCT.md), 
+and prioritize the safety and well-being of those who are affected by a violation of 
+our community norms and standards.
 
 ---
 
-[![CommunityRule derived](https://communityrule.info/assets/CommunityRule-derived-000000.svg)](http://communityrule.info)
+Created by [Organization for Ethical Source](https://ethicalsource.dev)
 
-Created with [CommunityRule](http://communityrule.info)   
-[Creative Commons BY-SA](http://creativecommons.org/licenses/by-sa/4.0/).
+[![CommunityRule derived](https://communityrule.info/assets/CommunityRule-derived-000000.svg)](https://communityrule.info)
+[Creative Commons BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)

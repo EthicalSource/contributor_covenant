@@ -1,2 +1,5 @@
 # Hugo output directory
 /public
+
+# Vim swap files
+*.sw?
