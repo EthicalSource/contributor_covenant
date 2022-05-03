@@ -112,6 +112,7 @@ Flickr, https://blog.flickr.net/en/2022/02/14/safer-internet-day-and-open-source
 Freedomotic, https://github.com/freedomotic/freedomotic
 friends, https://github.com/JacobEvelyn/friends
 Fukuzatsu, https://gitlab.com/coraline/fukuzatsu/tree/master
+funKounter, https://github.com/lucliscio/fankounter
 Funky Penguin's Geek Cookbook,https://geek-cookbook.funkypenguin.co.nz/community/code-of-conduct/
 Gatsby, https://github.com/gatsbyjs/gatsby
 GDS, https://github.com/alphagov
@@ -132,6 +133,14 @@ Google, https://opensource.google/docs/releasing/template/CODE_OF_CONDUCT/
 GorangoCSS, https://gorangocss.kawanua.id/codeofconduct/
 GoReleaser, https://github.com/goreleaser/goreleaser
 Grape, https://github.com/ruby-grape/grape
+GraphQL Code Generator, https://github.com/dotansimha/graphql-code-generator
+GraphQL Tools, https://github.com/ardatan/graphql-tools
+GraphQL Config, https://github.com/kamilkisiela/graphql-config
+GraphQL Inspector, https://github.com/kamilkisiela/graphql-inspector
+GraphQL Mesh, https://github.com/Urigo/graphql-mesh
+GraphQL Scalars, https://github.com/Urigo/graphql-scalars
+GraphQL ESLint, https://github.com/dotansimha/graphql-eslint
+GraphQL Modules, https://github.com/Urigo/graphql-modules
 Grav CMS, https://github.com/getgrav/grav
 Gremlins tracker for Visual Studio Code, https://github.com/nhoizey/vscode-gremlins
 Growing Devs, https://github.com/growingdevs/growingdevs.github.io
@@ -150,6 +159,7 @@ Hotels.com, https://github.com/HotelsDotCom
 HTML5 Boilerplate, https://github.com/h5bp/html5-boilerplate
 HTTPicnic, https://github.com/henry-anderson/HTTPicnic
 HTTPotion, https://github.com/myfreeweb/httpotion
+Huh? Dictionary, https://github.com/Yaacoub/Huh-Dictionary
 H2O Wave, https://github.com/h2oai/wave
 icepyx, https://github.com/icesat2py/icepyx
 if me, https://github.com/ifmeorg/ifme
@@ -187,6 +197,7 @@ Mailchain, https://github.com/mailchain/mailchain
 Mapbox, https://github.com/mapbox
 Mailspring, https://github.com/Foundry376/Mailspring
 Marc Bernard Tools, https://github.com/Marc-Bernard-Tools/MBT-Base
+Mastodon, https://github.com/mastodon/mastodon
 Mattermost, https://github.com/mattermost
 Maximilian, https://github.com/WillLiu360/maximilian
 Marquez, https://github.com/MarquezProject/marquez
@@ -373,4 +384,3 @@ xterm.js, https://github.com/xtermjs/xterm.js
 yargs, https://github.com/bcoe/yargs
 Your First PR, https://github.com/yourfirstpr/
 ZoneMinder, https://github.com/ZoneMinder/
-jPOS, https://github.com/jpos
