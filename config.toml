@@ -10,8 +10,6 @@ EnableMissingTranslationPlaceholders = true
 
 uglyURLs = false
 
-googleAnalytics = "UA-56802475-1"
-
 [mediaTypes]
 [mediaTypes."text/markdown"]
 suffixes = ["md"]
