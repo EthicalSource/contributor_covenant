@@ -131,7 +131,17 @@ innerhalb der Gemeinschaft.
 ## Bezug
 
 Dieser Verhaltenskodex basiert auf dem [Contributor Covenant][homepage],
-Version 2.0, verfügbar unter
-<https://www.contributor-covenant.org/de/version/2/0/code-of-conduct>
+Version 2.0, verfügbar unter 
+<https://www.contributor-covenant.org/de/version/2/0/code_of_conduct>
+
+Community Impact Guidelines wurden von 
+[Mozillas Code of Conduct Enforcement Ladder][mozilla] inspiriert.
+
+Antworten auf häufig gestellte Fragen zu diesem Verhaltenskodex finden Sie in 
+den häufig gestellten Fragen unter <https://www.contributor-covenant.org/faq>
+(in Englisch). Andere Übersetzungen sind verfügbar unter 
+<https://www.contributor-covenant.org/translations>.
 
 [homepage]: https://www.contributor-covenant.org
+[mozilla]: https://github.com/mozilla/inclusion
+

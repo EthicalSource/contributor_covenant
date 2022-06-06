@@ -10,8 +10,6 @@ EnableMissingTranslationPlaceholders = true
 
 uglyURLs = false
 
-googleAnalytics = "UA-56802475-1"
-
 [mediaTypes]
 [mediaTypes."text/markdown"]
 suffixes = ["md"]
@@ -60,6 +58,10 @@ languageCode = "bs"
 [Languages.ca]
 languageName = "Català"
 languageCode = "ca"
+
+[Languages.da]
+languageName = "Dansk"
+languageCode = "da"
 
 [Languages.de]
 languageName = "Deutsch"
