@@ -35,6 +35,7 @@ You can access the latest version of Contributor Covenant (2.1) here:
 - [English (Markdown version)]({{< ref "/version/2/1/code_of_conduct.md" "markdown" >}})
 - [English (HTML version)]({{< ref "/version/2/1/code_of_conduct.md" >}})
 - [English (text version)]({{< ref "/version/2/1/code_of_conduct.md" "plaintext" >}})
+- [English (AsciiDoc version)]({{< ref "/version/2/1/code_of_conduct.md" "asciidoc" >}})
 
 If you are not a native English speaker, you may find a volunteer-created translation of Contributor Covenant in your native language on the [translations page]({{< ref "translations.md" >}}).
 
