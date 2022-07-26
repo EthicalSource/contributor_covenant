@@ -1,6 +1,6 @@
 +++
 version = "2.1"
-aliases = ["/version/2/1/iw"]
+aliases = ["/version/2/1/he"]
 +++
 
 # קוד התנהגות לתורם
@@ -91,7 +91,7 @@ aliases = ["/version/2/1/iw"]
 
 ## יחוס
 
-קוד התנהגות זה מותאים ע"ב [אמנת התורם](homepage) גרסא 2.1 הזמינה ב [https://www.contributor-covenant.org/version/2/1/code_of_conduct.html][v2.1].
+קוד התנהגות זה מותאים ע"ב [אמנת התורם](homepage) גרסא 2.1 הזמינה ב [https://www.contributor-covenant.org/he/version/2/1/code_of_conduct.html][v2.1].
 
 כללי הקהילה מבוססים על [Mozilla's code of conduct enforcement ladder][Mozilla CoC].
 
