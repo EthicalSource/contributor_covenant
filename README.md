@@ -1,6 +1,8 @@
 Contributor Covenant
 ====================
 
+[![Code of Conduct: Contributor Covenant](https://img.shields.io/badge/code_of_conduct-contributor_covenant-14cc21)](https://github.com/EthicalSource/contributor_covenant)
+
 The first and most popular code of conduct for open and ethical source communities.
 
 ## Project Home Page
