@@ -3,3 +3,6 @@
 
 # Vim swap files
 *.sw?
+
+# Other
+.nova/
