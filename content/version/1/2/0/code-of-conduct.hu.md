@@ -1,11 +1,11 @@
 +++
 version = "1.2"
-aliases = ["/version/1/2/0"]
+aliases = ["/version/1/2/0/hu/"]
 +++
 
 # Közreműködők Magatartási Kódexe
 
-A projekt közreműködőiként és karbantartóiként a nyitott és barátságos környezet megteremtése érdekében, vállaljuk, hogy tiszteletben tartjuk mindazokat, akik problémákat jelentenek, funkciókéréseket írnak, dokumentációt frissítenek, pull-kérelmeket vagy javításokat nyújtanak be, és egyéb tevékenységeket végeznek.
+A projekt közreműködőiként és karbantartóiként a nyitott és barátságos környezet megteremtése érdekében vállaljuk, hogy tiszteletben tartjuk mindazokat, akik problémákat jelentenek, funkciókéréseket írnak, dokumentációt frissítenek, pull-kérelmeket vagy javításokat nyújtanak be, és egyéb tevékenységeket végeznek.
 
 Elkötelezettek vagyunk amellett, hogy a projektben való részvétel mindenki számára zaklatásmentes legyen, függetlenül tapasztalattól,  nemi jellemzőktől, nemi identitástól és kifejezésétől, szexuális irányultságtól, fogyatékosságtól, személyes megjelenéstől, testmérettől, fajtól, etnikai hovatartozástól, kortól, vallástól vagy nemzetiségtől.
 
