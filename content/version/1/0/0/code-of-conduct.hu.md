@@ -7,7 +7,7 @@ aliases = ["/version/1/0/0"]
 
 A projekt közreműködőiként és karbantartóiként vállaljuk, hogy tiszteletben tartjuk mindazokat, akik problémákat jelentenek, funkciókéréseket írnak, dokumentációt frissítenek, pull-kérelmeket vagy javításokat nyújtanak be, és egyéb tevékenységeket végeznek.
 
-We are committed to making participation in this project a harassment-free experience for everyone, regardless of level of experience, gender, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, or religion.
+Elkötelezettek vagyunk amellett, hogy a projektben való részvétel mindenki számára zaklatásmentes legyen, függetlenül tapasztalattól,  nemi jellemzőktől, nemi identitástól és kifejezésétől, szexuális irányultságtól, fogyatékosságtól, személyes megjelenéstől, testmérettől, fajtól, etnikai hovatartozástól, kortól vagy vallástól.
 
 Examples of unacceptable behavior by participants include the use of sexual language or imagery, derogatory comments or personal attacks, trolling, public or private harassment, insults, or other unprofessional conduct.
 
