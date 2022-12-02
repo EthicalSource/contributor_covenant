@@ -13,6 +13,6 @@ A résztvevők elfogadhatatlan viselkedésére példa a szexuális tartalmú kif
 
 A projektgazdáknak joguk és felelősségük, hogy eltávolítsák, szerkesszék, vagy elutasítsák a megjegyzéseket, kódokat, wiki szerkesztéseket, hibákat, észrevételeket, és egyéb hozzájárulásokat, amelyek nem illeszkednek e Magatartási Kódexhez. Azok a projektgazdák, akik nem követik a Magatartási Kódexet, eltávolíthatóak a projekt csapatból.
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by opening an issue or contacting one or more of the project maintainers.
+Bántalmazó, zaklató vagy általában elfogadhatatlan viselkedést egy problémajelentés megnyitásával vagy a projekt egyik vagy több karbantartójával való kapcsolatfelvétellel lehet jelenteni.
 
 Ezt a Magatartási Kódexet elérheti az alábbi oldalon: [Contributor Covenant][homepage], v1.0.0, https://www.contributor-covenant.org/version/1/0/0/code-of-conduct.html
