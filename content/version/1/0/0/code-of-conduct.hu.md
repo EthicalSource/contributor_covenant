@@ -1,6 +1,6 @@
 +++
 version = "1.0"
-aliases = ["/version/1/0/0"]
+aliases = ["/version/1/0/0/hu"]
 +++
 
 # Közreműködők Magatartási Kódexe
