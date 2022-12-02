@@ -11,7 +11,7 @@ Elkötelezettek vagyunk amellett, hogy a projektben való részvétel mindenki s
 
 A résztvevők elfogadhatatlan viselkedésére példa a szexuális tartalmú kifejezések vagy képek használata, a becsmérlő megjegyzések vagy személyes támadások, a trollkodás, a nyilvános vagy magánéleti zaklatás, a sértegetés vagy más szakmaiatlan viselkedés.
 
-Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct. Project maintainers who do not follow the Code of Conduct may be removed from the project team.
+A projektgazdáknak joguk és felelősségük, hogy eltávolítsák, szerkesszék, vagy elutasítsák a megjegyzéseket, kódokat, wiki szerkesztéseket, hibákat, észrevételeket, és egyéb hozzájárulásokat, amelyek nem illeszkednek e Magatartási Kódexhez. Azok a projektgazdák, akik nem követik a Magatartási Kódexet, eltávolíthatóak a projekt csapatból.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by opening an issue or contacting one or more of the project maintainers.
 
