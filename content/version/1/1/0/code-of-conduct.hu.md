@@ -1,6 +1,6 @@
 +++
 version = "1.1"
-aliases = ["/version/1/1/0"]
+aliases = ["/version/1/1/0/hu/"]
 +++
 
 # Közreműködők Magatartási Kódexe
@@ -17,4 +17,4 @@ Ez a Magatartási Kódex minden projektterületen érvényes, és akkor is érv�
 
 Bántalmazó, zaklató vagy általában elfogadhatatlan viselkedést egy problémajelentés megnyitásával vagy a projekt egyik vagy több karbantartójával való kapcsolatfelvétellel lehet jelenteni.
 
-Ezt a Magatartási Kódexet elérheti az alábbi oldalon: [Contributor Covenant](https://www.contributor-covenant.org), v1.0.0, https://www.contributor-covenant.org/version/1/1/0/code-of-conduct.html
+Ezt a Magatartási Kódexet elérheti az alábbi oldalon: [Contributor Covenant](https://www.contributor-covenant.org), v1.1.0, https://www.contributor-covenant.org/version/1/1/0/code-of-conduct.html
