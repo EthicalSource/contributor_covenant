@@ -9,7 +9,7 @@ A projekt közreműködőiként és karbantartóiként vállaljuk, hogy tisztele
 
 Elkötelezettek vagyunk amellett, hogy a projektben való részvétel mindenki számára zaklatásmentes legyen, függetlenül tapasztalattól,  nemi jellemzőktől, nemi identitástól és kifejezésétől, szexuális irányultságtól, fogyatékosságtól, személyes megjelenéstől, testmérettől, fajtól, etnikai hovatartozástól, kortól vagy vallástól.
 
-Examples of unacceptable behavior by participants include the use of sexual language or imagery, derogatory comments or personal attacks, trolling, public or private harassment, insults, or other unprofessional conduct.
+A résztvevők elfogadhatatlan viselkedésére példa a szexuális tartalmú kifejezések vagy képek használata, a becsmérlő megjegyzések vagy személyes támadások, a trollkodás, a nyilvános vagy magánéleti zaklatás, a sértegetés vagy más szakmaiatlan viselkedés.
 
 Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct. Project maintainers who do not follow the Code of Conduct may be removed from the project team.
 
