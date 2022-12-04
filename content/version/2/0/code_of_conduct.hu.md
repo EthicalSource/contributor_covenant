@@ -8,11 +8,12 @@ aliases = ["/version/2/0/hu"]
 ## Vállalásunk
 
 Mi mint tagok, közreműködők és vezetők vállaljuk azt, hogy a projektünk és 
-közösségünk zaklatásmentes mindenki számára, függetlenül életkortól, test 
-mérettől, látható vagy láthatatlan fogyatékosságtól, etnikai hovatartozástól, 
-nemi jellemzőktől, nemi identitástól és kifejezésétől, tapasztalattól, 
-oktatástól, társadalmi-gazdasági helyzettől, állampolgárságtól, személyes
-megjelenéstől, fajtól, vallástól, szexuális identitástól és orientációtól.
+közösségünk zaklatásmentes mindenki számára, függetlenül életkortól, 
+testmérettől, látható vagy láthatatlan fogyatékosságtól, etnikai 
+hovatartozástól, nemi jellemzőktől, nemi identitástól és kifejezésétől, 
+tapasztalattól, oktatástól, társadalmi-gazdasági helyzettől, állampolgárságtól, 
+személyes megjelenéstől, fajtól, vallástól, szexuális identitástól és 
+orientációtól.
 
 Vállaljuk, hogy úgy cselekszünk és viselkedünk, hogy hozzájáruljunk egy 
 nyitott, barátságos, sokszínű, befogadó és egészséges közösséghez.
