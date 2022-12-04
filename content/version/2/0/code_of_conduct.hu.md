@@ -27,7 +27,7 @@ közösségünkben:
 * Az eltérő vélemények, nézőpontok és tapasztalatok tiszteletben tartása
 * Konstruktív visszajelzés adása és méltóságteljes elfogadása
 * Felelősségvállalás és bocsánatkérés azoktól, akiket a hibáink érintenek, és 
-tanulunk a tapasztalatokból
+tanulás a tapasztalatokból
 * Arra összpontosítva, hogy mi a legjobb nem csak nekünk, mint egyéneknek, hanem
  a közösség egészének
 
