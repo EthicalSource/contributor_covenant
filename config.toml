@@ -133,6 +133,10 @@ languageCode = "ko"
 languageName = "Македонски"
 languageCode = "mk"
 
+[Languages.ms] 
+languageName = "Malaysia" 
+languageCode = "ms"
+
 [Languages.nl]
 languageName = "Nederlands"
 languageCode = "nl"
