@@ -33,7 +33,7 @@ Contoh tingkah-laku yang tidak dapat diterima termasuklah:
 
 Ketua komuniti bertanggungjawab untuk memperjelaskan dan menguatkuasakan piawaian kami dalam tingkah-laku yang diterima dan akan mengambil tindakan yang sesuai dan pemulihan yang adil dalam tindak balas terhadap tingkah-laku yang dianggap tidak sesuai, mengugut, menyinggung atau memudaratkan. 
 
-Ketua komuniti mempunyai hak dan tanggungjawab untuk mengeluarkan, menyunting atau menolak komen, komit (kawalan versi dalam bentuk Git mahupun Mercurial), kod, suntingan wiki, pengisuan dan lain-lain sumbangan yang tidak sehaluan dengan Kod Tingkah Laku ini, dan bila bersesuaian.  
+Ketua komuniti mempunyai hak dan tanggungjawab untuk mengeluarkan, menyunting atau menolak komen, komit, kod, suntingan wiki, pengisuan dan lain-lain sumbangan yang tidak sehaluan dengan Kod Tingkah Laku ini, dan bila bersesuaian.  
 
 ## Skop 
 
