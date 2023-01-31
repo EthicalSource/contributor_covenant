@@ -77,7 +77,7 @@ Ketua komuniti akan menurut Garis Panduan Impak Komuniti ini dalam menentukan ak
 ## Atribut 
 
 Kod Tingkah Laku ini adalah adaptasi daripada [Contributor Covenant][homepage],
-version 2.1, tersedia di 
+versi 2.1, tersedia di 
 [https://www.contributor-covenant.org/version/2/1/code_of_conduct.html][v2.1].
 
 Garis Panduan Impak Komuniti diinspirasikan oleh 
