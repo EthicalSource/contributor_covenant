@@ -41,7 +41,7 @@ Kod Tingkah Laku ini dikuatkuasakan dalam semua ruang komuniti, juga diaplikasik
 
 ## Penguatkuasaan
 
-Sebarang penganiayaan, gangguan atau sebaliknya tingkah-laku yang tidak dapat diterima boleh dilaporkan kepada ketua komuniti yang bertanggungjawab dalam penguatkuasaan di [MASUKKAN KAEDAH PERHUBUNGAN]. 
+Sebarang penganiayaan, gangguan atau dalam apa cara sekalipun tingkah-laku yang tidak dapat diterima boleh dilaporkan kepada ketua komuniti yang bertanggungjawab dalam penguatkuasaan di [MASUKKAN KAEDAH PERHUBUNGAN]. 
 Semua aduan akan disemak dan disiasat secara menyeluruh dan adil. 
 
 Semua ketua komuniti adalah diwajibkan untuk menghormati privasi dan keselamatan pelapor dalam sebarang insiden. 
