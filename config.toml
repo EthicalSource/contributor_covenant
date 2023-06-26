@@ -42,6 +42,10 @@ page = ["html", "markdown", "plaintext", "asciidoc"]
 
 # Add all translated languages here.
 [Languages]
+[Languages.am]
+languageName = "አማርኛ"
+languageCode = "am"
+
 [Languages.ar]
 languageName = "العربية"
 languageCode = "ar"
