@@ -1,6 +1,6 @@
 +++
 version = "2.0"
-aliases = ["/version/2/0"]
+aliases = ["/version/2/0/ja"]
 +++
 
 # コントリビューター行動規範
