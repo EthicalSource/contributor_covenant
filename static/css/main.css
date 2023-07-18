@@ -6,7 +6,7 @@
 /* Variables */
 :root {
   --color-primary: hsl(288, 80%, 25%);
-  --color-primary-lighter: hsl(288, 80%, 45%);
+  --color-primary-lighter: hsl(288, 80%, 90%);
   --color-primary-lightest: hsl(288, 80%, 75%);
   --color-green: hsl(153, 90%, 30%);
   --color-orange: hsl(18, 100%, 50%);
@@ -23,7 +23,6 @@ html {
 }
 
 body {
-  background: var(--color-primary);
   color: var(--color-black);
   font: 300 1.25rem/1.875rem "Metropolis", sans-serif;
   font-synthesis: none;
@@ -32,7 +31,6 @@ body {
   -webkit-hanging-punctuation: first last allow-end;
   hanging-punctuation: first last allow-end;
   min-height: 100%;
-  padding: 1.5rem 0;
   -moz-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
@@ -83,6 +81,8 @@ blockquote {
 
 pre {
   padding-left: 1.5rem;
+  overflow-x: scroll;
+  white-space: nowrap;
 }
 
 table {
@@ -179,7 +179,6 @@ abbr {
 }
 
 #veil {
-  background: var(--color-white);
 }
 
 /* Utility Classes */
@@ -201,12 +200,8 @@ abbr {
   padding-right: 1.5rem;
 }
 
-.translations td:first-child {
+.translations td:last-child {
   vertical-align: middle;
-}
-
-.translations tr > :last-child {
-  text-align: right;
 }
 
 .translations td:nth-last-child(2) {
@@ -278,25 +273,29 @@ abbr {
   display: inline-block;
 }
 
+header {
+  text-align: center;
+}
+
 header figure {
   line-height: 3rem;
   margin-bottom: 1.5rem;
 }
 
 header figcaption {
-  display: inline-block;
   font-size: 1.625rem;
   font-weight: 500;
 }
 
 header nav ul {
-  display: flex;
+  display: inline-flex;
   list-style-type: none;
-  margin: 0;
+  margin: auto;
 }
 
 header nav li {
-  margin: 0 1.5rem 0 0;
+  margin: 0.5rem;
+  font-size: 0.9rem;
 }
 
 header nav li:first-child {
@@ -313,7 +312,25 @@ header a:hover {
   color: var(--color-primary-lightest);
 }
 
-@media (min-width: 414px) {
+@media (min-width: 30px) {
+
+  body {
+    border-top: 13rem solid var(--color-primary);
+  }
+
+  nav {
+    background-color: #444;
+    width: 100%;
+    margin-top: 2rem;
+    border-radius: 5rem;
+    border: 3px solid #eee;
+    text-align: center;
+  }
+
+  header {
+    margin-top: -11.5rem;
+  }
+
   header nav li:first-child {
     display: initial;
   }
@@ -333,12 +350,8 @@ header a:hover {
     font-size: 1rem;
   }
 
-  body {
-    padding: 1.5rem;
-  }
-
-  #veil {
-    border-radius: .25rem;
+  header nav li {
+    font-size: 1rem;
   }
 
   .data-list {
@@ -348,4 +361,3 @@ header a:hover {
     column-count: 2;
   }
 }
-

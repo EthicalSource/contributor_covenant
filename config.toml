@@ -8,19 +8,17 @@ DefaultContentLanguage = "en"
 hasCJKLanguage = true
 EnableMissingTranslationPlaceholders = true
 
-uglyURLs = true
-
-googleAnalytics = "UA-56802475-1"
+uglyURLs = false
 
 [mediaTypes]
 [mediaTypes."text/markdown"]
-suffix = "md"
+suffixes = ["md"]
 
 [mediaTypes."text/plain"]
-suffix = "txt"
+suffixes = ["txt"]
 
 [mediaTypes."text/asciidoc"]
-suffix = "adoc"
+suffixes = ["adoc"]
 
 [outputFormats]
 [outputFormats.Markdown]
@@ -44,6 +42,10 @@ page = ["html", "markdown", "plaintext", "asciidoc"]
 
 # Add all translated languages here.
 [Languages]
+[Languages.am]
+languageName = "አማርኛ"
+languageCode = "am"
+
 [Languages.ar]
 languageName = "العربية"
 languageCode = "ar"
@@ -56,6 +58,14 @@ languageCode = "bn"
 [Languages.bs]
 languageName = "Bosnian"
 languageCode = "bs"
+
+[Languages.ca]
+languageName = "Català"
+languageCode = "ca"
+
+[Languages.da]
+languageName = "Dansk"
+languageCode = "da"
 
 [Languages.de]
 languageName = "Deutsch"
@@ -78,10 +88,9 @@ languageCode = "es"
 languageName = "Français"
 languageCode = "fr"
 
-[Languages.iw]
-languageName = "עברית"
-languageCode = "iw"
-writingDirection = "rtl"
+[Languages.gu]
+languageName = "ગુજરાતી"
+languageCode = "gu"
 
 [Languages.hi]
 languageName = "हिंदी"
@@ -103,9 +112,18 @@ languageCode = "is"
 languageName = "Italiano"
 languageCode = "it"
 
+[Languages.iw]
+languageName = "עברית"
+languageCode = "iw"
+writingDirection = "rtl"
+
 [Languages.ja]
 languageName = "日本語"
 languageCode = "ja"
+
+[Languages.mr]
+languageName = "मराठी"
+languageCode = "mr"
 
 [Languages.kn]
 languageName = "ಕನ್ನಡ"
