@@ -2,11 +2,11 @@
 title = "Adopters"
 +++
 
-## Adopters of the Contributor Covenant
+## Adopters of Contributor Covenant
 
-A sample of projects that have adopted the Contributor Covenant:
+More examples of communities that have adopted Contributor Covenant:
 
 {{< data-list "static/adopters.csv" >}}
 
-To add your project to the list, [submit a pull
-request](https://github.com/ContributorCovenant/contributor_covenant/blob/release/README.md#adding-a-project-to-the-list-of-adopters "Contributor Covenant source code").
+To add your community to this list, [submit a pull
+request](https://github.com/EthicalSource/contributor_covenant/blob/release/README.md#registering-your-community-as-an-adopter "Contributor Covenant source code").

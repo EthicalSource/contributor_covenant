@@ -31,7 +31,6 @@ chef-rvm, https://github.com/fnichol/chef-rvm
 clearwater.rb, https://github.com/clearwater-rb/clearwater
 CloudI, http://cloudi.org/faq.html#2_CodeOfConduct
 CocoaPods, https://github.com/cocoapods/cocoapods
-Codebridge, https://github.com/codebridge-za
 CodeBuddies, https://github.com/codebuddiesdotorg/cb-v2-scratch
 composer, https://github.com/composer/composer
 concurrent-ruby, https://github.com/ruby-concurrency/concurrent-ruby
@@ -61,11 +60,9 @@ Freedomotic, https://github.com/freedomotic/freedomotic
 friends, https://github.com/JacobEvelyn/friends
 Fukuzatsu, https://gitlab.com/coraline/fukuzatsu/tree/master
 GDS, https://github.com/alphagov
-GetTogether, https://github.com/GetTogetherComm/GetTogether
 GEOPM, https://geopm.github.io/
 Git for Windows, https://github.com/git-for-windows
 GitLab, https://gitlab.com/gitlab-org/gitlab-ce/
-Giveth, https://wiki.giveth.io/policy/codeofconduct/
 Golang, https://golang.org/conduct
 Google, https://opensource.google.com/docs/releasing/template/CODE_OF_CONDUCT/
 GNSS-SDR, https://github.com/gnss-sdr/gnss-sdr
@@ -110,7 +107,6 @@ Linode, https://github.com/linode/docs
 Linux, https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=8a104f8b5867c682d994ffa7a74093c54469c11f
 Lolcommits, https://github.com/mroth/lolcommits
 Lolcommits Plugins, https://github.com/search?q=topic%3Alolcommits-plugin+org%3Alolcommits
-Marquez, https://github.com/MarquezProject/marquez
 Mensa, https://github.com/jordanekay/Mensa
 Meridian, https://github.com/untilnow/meridian
 Metasploit, https://github.com/rapid7/metasploit-framework
@@ -234,3 +230,4 @@ Coding Coach, https://github.com/Coding-Coach/coding-coach
 brightness_bashshell_script, https://github.com/gorlapraveen/brightness_bashshell_script
 BioSigKit, https://github.com/hooman650/BioSigKit
 Firefox Browser to B2B Communication, https://github.com/gorlapraveen/firefox_b2b_comm_radio_addon
+Google Calendar Clone, https://github.com/WestonDease/googleCalendar_clone

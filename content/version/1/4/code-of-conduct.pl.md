@@ -9,7 +9,7 @@ aliases = ["/version/1/4/pl"]
 
 W celu wspierania otwartego i przyjaznego środowiska, my — jako współpracownicy i
 opiekunowie projektu — zobowiązujemy się dopilnować, aby uczestnictwo w naszym projekcie
-oraz przynależność do jego społeczności były pozbawiony nękania bez względu na budowę
+oraz przynależność do jego społeczności były pozbawione nękania bez względu na budowę
 ciała, doświadczenie, kolor skóry, narodowość, niepełnosprawność, orientację i
 identyfikację seksualną, pochodzenie etniczne, religię, wiek czy wygląd zewnętrzny.
 
@@ -30,7 +30,7 @@ Wśród przykładów zachowania, którego nie będziemy akceptować, są:
   niepożądanego zainteresowania seksualnego, a także zaloty,
 * Trollowanie, obraźliwe bądź urągające komentarze oraz ataki osobiste bądź
   polityczne,
-* Nękanie, zarówno na forum publicznym jak i prywatne,
+* Nękanie, zarówno na forum publicznym jak i prywatnym,
 * Publikowanie danych osobistych innych osób — takich jak
   adres fizyczny czy elektroniczny — bez ich wyraźnej zgody,
 * Inne zachowania, które mogłyby zostać uznane za nieodpowiednie w kontekście
