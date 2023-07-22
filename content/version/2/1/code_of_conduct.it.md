@@ -123,15 +123,18 @@ comunità.
 
 Questo Codice di Comportamento è adattato dal [Contributor Covenant][homepage],
 versione 2.1, disponibile all'indirizzo
-https://www.contributor-covenant.org/version/2/1/code_of_conduct
+[https://www.contributor-covenant.org/version/2/1/code_of_conduct][v2.1].
 
 Le linee guida all'applicazione sono state ispirate dal [codice di condotta di
-Mozilla](https://github.com/mozilla/diversity).
-
-
-[homepage]: https://www.contributor-covenant.org
+Mozilla][Mozilla CoC].
 
 Per riposte a domande comuni riguardo questo codice di condotta,controlla le
-domande frequenti al link https://www.contributor-covenant.org/faq . Le
+domande frequenti al link [https://www.contributor-covenant.org/faq][FAQ]. Le
 traduzioni sono disponibili al link
-https://www.contributor-covenant.org/translations .
+[https://www.contributor-covenant.org/translations][translations].
+
+[homepage]: https://www.contributor-covenant.org
+[v2.1]: https://www.contributor-covenant.org/version/2/1/code_of_conduct
+[Mozilla CoC]: https://github.com/mozilla/diversity
+[FAQ]: https://www.contributor-covenant.org/faq
+[translations]: https://www.contributor-covenant.org/translations
