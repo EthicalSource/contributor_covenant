@@ -122,8 +122,8 @@ comunità.
 ## Attribuzione
 
 Questo Codice di Comportamento è adattato dal [Contributor Covenant][homepage],
-versione 2.0, disponibile all'indirizzo
-https://www.contributor-covenant.org/version/2/0/code-of-conduct.html
+versione 2.1, disponibile all'indirizzo
+https://www.contributor-covenant.org/version/2/1/code_of_conduct
 
 Le linee guida all'applicazione sono state ispirate dal [codice di condotta di
 Mozilla](https://github.com/mozilla/diversity).
