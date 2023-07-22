@@ -85,7 +85,7 @@ comportamenti giudicati non professionali o ostili nella community.
 
 **Conseguenze**: Un avviso scritto in forma privata dalle guide della comunità,
 spiegando la natura della violazione e perché il comportamento era
-inappopriato. Pubbliche scuse potrebbero essere richieste.
+inappropriato. Pubbliche scuse potrebbero essere richieste.
 
 ### 2. Avviso
 
@@ -113,7 +113,7 @@ termini può portare ad una espulsione permanente.
 ### 4. Espulsione permanente
 
 **Impatto nella comunità**: Dimostrare sistematicamente di violare gli standard
-della comunità, inclusa la ripetezione di comportamenti inappropriati, molestie
+della comunità, inclusa la ripetizione di comportamenti inappropriati, molestie
 o aggressioni individuali o denigrazione di gruppi di individui.
 
 **Conseguenze**: Espulsione permanente da ogni interazione pubblica della
