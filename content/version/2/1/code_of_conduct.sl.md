@@ -85,11 +85,11 @@ javno opravičilo.
 
 ### 2. Opozorilo
 
-**Vpliv na skupnost**: Kršitev zaradi enega incidenta ali nizom dejanj.
+**Vpliv na skupnost**: Kršitev zaradi enega incidenta ali nizov dejanj.
 
 **Posledica**: Opozorilo s posledicami za nadaljnje vedenje. Za določen čas ni
 dovoljena interakcija z vpletenimi ljudmi vključno z nenujno interakcijo z
-osebami, ki uveljavljajo kodeks ravnanja. To vključuje izogibanje interkacije
+osebami, ki uveljavljajo kodeks ravnanja. To vključuje izogibanje interakcije
 tako v prostorih skupnosti kot tudi na zunanjih kanalih, kot so družbena
 omrežja. Kršitev teh pogojev lahko vodi do začasne ali trajne prepovedi.
 

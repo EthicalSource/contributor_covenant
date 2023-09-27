@@ -1,17 +1,17 @@
-Project Name, URL
 .NET Foundation, https://dotnetfoundation.org/about/code-of-conduct
 01 Edu, https://github.com/01-edu
 24 Pull Requests, https://github.com/24pullrequests/24pullrequests
 A/B Tester, https://github.com/gabrieltempass/ab-tester
 AASM, https://github.com/aasm/aasm
+AB3C, https://ab3c.org.br/
 ACM-W NITK, https://github.com/acm-w-nitk/acm-w-nitk.github.io
 Actionhero, https://www.actionherojs.com/
 Active Admin, https://github.com/activeadmin/activeadmin
 ActsAsTextcaptcha, https://github.com/matthutchinson/acts_as_textcaptcha
+Airbnb, https://airbnb.io/codeofconduct/
 Algorithm Archive, https://github.com/algorithm-archivists/algorithm-archive
 Algorrent, https://github.com/algorrent/algorrent
 All Algorithms, https://github.com/AllAlgorithms/algorithms
-Airbnb, https://airbnb.io/codeofconduct/
 Amsterdam.rb, https://amsrb.org/code-of-conduct/
 Ancient Beast, https://AncientBeast.com
 Android IMSI-Catcher Detector, https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector
@@ -28,7 +28,7 @@ Babel, https://github.com/babel/babel
 Backlight deb packages, https://github.com/gorlapraveen/blacklight-deb-packages
 Baleen CLI, https://github.com/baleen/cli
 Baleen Migrations, https://github.com/baleen/migrations
-BBC (The British Broadcasting Corporation), https://www.bbc.co.uk/opensource
+BBC, https://www.bbc.co.uk/opensource
 BcnEng, https://bcneng.org
 Beagle Framework,https://github.com/ZupIT/beagle
 Bearsampp, https://bearsampp.com/code-of-conduct
@@ -61,8 +61,8 @@ City of Sault Ste. Marie, https://github.com/cityssm
 clearwater.rb, https://github.com/clearwater-rb/clearwater
 Climate Equity Reference Calculator, https://github.com/climateequityreferenceproject/cerc-web
 CloudI, http://cloudi.org/faq.html#2_CodeOfConduct
-code.gov, https://github.com/GSA/code-gov/
 CocoaPods, https://github.com/cocoapods/cocoapods
+code.gov, https://github.com/GSA/code-gov/
 Codebridge, https://github.com/codebridge-za
 CodeBuddies, https://github.com/codebuddies/codebuddies
 Coding Coach, https://github.com/Coding-Coach/coding-coach
@@ -127,8 +127,8 @@ GDS, https://github.com/alphagov
 GEOPM, https://geopm.github.io/
 GeoVista, https://github.com/bjlittle/geovista
 GetTogether, https://github.com/GetTogetherComm/GetTogether
-git, https://github.com/git/git
 Git for Windows, https://github.com/git-for-windows
+git, https://github.com/git/git
 GitLab, https://gitlab.com/gitlab-org/gitlab-foss/
 Giveth, https://wiki.giveth.io/policy/codeofconduct/
 Glimpse, https://glimpse-editor.org
@@ -143,16 +143,17 @@ GorangoCSS, https://gorangocss.kawanua.id/codeofconduct/
 GoReleaser, https://github.com/goreleaser/goreleaser
 Grape, https://github.com/ruby-grape/grape
 GraphQL Code Generator, https://github.com/dotansimha/graphql-code-generator
-GraphQL Tools, https://github.com/ardatan/graphql-tools
 GraphQL Config, https://github.com/kamilkisiela/graphql-config
+GraphQL ESLint, https://github.com/dotansimha/graphql-eslint
 GraphQL Inspector, https://github.com/kamilkisiela/graphql-inspector
 GraphQL Mesh, https://github.com/Urigo/graphql-mesh
-GraphQL Scalars, https://github.com/Urigo/graphql-scalars
-GraphQL ESLint, https://github.com/dotansimha/graphql-eslint
 GraphQL Modules, https://github.com/Urigo/graphql-modules
+GraphQL Scalars, https://github.com/Urigo/graphql-scalars
+GraphQL Tools, https://github.com/ardatan/graphql-tools
 Grav CMS, https://github.com/getgrav/grav
 Gremlins tracker for Visual Studio Code, https://github.com/nhoizey/vscode-gremlins
 Growing Devs, https://github.com/growingdevs/growingdevs.github.io
+H2O Wave, https://github.com/h2oai/wave
 Hacken.in, https://github.com/hacken-in/hacken-in
 Hanami, http://hanamirb.org/community/#code-of-conduct
 HandBrake, https://github.com/HandBrake/HandBrake
@@ -169,7 +170,6 @@ HTML5 Boilerplate, https://github.com/h5bp/html5-boilerplate
 HTTPicnic, https://github.com/henry-anderson/HTTPicnic
 HTTPotion, https://github.com/myfreeweb/httpotion
 Huh? Dictionary, https://github.com/Yaacoub/Huh-Dictionary
-H2O Wave, https://github.com/h2oai/wave
 icepyx, https://github.com/icesat2py/icepyx
 if me, https://github.com/ifmeorg/ifme
 Intel OTC, https://01.org/blogs/2018/intel-covenant-code
@@ -185,8 +185,8 @@ jPOS, https://github.com/jpos
 JRuby Gradle, https://github.com/jruby-gradle/jruby-gradle-plugin
 JRuby, https://github.com/jruby/jruby/
 JSON Schema, https://github.com/json-schema-org/json-schema-spec
-JuneteenthConf, https://juneteenthconf.com/
 json-rpc, https://github.com/pavlov99/json-rpc
+JuneteenthConf, https://juneteenthconf.com/
 Keptn, https://keptn.sh/
 Kibi, https://github.com/ilai-deutel/kibi
 Kickoff, https://github.com/TryKickoff/kickoff/
@@ -204,13 +204,13 @@ Linux, https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit
 Lolcommits Plugins, https://github.com/search?q=topic%3Alolcommits-plugin+org%3Alolcommits
 Lolcommits, https://github.com/lolcommits/lolcommits
 Mailchain, https://github.com/mailchain/mailchain
-Mapbox, https://github.com/mapbox
 Mailspring, https://github.com/Foundry376/Mailspring
+Mapbox, https://github.com/mapbox
 Marc Bernard Tools, https://github.com/Marc-Bernard-Tools/MBT-Base
+Marquez, https://github.com/MarquezProject/marquez
 Mastodon, https://github.com/mastodon/mastodon
 Mattermost, https://github.com/mattermost
 Maximilian, https://github.com/WillLiu360/maximilian
-Marquez, https://github.com/MarquezProject/marquez
 melonJS, https://github.com/melonjs/melonJS
 Mensa, https://github.com/jordanekay/Mensa
 Meridian, https://github.com/nicholaswyoung/meridian
@@ -229,22 +229,25 @@ NColony, https://github.com/ncolony/ncolony
 Neos, https://www.neos.io/
 Nerd Fonts, https://github.com/ryanoasis/nerd-fonts
 NetworkReachability, https://reachability.tools
+Next.js, https://nextjs.org
 NGINX, https://github.com/nginxinc/kic-reference-architectures
-Nodejs Africa, https://nodejs.africa/
+NicFab Privacy Community, https://community.nicfab.it
 Node.js, https://github.com/nodejs
+Nodejs Africa, https://nodejs.africa/
 Noice, https://github.com/ashutoshgngwr/noice
 nteract, https://nteract.io/
 OAPI ShieldsUp, https://github.com/oapi/shieldsup
 Ombi, https://ombi.network
 Onnx-go, https://github.com/owulveryck/onnx-go
+Open Elements, https://github.com/OpenElements
 Open WebRTC Toolkit, https://github.com/open-webrtc-toolkit
 OpenArchive, https://open-archive.org/
 OpenDominion, https://github.com/OpenDominion/OpenDominion
 OpenDroneMap, https://github.com/OpenDroneMap/ODM
-Open Elements, https://github.com/OpenElements
 OpenFeature, https://openfeature.dev/
 OpenJS Foundation, https://github.com/openjs-foundation/
 OpenMined, https://github.com/OpenMined/
+OpenPrivacyTech, https://github.com/openprivacytech
 OpenProject, https://www.openproject.org/
 Operable, https://github.com/operable/
 ORGENIC UI, https://github.com/orgenic/orgenic-ui
@@ -281,8 +284,8 @@ PyBBIO, https://github.com/graycatlabs/PyBBIO
 PyGMT, https://github.com/GenericMappingTools/pygmt
 PyMC3, https://github.com/pymc-devs/pymc3
 PyMC4, https://github.com/pymc-devs/pymc4
-Python-dwca-reader, https://github.com/BelgianBiodiversityPlatform/python-dwca-reader
 Python Girona, https://pythongirona.cat/
+Python-dwca-reader, https://github.com/BelgianBiodiversityPlatform/python-dwca-reader
 PyVista, https://github.com/pyvista/pyvista
 QA-Tools, https://github.com/qa-tools/qa-tools
 Quack Lang, https://github.com/quack/quack
@@ -291,10 +294,10 @@ Rack::Attack, https://github.com/rack/rack-attack
 Rails, https://github.com/rails/rails
 Random Bookmark From Folder, https://github.com/PixievoltNo1/RandomBookmark
 rbenv, https://github.com/rbenv/rbenv
+React to styled, https://github.com/react-to/react-to-styled
 React, https://github.com/facebook/react
 ReactiveUI, https://github.com/reactiveui/reactiveui
 ReactiveX/RxJS, https://github.com/ReactiveX/RxJS
-React to styled, https://github.com/react-to/react-to-styled
 Realm, https://realm.io/conduct/
 Recidiviz, https://github.com/Recidiviz/
 Redash, https://github.com/getredash/redash
@@ -328,10 +331,10 @@ Skeptycal.com, https://github.com/buefy/buefy
 Skyscanner, https://github.com/skyscanner
 Snipe-IT, https://github.com/snipe/snipe-it
 Snuffle, https://gitlab.com/coraline/snuffle/tree/master
-Sonobuoy, https://github.com/vmware-tanzu/sonobuoy
-Soosyze CMS, https://soosyze.com/charte-code-conduite-contributeurs
 Software Carpentry, https://github.com/swcarpentry
 Software Foundations Chinese Translation, https://github.com/Coq-zh/SF-zh
+Sonobuoy, https://github.com/vmware-tanzu/sonobuoy
+Soosyze CMS, https://soosyze.com/charte-code-conduite-contributeurs
 SOSC/VTU-Lab-Material, https://github.com/so-sc/VTU-Lab-Material/
 SOULs, https://github.com/elsoul/souls
 Sovereign Cloud Stack, https://github.com/SovereignCloudStack/Docs/
@@ -354,17 +357,17 @@ SwellRT, https://github.com/P2Pvalue/swellrt/
 Swift, https://swift.org/community/#code-of-conduct
 Swiss Post, https://github.com/swisspost
 Symfony, https://github.com/symfony/symfony
-Tachiyomi, https://github.com/tachiyomiorg/tachiyomi
 Tachiyomi Extensions, https://github.com/tachiyomiorg/tachiyomi-extensions
-Taiga.io, https://github.com/taigaio/code-of-conduct
+Tachiyomi, https://github.com/tachiyomiorg/tachiyomi
 Tahoe-LAFS, https://github.com/tahoe-lafs/tahoe-lafs
+Taiga.io, https://github.com/taigaio/code-of-conduct
 Tamiat CMS, https://github.com/tamiat/tamiat
 Target, https://github.com/target
 tbox, https://github.com/tboox/tbox
-terraform-aws-modules, https://github.com/terraform-aws-modules
 Teem, https://github.com/P2Pvalue/teem/
 TensorFlow, https://github.com/tensorflow/tensorflow
 Termidinator, https://github.com/Yaacoub/Termidinator
+terraform-aws-modules, https://github.com/terraform-aws-modules
 The Anadromi Project, https://github.com/anadromi/the-anadromi-project
 The PHP League OAuth 2.0 Server, https://github.com/thephpleague/oauth2-server
 ThePew Inc., https://github.com/the-pew-inc/the-pew
@@ -405,6 +408,3 @@ yargs, https://github.com/bcoe/yargs
 Yii, https://www.yiiframework.com
 Your First PR, https://github.com/yourfirstpr/
 ZoneMinder, https://github.com/ZoneMinder/
-AB3C, https://ab3c.org.br/
-OpenPrivacyTech, https://github.com/openprivacytech
-NicFab Privacy Community, https://community.nicfab.it
