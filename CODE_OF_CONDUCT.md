@@ -1,4 +1,5 @@
 <!--
+SPDX-FileCopyrightText: 2014 Organization for Ethical Source
 SPDX-FileContributor: Alva <alva@alva.email>
 SPDX-FileContributor: Bantik <corey@idolhands.com>
 SPDX-FileContributor: CoralineAda <coraline@idolhands.com>
