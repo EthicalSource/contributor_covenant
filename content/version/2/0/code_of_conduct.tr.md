@@ -1,6 +1,6 @@
 +++
 version = "2.0"
-aliases = ["/version/2/0"]
+aliases = ["/version/2/0/tr"]
 +++
 
 # Katkıcı Ahdi Topluluk Sözleşmesi
