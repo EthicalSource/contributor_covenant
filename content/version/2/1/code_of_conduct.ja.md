@@ -1,13 +1,13 @@
 +++
-version = "2.0"
-aliases = ["/version/2/0/ja"]
+version = "2.1"
+aliases = ["/version/2/1/ja"]
 +++
 
 # コントリビューター行動規範
 
 ## 私たちの約束
 
-メンバー、コントリビューター、およびリーダーとして、年齢、体の大きさ、目に見えるまたは目に見えない障害、民族性、性的特徴、性同一性とジェンダー表現、経験のレベル、教育、社会経済的地位、国籍、人格、人種、宗教、または性的同一性と性的指向に関係なく、コミュニティへの参加をハラスメントのない体験にすることを誓います。
+メンバー、コントリビューター、およびリーダーとして、年齢、体の大きさ、目に見えるまたは目に見えない障害、民族性、性的特徴、性同一性とジェンダー表現、経験のレベル、教育、社会経済的地位、国籍、人格、人種、カースト、肌の色、宗教、または性的同一性と性的指向に関係なく、コミュニティへの参加をハラスメントのない体験にすることを誓います。
 
 私たちは、オープンで親しみやすく、多様で包括的で健全なコミュニティに貢献する方法で行動し、交流することを誓います。
 
@@ -75,14 +75,14 @@ aliases = ["/version/2/0/ja"]
 
 ## 帰属
 
-この行動規範は、[https://www.contributor-covenant.org/version/2/0/code_of_conduct.html][v2.0]で利用可能な[Contributor Covenant][homepage] バージョン 2.0を基に作成されています。
+この行動規範は、[https://www.contributor-covenant.org/version/2/1/code_of_conduct.html][v2.1]で利用可能な[Contributor Covenant][homepage] バージョン 2.1を基に作成されています。
 
 コミュニティへの影響ガイドラインは[Mozilla's code of conduct enforcement ladder][Mozilla CoC]に適合しています。
 
 この行動規範に関する一般的な質問への回答については、[https://www.contributor-covenant.org/faq][FAQ]のFAQを参照してください。翻訳は[https://www.contributor-covenant.org/translations][translations]で入手できます。
 
 [homepage]: https://www.contributor-covenant.org
-[v2.0]: https://www.contributor-covenant.org/version/2/0/code_of_conduct.html
+[v2.1]: https://www.contributor-covenant.org/version/2/1/code_of_conduct.html
 [Mozilla CoC]: https://github.com/mozilla/diversity
 [FAQ]: https://www.contributor-covenant.org/faq
 [translations]: https://www.contributor-covenant.org/translations
