@@ -80,6 +80,10 @@ weight = 1
 languageName = "ελληνικά"
 languageCode = "el"
 
+[Languages.eu]
+languageName = "Euskara"
+languageCode = "eu"
+
 [Languages.es]
 languageName = "Español"
 languageCode = "es"
