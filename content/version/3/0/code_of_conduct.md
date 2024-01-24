@@ -21,7 +21,6 @@ Examples of positive, desirable behavior include:
 * Accepting responsibility for, and learning from, our mistakes.
 * Committing to repairing harm when it occurs.
 * Seeking out moments of learning and growth.
-* Putting what is best for the community over ourselves.
 * Behaving in other ways that promote and sustain the well-being of our community.
 
 Examples of negative, undesirable behavior include:
@@ -31,8 +30,6 @@ Examples of negative, undesirable behavior include:
 * Engaging in public or private harassment.
 * Making insulting or pejorative comments or attacks.
 * Sharing someone's personal or private information without their permission.
-* Quoting someone in an external context without their permission.
-* Sharing private information about our community and its activities.
 * Behaving in other ways that threaten the well-being of our community.
 
 ## Enforcing Our Standards.
