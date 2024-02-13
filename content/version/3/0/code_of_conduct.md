@@ -40,7 +40,9 @@ This Code of Conduct applies to all participants in all community spaces. It als
 
 ### Reporting Violations.
 
-Violations of this Code of Conduct are reported to the enforcement team. They will strive to protect the privacy of the reporter. The enforcement team will review and investigate reports in a prompt and fair manner. A violation of our community standards warrants an enforcement action. 
+To report a violation, contact the enforcement team via [INSERT REPORTING EMAIL ADDRESS HERE].
+
+The enforcement team will strive to protect the privacy of the reporter. They will review and investigate reports in a prompt and fair manner. A confirmed violation of our community standards warrants an enforcement action.
 
 ### Enforcement Guidelines.
 How we enforce our community standards also reflects our culture. These are examples of remedies based on the severity of a violation's impact. Note that some remedies may be cumulative.
