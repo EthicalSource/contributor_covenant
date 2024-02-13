@@ -13,7 +13,7 @@ We pledge to make our community welcoming, accessible, and safe for everyone, an
 
 We strive to be a diverse, equitable, just, and inclusive community. We recognize that achieving this goal requires more than good intentions. The impact of our behavior and our treatment of one another define our community's true culture.
 
-Examples of positive, desirable behavior include:
+### Examples of positive, desirable behavior include:
 
 * Showing empathy and kindness toward other people.
 * Being respectful toward differing viewpoints and experiences.
@@ -23,7 +23,7 @@ Examples of positive, desirable behavior include:
 * Seeking out moments of learning and growth.
 * Behaving in other ways that promote and sustain the well-being of our community.
 
-Examples of negative, undesirable behavior include:
+### Examples of negative, undesirable behavior include:
 
 * Violating explicitly expressed personal boundaries.
 * Making sexual advances, or using sexualized language or imagery.
@@ -48,27 +48,27 @@ The enforcement team will strive to protect the privacy of the reporter. They wi
 How we enforce our community standards also reflects our culture. These are examples of remedies based on the severity of a violation's impact. Note that some remedies may be cumulative.
 
 #### 1. Correction.
-Community impact: Use of unsuitable or unprofessional language or behavior.
+_Community impact_: Use of unsuitable or unprofessional language or behavior.
 
-Remedy: A private warning and explanation of why the behavior was problematic. The offender may be asked to make a personal or public apology.
+_Remedy_: A private warning and explanation of why the behavior was problematic. The offender may be asked to make a personal or public apology.
 
 #### 2. Warning.
 
-Community impact: A violation involving a single incident or series of actions.
+_Community impact_: A violation involving a single incident or series of actions.
 
-Remedy: A warning with penalties for continued behavior. Violating these terms may lead to a temporary or permanent ban.
+_Remedy_: A warning with penalties for continued behavior. Violating these terms may lead to a temporary or permanent ban.
 
 #### 3. Temporary Ban.
 
-Community impact: A serious or sustained violation of community standards.
+_Community impact_: A serious or sustained violation of community standards.
 
-Remedy: A temporary ban on interactions with community members. Violating these terms may lead to a permanent ban.
+_Remedy_: A temporary ban on interactions with community members. Violating these terms may lead to a permanent ban.
 
 #### 4. Permanent Ban.
 
-Community impact: Showing a pattern of violation of community standards. Sustained unsuitable behavior toward a person or class of people.
+_Community impact_: Showing a pattern of violation of community standards. Sustained unsuitable behavior toward a person or class of people.
 
-Remedy: A permanent ban from all participation in the community.
+_Remedy_: A permanent ban from all participation in the community.
 
 ### Discretion in Enforcement Actions.
 
