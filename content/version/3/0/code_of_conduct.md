@@ -86,6 +86,8 @@ This code of conduct is adapted from [Contributor Covenant][homepage],
 version 3.0, available at
 [https://www.contributor-covenant.org/version/3/0/code_of_conduct.html][v3.0].
 
+Contributor Covenant is stewarded by the Organization for Ethical Source [https://ethicalsource.dev)][OES], a nonprofit public charity.
+
 Enforcement guidelines were inspired by 
 [Mozilla's code of conduct enforcement ladder][Mozilla CoC].
 
@@ -93,7 +95,7 @@ For answers to common questions about this code of conduct, see the FAQ at
 [https://www.contributor-covenant.org/faq][FAQ]. Translations are available 
 at [https://www.contributor-covenant.org/translations][translations].
 
-Contributor Covenant is stewarded by the nonprofit Organization for Ethical Source [https://ethicalsource.dev)][OES].
+Contributor Covenant 3 is licensed under the Creative Commons [CC BY-NC-SA 4.0][license] license.
 
 [homepage]: https://www.contributor-covenant.org
 [v3.0]: https://www.contributor-covenant.org/version/3/0/code_of_conduct.html
@@ -101,3 +103,4 @@ Contributor Covenant is stewarded by the nonprofit Organization for Ethical Sour
 [FAQ]: https://www.contributor-covenant.org/faq
 [translations]: https://www.contributor-covenant.org/translations
 [OES]: https://ethicalsource.dev
+[license]: https://creativecommons.org/licenses/by-nc-sa/4.0/
