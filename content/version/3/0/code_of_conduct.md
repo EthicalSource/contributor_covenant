@@ -7,7 +7,7 @@ aliases = ["/version/3/0"]
 
 ## Our Pledge.
 
-We pledge to make our community welcoming, accessible, and safe for everyone, regardless of age or generation; body size or personal appearance; visible or invisible disability; neurodiversity; ethnicity, race, caste, or color; gender identity or expression; sex traits or identity; sexual orientation; national origin or citizenship; education level; or socio-economic status. 
+We pledge to make our community welcoming, accessible, and safe for everyone, and to foster a sense of belonging and inclusion, regardless of age or generation; body size or personal appearance; visible or invisible disability; neurodiversity; ethnicity, race, caste, or color; gender identity or expression; sex traits or identity; sexual orientation; national origin or citizenship; education level; or socio-economic status. 
 
 ## Our Community Standards.
 
