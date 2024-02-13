@@ -45,7 +45,7 @@ To report a violation, contact the enforcement team via [INSERT REPORTING EMAIL 
 The enforcement team will strive to protect the privacy of the reporter. They will review and investigate reports in a prompt and fair manner. A confirmed violation of our community standards warrants an enforcement action.
 
 ### Enforcement Guidelines.
-How we enforce our community standards also reflects our culture. These are examples of remedies based on the severity of a violation's impact. Note that some remedies may be cumulative.
+How we enforce our community standards also reflects our culture. These are examples of remedies based on the severity of a violation's impact on an individual and on our community. Some remedies may be cumulative.
 
 #### 1. Correction.
 _Community impact_: Use of unsuitable or unprofessional language or behavior.
