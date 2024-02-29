@@ -1,3 +1,23 @@
+<!--
+SPDX-FileCopyrightText: 2014 Organization for Ethical Source
+SPDX-FileContributor: Alva <alva@alva.email>
+SPDX-FileContributor: Bantik <corey@idolhands.com>
+SPDX-FileContributor: CoralineAda <coraline@idolhands.com>
+SPDX-FileContributor: Dan Gillean <fiver-watson@users.noreply.github.com>
+SPDX-FileContributor: Drew Gates <aranaur@users.noreply.github.com>
+SPDX-FileContributor: Frederik Dudzik <4004blog@gmail.com>
+SPDX-FileContributor: Ilya Vassilevsky <vassilevsky@gmail.com>
+SPDX-FileContributor: Juanito Fatas <katehuang0320@gmail.com>
+SPDX-FileContributor: Kerri Miller <kerrizor@kerrizor.com>
+SPDX-FileContributor: Kurtis Rainbolt-Greene <me@kurtisrainboltgreene.name>
+SPDX-FileContributor: Oliver Galvin <odg@riseup.net>
+SPDX-FileContributor: Strand McCutchen <smccutchen@instructure.com>
+SPDX-FileContributor: Strand McCutchen <strand@bettermistak.es>
+SPDX-FileContributor: Vítor Galvão <info@vitorgalvao.com>
+
+SPDX-License-Identifier: CC-BY-4.0
+-->
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
