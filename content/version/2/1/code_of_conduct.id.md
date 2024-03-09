@@ -34,7 +34,7 @@ Contoh perilaku yang tidak dapat diterima meliputi:
 
 * Penggunaan bahasa atau citra seksual, dan sorotan bernada seksual atau rayuan
   dalam bentuk apapun
-* Mengejek, mencaci maki atau komentar yang menghina / merendahkan, dan serangan
+* Mengejek, mencaci maki atau komentar yang menghina/merendahkan, dan serangan
   terhadap individual atau politik
 * Pelecehan secara umum atau pribadi
 * Memuat informasi pribadi orang lain, seperti alamat fisik atau surel, tanpa
