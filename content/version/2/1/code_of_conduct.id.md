@@ -14,8 +14,8 @@ etnis, karakteristik seksual, identitas gender dan ekspresinya, tingkat
 pengalaman, pendidikan, status sosial ekonomi, kewarganegaraan, penampilan
 pribadi, ras, kasta, warna kulit, agama, atau identitas dan orientasi seksual.
 
-Kami berjanji untuk bersikap dan berinteraksi dalam langkah komunitas yang
-terbuka, ramah, beragam, merangkul, dan sehat.
+Kami berjanji untuk bersikap dan berinteraksi dalam langkah yang berkontribusi
+untuk komunitas yang terbuka, ramah, beragam, inklusif, dan sehat.
 
 ## Standar Kami
 
