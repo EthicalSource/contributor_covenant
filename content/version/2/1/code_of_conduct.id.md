@@ -37,8 +37,8 @@ Contoh perilaku yang tidak dapat diterima meliputi:
 * Mengejek, mencaci maki atau komentar yang menghina/merendahkan, dan serangan
   terhadap individual atau politik
 * Pelecehan secara umum atau pribadi
-* Memuat informasi pribadi orang lain, seperti alamat fisik atau surel, tanpa
-  persetujuan orang tersebut
+* Menyebarkan informasi pribadi orang lain, seperti alamat fisik atau surel,
+  tanpa persetujuan orang tersebut
 * Perilaku lainnya yang secara wajar dapat dianggap tidak sesuai dalam
   lingkungan profesional
 
