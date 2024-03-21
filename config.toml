@@ -189,3 +189,7 @@ languageCode = "zh-cn"
 languageName = "فارسی"
 languageCode = "fa-IR"
 writingDirection = "rtl"
+
+[Languages.glg]
+languageName = "Galego"
+languageCode = "glg"
