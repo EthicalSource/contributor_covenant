@@ -84,6 +84,10 @@ languageCode = "el"
 languageName = "Español"
 languageCode = "es"
 
+[Languages.eu]
+languageName = "Euskara"
+languageCode = "eu"
+
 [Languages.fr]
 languageName = "Français"
 languageCode = "fr"
@@ -193,3 +197,7 @@ writingDirection = "rtl"
 [Languages.sw]
 languageName = "Swahili"
 languageCode = "sw"
+
+[Languages.glg]
+languageName = "Galego"
+languageCode = "glg"
