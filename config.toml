@@ -194,6 +194,10 @@ languageName = "فارسی"
 languageCode = "fa-IR"
 writingDirection = "rtl"
 
+[Languages.sw]
+languageName = "Swahili"
+languageCode = "sw"
+
 [Languages.glg]
 languageName = "Galego"
 languageCode = "glg"
