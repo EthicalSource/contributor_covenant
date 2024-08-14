@@ -1,3 +1,8 @@
++++
+version = "2.1"
+aliases = ["/version/2/1/glg"]
++++
+
 # Avinza de código de conduta para contribuíntes
 
 ## O noso compromiso
