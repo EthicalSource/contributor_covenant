@@ -12,3 +12,4 @@ Instructions for translators can be found [here](https://github.com/EthicalSourc
 Contributor Covenant uses [semantic versioning](https://semver.org/)
 for revisions so all URLs are permanent.
 {{< previous-versions >}}
+https://github.com/Garrybrayn
