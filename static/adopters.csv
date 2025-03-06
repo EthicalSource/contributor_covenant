@@ -7,6 +7,7 @@ ACM-W NITK, https://github.com/acm-w-nitk/acm-w-nitk.github.io
 Actionhero, https://www.actionherojs.com/
 Active Admin, https://github.com/activeadmin/activeadmin
 ActsAsTextcaptcha, https://github.com/matthutchinson/acts_as_textcaptcha
+AgoraKit, https://github.com/agorakit/agorakit
 Airbnb, https://airbnb.io/codeofconduct/
 Algorithm Archive, https://github.com/algorithm-archivists/algorithm-archive
 Algorrent, https://github.com/algorrent/algorrent
@@ -16,7 +17,7 @@ Amsterdam.rb, https://amsrb.org/code-of-conduct/
 Ancient Beast, https://AncientBeast.com
 Android IMSI-Catcher Detector, https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector
 angular-formly, https://github.com/formly-js/angular-formly
-AngularJS, https://github.com/angular/code-of-conduct
+Angular, https://github.com/angular/code-of-conduct
 APInf, https://github.com/apinf/platform
 AppSignal, https://docs.appsignal.com/appsignal/contributing/code-of-conduct.html
 ArchiSteamFarm, https://github.com/JustArchiNET/ArchiSteamFarm
@@ -37,6 +38,7 @@ Bionode, https://www.bionode.io/
 BioSigKit, https://github.com/hooman650/BioSigKit
 Bitloops, https://github.com/Bitloops
 bitmath, https://github.com/tbielawa/bitmath/
+blazorbootstrap, https://github.com/vikramlearning/blazorbootstrap
 Boa, https://github.com/boa-dev/boa/
 Bootstrap, https://github.com/twbs/bootstrap
 BootstrapVue, https://github.com/bootstrap-vue/bootstrap-vue
@@ -51,6 +53,7 @@ Calckey, https://codeberg.org/thatonecalculator/calckey
 Calypso (WordPress.com), https://github.com/Automattic/wp-calypso
 caMicroscope, https://camicroscope.github.io/
 Celluloid, https://github.com/celluloid/celluloid
+CerberAuth, https://github.com/cerberauth
 Cesium, https://github.com/CesiumGS/cesium
 Chalk, https://github.com/chalk/chalk
 Changelog.com, https://changelog.com/
@@ -62,6 +65,7 @@ chef-rvm, https://github.com/sous-chefs/rvm
 City of Sault Ste. Marie, https://github.com/cityssm
 clearwater.rb, https://github.com/clearwater-rb/clearwater
 Climate Equity Reference Calculator, https://github.com/climateequityreferenceproject/cerc-web
+Closure Next, https://github.com/MilesONerd/closure-next
 CloudI, http://cloudi.org/faq.html#2_CodeOfConduct
 CocoaPods, https://github.com/cocoapods/cocoapods
 code.gov, https://github.com/GSA/code-gov/
@@ -105,6 +109,7 @@ Dokku, https://github.com/dokku/dokku
 Doublify, https://github.com/doublify
 Drachenhorn, https://github.com/Drachenhorn-Team/Drachenhorn
 Dracut, https://github.com/dracutdevs/dracut
+Dribdat, https://github.com/dribdat/dribdat
 dxw, https://www.dxw.com
 ECB Exchange, https://github.com/matthutchinson/ecb_exchange
 Eclipse Che, https://github.com/eclipse/che
@@ -114,27 +119,32 @@ Electron, https://github.com/electron/electron
 elimu.ai, https://github.com/elimu-ai
 Elixir, https://github.com/elixir-lang/elixir
 Ellie-Language, https://github.com/behemehal/Ellie-Language
+Emogrifier, https://github.com/MyIntervals/emogrifier
 Exercism.io, https://github.com/exercism/exercism
 Facebook, https://opensource.facebook.com/code-of-conduct
 fanKounter, https://github.com/HZKnight/fanKounter
 Firefox B2B Communication for Internet access, https://github.com/gorlapraveen/firefox_b2b_comm_radio_addon
 First Contributions, https://github.com/firstcontributions/first-contributions
 Flickr, https://blog.flickr.net/en/2022/02/14/safer-internet-day-and-open-source-codes-of-conduct/
+Forgejo, https://codeberg.org/forgejo/code-of-conduct
 Freedomotic, https://github.com/freedomotic/freedomotic
 friends, https://github.com/JacobEvelyn/friends
 Fugerit-Org, https://github.com/fugerit-org
 Fukuzatsu, https://gitlab.com/coraline/fukuzatsu/tree/master
 funKounter, https://github.com/lucliscio/fankounter
 Funky Penguin's Geek Cookbook,https://geek-cookbook.funkypenguin.co.nz/community/code-of-conduct/
+GalMisoCorpus 2023, https://github.com/luciamariaalvarezcrespo/GalMisoCorpus2023
 Gatsby, https://github.com/gatsbyjs/gatsby
 GDS, https://github.com/alphagov
 GEOPM, https://geopm.github.io/
 GeoVista, https://github.com/bjlittle/geovista
 GetTogether, https://github.com/GetTogetherComm/GetTogether
+Ghaf, https://github.com/tiiuae/ghaf
 Git for Windows, https://github.com/git-for-windows
 git, https://github.com/git/git
 GitLab, https://gitlab.com/gitlab-org/gitlab-foss/
 Giveth, https://wiki.giveth.io/policy/codeofconduct/
+Gleam, https://gleam.run/
 Glimpse, https://glimpse-editor.org
 GlobaLeaks, https://github.com/globaleaks/GlobaLeaks
 GMT, https://www.generic-mapping-tools.org/
@@ -174,11 +184,13 @@ HTML5 Boilerplate, https://github.com/h5bp/html5-boilerplate
 HTTPicnic, https://github.com/henry-anderson/HTTPicnic
 HTTPotion, https://github.com/myfreeweb/httpotion
 Huh? Dictionary, https://github.com/Yaacoub/Huh-Dictionary
+IBEX Imaging Community,https://github.com/IBEXImagingCommunity/
 icepyx, https://github.com/icesat2py/icepyx
 if me, https://github.com/ifmeorg/ifme
 Intel OTC, https://01.org/blogs/2018/intel-covenant-code
 irhamdzuhri.com, https://github.com/irhamdz/irhamdzuhri.com
 iText, https://itextpdf.com/en
+IzzyOnDroid, https://codeberg.org/IzzyOnDroid/.profile
 Java Builders Generator, https://github.com/khabali/java-builders-generator
 jekyll-octopod, https://jekyll-octopod.github.io/conduct/
 Jekyll, https://github.com/jekyll/jekyll
@@ -191,6 +203,7 @@ JRuby, https://github.com/jruby/jruby/
 JSON Schema, https://github.com/json-schema-org/json-schema-spec
 json-rpc, https://github.com/pavlov99/json-rpc
 JuneteenthConf, https://juneteenthconf.com/
+Kowalski Telegram Bot, https://github.com/abocn/TelegramBot
 Keptn, https://keptn.sh/
 Kibi, https://github.com/ilai-deutel/kibi
 Kickoff, https://github.com/TryKickoff/kickoff/
@@ -210,6 +223,7 @@ Lolcommits, https://github.com/lolcommits/lolcommits
 Mailchain, https://github.com/mailchain/mailchain
 Mailspring, https://github.com/Foundry376/Mailspring
 Mapbox, https://github.com/mapbox
+MapLibre, https://github.com/maplibre/maplibre
 Marc Bernard Tools, https://github.com/Marc-Bernard-Tools/MBT-Base
 Marquez, https://github.com/MarquezProject/marquez
 Mastodon, https://github.com/mastodon/mastodon
@@ -219,6 +233,7 @@ Maximilian, https://github.com/WillLiu360/maximilian
 melonJS, https://github.com/melonjs/melonJS
 Mensa, https://github.com/jordanekay/Mensa
 Meridian, https://github.com/nicholaswyoung/meridian
+Mesa, https://github.com/projectmesa/
 Metasploit, https://github.com/rapid7/metasploit-framework
 mnstr, https://github.com/xorsense/mnstr
 Monkey Type, https://github.com/monkeytypegame/monkeytype/
@@ -255,6 +270,7 @@ OpenJS Foundation, https://github.com/openjs-foundation/
 OpenMined, https://github.com/OpenMined/
 OpenPrivacyTech, https://github.com/openprivacytech
 OpenProject, https://www.openproject.org/
+OpenUK, https://openuk.uk/
 Operable, https://github.com/operable/
 ORGENIC UI, https://github.com/orgenic/orgenic-ui
 Orientation, https://github.com/orientation/orientation
@@ -271,6 +287,7 @@ PeteBishwhip, https://github.com/PeteBishwhip/
 Pexip - Video Conferencing SDK, https://github.com/pexip/pexkit-sdk
 pg_chameleon - MySQL to PostgreSQL replica, https://github.com/the4thdoctor/pg_chameleon
 phpMyAdmin, https://www.phpmyadmin.net/
+PHP-CSS-Parser, https://github.com/MyIntervals/PHP-CSS-Parser
 PHPStan, https://phpstan.org/
 Phylum CI, https://github.com/phylum-dev/phylum-ci
 pimutils, https://pimutils.org/coc/
@@ -279,12 +296,14 @@ Pixi.js Haxe Externs, https://github.com/pixijs/pixi-haxe
 Platform.sh, https://platform.sh
 Playscii, http://vectorpoem.com/playscii/
 pmap, https://github.com/bruceadams/pmap
+PokeAPI, https://github.com/PokeAPI/pokeapi
 postcss-glitch, https://github.com/crftd/postcss-glitch
 Pottery, https://github.com/brainix/pottery
 prance (Resolving Swagger/OpenAPI 2.0 Parser), https://github.com/jfinkhaeuser/prance
 PRAW, https://github.com/praw-dev/praw
 Pre-filled repository, https://github.com/GuglielmoPepe/pre-filled-repository
 Pressbooks, https://github.com/pressbooks/pressbooks
+Prettier, https://prettier.io
 ProcessIterator, https://github.com/console-helpers/process-iterator
 PyBBIO, https://github.com/graycatlabs/PyBBIO
 PyGMT, https://github.com/GenericMappingTools/pygmt
@@ -294,6 +313,7 @@ Python Girona, https://pythongirona.cat/
 Python-dwca-reader, https://github.com/BelgianBiodiversityPlatform/python-dwca-reader
 PyVista, https://github.com/pyvista/pyvista
 QA-Tools, https://github.com/qa-tools/qa-tools
+Qibo, https://github.com/qiboteam/qibo
 Quack Lang, https://github.com/quack/quack
 Quick, https://github.com/Quick/Quick
 Rack::Attack, https://github.com/rack/rack-attack
@@ -344,6 +364,7 @@ Soosyze CMS, https://soosyze.com/charte-code-conduite-contributeurs
 SOSC/VTU-Lab-Material, https://github.com/so-sc/VTU-Lab-Material/
 SOULs, https://github.com/elsoul/souls
 Sovereign Cloud Stack, https://github.com/SovereignCloudStack/Docs/
+SpamWatch for Kowalski, https://github.com/abocn/TelegramBot-SpamWatch/
 SPIP, https://www.spip.net/fr_rubrique91.html
 Spree, https://github.com/spree/spree
 Spring Boot, https://github.com/spring-projects/spring-boot
@@ -388,6 +409,7 @@ Twilio, https://github.com/twilio
 Twisted, https://github.com/twisted/twisted
 União Colegial de Minas Gerais, https://github.com/ucmg
 UXP, https://github.com/MoonchildProductions/UXP
+Uzufly,https://github.com/uzufly
 Velero, https://github.com/vmware-tanzu/velero
 Viash, https://github.com/viash-io/viash
 Video.js, https://github.com/videojs/video.js
@@ -401,12 +423,14 @@ Vox Pupuli, https://voxpupuli.org/
 VSAlert, https://vsalert.vsanthanam.com
 VSTeam, https://github.com/MethodsAndPractices/vsteam
 Vue.js, https://github.com/vuejs/vue
+VueTorrent, https://github.com/VueTorrent/VueTorrent
 WAI-request-spec, https://gitlab.com/cpp.cabrera/wai-request-spec
 Waud, https://github.com/adireddy/waud
 Weaviate, https://github.com/semi-technologies/weaviate
 Webiny, https://github.com/webiny/webiny-js
 Webwide, https://webwide.io/help/code-of-conduct/
 Wechaty, https://wechaty.js.org/docs/community/code-of-conduct/
+WordPress, https://make.wordpress.org/handbook/community-code-of-conduct/
 xmake, https://github.com/tboox/xmake
 XO, https://github.com/sindresorhus/xo
 xoreos, https://github.com/xoreos/xoreos

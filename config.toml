@@ -84,6 +84,10 @@ languageCode = "el"
 languageName = "Español"
 languageCode = "es"
 
+[Languages.eu]
+languageName = "Euskara"
+languageCode = "eu"
+
 [Languages.fr]
 languageName = "Français"
 languageCode = "fr"
@@ -137,6 +141,10 @@ languageCode = "ko"
 languageName = "Македонски"
 languageCode = "mk"
 
+[Languages.ms] 
+languageName = "Malaysia" 
+languageCode = "ms"
+
 [Languages.nl]
 languageName = "Nederlands"
 languageCode = "nl"
@@ -189,3 +197,11 @@ languageCode = "zh-cn"
 languageName = "فارسی"
 languageCode = "fa-IR"
 writingDirection = "rtl"
+
+[Languages.sw]
+languageName = "Swahili"
+languageCode = "sw"
+
+[Languages.glg]
+languageName = "Galego"
+languageCode = "glg"
