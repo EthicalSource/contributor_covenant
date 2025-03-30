@@ -13,7 +13,7 @@ une expérience sans harcèlement, quel que soit l'âge,
 la taille corporelle, le handicap visible ou invisible, l'appartenance ethnique,
 les caractéristiques sexuelles, l'identité et l'expression de genre, 
 le niveau d'expérience, l'éducation, le statut socio-économique, 
-la nationalité, l'apparence personnelle, la race, la religion, 
+la nationalité, l'apparence personnelle, la religion, 
 ou l'identité et l'orientation sexuelle.
 
 Nous nous engageons à agir et interagir de manière à contribuer à une communauté 
