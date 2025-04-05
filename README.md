@@ -1,3 +1,8 @@
+You’re making changes in a project you don’t have write access to. Submitting a change will write it to a new branch in your fork tr4200812/contributor_covenant, so you can send a pull request.
+
+
+Codespace usage for this repository is paid for by tr4200812
+
 Contributor Covenant
 ====================
 
