@@ -53,7 +53,7 @@ writingDirection = "rtl"
 
 [Languages.bn]
 languageName = "Bengali"
-languageCode = "bn"
+languageCode = "ben"
 
 [Languages.bs]
 languageName = "Bosnian"
