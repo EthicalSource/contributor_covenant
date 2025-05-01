@@ -59,15 +59,15 @@ We're always looking for new localizations of the Contributor Covenant and are t
 If you are interested in doing a translation, please follow these steps:
 
 1. Fork the repository and make a branch for your translation.
-1. If it's a new language, add it to `config.toml`,
+2. If it's a new language, add it to `config.toml`,
   with a localized name and language code/optional region (e.g. `pt` or `pt-br`). See the [list of ISO 639-2 language codes here](https://www.loc.gov/standards/iso639-2/php/code_list.php)
-1. Create a markdown file with your translation in `version/2/0/code_of_conduct.LANGUAGECODE.md`. (Underscores, not hyphens.)
-1. Open a pull request.
-1. We will put out a call to have one or more other native speakers review the translation.
-1. Collaborate until the translation is satisfactory.
-1. We will merge your translation!
-1. HTML and plain text versions are automatically generated from your markdown file.
-1. A link to your translation is automatically added to the translations page.
+3. "Create a Markdown file for your translation in the version/2/0/ directory, named code_of_conduct.LANGUAGECODE.md."
+4. Open a pull request.
+5. We will put out a call to have one or more other native speakers review the translation.
+6. Collaborate until the translation is satisfactory.
+7. We will merge your translation!
+8. HTML and plain text versions are automatically generated from your markdown file.
+9. A link to your translation is automatically added to the translations page.
 
 ## Registering Your Community as an Adopter
 
