@@ -1,8 +1,9 @@
 Project name, Project URL
 Atom, https://github.com/atom/atom
-AngularJS, https://github.com/angular/code-of-conduct
+Angular, https://github.com/angular/code-of-conduct
 Babel, https://github.com/babel/babel
 Bootstrap, https://github.com/twbs/bootstrap
+BBC, https://www.bbc.co.uk/opensource
 Bundler, https://github.com/rubygems/bundler
 chef-rvm, https://github.com/sous-chefs/rvm
 Cloud Native Compute Foundation, https://www.cncf.io/
@@ -41,6 +42,7 @@ Microsoft, https://opensource.microsoft.com/codeofconduct/
 Mono, https://github.com/mono/mono
 Mozilla Webmaker, https://foundation.mozilla.org/en/artifacts/webmaker/
 .NET Foundation, https://dotnetfoundation.org/about/code-of-conduct
+next.js, https://nextjs.org
 Node.js, https://github.com/nodejs
 Rails, https://github.com/rails/rails
 rbenv, https://github.com/rbenv/rbenv
@@ -62,4 +64,5 @@ Travis CI, https://travis-ci.community/t/code-of-conduct/64
 Twilio, https://github.com/twilio
 Visual F#, https://github.com/dotnet/fsharp
 Vue.js, https://github.com/vuejs/vue
+WordPress, https://make.wordpress.org/handbook/community-code-of-conduct/
 Yarn, https://github.com/yarnpkg/yarn

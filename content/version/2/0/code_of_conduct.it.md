@@ -1,6 +1,6 @@
 +++
 version = "2.0"
-aliases = ["/version/2/0"]
+aliases = ["/version/2/0/it"]
 +++
 
 # Codice di Comportamento del Collaboratore

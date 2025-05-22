@@ -1,6 +1,6 @@
 +++
 version = "1.4"
-aliases = ["/version/1/4"]
+aliases = ["/version/1/4/ar"]
 +++
 
 # ميثاق القواعد السلوكية للمساهمين

@@ -1,13 +1,13 @@
 +++
-version = "2.0"
-aliases = ["/version/2/0/pt-br"]
+version = "2.1"
+aliases = ["/version/2/1/pt-br"]
 +++
 
 # Código de Conduta de Colaboração
 
-## Nossa promessa
+## Nosso compromisso
 
-Como pessoas participantes, colaboradoras e líderes, nós nos comprometemos a fazer com que a participação em nossa comunidade seja uma experiência livre de assédio para todas as pessoas, independentemente de idade, tamanho do corpo, deficiência aparente ou não aparente, etnia, características sexuais, identidade ou expressão de gênero, nível de experiência, educação, situação sócio-econômica, nacionalidade, aparência pessoal, raça, religião ou identidade e orientação sexuais.
+Como participantes, colaboradoras e líderes, nós nos comprometemos a fazer com que a participação em nossa comunidade seja uma experiência livre de assédio para todas as pessoas, independentemente de idade, tamanho do corpo, deficiência aparente ou não aparente, etnia, características sexuais, identidade ou expressão de gênero, nível de experiência, educação, situação sócio-econômica, nacionalidade, aparência pessoal, raça, casta, religião ou identidade e orientação sexuais.
 
 Comprometemo-nos a agir e interagir de maneiras que contribuam para uma comunidade aberta, acolhedora, diversificada, inclusiva e saudável.
 
@@ -24,7 +24,7 @@ Exemplos de comportamentos que contribuem para criar um ambiente positivo para a
 Exemplos de comportamentos inaceitáveis incluem:
 
 * Uso de linguagem ou imagens sexualizadas, bem como o assédio sexual ou de qualquer natureza
-* Comentários insultuosos/depreciativos e ataques pessoais ou políticos (*Trolling*)
+* Comentários insultuosos/depreciativos e ataques pessoais ou políticos (Trolling)
 * Assédio público ou privado
 * Publicar informações particulares de outras pessoas, como um endereço de e-mail ou endereço físico, sem a permissão explícita delas
 * Outras condutas que são normalmente consideradas inapropriadas em um ambiente profissional
@@ -37,14 +37,11 @@ A liderança da comunidade tem o direito e a responsabilidade de remover, editar
 
 ## Escopo
 
-Este Código de Conduta se aplica dentro de todos os espaços da comunidade e também se aplica quando uma pessoa estiver representando oficialmente a comunidade em espaços públicos.
-Exemplos de representação da nossa comunidade incluem usar um endereço de e-mail oficial, postar em contas oficiais de mídias sociais ou atuar como uma pessoa indicada como representante em um evento online ou offline.
+Este Código de Conduta se aplica dentro de todos os espaços da comunidade e também se aplica quando uma pessoa estiver representando oficialmente a comunidade em espaços públicos. Exemplos de representação da nossa comunidade incluem usar um endereço de e-mail oficial, postar em contas oficiais de mídias sociais ou atuar como uma pessoa indicada como representante em um evento online ou offline.
 
 ## Aplicação
 
-Ocorrências de comportamentos abusivos, de assédio ou que sejam inaceitáveis por qualquer outro motivo poderão ser reportadas para a liderança da comunidade, responsável pela aplicação, via contato [INSERIR MÉTODO DE CONTATO].
-
-Todas as reclamações serão revisadas e investigadas imediatamente e de maneira justa.
+Ocorrências de comportamentos abusivos, de assédio ou que sejam inaceitáveis por qualquer outro motivo poderão ser reportadas para a liderança da comunidade, responsável pela aplicação, via contato [INSERIR MÉTODO DE CONTATO]. Todas as reclamações serão revisadas e investigadas imediatamente e de maneira justa.
 
 A liderança da comunidade tem a obrigação de respeitar a privacidade e a segurança de quem reportar qualquer incidente.
 
@@ -78,14 +75,15 @@ A liderança da comunidade seguirá estas Diretrizes de Impacto na Comunidade pa
 
 ## Atribuição
 
-Este Código de Conduta é adaptado do [Contributor Covenant][homepage],
-versão 2.0, disponível em
-https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
+Este Código de Conduta é adaptado do [Contributor Covenant][homepage], versão 2.1, disponível em [https://www.contributor-covenant.org/version/2/1/code_of_conduct.html][v2.1].
 
-As Diretrizes de Impacto na Comunidade foram inspiradas pela [Aplicação do código de conduta Mozilla](https://github.com/mozilla/diversity).
+As Diretrizes de Impacto na Comunidade foram inspiradas pela
+[Aplicação do código de conduta Mozilla][Mozilla CoC].
+
+Para obter respostas a perguntas comuns sobre este código de conduta, veja a página de Perguntas Frequentes (FAQ) em [https://www.contributor-covenant.org/faq][FAQ]. Traduções estão disponíveis em [https://www.contributor-covenant.org/translations][translations].
 
 [homepage]: https://www.contributor-covenant.org
-
-Para obter respostas a perguntas comuns sobre este código de conduta, veja a página de Perguntas Frequentes (*FAQ*) em
-https://www.contributor-covenant.org/faq. Traduções estão disponíveis em
-https://www.contributor-covenant.org/translations.
+[v2.1]: https://www.contributor-covenant.org/version/2/1/code_of_conduct.html
+[Mozilla CoC]: https://github.com/mozilla/diversity
+[FAQ]: https://www.contributor-covenant.org/faq
+[translations]: https://www.contributor-covenant.org/translations
