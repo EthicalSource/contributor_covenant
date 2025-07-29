@@ -116,9 +116,9 @@ languageCode = "is"
 languageName = "Italiano"
 languageCode = "it"
 
-[Languages.iw]
+[Languages.he]
 languageName = "עברית"
-languageCode = "iw"
+languageCode = "he"
 writingDirection = "rtl"
 
 [Languages.ja]
