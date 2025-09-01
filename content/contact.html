@@ -7,6 +7,65 @@ outputs = ["html"]
 
 <h1>Contact Us</h1>
 
-<p>
-  Contributor Covenant is stewarded by the <a href="https://ethicalsource.dev">Organization for Ethical Source</a>. To get in touch with the working group, send a message to <em>info@ethicalsource.dev</em>.
+<form class="send_message_form message form" name="contact-form" method="post" action="/contact-thanks" data-modal-id="modal-notify" data-netlify="true" netlify-honeypot="bot-field">
+  <div class="form-group">
+    <label class="hidden">
+      <input name="bot-field">
+      <input name="subject" value="Contributor Covenant Contact Form">
+    </label>
+  </div>
+  <div class="form-group">
+    <label>
+      <p>Name</p>
+      <input name="name" type="text" required>
+    </label>
+  </div>
+  <div class="form-group">
+    <label>
+      <p>E-mail</p>
+      <input name="email" type="email" required>
+    </label>
+  </div>
+
+  <div class="form-group">
+    <label>
+      <p>
+        Message
+      </p>
+      <textarea name="message" required></textarea>
+    </label>
+  </div>
+  <fieldset>
+    <button type="submit" class="button">Send</button>
+  </fieldset>
+</form>
+
+<p id="confirmation-message" class="hidden">
+  <em>Thank you for your message. It has been directed to the volunteer-led Contributor Covenant Working Group at the Organization for Ethical Source. We will respond as promptly as we can.</em>
 </p>
+
+<script language="javascript">
+
+  const handleSubmit = (event) => {
+    event.preventDefault();
+
+    const myForm = event.target;
+    const formData = new FormData(myForm);
+
+    fetch("/", {
+      method: "POST",
+      headers: { "Content-Type": "application/x-www-form-urlencoded" },
+      body: new URLSearchParams(formData).toString(),
+    })
+      .then(() => toggleConfirm())
+      .catch((error) => alert(error));
+  };
+
+  document.querySelector("form").addEventListener("submit", handleSubmit);
+
+  function toggleConfirm() {
+    document.querySelector("form").style.display = "none";
+    document.getElementById("confirmation-message").style.display = "block";
+  }
+
+</script>
