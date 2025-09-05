@@ -4,9 +4,11 @@ languageCode = "en-us"
 title = "Contributor Covenant"
 disableKinds = ["RSS"]
 
-DefaultContentLanguage = "en"
 hasCJKLanguage = true
-EnableMissingTranslationPlaceholders = true
+enableMissingTranslationPlaceholders = true
+
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = false
 
 uglyURLs = false
 
