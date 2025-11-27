@@ -55,6 +55,10 @@ languageDirection = "rtl"
 languageName = "Bengali"
 languageCode = "bn"
 
+[Languages.ur]
+languageName = "Urdu"
+languageCode = "ur"
+
 [Languages.bs]
 languageName = "Bosnian"
 languageCode = "bs"
