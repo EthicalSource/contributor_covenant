@@ -51,7 +51,7 @@ Note that we will not accept machine translations.
 
 ### Developers
 
-Code contributions to improve the development or operation of the [contributor-covenant.org](https://contributor-covenant.org) web site are welcome. To do so, first check to make sure your issue is not already listed in the [issues](https://github.com/EthicalSource/contributor_covenant/issues).
+Code contributions to improve the development or operation of the [contributor-covenant.org](https://contributor-covenant.org) website are welcome. To do so, first check to make sure your issue is not already listed in the [issues](https://github.com/EthicalSource/contributor_covenant/issues).
 
 #### Build the website locally
 
