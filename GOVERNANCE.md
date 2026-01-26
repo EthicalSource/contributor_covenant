@@ -12,7 +12,7 @@ Contributor Covenant ignited a revolution in how we think about open source comm
 # Decision-making
 
 ## Lazy consensus
-Most decisions, such as approval of minor copy edits or the addition of a translation, are made in public through comments on pull requests or issues on our Github repository. Decisions about such changes are presumed to pass in the absence of objections.
+Most decisions, such as approval of minor copy edits or the addition of a translation, are made in public through comments on pull requests or issues on our GitHub repository. Decisions about such changes are presumed to pass in the absence of objections.
 
 ## Committee responsibilities
 In case of major changes, or conflict that contributors cannot resolve themselves, the OES's Board has the responsibility for final decision-making.
