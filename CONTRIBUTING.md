@@ -32,7 +32,7 @@ We welcome improvements to the design elements of our website or other ways that
 
 ### Translators and native speakers
 
-We're always looking for translations by native speakers are thankful to the dozens of volunteer translators and reviewers who have donated their time and expertise.
+We're always looking for translations by native speakers and are thankful to the dozens of volunteer translators and reviewers who have donated their time and expertise.
 
 If you are a native speaker interested in doing a translation, please follow these steps:
 
