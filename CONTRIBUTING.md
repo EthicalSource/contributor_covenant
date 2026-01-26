@@ -9,7 +9,7 @@ Check the [issues](https://github.com/EthicalSource/contributor_covenant/issues)
 ## Adding Your Community to the List of Adopters
 
 * Fork the repository.
-* Edit the `assets/adopters.csv` file
+* Edit the [`assets/adopters.csv`](https://github.com/EthicalSource/contributor_covenant/blob/release/assets/adopters.csv) file
 * Add a row with your project or community name in the first column, and its URL in the second column.
 * For human readability, please make sure that you've preserved alphabetical order in the list.
 * Open a pull request.
