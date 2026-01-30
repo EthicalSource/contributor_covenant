@@ -220,7 +220,7 @@ const downloadBuffer = () => {
 
   const a = document.createElement('a');
   a.href = url;
-  a.download = "CODE_OF_CONDUCT.MD";
+  a.download = "CODE_OF_CONDUCT.md";
   a.style.display = 'none';
 
   document.body.appendChild(a);
