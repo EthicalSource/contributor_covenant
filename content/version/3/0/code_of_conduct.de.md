@@ -91,4 +91,3 @@ Dieser Verhaltenskodex basiert auf dem Contributor Covenant, Version 3.0, dauerh
 Der Contributor Covenant wird von der Organization for Ethical Source betreut und steht unter der CC BY-SA 4.0 Lizenz. Eine Kopie der Lizenz finden Sie unter [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/).
 
 Antworten auf häufige Fragen zum Contributor Covenant finden Sie im FAQ unter [https://www.contributor-covenant.org/faq](https://www.contributor-covenant.org/faq). Übersetzungen sind verfügbar unter [https://www.contributor-covenant.org/translations](https://www.contributor-covenant.org/translations). Weitere Ressourcen zu Gemeinschaftsrichtlinien und deren Durchsetzung finden Sie unter [https://www.contributor-covenant.org/resources](https://www.contributor-covenant.org/resources). Das Eskalationsverfahren wurde inspiriert durch die Arbeit des [Mozilla Code of Conduct Teams](https://github.com/mozilla/inclusion).
-

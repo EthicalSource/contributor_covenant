@@ -36,7 +36,6 @@ Contributor Covenant explicitly lists protected classes for many reasons, such a
 ## Can someone be kicked out of a community for a simple mistake, holding an unpopular belief, or sharing an opinion on social media?
 Behavior, actions, and communications outside the scope of the community cannot be considered violations of the code of conduct, unless the person in question is representing the community in an official capacity. However, the behavior of an individual outside of community spaces may impact those within community spaces as well. Communities are encouraged to explore additional ways to ensure the safety and well-being of their members beyond code of conduct enforcement.
 
-
 ## What should I do if I have been accused of violating a code of conduct?
 The first step when dealing with accusations of violation of a code of conduct is to respond in a professional manner. Do not respond with sarcasm, attack the code of conduct, or criticize the accuser. Calmly focus on the evidence of what happened, work to understand any harm you may have caused, and examine how that harm can be repaired. Stick to the facts of what happened, and demonstrate your willingness to work with Community Moderators as they evaluate the report. If you disagree with their decision, you may ask about what sort of appeal process is available to you.
 
@@ -60,4 +59,3 @@ Contributor Covenant is a living document maintained by the volunteer community 
 ## Where can I find previous versions of Contributor Covenant?
 
 {{< previous-versions >}}
-

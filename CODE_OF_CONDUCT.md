@@ -20,7 +20,6 @@ With these considerations in mind, we agree to behave mindfully toward each othe
 6. Committing to **repairing harm** when it occurs.
 7. Behaving in other ways that promote and sustain the **well-being of our community**.
 
-
 ## Restricted Behaviors
 
 We agree to restrict the following behaviors in our community. Instances, threats, and promotion of these behaviors are violations of this Code of Conduct.
@@ -39,7 +38,6 @@ We agree to restrict the following behaviors in our community. Instances, threat
 2. **Failing to credit sources.** Not properly crediting the sources of content you contribute.
 3. **Promotional materials**. Sharing marketing or other commercial content in a way that is outside the norms of the community.
 4. **Irresponsible communication.** Failing to responsibly present content which includes, links or describes any other restricted behaviors.
-
 
 ## Reporting an Issue
 
@@ -69,8 +67,6 @@ If an investigation by the Community Moderators finds that this Code of Conduct 
    1) Event: A pattern of repeated code of conduct violations that other steps on the ladder have failed to resolve, or a violation so serious that the Community Moderators determine there is no way to keep the community safe with this person as a member.
    2) Consequence: Access to all community spaces, tools, and communication channels is removed. In general, permanent bans should be rarely used, should have strong reasoning behind them, and should only be resorted to if working through other remedies has failed to change the behavior.
    3) Repair: There is no possible repair in cases of this severity.
-
-
 
 This enforcement ladder is intended as a guideline. It does not limit the ability of Community Managers to use their discretion and judgment, in keeping with the best interests of our community.
 
