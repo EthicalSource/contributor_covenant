@@ -23,7 +23,7 @@ If you prefer to use a different term, feel free to replace "Community Moderator
 ## Does a code of conduct give too much power to community leaders?
 The philosophy behind Contributor Covenant is that everyone benefits when the implicit is made explicit. A code of conduct does not give community leaders any power that they did not already have, but creates accountability for how that power is used in service of the greater community.
 
-## Why are ’ethnicity’ and ‘race’ called out as separate characteristics?
+## Why are 'ethnicity' and 'race' called out as separate characteristics?
 Ethnicity (or ethnic group) is a category of people who identify with each other based on similarities such as common ancestry, language, history, society, culture or nation.
 
 Race is the grouping of humans based on shared physical or social qualities into categories often viewed as distinct by society and usually resulting from genetic ancestry.
@@ -43,10 +43,10 @@ The first step when dealing with accusations of violation of a code of conduct i
 In all enforcement matters, Community Moderators are expected to respond to a violation with a consequence that is proportional to the offense and to work with the offender to prevent future violations. Everyone wants a safe, collaborative community of bright, kind, compassionate people of all kinds.
 
 ## Does Contributor Covenant promote a particular political or ideological agenda?
-A code of conduct is not about the advancement of a particular political agenda. It’s about establishing a minimal baseline of civil and professional collaboration.
+A code of conduct is not about the advancement of a particular political agenda. It's about establishing a minimal baseline of civil and professional collaboration.
 
 ## Why should my community have to change to accommodate marginalized people?
-The level of accommodation that the code of conduct implies is not higher than the one that is expected when dealing with peers in other professional settings. It is not about being accommodating to one group, it’s about making all participants feel welcome and safe.
+The level of accommodation that the code of conduct implies is not higher than the one that is expected when dealing with peers in other professional settings. It is not about being accommodating to one group, it's about making all participants feel welcome and safe.
 
 ## How can I add my project or community to the list of Contributor Covenant adopters?
 If you're comfortable with using GitHub, please see our [contributing guide](https://github.com/EthicalSource/contributor_covenant/blob/release/CONTRIBUTING.md) for instructions on opening a pull request. For the less technically inclined, please feel free to let us know about your adoption using our [contact form](/contact).
