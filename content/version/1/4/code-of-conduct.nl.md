@@ -7,11 +7,11 @@ aliases = ["/version/1/4/nl"]
 
 ## Onze belofte
 
-In het belang van het bevorderen van een open en welkomende omgeving, beloven wij,
+In het belang van het bevorderen van een open en welkome omgeving, beloven wij,
 de bijdragers en onderhouders, om het deelnemen in ons project en onze gemeenschap
 een intimidatie-vrije ervaring te maken voor iedereen. Dit onafhankelijk van leeftijd,
 lichaam, handicap, etniciteit, gender identiteit en uiting, ervaringsniveau, nationaliteit,
-persoonlijk voorkomen, ras, religie of seksuele indentiteit en orientatie.
+persoonlijk voorkomen, ras, religie of seksuele indentiteit en oriëntatie.
 
 ## Onze standaarden
 
@@ -30,7 +30,7 @@ Voorbeelden van niet acceptabel gedrag bij deelnemers omvat:
 of avances
 * Trollen, beledigend/denigrerend commentaar en persoonlijke of politieke aanvallen
 * Publiek of privaat lastig vallen
-* Het publiceren van prive informatie zoals een fysiek of electronisch adres zonder
+* Het publiceren van privéinformatie zoals een fysiek of electronisch adres zonder
 expliciete toestemming
 * Ander gedrag dat redelijkerwijs zou kunnen worden beschouwd als ongepast in een
 professionele omgeving
@@ -38,13 +38,13 @@ professionele omgeving
 ## Onze verantwoordelijkheden
 
 Projectonderhouders zijn verantwoordelijk om klaarheid te scheppen met betrekking
-tot de standaarden van acceptabel gedrag en worden verwacht de passende en bilijke
+tot de standaarden van acceptabel gedrag en worden verwacht de passende en billijke
 corrigerende maatregelen te treffen als antwoord op vertoningen van niet acceptabel
 gedrag.
 
 Projectonderhouders hebben het recht en de verantwoordelijkheid om commentaar, commits,
 code, wiki edits, issues en andere contributies te verwijderen, te bewerken of af te keuren
-indien deze niet voldoen aan deze Gedragscode, of om tijdelijk of permantent te bannen
+indien deze niet voldoen aan deze Gedragscode, of om tijdelijk of permanent te bannen
 zij wiens gedrag als ongewenst, bedreigend, beledigend of schadelijk wordt geacht.
 
 ## Bereik
@@ -52,7 +52,7 @@ zij wiens gedrag als ongewenst, bedreigend, beledigend of schadelijk wordt geach
 Deze Gedragscode geldt voor zowel binnen project ruimtes alsook in publieke ruimtes
 wanneer een individu het project of de gemeenschap vertegenwoordigd. Voorbeelden van
 vertegenwoordiging van een project of gemeenschap omvatten het gebruik van een officieel
-email adres van het project, het posten via een officiele sociale media account, of het
+email adres van het project, het posten via een officieel sociale media account, of het
 handelen als een aangestelde vertegenwoordiger op een online of offline event. Vertegenwoordiging
 van een project mag verder worden gedefinieerd door de projectonderhouders.
 

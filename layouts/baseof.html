@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="{{ .Site.LanguageCode }}">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ .Site.Title }} | {{ .Title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    {{ if .Params.title }}
+      <meta property="og:title" content="Contributor Covenant | {{ .Params.Title }}">
+    {{ else }}
+      <meta property="og:title" content="Contributor Covenant | {{ .Site.Title }}">
+    {{ end }}
+    <meta property="og:image" content="https://www.contributor-covenant.org/images/og-image.png">
+    <meta property="og:url" content="{{ .Permalink }}">
+    {{ if .Params.Summary }}
+      <meta property="og:description" content="{{ .Params.Summary }}">
+    {{ else }}
+      <meta property="og:description" content="The most widely adopted code of conduct in open source. Stewarded by the Organization for Ethical Source.">
+    {{ end }}
+
+    <link rel="stylesheet" href="{{ "css/fonts.css" | relURL }}">
+    <link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
+    <link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico">
+    {{ range .Params.polyfills }}
+      <script src="{{ . }}"></script>
+    {{ end }} </head>
+
+  <body{{ with .Section }} id="{{ . }}"{{ end }}>
+    {{ partial "header" . }}
+    <div id="veil">
+      {{ block "main" . }}
+      {{ end }}
+      {{ partial "footer" }}
+    </div>
+
+    {{ partial "navigation" . }}
+  </body>
+</html>

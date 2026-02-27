@@ -35,13 +35,13 @@ Die Projektverantwortlichen haben das Recht und die Verantwortung, Kommentare, C
 
 ## Geltungsbereich
 
-Dieser Verhaltenskodex gilt sowohl innerhalb des Projektbereichs als auch in öffentlichen Bereichen, wenn eine Person das Projekt oder seine Gemeinschaft repräsentiert. Beispiele für die Repräsentation eines Projektes oder der Gemeinschaft beinhalten die Verwendung einer offiziellen Projekt-E-Mail-Adresse, das Versenden von Nachrichten über einen öffentlichen Social-Media-Account oder das Handeln als Repräsentant während einer Online- oder Offline-Veranstaltung. Der Begriff "Repräsentation des Projektes" kann durch die Projektenverantwortlichen weiter ausformuliert und klargestellt werden.
+Dieser Verhaltenskodex gilt sowohl innerhalb des Projektbereichs als auch in öffentlichen Bereichen, wenn eine Person das Projekt oder seine Gemeinschaft repräsentiert. Beispiele für die Repräsentation eines Projektes oder der Gemeinschaft beinhalten die Verwendung einer offiziellen Projekt-E-Mail-Adresse, das Versenden von Nachrichten über einen öffentlichen Social-Media-Account oder das Handeln als Repräsentant während einer Online- oder Offline-Veranstaltung. Der Begriff "Repräsentation des Projektes" kann durch die Projektverantwortlichen weiter ausformuliert und klargestellt werden.
 
 ## Umsetzung
 
 Fälle von missbräuchlichem, belästigendem oder anderweitig nicht akzeptablem Verhalten können dem Projektteam unter [EMAIL ADRESSE EINFÜGEN] gemeldet werden. Alle Beschwerden werden geprüft und untersucht und werden zu einer Antwort führen, die angesichts der Umstände für notwendig und angemessen gehalten wird. Das Projektteam ist verpflichtet, über diejenigen, die Vorfälle gemeldet haben, Verschwiegenheit zu wahren. Weitere Einzelheiten zu speziellen Umsetzungsgrundsätzen können gesondert mitgeteilt werden.
 
-Projektverantwortliche, welche den Verhaltenskodex nicht befolgen, oder nicht nach bestem Wissen und Glauben für dessen Einhaltung sorgen, können sich vorübergehenden oder dauerhaften Auswirkungen gegenübersehen, die durch andere Mitglieder der Projektleitung bestimmt wurden.
+Projektverantwortliche, welche den Verhaltenskodex nicht befolgen, oder nicht nach bestem Wissen und Glauben für dessen Einhaltung sorgen, können sich vorübergehenden oder dauerhaften Auswirkungen gegenüberstehen, die durch andere Mitglieder der Projektleitung bestimmt wurden.
 
 ## Bezug
 
