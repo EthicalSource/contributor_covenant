@@ -1,0 +1,13 @@
+<ul class="data-list adopters-list">
+  {{ with $file := .Get 0 }}
+    {{ with resources.Get $file }}
+      {{ with . | transform.Unmarshal }}
+        {{ range after 1 . }}
+          <li class="adopter-list-item">
+            <a href="{{ trim (index . 1) " " | safeURL }}">{{ trim (index . 0) " " }}</a>
+          </li>
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+</ul>

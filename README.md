@@ -1,98 +1,64 @@
-Contributor Covenant
-====================
+# Contributor Covenant 3
+Working repository for the new Contributor Covenant builder.
 
-A code of conduct for open source projects.
+## Core Requirements
 
-## Project Home Page
+- [ ] Start from scratch with prior art from HL3 builder
+- [ ] Minimal with Javascript as possible, for accessibility reasons and maintenance
+- [ ] Wireframe exists [here](https://github.com/EthicalSource/contributor-covenant-builder/issues/25)
+- [ ] Something configurable that would allow for the selection of modules (to be created) in a couple of places for what will be offered as a markdown doc for the end user
+- [ ] Concept is that there will be different modules for different CC3 use cases (for example, an event vs an open source community) and different chunks of text per context
+  - [ ] Common elements:
+    - [ ] The preamble (Our Pledge)
+    - [ ] Rest of the document
+  - [ ] Modular sections:
+    - [ ] Standards
+    - [ ] Enforcement (takes form input from the user)
+    - [ ] Enforcement Guidelines
+  - [ ] Plug all selected modules into a mailer form with URL of their project/community to update the adopters list
 
-For an overview and usage instructions, please visit [contributor-covenant.org](http://contributor-covenant.org/)
+## Development concerns
+See CONTRIBUTING.md for more information including other ways to contribute.
 
-## Contributing
+### Build the website locally
+To build the website locally, first [install Hugo](https://gohugo.io/getting-started/installing)
+using your package manager of choice.
 
-Please feel free to submit pull requests or open issues to improve the language of this pledge.
+For example, on Debian/Ubuntu:
+```
+apt-get install hugo
+```
 
-## Examples of Projects Using the Contributor Covenant
+If you are using Arch Linux:
+```
+pacman -S hugo
+```
 
-This code of conduct has been adopted by [thousands of open source projects](https://github.com/search?l=markdown&q=%22contributor+covenant%22&ref=searchresults&type=Code&utf8=✓). Here are a few examples:
+If you are using [Homebrew](https://brew.sh) on macOS:
+```
+brew install hugo
+```
 
-* [24 Pull Requests](https://github.com/24pullrequests/24pullrequests)
-* [AASM](https://github.com/aasm/aasm)
-* [Algorrent](https://github.com/algorrent/algorrent)
-* [All HaskellNow.org Projects](http://www.haskellnow.org/wiki/WikiStart#Projects)
-* [AngularJS](https://github.com/angular/code-of-conduct)
-* [angular-formly](https://github.com/formly-js/angular-formly)
-* [atom](https://github.com/atom/atom)
-* [Babel](https://github.com/babel/babel)
-* [Bundler](https://github.com/bundler/bundler)
-* [Celluloid](https://github.com/celluloid/celluloid)
-* [chef-rvm](https://github.com/fnichol/chef-rvm)
-* [CloudI](http://cloudi.org/faq.html#2_CodeOfConduct)
-* [CocoaPods](https://github.com/cocoapods/cocoapods)
-* [composer](https://github.com/composer/composer)
-* [concurrent-ruby](https://github.com/ruby-concurrency/concurrent-ruby)
-* [Crackle](https://github.com/jordanekay/Crackle)
-* [Crystal](http://crystal-lang.org/)
-* [diaspora*](http://github.com/diaspora/diaspora)
-* [Eldest Daughter Questionnaire](https://github.com/eldest-daughter/ed-questionnaire)
-* [Electron](https://github.com/atom/electron)
-* [Elixir](https://github.com/elixir-lang/elixir)
-* [Exercism.io](https://github.com/exercism/exercism.io)
-* [Fukuzatsu](https://gitlab.com/coraline/fukuzatsu/tree/master)
-* [GitLab](https://github.com/gitlabhq/gitlabhq)
-* [Grape](https://github.com/ruby-grape/grape)
-* [Growing Devs](https://github.com/growingdevs/growingdevs.github.io)
-* [Hacken.in](https://github.com/hacken-in/website)
-* [Haskell Fill in the Blanks](https://gitlab.com/cpp.cabrera/haskell-fill-in-the-blanks/tree/master)
-* [haxe-pixi](https://github.com/adireddy/haxe-pixi)
-* [HealingRa.in Projects](https://gitlab.com/groups/healing-rain)
-* [Homebrew-Cask](https://github.com/caskroom/homebrew-cask)
-* [HTTPotion](https://github.com/myfreeweb/httpotion)
-* [if me](https://github.com/julianguyen/ifme)
-* [lfda](https://github.com/terrytangyuan/lfda)
-* [Jekyll](https://github.com/jekyll/jekyll)
-* [JRuby-Gradle](https://github.com/jruby-gradle/jruby-gradle-plugin)
-* [Lotus](http://lotusrb.org/community#code-of-conduct)
-* [Mensa](https://github.com/jordanekay/Mensa)
-* [MeTal](https://github.com/syegulalp/MeTal)
-* [Monsti CMS](http://www.monsti.org/)
-* [Mozilla Webmaker](https://www.webmaker.org/)
-* [Moya](http://github.com/Moya/Moya)
-* [MyPaint](http://github.com/mypaint/mypaint)
-* [Neos](https://www.neos.io/)
-* [NColony](https://github.com/moshez/ncolony)
-* [OAPI ShieldsUp](https://github.com/oapi/shieldsup)
-* [OpenDroneMap](https://github.com/OpenDroneMap/OpenDroneMap)
-* [OpenProject](https://www.openproject.org/)
-* [Orientation](https://github.com/orientation/orientation)
-* [Ornament](https://github.com/jordanekay/Ornament)
-* [OcLaunch](http://oclaunch.tuxfamily.org)
-* [Panamax](https://github.com/CenturyLinkLabs/panamax-ui)
-* [Paramore](https://github.com/iancooper/Paramore)
-* [Playscii](http://vectorpoem.com/playscii)
-* [pmap](https://github.com/bruceadams/pmap)
-* [PRAW](https://github.com/praw-dev/praw)
-* [PyBBIO](https://github.com/graycatlabs/PyBBIO)
-* [Rack::Attack](https://github.com/kickstarter/rack-attack)
-* [Rails](https://github.com/rails/rails)
-* [Rasterio](https://github.com/mapbox/rasterio)
-* [ROM](https://github.com/rom-rb/rom)
-* [RSpec](https://github.com/rspec/rspec)
-* [ruby-community](https://github.com/apeiros/ruby-community)
-* [RubyGems.org](https://github.com/rubygems/rubygems.org)
-* [RVM](https://github.com/rvm/rvm)
-* [ReactiveX/RxJS](https://github.com/ReactiveX/RxJS)
-* [QA-Tools](https://github.com/qa-tools/qa-tools)
-* [QA-Tools / PHPUnit Extension](https://github.com/qa-tools/phpunit-extension)
-* [QA-Tools / PHPUnit Example](https://github.com/qa-tools/phpunit-example)
-* [Ruby for Cats](https://github.com/rubyforcats)
-* [secure.fail](https://github.com/jonathanKingston/secure.fail)
-* [serbus](https://github.com/graycatlabs/serbus)
-* [Shoes](https://github.com/shoes/shoes4)
-* [Snuffle](https://gitlab.com/coraline/snuffle/tree/master)
-* [Snipe-IT](https://github.com/snipe/snipe-it)
-* [Spree](https://github.com/spree/spree)
-* [vim cheat sheet](https://github.com/rtorr/vim-cheat-sheet)
-* [Volt.rb](https://github.com/voltrb/volt)
-* [WAI-request-spec](https://gitlab.com/cpp.cabrera/wai-request-spec)
-* [Wisper](https://github.com/krisleech/wisper)
-* [xoreos](https://github.com/xoreos/xoreos)  
+### Start the server
+From the repository's root directory, start the development server:
+```
+hugo server -D
+```
+
+## Code Style
+- Use spaces for indentation
+- Order properties alphabetically
+
+### HTML
+- Include `alt` attribute for all images
+- Include `title` attribute for all links
+
+### CSS
+- Try to use classes instead of IDs unless things are absolutely unique
+- One selector per line
+- Use `rem` over `em` or `px`
+- Capitalize hexadecimal
+- Maintain [contrast](https://webaim.org/resources/contrastchecker/) to WCAG AA on normal text, WCAG AAA on large text
+
+### Markdown
+- Do not use fancy quotes, dashes, and such; the Markdown processor will handle that.

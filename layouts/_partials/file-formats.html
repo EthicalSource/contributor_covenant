@@ -1,0 +1,7 @@
+<dl class="formats">
+  <dt>Other formats:</dt>
+  {{ range ( after 1 .OutputFormats ) }}
+    {{ $ext := index ( last 1 ( split .MediaType "+" ) ) 0 }}
+    <dd><a class="icon icon-{{ $ext }}" href="{{ .Permalink | absLangURL }}"><abbr title="{{ .Name }}">{{ $ext }}</abbr></a></dd>
+  {{ end }}
+</dl>
