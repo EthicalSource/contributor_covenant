@@ -43,8 +43,7 @@ aliases = ["/version/2/0/cn"]
 
 ## 贯彻落实
 
-如遇滥用、骚扰等不当行为，请通过［在此输入联系方式］向纪律检查委员举报。
-纪委将迅速审议并调查全部投诉。
+如遇滥用、骚扰等不当行为，请通过［在此输入联系方式］向纪律检查委员举报。 纪委将迅速审议并调查全部投诉。
 
 社区全体负责人有义务保密举报者信息。
 
@@ -82,8 +81,7 @@ aliases = ["/version/2/0/cn"]
 
 指导方针借鉴自[Mozilla纪检分级][Mozilla CoC]。
 
-此行为标准常见问题请洽：[https://www.contributor-covenant.org/faq][FAQ]。
-另有诸译本：[https://www.contributor-covenant.org/translations][translations]。
+此行为标准常见问题请洽：[https://www.contributor-covenant.org/faq][FAQ]。 另有诸译本：[https://www.contributor-covenant.org/translations][translations]。
 
 [homepage]:https://www.contributor-covenant.org
 [v2.0]: https://www.contributor-covenant.org/version/2/0/code_of_conduct.html

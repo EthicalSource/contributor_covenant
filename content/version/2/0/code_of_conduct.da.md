@@ -1,6 +1,7 @@
 +++
 version = "2.0"
 aliases = ["/version/2/0/da"]
+reportingPlaceholder = "[INDSÆT KONTAKTINFORMATION]"
 +++
 
 # Aftale om regler for deltagelse i fælleskabet
@@ -22,6 +23,7 @@ Eksempler på hvordan der skabes en god stemning i vores fællesskab inkluderer:
 * At fokusere på hvad der er bedst, ikke bare for os som individer, men for hele fællesskabet.
 
 Eksempler på uacceptabel opførsel inkluderer:
+
 
 * Brug af vulgært sprog eller vulgære billeder og seksuel opmærksomhed eller tilnærmelser af nogen art.
 * Ondsindet provokation, fornærmende eller nedladende kommentater, personlige eller politiske angreb.
@@ -65,8 +67,7 @@ Fællesskabets ledere følger denne Målestok for Alvorsgrad til at bestemme hvi
 
 **Alvorsgrad**: En alvorlig overtrædelse af fælleskabets standarder, f.eks. gentagende episoder med uacceptabel opførsel.
 
-**Konsekvens**:
-Et midlertidigt forbud mod deltagelse i kommunikation med fællesskabet i en angiven tidsperiode. Ingen offentlig eller privat interaktion med de involverede parter samt ingen uopfordret henvendelse til dem, der er ansvarlige for håndhævelse af vores fællesskabsregler er tilladt i denne periode. Overtrædelse af de disse betingelser kan medføre permanent udelukkelse fra fællesskabet.
+**Konsekvens**: Et midlertidigt forbud mod deltagelse i kommunikation med fællesskabet i en angiven tidsperiode. Ingen offentlig eller privat interaktion med de involverede parter samt ingen uopfordret henvendelse til dem, der er ansvarlige for håndhævelse af vores fællesskabsregler er tilladt i denne periode. Overtrædelse af de disse betingelser kan medføre permanent udelukkelse fra fællesskabet.
 
 ### 4. Permanent udelukkelse
 

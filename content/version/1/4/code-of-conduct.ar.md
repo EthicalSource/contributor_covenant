@@ -1,6 +1,7 @@
 +++
 version = "1.4"
 aliases = ["/version/1/4"]
+languagecode = "ar"
 +++
 
 # ميثاق القواعد السلوكية للمساهمين

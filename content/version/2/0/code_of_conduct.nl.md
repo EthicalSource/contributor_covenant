@@ -1,6 +1,7 @@
 +++
 version = "2.0"
 aliases = ["/version/2/0"]
+reportingPlaceholder = "[CONTACTMETHODE INVOEGEN]"
 +++
 
 # Contributor Covenant Gedragscode (Code of Conduct)
@@ -18,8 +19,7 @@ Voorbeelden van gedrag dat bijdraagt aan een positieve omgeving voor onze commun
 * Empathie en vriendelijkheid tonen tegenover andere mensen
 * Verschillende meningen, standpunten en ervaringen respecteren
 * Constructieve feedback geven en gracieus accepteren
-* Verantwoordelijkheid aanvaarden en excuses aanbieden aan degenen die door onze fouten zijn getroffen,
-  en leren van de ervaring
+* Verantwoordelijkheid aanvaarden en excuses aanbieden aan degenen die door onze fouten zijn getroffen, en leren van de ervaring
 * Focussen op wat het beste is voor de algemene gemeenschap, niet alleen voor ons als individuen
 
 Voorbeelden van onaanvaardbaar gedrag zijn:
@@ -38,13 +38,11 @@ Communityleiders hebben het recht en de verantwoordelijkheid om opmerkingen, com
 
 ## Toepassingsgebied
 
-Deze Gedragscode is van toepassing binnen alle gemeenschappelijke ruimtes en is ook van toepassing wanneer een individu officieel de community in openbare ruimtes vertegenwoordigt.
-Voorbeelden van het vertegenwoordigen van onze community zijn onder meer het gebruik van een officieel e-mailadres, berichten plaatsen via een officieel social media account of optreden als een aangestelde vertegenwoordiger bij een online of offline evenement.
+Deze Gedragscode is van toepassing binnen alle gemeenschappelijke ruimtes en is ook van toepassing wanneer een individu officieel de community in openbare ruimtes vertegenwoordigt. Voorbeelden van het vertegenwoordigen van onze community zijn onder meer het gebruik van een officieel e-mailadres, berichten plaatsen via een officieel social media account of optreden als een aangestelde vertegenwoordiger bij een online of offline evenement.
 
 ## Handhaving
 
-Beledigend, intimiderend of anderszins onaanvaardbaar gedrag kan gerapporteerd worden aan de communityleiders die verantwoordelijk zijn voor handhaving via [CONTACTMETHODE INVOEGEN].
-Alle klachten zullen onmiddellijk en eerlijk worden beoordeeld en onderzocht.
+Beledigend, intimiderend of anderszins onaanvaardbaar gedrag kan gerapporteerd worden aan de communityleiders die verantwoordelijk zijn voor handhaving via [CONTACTMETHODE INVOEGEN]. Alle klachten zullen onmiddellijk en eerlijk worden beoordeeld en onderzocht.
 
 Alle communityleiders zijn verplicht om de privacy en veiligheid van de melder van een incident te respecteren.
 
@@ -68,8 +66,7 @@ Communityleiders zullen onderstaande "Community Impact Guidelines" volgen bij he
 
 **Impact op de community**: Een ernstige schending van community normen, inclusief aanhoudend ongepast gedrag.
 
-**Consequentie**: Een tijdelijk verbod op elke vorm van interactie of openbare communicatie met de community gedurende een bepaalde periode. Geen publieke- of privé-interactie met de betrokken personen, inclusief ongevraagde interactie met degenen die de Gedragscode handhaven, is toegestaan tijdens deze periode.
-Het overtreden van deze voorwaarden kan leiden tot een permanente ban.
+**Consequentie**: Een tijdelijk verbod op elke vorm van interactie of openbare communicatie met de community gedurende een bepaalde periode. Geen publieke- of privé-interactie met de betrokken personen, inclusief ongevraagde interactie met degenen die de Gedragscode handhaven, is toegestaan tijdens deze periode. Het overtreden van deze voorwaarden kan leiden tot een permanente ban.
 
 ### 4. Permanente ban
 

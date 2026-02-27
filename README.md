@@ -1,103 +1,64 @@
-Contributor Covenant
-====================
+# Contributor Covenant 3
+Working repository for the new Contributor Covenant builder.
 
-The first and most popular code of conduct for open and ethical source communities.
+## Core Requirements
 
-## Project Home Page
+- [ ] Start from scratch with prior art from HL3 builder
+- [ ] Minimal with Javascript as possible, for accessibility reasons and maintenance
+- [ ] Wireframe exists [here](https://github.com/EthicalSource/contributor-covenant-builder/issues/25)
+- [ ] Something configurable that would allow for the selection of modules (to be created) in a couple of places for what will be offered as a markdown doc for the end user
+- [ ] Concept is that there will be different modules for different CC3 use cases (for example, an event vs an open source community) and different chunks of text per context
+  - [ ] Common elements:
+    - [ ] The preamble (Our Pledge)
+    - [ ] Rest of the document
+  - [ ] Modular sections:
+    - [ ] Standards
+    - [ ] Enforcement (takes form input from the user)
+    - [ ] Enforcement Guidelines
+  - [ ] Plug all selected modules into a mailer form with URL of their project/community to update the adopters list
 
-For an overview and usage instructions, please visit 
-[contributor-covenant.org](https://contributor-covenant.org/).
-
-## Our Community
-We are grateful to the 300+ people from around the world who have contributed to the evolution of this historic document.
-
-<a href="https://github.com/EthicalSource/contributor_covenant/graphs/contributors"><img src="https://opencollective.com/contributor-covenant/contributors.svg?width=890&button=false" /></a>
-
-## Governance
-For project governance, see [our governance document](GOVERNANCE.md).
-
-We always collaborate in the open. 
-
-## Contributing
-
-Please feel free to submit pull requests or open issues to improve the language of this document 
-or to provide additional [translations](https://www.contributor-covenant.org/translations).
-
-You should also check the [issues](https://github.com/EthicalSource/contributor_covenant/issues)
-for the latest discussions involving the current and future versions of the Contributor Covenant.
+## Development concerns
+See CONTRIBUTING.md for more information including other ways to contribute.
 
 ### Build the website locally
 To build the website locally, first [install Hugo](https://gohugo.io/getting-started/installing)
-using your package manager of choice.  
+using your package manager of choice.
+
 For example, on Debian/Ubuntu:
 ```
-$ apt-get install hugo
+apt-get install hugo
 ```
 
 If you are using Arch Linux:
 ```
-$ pacman -S hugo
+pacman -S hugo
 ```
 
 If you are using [Homebrew](https://brew.sh) on macOS:
 ```
-$ brew install hugo
+brew install hugo
 ```
 
 ### Start the server
 From the repository's root directory, start the development server:
 ```
-$ hugo server -D
+hugo server -D
 ```
 
-## Translating
+## Code Style
+- Use spaces for indentation
+- Order properties alphabetically
 
-We're always looking for new localizations of the Contributor Covenant and are thankful to the volunteers who spend their time on translations.
+### HTML
+- Include `alt` attribute for all images
+- Include `title` attribute for all links
 
-If you are interested in doing a translation, please follow these steps:
+### CSS
+- Try to use classes instead of IDs unless things are absolutely unique
+- One selector per line
+- Use `rem` over `em` or `px`
+- Capitalize hexadecimal
+- Maintain [contrast](https://webaim.org/resources/contrastchecker/) to WCAG AA on normal text, WCAG AAA on large text
 
-1. Fork the repository and make a branch for your translation.
-1. If it's a new language, add it to `config.toml`,
-  with a localized name and language code/optional region (e.g. `pt` or `pt-br`). See the [list of ISO 639-2 language codes here](https://www.loc.gov/standards/iso639-2/php/code_list.php)
-1. Create a markdown file with your translation in `version/2/0/code_of_conduct.LANGUAGECODE.md`. (Underscores, not hyphens.)
-1. Open a pull request.
-1. We will put out a call to have one or more other native speakers review the translation.
-1. Collaborate until the translation is satisfactory.
-1. We will merge your translation!
-1. HTML and plain text versions are automatically generated from your markdown file.
-1. A link to your translation is automatically added to the translations page.
-
-## Registering Your Community as an Adopter
-
-* Fork the repository.
-* Add a new row to the [adopters.csv](static/adopters.csv) file,
-  with your community or project's name in the first column, and the corresponding URL in the second column.
-* Open a pull request.
-
-## Financial Contributors
-
-Become a financial contributor and help us sustain our community. [[Contribute](https://opencollective.com/contributor-covenant/contribute)]
-
-### Individuals
-
-<a href="https://opencollective.com/contributor-covenant"><img src="https://opencollective.com/contributor-covenant/individuals.svg?width=890"></a>
-
-### Organizations
-
-If your organization uses Contributor Covenant, you should consider supporting us financially with a recurring donation. Your logo will show up here with a link to your website. [[Contribute](https://opencollective.com/contributor-covenant/contribute)]
-
-<a href="https://opencollective.com/contributor-covenant/organization/0/website"><img src="https://opencollective.com/contributor-covenant/organization/0/avatar.svg"></a>
-<a href="https://opencollective.com/contributor-covenant/organization/1/website"><img src="https://opencollective.com/contributor-covenant/organization/1/avatar.svg"></a>
-<a href="https://opencollective.com/contributor-covenant/organization/2/website"><img src="https://opencollective.com/contributor-covenant/organization/2/avatar.svg"></a>
-<a href="https://opencollective.com/contributor-covenant/organization/3/website"><img src="https://opencollective.com/contributor-covenant/organization/3/avatar.svg"></a>
-<a href="https://opencollective.com/contributor-covenant/organization/4/website"><img src="https://opencollective.com/contributor-covenant/organization/4/avatar.svg"></a>
-<a href="https://opencollective.com/contributor-covenant/organization/5/website"><img src="https://opencollective.com/contributor-covenant/organization/5/avatar.svg"></a>
-<a href="https://opencollective.com/contributor-covenant/organization/6/website"><img src="https://opencollective.com/contributor-covenant/organization/6/avatar.svg"></a>
-<a href="https://opencollective.com/contributor-covenant/organization/7/website"><img src="https://opencollective.com/contributor-covenant/organization/7/avatar.svg"></a>
-<a href="https://opencollective.com/contributor-covenant/organization/8/website"><img src="https://opencollective.com/contributor-covenant/organization/8/avatar.svg"></a>
-<a href="https://opencollective.com/contributor-covenant/organization/9/website"><img src="https://opencollective.com/contributor-covenant/organization/9/avatar.svg"></a>
-
-## License
-
-The Contributor Covenant is open source and free culture released under the terms of the 
-[Creative Commons Attribution 4.0 International](LICENSE.md) public license.
+### Markdown
+- Do not use fancy quotes, dashes, and such; the Markdown processor will handle that.

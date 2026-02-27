@@ -1,0 +1,1 @@
+{{- $language := .Get 0 -}}{{- $version := $.Page.Param "version" -}}{{- with $version -}}{{- range first 1 (where (where (where $.Site.Pages "Section" "version") ".Params.version" $version) ".Params.language" $language) -}}{{ .Params.reportingPlaceholder }}{{- end -}}{{- end -}}{{- "" -}}

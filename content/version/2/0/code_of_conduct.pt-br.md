@@ -1,6 +1,7 @@
 +++
 version = "2.0"
 aliases = ["/version/2/0"]
+reportingPlaceholder = "[INSERIR MÉTODO DE CONTATO]"
 +++
 
 # Código de Conduta de Colaboração
@@ -37,8 +38,7 @@ A liderança da comunidade tem o direito e a responsabilidade de remover, editar
 
 ## Escopo
 
-Este Código de Conduta se aplica dentro de todos os espaços da comunidade e também se aplica quando uma pessoa estiver representando oficialmente a comunidade em espaços públicos.
-Exemplos de representação da nossa comunidade incluem usar um endereço de e-mail oficial, postar em contas oficiais de mídias sociais ou atuar como uma pessoa indicada como representante em um evento online ou offline.
+Este Código de Conduta se aplica dentro de todos os espaços da comunidade e também se aplica quando uma pessoa estiver representando oficialmente a comunidade em espaços públicos. Exemplos de representação da nossa comunidade incluem usar um endereço de e-mail oficial, postar em contas oficiais de mídias sociais ou atuar como uma pessoa indicada como representante em um evento online ou offline.
 
 ## Aplicação
 
@@ -78,14 +78,10 @@ A liderança da comunidade seguirá estas Diretrizes de Impacto na Comunidade pa
 
 ## Atribuição
 
-Este Código de Conduta é adaptado do [Contributor Covenant][homepage],
-versão 2.0, disponível em
-https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
+Este Código de Conduta é adaptado do [Contributor Covenant][homepage], versão 2.0, disponível em https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
 
 As Diretrizes de Impacto na Comunidade foram inspiradas pela [Aplicação do código de conduta Mozilla](https://github.com/mozilla/diversity).
 
 [homepage]: https://www.contributor-covenant.org
 
-Para obter respostas a perguntas comuns sobre este código de conduta, veja a página de Perguntas Frequentes (*FAQ*) em
-https://www.contributor-covenant.org/faq. Traduções estão disponíveis em
-https://www.contributor-covenant.org/translations.
+Para obter respostas a perguntas comuns sobre este código de conduta, veja a página de Perguntas Frequentes (*FAQ*) em https://www.contributor-covenant.org/faq. Traduções estão disponíveis em https://www.contributor-covenant.org/translations.

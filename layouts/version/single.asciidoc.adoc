@@ -1,6 +1,5 @@
 {{- /*
 Very hacky way of converting markdown to asciidoc.
-Because the covenant uses rather simple syntax, we can get away with this :)
 
 Order of operations is:
 * Replace markdown # headers for = asciidoc

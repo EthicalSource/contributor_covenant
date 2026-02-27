@@ -1,6 +1,7 @@
 +++
 version = "2.0"
 aliases = ["/version/2/0/es"]
+reportingPlaceholder = "[INSERTAR MÉTODO DE CONTACTO]"
 +++
 
 # Código de Conducta convenido para Contribuyentes
@@ -23,14 +24,11 @@ Ejemplos de comportamiento que contribuyen a crear un ambiente positivo para nue
 
 Ejemplos de comportamiento inaceptable:
 
-* El uso de lenguaje o imágenes sexualizadas, y aproximaciones o
-  atenciones sexuales de cualquier tipo
+* El uso de lenguaje o imágenes sexualizadas, y aproximaciones o atenciones sexuales de cualquier tipo
 * Comentarios despectivos (_trolling_), insultantes o derogatorios, y ataques personales o políticos
 * El acoso en público o privado
-* Publicar información privada de otras personas, tales como direcciones físicas o de correo
-  electrónico, sin su permiso explícito
-* Otras conductas que puedan ser razonablemente consideradas como inapropiadas en un
-  entorno profesional
+* Publicar información privada de otras personas, tales como direcciones físicas o de correo electrónico, sin su permiso explícito
+* Otras conductas que puedan ser razonablemente consideradas como inapropiadas en un entorno profesional
 
 ## Aplicación de las responsabilidades
 
@@ -78,12 +76,10 @@ Los administradores de la comunidad seguirán estas Guías de Impacto en la Comu
 
 ## Atribución
 
-Este Código de Conducta es una adaptación del [Contributor Covenant][homepage], versión 2.0,
-disponible en https://www.contributor-covenant.org/es/version/2/0/code_of_conduct.html
+Este Código de Conducta es una adaptación del [Contributor Covenant][homepage], versión 2.0, disponible en https://www.contributor-covenant.org/es/version/2/0/code_of_conduct.html
 
 Las Guías de Impacto en la Comunidad están inspiradas en la [escalera de aplicación del código de conducta de Mozilla](https://github.com/mozilla/diversity).
 
 [homepage]: https://www.contributor-covenant.org
 
-Para respuestas a las preguntas frecuentes de este código de conducta, consulta las FAQ en
-https://www.contributor-covenant.org/faq. Hay traducciones disponibles en https://www.contributor-covenant.org/translations
+Para respuestas a las preguntas frecuentes de este código de conducta, consulta las FAQ en https://www.contributor-covenant.org/faq. Hay traducciones disponibles en https://www.contributor-covenant.org/translations

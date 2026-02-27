@@ -3,3 +3,7 @@
 
 # Vim swap files
 *.sw?
+
+# Other
+.nova/
+.hugo_build.lock

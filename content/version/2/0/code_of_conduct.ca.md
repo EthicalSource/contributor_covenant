@@ -1,6 +1,7 @@
 +++
 version = "2.0"
 aliases = ["/version/2/0/ca"]
+reportingPlaceholder = "[INSERIR MÈTODE DE CONTACTE]"
 +++
 
 # Codi de Conducta acordat pels Col·laboradors

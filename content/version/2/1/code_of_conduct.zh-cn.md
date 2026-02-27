@@ -1,6 +1,7 @@
 +++
 version = "2.1"
 aliases = ["/version/2/1/cn"]
+reportingPlaceholder = "[插入联系方式]"
 +++
 
 # 贡献者公约
@@ -43,8 +44,7 @@ aliases = ["/version/2/1/cn"]
 
 ## 监督
 
-辱骂、骚扰或其他不可接受的行为可通过 [插入联系方式] 向负责监督的社区领袖报告。
-所有投诉都将得到及时和公平的审查和调查。
+辱骂、骚扰或其他不可接受的行为可通过 [插入联系方式] 向负责监督的社区领袖报告。 所有投诉都将得到及时和公平的审查和调查。
 
 所有社区领袖都有义务尊重任何事件报告者的隐私和安全。
 
@@ -82,8 +82,7 @@ aliases = ["/version/2/1/cn"]
 
 社区处理方针灵感来源于 [Mozilla's code of conduct enforcement ladder][Mozilla CoC]。
 
-有关本行为准则的常见问题的答案，参见 [https://www.contributor-covenant.org/faq][FAQ]。
-其他语言翻译参见 [https://www.contributor-covenant.org/translations][translations]。
+有关本行为准则的常见问题的答案，参见 [https://www.contributor-covenant.org/faq][FAQ]。 其他语言翻译参见 [https://www.contributor-covenant.org/translations][translations]。
 
 [homepage]: https://www.contributor-covenant.org
 [v2.1]: https://www.contributor-covenant.org/version/2/1/code_of_conduct.html

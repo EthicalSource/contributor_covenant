@@ -1,109 +1,307 @@
-### Creative Commons Attribution 4.0 International Public License
+HIPPOCRATIC LICENSE
 
-*Official translations of this legal tool are available in [other languages](#languages).*
+Version 3.0, October 2021
 
-By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution 4.0 International Public License ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.
+https://firstdonoharm.dev/version/3/0/core.txt
 
-**Section 1 – Definitions.**
+TERMS AND CONDITIONS
 
-1.  **Adapted Material** means material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor. For purposes of this Public License, where the Licensed Material is a musical work, performance, or sound recording, Adapted Material is always produced where the Licensed Material is synched in timed relation with a moving image.
-2.  **Adapter's License** means the license You apply to Your Copyright and Similar Rights in Your contributions to Adapted Material in accordance with the terms and conditions of this Public License.
-3.  **Copyright and Similar Rights** means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section [2(b)(1)-(2)](#s2b) are not Copyright and Similar Rights.
-4.  **Effective Technological Measures** means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.
-5.  **Exceptions and Limitations** means fair use, fair dealing, and/or any other exception or limitation to Copyright and Similar Rights that applies to Your use of the Licensed Material.
-6.  **Licensed Material** means the artistic or literary work, database, or other material to which the Licensor applied this Public License.
-7.  **Licensed Rights** means the rights granted to You subject to the terms and conditions of this Public License, which are limited to all Copyright and Similar Rights that apply to Your use of the Licensed Material and that the Licensor has authority to license.
-8.  **Licensor** means the individual(s) or entity(ies) granting rights under this Public License.
-9.  **Share** means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.
-10.  **Sui Generis Database Rights** means rights other than copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.
-11.  **You** means the individual or entity exercising the Licensed Rights under this Public License. **Your** has a corresponding meaning.
+TERMS AND CONDITIONS FOR USE, COPY, MODIFICATION, PREPARATION OF DERIVATIVE
+WORK, REPRODUCTION, AND DISTRIBUTION:
 
-**Section 2 – Scope.**
+1. DEFINITIONS:
 
-1.  **License grant**.
-    1.  Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:
-        1.  reproduce and Share the Licensed Material, in whole or in part; and
-        2.  produce, reproduce, and Share Adapted Material.
-    2.  <span style="text-decoration: underline;">Exceptions and Limitations</span>. For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.
-    3.  <span style="text-decoration: underline;">Term</span>. The term of this Public License is specified in Section [6(a)](#s6a).
-    4.  <span style="text-decoration: underline;">Media and formats; technical modifications allowed</span>. The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section [2(a)(4)](#s2a4) never produces Adapted Material.
-    5.  <span style="text-decoration: underline;">Downstream recipients</span>.
+This section defines certain terms used throughout this license agreement.
 
-        <div class="para">
+1.1. “License” means the terms and conditions, as stated herein, for use, copy,
+modification, preparation of derivative work, reproduction, and distribution of
+Software (as defined below).
 
-        1.  <span style="text-decoration: underline;">Offer from the Licensor – Licensed Material</span>. Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.
-        2.  <span style="text-decoration: underline;">No downstream restrictions</span>. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.
+1.2. “Licensor” means the copyright and/or patent owner or entity authorized by
+the copyright and/or patent owner that is granting the License.
 
-        </div>
+1.3. “Licensee” means the individual or entity exercising permissions granted by
+this License, including the use, copy, modification, preparation of derivative
+work, reproduction, and distribution of Software (as defined below).
 
-    6.  <span style="text-decoration: underline;">No endorsement</span>. Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section [3(a)(1)(A)(i)](#s3a1Ai).
-2.  **Other rights**.
+1.4. “Software” means any copyrighted work, including but not limited to
+software code, authored by Licensor and made available under this License.
 
-    1.  Moral rights, such as the right of integrity, are not licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.
-    2.  Patent and trademark rights are not licensed under this Public License.
-    3.  To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties.
+1.5. “Supply Chain” means the sequence of processes involved in the production
+and/or distribution of a commodity, good, or service offered by the Licensee.
 
-**Section 3 – License Conditions.**
+1.6. “Supply Chain Impacted Party” or “Supply Chain Impacted Parties” means any
+person(s) directly impacted by any of Licensee’s Supply Chain, including the
+practices of all persons or entities within the Supply Chain prior to a good or
+service reaching the Licensee.
 
-Your exercise of the Licensed Rights is expressly made subject to the following conditions.
+1.7. “Duty of Care” is defined by its use in tort law, delict law, and/or
+similar bodies of law closely related to tort and/or delict law, including
+without limitation, a requirement to act with the watchfulness, attention,
+caution, and prudence that a reasonable person in the same or similar
+circumstances would use towards any Supply Chain Impacted Party.
 
-1.  **Attribution**.
+1.8. “Worker” is defined to include any and all permanent, temporary, and agency
+workers, as well as piece-rate, salaried, hourly paid, legal young (minors),
+part-time, night, and migrant workers.
 
-    1.  If You Share the Licensed Material (including in modified form), You must:
+2. INTELLECTUAL PROPERTY GRANTS:
 
-        1.  retain the following if it is supplied by the Licensor with the Licensed Material:
-            1.  identification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);
-            2.  a copyright notice;
-            3.  a notice that refers to this Public License;
-            4.  a notice that refers to the disclaimer of warranties;
-            5.  a URI or hyperlink to the Licensed Material to the extent reasonably practicable;
-        2.  indicate if You modified the Licensed Material and retain an indication of any previous modifications; and
-        3.  indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.
-    2.  You may satisfy the conditions in Section [3(a)(1)](#s3a1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.
-    3.  If requested by the Licensor, You must remove any of the information required by Section [3(a)(1)(A)](#s3a1A) to the extent reasonably practicable.
-    4.  If You Share Adapted Material You produce, the Adapter's License You apply must not prevent recipients of the Adapted Material from complying with this Public License.
+This section identifies intellectual property rights granted to a Licensee.
 
-**Section 4 – Sui Generis Database Rights.**
+2.1. Grant of Copyright License: Subject to the terms and conditions of this
+License, Licensor hereby grants to Licensee a worldwide, non-exclusive,
+no-charge, royalty-free copyright license to use, copy, modify, prepare
+derivative work, reproduce, or distribute the Software, Licensor authored
+modified software, or other work derived from the Software.
 
-Where the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material:
+2.2. Grant of Patent License: Subject to the terms and conditions of this
+License, Licensor hereby grants Licensee a worldwide, non-exclusive, no-charge,
+royalty-free patent license to make, have made, use, offer to sell, sell,
+import, and otherwise transfer Software.
 
-1.  for the avoidance of doubt, Section [2(a)(1)](#s2a1) grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database;
-2.  if You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material; and
-3.  You must comply with the conditions in Section [3(a)](#s3a) if You Share all or a substantial portion of the contents of the database.
+3. ETHICAL STANDARDS:
 
-For the avoidance of doubt, this Section [4](#s4) supplements and does not replace Your obligations under this Public License where the Licensed Rights include other Copyright and Similar Rights.
+This section lists conditions the Licensee must comply with in order to have
+rights under this License.
 
-**Section 5 – Disclaimer of Warranties and Limitation of Liability.**
+The rights granted to the Licensee by this License are expressly made subject to
+the Licensee’s ongoing compliance with the following conditions:
 
-1.  **Unless otherwise separately undertaken by the Licensor, to the extent possible, the Licensor offers the Licensed Material as-is and as-available, and makes no representations or warranties of any kind concerning the Licensed Material, whether express, implied, statutory, or other. This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable. Where disclaimers of warranties are not allowed in full or in part, this disclaimer may not apply to You.**
-2.  **To the extent possible, in no event will the Licensor be liable to You on any legal theory (including, without limitation, negligence) or otherwise for any direct, special, indirect, incidental, consequential, punitive, exemplary, or other losses, costs, expenses, or damages arising out of this Public License or use of the Licensed Material, even if the Licensor has been advised of the possibility of such losses, costs, expenses, or damages. Where a limitation of liability is not allowed in full or in part, this limitation may not apply to You.**
+ * 3.1. The Licensee SHALL NOT, whether directly or indirectly, through agents
+   or assigns:
 
-1.  The disclaimer of warranties and limitation of liability provided above shall be interpreted in a manner that, to the extent possible, most closely approximates an absolute disclaimer and waiver of all liability.
+   * 3.1.1. Infringe upon any person’s right to life or security of person,
+     engage in extrajudicial killings, or commit murder, without lawful cause
+     (See Article 3, United Nations Universal Declaration of Human Rights;
+     Article 6, International Covenant on Civil and Political Rights)
 
-**Section 6 – Term and Termination.**
+   * 3.1.2. Hold any person in slavery, servitude, or forced labor (See Article
+     4, United Nations Universal Declaration of Human Rights; Article 8,
+     International Covenant on Civil and Political Rights);
 
-1.  This Public License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.
-2.  Where Your right to use the Licensed Material has terminated under Section [6(a)](#s6a), it reinstates:
+   * 3.1.3. Contribute to the institution of slavery, slave trading, forced
+     labor, or unlawful child labor (See Article 4, United Nations Universal
+     Declaration of Human Rights; Article 8, International Covenant on Civil and
+     Political Rights);
 
-    1.  automatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or
-    2.  upon express reinstatement by the Licensor.For the avoidance of doubt, this Section [6(b)](#s6b) does not affect any right the Licensor may have to seek remedies for Your violations of this Public License.
-3.  For the avoidance of doubt, the Licensor may also offer the Licensed Material under separate terms or conditions or stop distributing the Licensed Material at any time; however, doing so will not terminate this Public License.
-4.  Sections [1](#s1), [5](#s5), [6](#s6), [7](#s7), and [8](#s8) survive termination of this Public License.
+   * 3.1.4. Torture or subject any person to cruel, inhumane, or degrading
+     treatment or punishment (See Article 5, United Nations Universal
+     Declaration of Human Rights; Article 7, International Covenant on Civil and
+     Political Rights);
 
-**Section 7 – Other Terms and Conditions.**
+   * 3.1.5. Discriminate on the basis of sex, gender, sexual orientation, race,
+     ethnicity, nationality, religion, caste, age, medical disability or
+     impairment, and/or any other like circumstances (See Article 7, United
+     Nations Universal Declaration of Human Rights; Article 2, International
+     Covenant on Economic, Social and Cultural Rights; Article 26, International
+     Covenant on Civil and Political Rights);
 
-1.  The Licensor shall not be bound by any additional or different terms or conditions communicated by You unless expressly agreed.
-2.  Any arrangements, understandings, or agreements regarding the Licensed Material not stated herein are separate from and independent of the terms and conditions of this Public License.
+   * 3.1.6. Prevent any person from exercising his/her/their right to seek an
+     effective remedy by a competent court or national tribunal (including
+     domestic judicial systems, international courts, arbitration bodies, and
+     other adjudicating bodies) for actions violating the fundamental rights
+     granted to him/her/them by applicable constitutions, applicable laws, or by
+     this License (See Article 8, United Nations Universal Declaration of Human
+     Rights; Articles 9 and 14, International Covenant on Civil and Political
+     Rights);
 
-**Section 8 – Interpretation.**
+   * 3.1.7. Subject any person to arbitrary arrest, detention, or exile (See
+     Article 9, United Nations Universal Declaration of Human Rights; Article 9,
+     International Covenant on Civil and Political Rights);
 
-1.  For the avoidance of doubt, this Public License does not, and shall not be interpreted to, reduce, limit, restrict, or impose conditions on any use of the Licensed Material that could lawfully be made without permission under this Public License.
-2.  To the extent possible, if any provision of this Public License is deemed unenforceable, it shall be automatically reformed to the minimum extent necessary to make it enforceable. If the provision cannot be reformed, it shall be severed from this Public License without affecting the enforceability of the remaining terms and conditions.
-3.  No term or condition of this Public License will be waived and no failure to comply consented to unless expressly agreed to by the Licensor.
-4.  Nothing in this Public License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to the Licensor or You, including from the legal processes of any jurisdiction or authority.
+   * 3.1.8. Subject any person to arbitrary interference with a person’s
+     privacy, family, home, or correspondence without the express written
+     consent of the person (See Article 12, United Nations Universal Declaration
+     of Human Rights; Article 17, International Covenant on Civil and Political
+     Rights);
 
-Creative Commons is not a party to its public licenses. Notwithstanding, Creative Commons may elect to apply one of its public licenses to material it publishes and in those instances will be considered the “Licensor.” The text of the Creative Commons public licenses is dedicated to the public domain under the [CC0 Public Domain Dedication](//creativecommons.org/publicdomain/zero/1.0/legalcode). Except for the limited purpose of indicating that material is shared under a Creative Commons public license or as otherwise permitted by the Creative Commons policies published at [creativecommons.org/policies](//creativecommons.org/policies), Creative Commons does not authorize the use of the trademark “Creative Commons” or any other trademark or logo of Creative Commons without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses or any other arrangements, understandings, or agreements concerning use of licensed material. For the avoidance of doubt, this paragraph does not form part of the public licenses.  
+   * 3.1.9. Arbitrarily deprive any person of his/her/their property (See
+     Article 17, United Nations Universal Declaration of Human Rights);
 
-Creative Commons may be contacted at [creativecommons.org](//creativecommons.org/).
+   * 3.1.10. Forcibly remove indigenous peoples from their lands or territories
+     or take any action with the aim or effect of dispossessing indigenous
+     peoples from their lands, territories, or resources, including without
+     limitation the intellectual property or traditional knowledge of indigenous
+     peoples, without the free, prior, and informed consent of indigenous
+     peoples concerned (See Articles 8 and 10, United Nations Declaration on the
+     Rights of Indigenous Peoples);
 
-<a name="languages">Additional languages available</a>: [Bahasa Indonesia](//creativecommons.org/licenses/by/4.0/legalcode.id), [Nederlands](//creativecommons.org/licenses/by/4.0/legalcode.nl), [norsk](//creativecommons.org/licenses/by/4.0/legalcode.no), [suomeksi](//creativecommons.org/licenses/by/4.0/legalcode.fi), [te reo Māori](//creativecommons.org/licenses/by/4.0/legalcode.mi), [українська](//creativecommons.org/licenses/by/4.0/legalcode.uk), [日本語](//creativecommons.org/licenses/by/4.0/legalcode.ja). Please read the [FAQ](//wiki.creativecommons.org/FAQ#officialtranslations) for more information about official translations.
+   * 3.1.11. Interfere with Workers' free exercise of the right to organize and
+     associate (See Article 20, United Nations Universal Declaration of Human
+     Rights; C087 - Freedom of Association and Protection of the Right to
+     Organise Convention, 1948 (No. 87), International Labour Organization;
+     Article 8, International Covenant on Economic, Social and Cultural Rights);
+     and
+
+   * 3.1.12. Harm the environment in a manner inconsistent with local, state,
+     national, or international law.
+
+ * 3.2. The Licensee SHALL:
+
+   * 3.2.1. Provide equal pay for equal work where the performance of such work
+     requires equal skill, effort, and responsibility, and which are performed
+     under similar working conditions, except where such payment is made
+     pursuant to:
+
+     * 3.2.1.1. A seniority system;
+
+     * 3.2.1.2. A merit system;
+
+     * 3.2.1.3. A system which measures earnings by quantity or quality of
+       production; or
+
+     * 3.2.1.4. A differential based on any other factor other than sex, gender,
+       sexual orientation, race, ethnicity, nationality, religion, caste, age,
+       medical disability or impairment, and/or any other like circumstances
+       (See 29 U.S.C.A. § 206(d)(1); Article 23, United Nations Universal
+       Declaration of Human Rights; Article 7, International Covenant on
+       Economic, Social and Cultural Rights; Article 26, International Covenant
+       on Civil and Political Rights); and
+
+   * 3.2.2. Allow for reasonable limitation of working hours and periodic
+     holidays with pay (See Article 24, United Nations Universal Declaration of
+     Human Rights; Article 7, International Covenant on Economic, Social and
+     Cultural Rights).
+
+4. SUPPLY CHAIN IMPACTED PARTIES:
+
+This section identifies additional individuals or entities that a Licensee could
+harm as a result of violating the Ethical Standards section, the condition that
+the Licensee must voluntarily accept a Duty of Care for those individuals or
+entities, and the right to a private right of action that those individuals or
+entities possess as a result of violations of the Ethical Standards section.
+
+4.1. In addition to the above Ethical Standards, Licensee voluntarily accepts a
+Duty of Care for Supply Chain Impacted Parties of this License, including
+individuals and communities impacted by violations of the Ethical Standards. The
+Duty of Care is breached when a provision within the Ethical Standards section
+is violated by a Licensee, one of its successors or assigns, or by an individual
+or entity that exists within the Supply Chain prior to a good or service
+reaching the Licensee.
+
+4.2. Breaches of the Duty of Care, as stated within this section, shall create a
+private right of action, allowing any Supply Chain Impacted Party harmed by the
+Licensee to take legal action against the Licensee in accordance with applicable
+negligence laws, whether they be in tort law, delict law, and/or similar bodies
+of law closely related to tort and/or delict law, regardless if Licensee is
+directly responsible for the harms suffered by a Supply Chain Impacted Party.
+Nothing in this section shall be interpreted to include acts committed by
+individuals outside of the scope of his/her/their employment.
+
+5. NOTICE: This section explains when a Licensee must notify others of the
+License.
+
+5.1. Distribution of Notice: Licensee must ensure that everyone who receives a
+copy of or uses any part of Software from Licensee, with or without changes,
+also receives the License and the copyright notice included with Software (and
+if included by the Licensor, patent, trademark, and attribution notice).
+Licensee must ensure that License is prominently displayed so that any
+individual or entity seeking to download, copy, use, or otherwise receive any
+part of Software from Licensee is notified of this License and its terms and
+conditions. Licensee must cause any modified versions of the Software to carry
+prominent notices stating that Licensee changed the Software.
+
+5.2. Modified Software: Licensee is free to create modifications of the Software
+and distribute only the modified portion created by Licensee, however, any
+derivative work stemming from the Software or its code must be distributed
+pursuant to this License, including this Notice provision.
+
+5.3. Recipients as Licensees: Any individual or entity that uses, copies,
+modifies, reproduces, distributes, or prepares derivative work based upon the
+Software, all or part of the Software’s code, or a derivative work developed by
+using the Software, including a portion of its code, is a Licensee as defined
+above and is subject to the terms and conditions of this License.
+
+6. REPRESENTATIONS AND WARRANTIES:
+
+6.1. Disclaimer of Warranty: TO THE FULL EXTENT ALLOWED BY LAW, THIS SOFTWARE
+COMES “AS IS,” WITHOUT ANY WARRANTY, EXPRESS OR IMPLIED, AND LICENSOR SHALL NOT
+BE LIABLE TO ANY PERSON OR ENTITY FOR ANY DAMAGES OR OTHER LIABILITY ARISING
+FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THIS LICENSE, UNDER ANY
+LEGAL CLAIM.
+
+6.2. Limitation of Liability: LICENSEE SHALL HOLD LICENSOR HARMLESS AGAINST ANY
+AND ALL CLAIMS, DEBTS, DUES, LIABILITIES, LIENS, CAUSES OF ACTION, DEMANDS,
+OBLIGATIONS, DISPUTES, DAMAGES, LOSSES, EXPENSES, ATTORNEYS' FEES, COSTS,
+LIABILITIES, AND ALL OTHER CLAIMS OF EVERY KIND AND NATURE WHATSOEVER, WHETHER
+KNOWN OR UNKNOWN, ANTICIPATED OR UNANTICIPATED, FORESEEN OR UNFORESEEN, ACCRUED
+OR UNACCRUED, DISCLOSED OR UNDISCLOSED, ARISING OUT OF OR RELATING TO LICENSEE’S
+USE OF THE SOFTWARE. NOTHING IN THIS SECTION SHOULD BE INTERPRETED TO REQUIRE
+LICENSEE TO INDEMNIFY LICENSOR, NOR REQUIRE LICENSOR TO INDEMNIFY LICENSEE.
+
+7. TERMINATION
+
+7.1. Violations of Ethical Standards or Breaching Duty of Care: If Licensee
+violates the Ethical Standards section or Licensee, or any other person or
+entity within the Supply Chain prior to a good or service reaching the Licensee,
+breaches its Duty of Care to Supply Chain Impacted Parties, Licensee must remedy
+the violation or harm caused by Licensee within 30 days of being notified of the
+violation or harm. If Licensee fails to remedy the violation or harm within 30
+days, all rights in the Software granted to Licensee by License will be null and
+void as between Licensor and Licensee.
+
+7.2. Failure of Notice: If any person or entity notifies Licensee in writing
+that Licensee has not complied with the Notice section of this License, Licensee
+can keep this License by taking all practical steps to comply within 30 days
+after the notice of noncompliance. If Licensee does not do so, Licensee’s
+License (and all rights licensed hereunder) will end immediately.
+
+7.3. Judicial Findings: In the event Licensee is found by a civil, criminal,
+administrative, or other court of competent jurisdiction, or some other
+adjudicating body with legal authority, to have committed actions which are in
+violation of the Ethical Standards or Supply Chain Impacted Party sections of
+this License, all rights granted to Licensee by this License will terminate
+immediately.
+
+7.4. Patent Litigation: If Licensee institutes patent litigation against any
+entity (including a cross-claim or counterclaim in a suit) alleging that the
+Software, all or part of the Software’s code, or a derivative work developed
+using the Software, including a portion of its code, constitutes direct or
+contributory patent infringement, then any patent license, along with all other
+rights, granted to Licensee under this License will terminate as of the date
+such litigation is filed.
+
+7.5. Additional Remedies: Termination of the License by failing to remedy harms
+in no way prevents Licensor or Supply Chain Impacted Party from seeking
+appropriate remedies at law or in equity.
+
+8. MISCELLANEOUS:
+
+8.1. Conditions: Sections 3, 4.1, 5.1, 5.2, 7.1, 7.2, 7.3, and 7.4 are
+conditions of the rights granted to Licensee in the License.
+
+8.2. Equitable Relief: Licensor and any Supply Chain Impacted Party shall be
+entitled to equitable relief, including injunctive relief or specific
+performance of the terms hereof, in addition to any other remedy to which they
+are entitled at law or in equity.
+
+8.3. Severability: If any term or provision of this License is determined to be
+invalid, illegal, or unenforceable by a court of competent jurisdiction, any
+such determination of invalidity, illegality, or unenforceability shall not
+affect any other term or provision of this License or invalidate or render
+unenforceable such term or provision in any other jurisdiction. If the
+determination of invalidity, illegality, or unenforceability by a court of
+competent jurisdiction pertains to the terms or provisions contained in the
+Ethical Standards section of this License, all rights in the Software granted to
+Licensee shall be deemed null and void as between Licensor and Licensee.
+
+8.4. Section Titles: Section titles are solely written for organizational
+purposes and should not be used to interpret the language within each section.
+
+8.5. Citations: Citations are solely written to provide context for the source
+of the provisions in the Ethical Standards.
+
+8.6. Section Summaries: Some sections have a brief italicized description which
+is provided for the sole purpose of briefly describing the section and should
+not be used to interpret the terms of the License.
+
+8.7. Entire License: This is the entire License between the Licensor and
+Licensee with respect to the claims released herein and that the consideration
+stated herein is the only consideration or compensation to be paid or exchanged
+between them for this License. This License cannot be modified or amended except
+in a writing signed by Licensor and Licensee.
+
+8.8. Successors and Assigns: This License shall be binding upon and inure to the
+benefit of the Licensor’s and Licensee’s respective heirs, successors, and
+assigns.
