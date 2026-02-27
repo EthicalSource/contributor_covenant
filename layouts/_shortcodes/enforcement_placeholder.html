@@ -1,0 +1,1 @@
+{{ $version := $.Page.Param "version" }}{{ with $version }}{{ range (where (where $.Site.Pages "Section" "version") ".Params.version" $version ) | first 1 }}{{ .Params.enforcementPlaceholder }}{{ end }}{{ end }}{{- "" -}}

@@ -1,0 +1,13 @@
+{{ define "main" }}
+<section class="version" {{ with .Language.LanguageDirection }} dir="{{ . }}"{{ end }}>
+{{ .Content }}
+</section>
+<section class="formats">
+{{ partial "file-formats.html" . }}
+</section>
+<div class="banner banner-takeover">
+  <p>
+    Be sure to fill in reporting details and review the enforcement section before posting your code of conduct. You can find the placeholders by searching the text for <code>[NOTE</code>.
+  </p>
+</div>
+{{ end }}

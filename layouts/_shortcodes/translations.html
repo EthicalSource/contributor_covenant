@@ -1,0 +1,19 @@
+<div class="banner banner-dots">
+	<ul class="data-list">
+		{{ $latest := ( where $.Site.RegularPages "Section" "version" ).Reverse }}
+		{{ range $latest }}
+			{{ if $.Page.Scratch.Get .Language.LanguageName }}
+			{{ else }}
+					{{ partial "translation-row.html" . }}
+					{{ $.Page.Scratch.Set .Language.LanguageName 1 }}
+			{{ end }}
+			{{ range .Translations }}
+				{{ if $.Page.Scratch.Get .Language.LanguageName }}
+				{{ else }}
+					{{ partial "translation-row.html" . }}
+					{{ $.Page.Scratch.Set .Language.LanguageName 1 }}
+				{{ end }}
+			{{ end }}
+		{{ end }}
+	</ul>
+</div>
