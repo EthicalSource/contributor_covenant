@@ -1,4 +1,4 @@
-# Contributor Covenant 3
+hugo server -D# Contributor Covenant 3
 Working repository for the new Contributor Covenant builder.
 
 ## Core Requirements
