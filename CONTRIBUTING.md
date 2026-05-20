@@ -2,7 +2,7 @@
 
 Please feel free to submit pull requests or open issues to improve Contributor Covenant, whether through code, content, design, or [translations](https://www.contributor-covenant.org/translations).
 
-If you're new to contributing to projects hosted on Github, or need a refresher, you may find [How to make your first pull request on GitHub](https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github-3/) a useful resource.
+If you're new to contributing to projects hosted on GitHub, or need a refresher, you may find [How to make your first pull request on GitHub](https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github-3/) a useful resource.
 
 Check the [issues](https://github.com/EthicalSource/contributor_covenant/issues) for the latest discussions involving the current and future versions of the Contributor Covenant. If your question, concern, or suggestion is not already listed, please open a new issue using the **New Issue** button, and select either the **🪲Bug Report** or **💡Feature Request** template.
 
