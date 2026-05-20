@@ -38,7 +38,7 @@ If you are a native speaker interested in doing a translation, please follow the
 
 1. Fork the repository and make a branch for your translation.
 1. If it's a new language, add it to `config.toml`, with a localized name and language code/optional region (e.g. `pt` or `pt-br`).
-1. Create a markdown file with your translation in `version/3/0/code_of_conduct.LANGUAGECODE.md`. (Underscores, not hyphens.) Use the English markdown file as an example.
+1. Create a markdown file with your translation in `version/3/0/CODE_OF_CONDUCT.LANGUAGECODE.md`. (Underscores, not hyphens.) Use the English markdown file as an example.
 1. Update the two fields at the top of your new markdown file: `reportingPlaceholder`, which should contain the exact placeholder text in the "how to report" section, and `enforcementPlaceholder`, which should contain the exact placeholder text in the "Addressing and Repairing Harm" section.
 1. Open a pull request.
 1. We will put out a call to have one or more other native speakers review the translation.
