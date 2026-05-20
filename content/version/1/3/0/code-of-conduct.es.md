@@ -7,7 +7,7 @@ aliases = ["/version/1/3/0/es/"]
 
 Como contribuyentes y administradores de este proyecto, y en el interés de fomentar una comunidad abierta y acogedora, nos comprometemos a respetar a todas las personas que colaboran reportando errores, solicitando nuevas funcionalidades, actualizando documentación, generando *pull requests*, entre otras actividades.
 
-Nos comprometemos a hacer que la participación en este proyecto sea una experiencia libre de acoso para todos, independientemente de su experiencia, género, identidad y expresión de género, orientación sexual, discapacidad, apariencia física, dimensión corporal, raza, etnia, edad, religión o nacionalidad.
+Nos comprometemos a hacer que la participación en este proyecto sea una experiencia libre de acoso para todos, independientemente de su experiencia, género, identidad y expresión de género, orientación sexual, diversidad funcional, apariencia física, dimensión corporal, raza, etnia, edad, religión o nacionalidad.
 
 Ejemplos de comportamiento inaceptable por participantes son:
 
