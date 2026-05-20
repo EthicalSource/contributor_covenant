@@ -1,0 +1,5 @@
+2e12e813953458f65fa3a93d9d7f28c7cb64a820  # style: prefer U+0027 (') over U+2019 (’)
+9e310bc9b65298538e737d10b52ddf4156026073  # style: collapse consecutive line breaks
+c47fe51e56757bedd8d63baf2bb66fc8dce02d43  # style: standardize whitespace around headings
+749904a8f01350fbfe82b50cfa05dcc54572ea67  # style: trim trailing whitespace
+ca056eae7c535f76950fc46dc6e77aface5562f8  # chore: address MD034 (bare URL used)
