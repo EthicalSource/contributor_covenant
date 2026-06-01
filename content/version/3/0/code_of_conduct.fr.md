@@ -74,7 +74,7 @@ Si l'enquête par les personnes modératrices évalue que ce Code de Conduite a 
    3) Réparation : Une réparation peut inclure la compréhension du motif de la suspension, le respect des conditions de retour, et réfléchir à comment réintégrer la communauté lorsque la suspension sera levée.
 4) Bannissement permanent
    1) Cas : Un schéma de répétition d'infractions du Code de Conduite où les premières étapes de résolution ont échoué, ou une infraction tellement importante que les personnes modératrices de la communauté déterminent qu'il n'y a aucun moyen de maintenir un espace communautaire sûr avec cette personne comme membre.
-   2) Conséquences : L'accès aux espaces communautaires, les outils, les canaux de communication sont révoqués. En général, les bannissements permanents devraient être rares, et doivent être appuyés de raisons fortes et être le dernier recourt lorsque toutes les solutions ont échoué à corriger le comportement.
+   2) Conséquences : L'accès aux espaces communautaires, les outils, les canaux de communication sont révoqués. En général, les bannissements permanents devraient être rares, doivent être appuyés de raisons fortes et être le dernier recourt lorsque toutes les solutions ont échoué à corriger le comportement.
    3) Réparation : Il n'y a aucune réparation possible pour des cas de cette sévérité.
 
 Cette échelle de mesure est une ligne directrice. Elle ne limite pas la capacité des personnes modératrices à utiliser leurs discrétions et leurs jugements, en adéquation avec l'intérêt de la communauté.
