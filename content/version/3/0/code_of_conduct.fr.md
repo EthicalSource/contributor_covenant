@@ -67,7 +67,7 @@ Si l'enquête par les personnes modératrices évalue que ce Code de Conduite a 
 2) Limitation d'activité temporaire
    1) Cas : La répétition d'infractions qui ont déjà donné lieu à des avertissements, ou le premier incident d'une infraction plus importante.
    2) Conséquences : Un avertissement privé écrit accompagné d'une période de retour au calme pour mettre en évidence l'importance de la situation et donner à la communauté le temps d'intégrer ce qui s'est passé. Ce temps de réflexion peut être limité à certains canaux de communication ou aux interactions avec certains membres de la communauté.
-   3) Réparation : Une réparation peut inclure la formulation d'excuses, l'utilisation d'un temps de retour au calme pour réfléchir aux actions et conséquences, et un travail de prise de conscience après la fin de la période, au retour dans les espaces communautaires.
+   3) Réparation : Une réparation peut inclure la formulation d'excuses, l'utilisation d'un temps de retour au calme pour réfléchir aux actions et conséquences et un travail de prise de conscience après la fin de la période, au retour dans les espaces communautaires.
 3) Suspension provisoire
    1) Cas : Un schéma de répétition d'infraction auquel les personnes modératrices ont adressé des avertissements, ou une seule infraction d'importance.
    2) Conséquences : Un avertissement privé écrit informant des conditions de retour de suspension. En général, une suspension provisoire donne à la personne suspendue le temps d'introspection sur son comportement et sur les corrections qu'elle doit entreprendre.
