@@ -15,19 +15,19 @@ enforcementPlaceholder = "[കുറിപ്പ്: താഴെ നൽകി�
 വംശം, ജാതി, വർഗ്ഗം, നിറം, പ്രായം, ശാരീരിക സവിശേഷതകൾ, ന്യൂറോഡൈവേഴ്സിറ്റി, വൈകല്യം, ലിംഗം, ലിംഗപരിചയം അല്ലെങ്കിൽ പ്രകടനം, ലൈംഗിക അഭിരുചി, ഭാഷ, തത്ത്വചിന്ത അല്ലെങ്കിൽ മതം, ദേശീയമോ സാമൂഹികമോ ആയ ഉത്ഭവം, സാമ്പത്തിക-സാമൂഹിക സ്ഥാനം, വിദ്യാഭ്യാസനില, അല്ലെങ്കിൽ മറ്റ് ഏതെങ്കിലും നിലകൾ എന്നിവ പരിഗണിക്കാതെ, ഓരോ വ്യക്തിയുടെയും മാന്യത, അവകാശങ്ങൾ, സംഭാവനകൾ എന്നിവയെ മാനിക്കുകയും പ്രോത്സാഹിപ്പിക്കുകയും ചെയ്യുന്ന ഒരു അന്തരീക്ഷം വളർത്തിയെടുക്കാൻ ഞങ്ങൾ പ്രതിബദ്ധരാണ്. ഈ ഉടമ്പടിയുടെ ചട്ടങ്ങൾ പാലിച്ചും, നല്ല വിശ്വാസത്തോടെ പങ്കാളികളാകുന്ന എല്ലാവർക്കും ഒരേ തരത്തിലുള്ള പങ്കാളിത്താവകാശങ്ങളും അവസരങ്ങളും ലഭ്യമാക്കപ്പെടുന്നു.
 
 
-## Encouraged Behaviors
+## പ്രോത്സാഹിപ്പിക്കുന്ന പെരുമാറ്റങ്ങൾ
 
-While acknowledging differences in social norms, we all strive to meet our community's expectations for positive behavior. We also understand that our words and actions may be interpreted differently than we intend based on culture, background, or native language.
+സാമൂഹിക മാനദണ്ഡങ്ങളിലെ വ്യത്യാസങ്ങൾ അംഗീകരിച്ചുകൊണ്ട്, സമൂഹത്തിന്റെ നല്ല പെരുമാറ്റ പ്രതീക്ഷകൾ നിറവേറ്റാൻ നാം എല്ലാവരും ശ്രമിക്കുന്നു. സാംസ്കാരിക പശ്ചാത്തലം, ജീവിതാനുഭവം, അല്ലെങ്കിൽ മാതൃഭാഷ എന്നിവയുടെ അടിസ്ഥാനത്തിൽ നമ്മുടെ വാക്കുകളും പ്രവർത്തനങ്ങളും വ്യത്യസ്തമായി വ്യാഖ്യാനിക്കപ്പെടാമെന്നും നാം മനസ്സിലാക്കുന്നു.
 
-With these considerations in mind, we agree to behave mindfully toward each other and act in ways that center our shared values, including:
+ഇത് മനസ്സിൽ വെച്ച്, നമ്മുടെ പങ്കുവയ്ക്കുന്ന മൂല്യങ്ങളെ കേന്ദ്രീകരിച്ച് പരസ്പരം ബോധപൂർവ്വം പെരുമാറാനും താഴെപ്പറയുന്ന കാര്യങ്ങൾ പിന്തുടരാനും നാം സമ്മതിക്കുന്നു:
 
-1. Respecting the **purpose of our community**, our activities, and our ways of gathering.
-2. Engaging **kindly and honestly** with others.
-3. Respecting **different viewpoints** and experiences.
-4. **Taking responsibility** for our actions and contributions.
-5. Gracefully giving and accepting **constructive feedback**.
-6. Committing to **repairing harm** when it occurs.
-7. Behaving in other ways that promote and sustain the **well-being of our community**.
+1. നമ്മുടെ **സമൂഹത്തിന്റെ ലക്ഷ്യത്തെയും** പ്രവർത്തനങ്ങളെയും ഒത്തുചേരുന്ന രീതികളെയും ബഹുമാനിക്കുക.
+2. മറ്റുള്ളവരുമായി **സൗഹൃദപരമായും സത്യസന്ധമായും** ഇടപെടുക.
+3. **വ്യത്യസ്ത കാഴ്ചപ്പാടുകളെയും** അനുഭവങ്ങളെയും ബഹുമാനിക്കുക.
+4. സ്വന്തം പ്രവർത്തനങ്ങൾക്കും സംഭാവനകൾക്കും **ഉത്തരവാദിത്തം** ഏറ്റെടുക്കുക.
+5. **സൃഷ്ടിപരമായ വിമർശനങ്ങൾ** മാന്യമായി നൽകുകയും സ്വീകരിക്കുകയും ചെയ്യുക.
+6. ദോഷം സംഭവിക്കുമ്പോൾ **അത് പരിഹരിക്കാൻ** പ്രതിബദ്ധരാകുക.
+7. **സമൂഹത്തിന്റെ ക്ഷേമം** നിലനിർത്തുകയും പ്രോത്സാഹിപ്പിക്കുകയും ചെയ്യുന്ന മറ്റ് രീതികളിൽ പെരുമാറുക.
 
 
 ## Restricted Behaviors
