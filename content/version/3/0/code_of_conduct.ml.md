@@ -91,10 +91,11 @@ enforcementPlaceholder = "[കുറിപ്പ്: താഴെ നൽകി�
 ഈ പെരുമാറ്റച്ചട്ടം കമ്മ്യൂണിറ്റിയുടെ എല്ലാ ഇടങ്ങളിലും ബാധകമാണ്. കൂടാതെ ഒരു വ്യക്തി ഔദ്യോഗികമായി പൊതുവേദികളിലോ മറ്റ് ഇടങ്ങളിലോ കമ്മ്യൂണിറ്റിയെ പ്രതിനിധീകരിക്കുമ്പോൾ ഇത് ബാധകമായിരിക്കും. ഔദ്യോഗിക ഇമെയിൽ വിലാസം ഉപയോഗിക്കുക, ഔദ്യോഗിക സോഷ്യൽ മീഡിയ അക്കൗണ്ട് വഴി പോസ്റ്റ് ചെയ്യുക, അല്ലെങ്കിൽ ഒരു ഓൺലൈൻ/ഓഫ്‌ലൈൻ പരിപാടിയിൽ പ്രതിനിധിയായി പങ്കെടുക്കുക എന്നിവ കമ്മ്യൂണിറ്റിയെ പ്രതിനിധീകരിക്കുന്നതിന് ഉദാഹരണങ്ങളാണ്.
 
 
-## Attribution
+## അംഗീകാരം
 
-This Code of Conduct is adapted from the Contributor Covenant, version 3.0, permanently available at [https://www.contributor-covenant.org/version/3/0/](https://www.contributor-covenant.org/version/3/0/).
+ഈ പെരുമാറ്റച്ചട്ടം (Code of Conduct) Contributor Covenant പതിപ്പ് 3.0-ൽ നിന്ന് രൂപാന്തരപ്പെടുത്തിയതാണ്. അതിന്റെ സ്ഥിരമായ പതിപ്പ് ഇവിടെ ലഭ്യമാണ് [https://www.contributor-covenant.org/version/3/0/](https://www.contributor-covenant.org/version/3/0/).
 
-Contributor Covenant is stewarded by the Organization for Ethical Source and licensed under CC BY-SA 4.0. To view a copy of this license, visit [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
 
-For answers to common questions about Contributor Covenant, see the FAQ at [https://www.contributor-covenant.org/faq](https://www.contributor-covenant.org/faq). Translations are provided at [https://www.contributor-covenant.org/translations](https://www.contributor-covenant.org/translations). Additional enforcement and community guideline resources can be found at [https://www.contributor-covenant.org/resources](https://www.contributor-covenant.org/resources). The enforcement ladder was inspired by the work of [Mozilla’s code of conduct team](https://github.com/mozilla/inclusion).
+സംഭാവകരുടെ ഉടമ്പടിയുടെ മേൽനോട്ടം വഹിക്കുന്നത് Organization for Ethical Source ആണ്. ഇത് CC BY-SA 4.0 ലൈസൻസിന് കീഴിലാണ് പ്രസിദ്ധീകരിച്ചിരിക്കുന്നത്. ഈ ലൈസൻസിന്റെ ഒരു പകർപ്പ് കാണുന്നതിനായി സന്ദർശിക്കുക [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
+
+സംഭാവകരുടെ ഉടമ്പടിയെക്കുറിച്ചുള്ള പൊതുവായ ചോദ്യങ്ങൾക്കുള്ള ഉത്തരങ്ങൾ അതിന്റെ FAQ-യിൽ ലഭ്യമാണ് [https://www.contributor-covenant.org/faq](https://www.contributor-covenant.org/faq). വിവിധ ഭാഷകളിലുള്ള വിവർത്തനങ്ങൾ ഇവിടെ ലഭ്യമാണ് [https://www.contributor-covenant.org/translations](https://www.contributor-covenant.org/translations). നടപ്പിലാക്കൽ നടപടിക്രമങ്ങൾക്കും കമ്മ്യൂണിറ്റി മാർഗ്ഗനിർദ്ദേശങ്ങൾക്കും ബന്ധപ്പെട്ട അധിക വിഭവങ്ങൾ ഇവിടെ ലഭ്യമാണ് [https://www.contributor-covenant.org/resources](https://www.contributor-covenant.org/resources). ഈ പെരുമാറ്റച്ചട്ടത്തിലെ നടപ്പിലാക്കൽ ഘട്ടങ്ങൾ രൂപപ്പെടുത്തുന്നതിനുള്ള പ്രചോദനം ഈ പ്രവർത്തനങ്ങളിൽ നിന്നാണ് ലഭിച്ചത് [Mozilla’s code of conduct team](https://github.com/mozilla/inclusion).
