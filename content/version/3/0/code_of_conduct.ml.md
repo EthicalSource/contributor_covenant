@@ -86,9 +86,9 @@ enforcementPlaceholder = "[കുറിപ്പ്: താഴെ നൽകി�
 ഈ നടപടിക്രമങ്ങൾ ഒരു മാർഗ്ഗനിർദ്ദേശം മാത്രമാണ്. കൂട്ടായ്മയുടെ നന്മ മുൻനിർത്തി ഉചിതമായ തീരുമാനങ്ങളെടുക്കാനുള്ള കമ്മ്യൂണിറ്റി മാനേജർമാരുടെ വിവേചനാധികാരത്തെ ഇത് പരിമിതപ്പെടുത്തുന്നില്ല.
 
 
-## Scope
+## പരിധി
 
-This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public or other spaces. Examples of representing our community include using an official email address, posting via an official social media account, or acting as an appointed representative at an online or offline event.
+ഈ പെരുമാറ്റച്ചട്ടം കമ്മ്യൂണിറ്റിയുടെ എല്ലാ ഇടങ്ങളിലും ബാധകമാണ്. കൂടാതെ ഒരു വ്യക്തി ഔദ്യോഗികമായി പൊതുവേദികളിലോ മറ്റ് ഇടങ്ങളിലോ കമ്മ്യൂണിറ്റിയെ പ്രതിനിധീകരിക്കുമ്പോൾ ഇത് ബാധകമായിരിക്കും. ഔദ്യോഗിക ഇമെയിൽ വിലാസം ഉപയോഗിക്കുക, ഔദ്യോഗിക സോഷ്യൽ മീഡിയ അക്കൗണ്ട് വഴി പോസ്റ്റ് ചെയ്യുക, അല്ലെങ്കിൽ ഒരു ഓൺലൈൻ/ഓഫ്‌ലൈൻ പരിപാടിയിൽ പ്രതിനിധിയായി പങ്കെടുക്കുക എന്നിവ കമ്മ്യൂണിറ്റിയെ പ്രതിനിധീകരിക്കുന്നതിന് ഉദാഹരണങ്ങളാണ്.
 
 
 ## Attribution
