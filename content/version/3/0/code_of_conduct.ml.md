@@ -50,39 +50,40 @@ enforcementPlaceholder = "[കുറിപ്പ്: താഴെ നൽകി�
 4. **ഉത്തരവാദിത്തമില്ലാത്ത ആശയവിനിമയം.** നിയന്ത്രിത പെരുമാറ്റങ്ങളെ ഉൾപ്പെടുത്തുകയോ ലിങ്ക് ചെയ്യുകയോ വിവരിക്കുകയോ ചെയ്യുന്ന ഉള്ളടക്കങ്ങൾ ഉത്തരവാദിത്തത്തോടെയല്ലാതെ അവതരിപ്പിക്കുന്നത്.
 
 
-## Reporting an Issue
+## ഒരു പ്രശ്നം റിപ്പോർട്ട് ചെയ്യൽ
 
-Tensions can occur between community members even when they are trying their best to collaborate. Not every conflict represents a code of conduct violation, and this Code of Conduct reinforces encouraged behaviors and norms that can help avoid conflicts and minimize harm.
+കമ്മ്യൂണിറ്റി അംഗങ്ങൾ ഒന്നിച്ച് പ്രവർത്തിക്കാൻ പരമാവധി ശ്രമിക്കുമ്പോൾ പോലും അവർക്കിടയിൽ അഭിപ്രായവ്യത്യാസങ്ങൾ ഉണ്ടായേക്കാം. എല്ലാ തർക്കങ്ങളും പെരുമാറ്റച്ചട്ടത്തിന്റെ ലംഘനമാകണമെന്നില്ല. ഈ പെരുമാറ്റച്ചട്ടം, തർക്കങ്ങൾ ഒഴിവാക്കാനും ദോഷങ്ങൾ കുറയ്ക്കാനും സഹായിക്കുന്ന പ്രോത്സാഹിപ്പിക്കപ്പെടേണ്ട പെരുമാറ്റങ്ങളെയും മാനദണ്ഡങ്ങളെയും കൂടുതൽ ശക്തമാക്കുന്നു.
 
-When an incident does occur, it is important to report it promptly. To report a possible violation, **[NOTE: describe your means of reporting here.]**
-
-Community Moderators take reports of violations seriously and will make every effort to respond in a timely manner. They will investigate all reports of code of conduct violations, reviewing messages, logs, and recordings, or interviewing witnesses and other participants. Community Moderators will keep investigation and enforcement actions as transparent as possible while prioritizing safety and confidentiality. In order to honor these values, enforcement actions are carried out in private with the involved parties, but communicating to the whole community may be part of a mutually agreed upon resolution.
+ഒരു പ്രശ്നം ഉണ്ടായാൽ അത് ഉടൻ തന്നെ റിപ്പോർട്ട് ചെയ്യേണ്ടത് പ്രധാനമാണ്. ചട്ടലംഘനം റിപ്പോർട്ട് ചെയ്യാൻ, **[കുറിപ്പ്: റിപ്പോർട്ട് ചെയ്യേണ്ട രീതി ഇവിടെ വിവരിക്കുന്നു.]**
 
 
-## Addressing and Repairing Harm
+കൂട്ടായ്മ നിയന്ത്രിക്കുന്നവർ ഇത്തരം റിപ്പോർട്ടുകളെ ഗൗരവമായി കാണുകയും കൃത്യസമയത്ത് മറുപടി നൽകാൻ പരമാവധി ശ്രമിക്കുകയും ചെയ്യും. സന്ദേശങ്ങൾ, ലോഗുകൾ, റെക്കോർഡിംഗുകൾ എന്നിവ പരിശോധിച്ചും, സാക്ഷികളെയും മറ്റ് പങ്കാളികളെയും അഭിമുഖം ചെയ്തും അവർ ചട്ടലംഘനങ്ങളെക്കുറിച്ച് അന്വേഷിക്കും. സുരക്ഷയ്ക്കും രഹസ്യസ്വഭാവത്തിനും മുൻഗണന നൽകിക്കൊണ്ട് തന്നെ, അന്വേഷണങ്ങളും തുടർനടപടികളും പരമാവധി സുതാര്യമായി നിലനിർത്താൻ നിയന്ത്രിക്കുന്നവർ ശ്രമിക്കും. ഈ മൂല്യങ്ങളെ മാനിക്കുന്നതിനായി, ശിക്ഷാനടപടികൾ ബന്ധപ്പെട്ട വ്യക്തികളുമായി വ്യക്തിപരമായിട്ടായിരിക്കും നടത്തുക. എന്നാൽ പൊതുവായ ഒരു പരിഹാരത്തിന്റെ ഭാഗമായി ഇത് മുഴുവൻ കമ്മ്യൂണിറ്റിയെയും അറിയിക്കാവുന്നതാണ്.
 
-**[NOTE: The remedies and repairs outlined below are suggestions based on best practices in code of conduct enforcement. If your community has its own established enforcement process, be sure to edit this section to describe your own policies.]**
 
-If an investigation by the Community Moderators finds that this Code of Conduct has been violated, the following enforcement ladder may be used to determine how best to repair harm, based on the incident's impact on the individuals involved and the community as a whole. Depending on the severity of a violation, lower rungs on the ladder may be skipped.
+## ദോഷങ്ങൾ പരിഹരിക്കലും തിരുത്തലും
 
-1) Warning
-   1) Event: A violation involving a single incident or series of incidents.
-   2) Consequence: A private, written warning from the Community Moderators.
-   3) Repair: Examples of repair include a private written apology, acknowledgement of responsibility, and seeking clarification on expectations.
-2) Temporarily Limited Activities
-   1) Event: A repeated incidence of a violation that previously resulted in a warning, or the first incidence of a more serious violation.
-   2) Consequence: A private, written warning with a time-limited cooldown period designed to underscore the seriousness of the situation and give the community members involved time to process the incident. The cooldown period may be limited to particular communication channels or interactions with particular community members.
-   3) Repair: Examples of repair may include making an apology, using the cooldown period to reflect on actions and impact, and being thoughtful about re-entering community spaces after the period is over.
-3) Temporary Suspension
-   1) Event: A pattern of repeated violation which the Community Moderators have tried to address with warnings, or a single serious violation.
-   2) Consequence: A private written warning with conditions for return from suspension. In general, temporary suspensions give the person being suspended time to reflect upon their behavior and possible corrective actions.
-   3) Repair: Examples of repair include respecting the spirit of the suspension, meeting the specified conditions for return, and being thoughtful about how to reintegrate with the community when the suspension is lifted.
-4) Permanent Ban
-   1) Event: A pattern of repeated code of conduct violations that other steps on the ladder have failed to resolve, or a violation so serious that the Community Moderators determine there is no way to keep the community safe with this person as a member.
-   2) Consequence: Access to all community spaces, tools, and communication channels is removed. In general, permanent bans should be rarely used, should have strong reasoning behind them, and should only be resorted to if working through other remedies has failed to change the behavior.
-   3) Repair: There is no possible repair in cases of this severity.
+**[കുറിപ്പ്: താഴെ പറയുന്ന പരിഹാരങ്ങളും തിരുത്തലുകളും പെരുമാറ്റച്ചട്ടം നടപ്പിലാക്കുന്നതിലെ മികച്ച മാതൃകകളെ അടിസ്ഥാനമാക്കിയുള്ള നിർദ്ദേശങ്ങൾ മാത്രമാണ്. നിങ്ങളുടെ കമ്മ്യൂണിറ്റിക്ക് സ്വന്തമായി ഒരു നടപടിക്രമം ഉണ്ടെങ്കിൽ, നിങ്ങളുടെ നയങ്ങൾ വിവരിക്കുന്നതിനായി ഈ ഭാഗം മാറ്റിയെഴുതുക.]**
 
-This enforcement ladder is intended as a guideline. It does not limit the ability of Community Managers to use their discretion and judgment, in keeping with the best interests of our community.
+കൂട്ടായ്മ നിയന്ത്രിക്കുന്നവരുടെ അന്വേഷണത്തിൽ പെരുമാറ്റച്ചട്ടം ലംഘിക്കപ്പെട്ടതായി കണ്ടെത്തിയാൽ, കമ്മ്യൂണിറ്റിക്കും വ്യക്തികൾക്കും ഉണ്ടായ ആഘാതം കണക്കിലെടുത്ത് പ്രശ്നം പരിഹരിക്കുന്നതിനായി താഴെ പറയുന്ന നടപടിക്രമങ്ങൾ സ്വീകരിക്കാവുന്നതാണ്. ലംഘനത്തിന്റെ തീവ്രതയനുസരിച്ച് ഇതിലെ ആദ്യഘട്ടങ്ങൾ ഒഴിവാക്കി നേരിട്ട് കടുത്ത നടപടികളിലേക്ക് കടക്കാവുന്നതാണ്.
+
+1) മുന്നറിയിപ്പ്
+   1) സംഭവം: ഒറ്റത്തവണയോ പരിമിതമായ സംഭവങ്ങളിലോ ഉണ്ടായ ലംഘനം.
+   2) നടപടി: കൂട്ടായ്മ നിയന്ത്രിക്കുന്നവരിൽ നിന്നുള്ള വ്യക്തിപരമായ രേഖാമൂലമുള്ള മുന്നറിയിപ്പ്.
+   3) പരിഹാരം: വ്യക്തിപരമായ രേഖാമൂലമുള്ള ക്ഷമാപണം, ഉത്തരവാദിത്തം ഏറ്റെടുക്കൽ, കമ്മ്യൂണിറ്റിയുടെ നിയമങ്ങളെക്കുറിച്ച് കൂടുതൽ വ്യക്തത തേടൽ എന്നിവ ഇതിൽ ഉൾപ്പെടുന്നു.
+2) താൽക്കാലിക പ്രവർത്തന നിയന്ത്രണം
+   1) സംഭവം: മുൻപ് മുന്നറിയിപ്പ് നൽകിയിട്ടും ലംഘനം ആവർത്തിക്കുക, അല്ലെങ്കിൽ ഗുരുതരമായ ഒരു ചട്ടലംഘനം ആദ്യമായി ചെയ്യുക
+   2) നടപടി: പ്രശ്നത്തിന്റെ ഗൗരവം മനസ്സിലാക്കാനും ചിന്തിക്കാനും സമയം നൽകുന്നതിനായി, സമയപരിധിയുള്ള ഒരു വിട്ടുനിൽക്കൽ കാലയളവോട് കൂടിയ രേഖാമൂലമുള്ള മുന്നറിയിപ്പ്. ഈ കാലയളവ് പ്രത്യേക ആശയവിനിമയ ചാനലുകളിലോ ചില പ്രത്യേക അംഗങ്ങളുമായുള്ള ഇടപെടലുകളിലോ മാത്രമായി പരിമിതപ്പെടുത്തിയേക്കാം.
+   3) പരിഹാരം: ക്ഷമാപണം നടത്തുക, സംഭവത്തെക്കുറിച്ച് ആലോചിക്കുക, സമൂഹത്തിലേക്ക് മടങ്ങിവരുമ്പോൾ ഉത്തരവാദിത്തത്തോടെ പെരുമാറുക.
+3) താൽക്കാലിക സസ്‌പെൻഷൻ
+   1) സംഭവം: കൂട്ടായ്മ നിയന്ത്രിക്കുന്നവർ മുന്നറിയിപ്പ് നൽകിയിട്ടും തിരുത്താത്ത തുടർച്ചയായ ചട്ടലംഘനങ്ങൾ, അല്ലെങ്കിൽ ഒറ്റത്തവണയായി ചെയ്യുന്ന കടുത്ത ചട്ടലംഘനം
+   2) നടപടി: സസ്‌പെൻഷന് ശേഷം തിരികെ വരാനുള്ള നിബന്ധനകളോടെയുള്ള രേഖാമൂലമുള്ള മുന്നറിയിപ്പ്. പൊതുവേ, താൽക്കാലിക സസ്‌പെൻഷൻ നൽകുന്നത് കുറ്റക്കാരനായ വ്യക്തിക്ക് സ്വന്തം പെരുമാറ്റത്തെക്കുറിച്ച് ചിന്തിക്കാനും അത് തിരുത്താനുമുള്ള സമയം നൽകാനാണ്.
+   3) പരിഹാരം: സസ്‌പെൻഷന്റെ ഉദ്ദേശ്യത്തെ മാനിക്കുക, തിരികെ വരാനുള്ള നിബന്ധനകൾ പാലിക്കുക, സസ്‌പെൻഷൻ കാലാവധിക്ക് ശേഷം കമ്മ്യൂണിറ്റിയിൽ എങ്ങനെ വീണ്ടും പങ്കാളിയാകണം എന്ന് ചിന്തിക്കുക.
+4) സ്ഥിരമായ വിലക്ക് 
+   1) സംഭവം: തുടർച്ചയായ ലംഘനങ്ങൾ പരിഹരിക്കാനാകാത്ത അവസ്ഥയിലാകുക, അല്ലെങ്കിൽ സമൂഹത്തിന്റെ സുരക്ഷ ഉറപ്പാക്കാൻ അംഗത്വം അനുവദിക്കാനാവാത്ത തരത്തിൽ ഗുരുതരമായ ലംഘനം.
+   2) നടപടി: സമൂഹത്തിലെ എല്ലാ ഇടങ്ങളിലേക്കും ഉപകരണങ്ങളിലേക്കും ആശയവിനിമയ മാർഗങ്ങളിലേക്കും പ്രവേശനം പൂർണ്ണമായി നീക്കം ചെയ്യപ്പെടും.
+   3) പരിഹാരം: ഈ തലത്തിലുള്ള സംഭവങ്ങളിൽ പരിഹാരസാധ്യതയില്ല.
+
+ഈ നടപടിക്രമങ്ങൾ ഒരു മാർഗ്ഗനിർദ്ദേശം മാത്രമാണ്. കൂട്ടായ്മയുടെ നന്മ മുൻനിർത്തി ഉചിതമായ തീരുമാനങ്ങളെടുക്കാനുള്ള കമ്മ്യൂണിറ്റി മാനേജർമാരുടെ വിവേചനാധികാരത്തെ ഇത് പരിമിതപ്പെടുത്തുന്നില്ല.
 
 
 ## Scope
