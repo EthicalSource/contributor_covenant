@@ -30,24 +30,24 @@ enforcementPlaceholder = "[കുറിപ്പ്: താഴെ നൽകി�
 7. **സമൂഹത്തിന്റെ ക്ഷേമം** നിലനിർത്തുകയും പ്രോത്സാഹിപ്പിക്കുകയും ചെയ്യുന്ന മറ്റ് രീതികളിൽ പെരുമാറുക.
 
 
-## Restricted Behaviors
+## നിയന്ത്രിക്കപ്പെടുന്ന പെരുമാറ്റങ്ങൾ
 
-We agree to restrict the following behaviors in our community. Instances, threats, and promotion of these behaviors are violations of this Code of Conduct.
+താഴെപ്പറയുന്ന പെരുമാറ്റങ്ങൾ നമ്മുടെ സമൂഹത്തിൽ അനുവദനീയമല്ല. ഇത്തരം പ്രവർത്തനങ്ങൾ, അവയ്ക്കുള്ള ഭീഷണികൾ, അല്ലെങ്കിൽ അവയുടെ പ്രോത്സാഹനം ഈ പെരുമാറ്റച്ചട്ടത്തിന്റെ ലംഘനമായി കണക്കാക്കപ്പെടും.
 
-1. **Harassment.** Violating explicitly expressed boundaries or engaging in unnecessary personal attention after any clear request to stop.
-2. **Character attacks.** Making insulting, demeaning, or pejorative comments directed at a community member or group of people.
-3. **Stereotyping or discrimination.** Characterizing anyone’s personality or behavior on the basis of immutable identities or traits.
-4. **Sexualization.** Behaving in a way that would generally be considered inappropriately intimate in the context or purpose of the community.
-5. **Violating confidentiality**. Sharing or acting on someone's personal or private information without their permission.
-6. **Endangerment.** Causing, encouraging, or threatening violence or other harm toward any person or group.
-7. Behaving in other ways that **threaten the well-being** of our community.
+1. **ഉപദ്രവം.** വ്യക്തമായി വ്യക്തമാക്കിയ വ്യക്തിഗത അതിരുകൾ ലംഘിക്കുകയോ, നിർത്താൻ ആവശ്യപ്പെട്ടിട്ടും അനാവശ്യ വ്യക്തിപരമായ ശ്രദ്ധ തുടരുകയോ ചെയ്യുക.
+2. **വ്യക്തിപരമായ ആക്രമണം.** സമൂഹാംഗങ്ങളെയോ ആളുകളുടെ കൂട്ടങ്ങളെയോ ലക്ഷ്യമിട്ട് അപമാനകരമായ, നിന്ദ്യമായ, അല്ലെങ്കിൽ അധിക്ഷേപകരമായ പരാമർശങ്ങൾ നടത്തുക.
+3. **മുൻവിധികളും വിവേചനവും.** ഒരാളുടെ സ്വഭാവമോ പെരുമാറ്റമോ അവരുടെ മാറ്റാനാകാത്ത വ്യക്തിത്വ സവിശേഷതകളുടെ അടിസ്ഥാനത്തിൽ വിലയിരുത്തുകയോ പൊതുവൽക്കരിക്കുകയോ ചെയ്യുക.
+4. **ലൈംഗികവൽക്കരണം.** സമൂഹത്തിന്റെ ലക്ഷ്യത്തിനോ സാഹചര്യത്തിനോ യോജിക്കാത്ത തരത്തിൽ അതിയായ അടുപ്പം പ്രകടിപ്പിക്കുന്ന പെരുമാറ്റം കാണിക്കുക.
+5. **രഹസ്യസ്വഭാവം ലംഘിക്കൽ**. മറ്റൊരാളുടെ സ്വകാര്യ വിവരങ്ങൾ അവരുടെ അനുമതിയില്ലാതെ പങ്കിടുകയോ ഉപയോഗിക്കുകയോ ചെയ്യുക.
+6. **അപകടത്തിലാക്കൽ.** ഏതെങ്കിലും വ്യക്തിക്കോ സംഘത്തിനോ നേരെ അക്രമം അല്ലെങ്കിൽ മറ്റ് തരത്തിലുള്ള ദോഷം ഉണ്ടാക്കുകയോ പ്രോത്സാഹിപ്പിക്കുകയോ ഭീഷണിപ്പെടുത്തുകയോ ചെയ്യുക.
+7. സമൂഹത്തിന്റെ **സുരക്ഷയെയും ക്ഷേമത്തെയും** ഭീഷണിപ്പെടുത്തുന്ന മറ്റ് പ്രവൃത്തികൾ.
 
-### Other Restrictions
+### മറ്റ് നിയന്ത്രണങ്ങൾ
 
-1. **Misleading identity.** Impersonating someone else for any reason, or pretending to be someone else to evade enforcement actions.
-2. **Failing to credit sources.** Not properly crediting the sources of content you contribute.
-3. **Promotional materials**. Sharing marketing or other commercial content in a way that is outside the norms of the community.
-4. **Irresponsible communication.** Failing to responsibly present content which includes, links or describes any other restricted behaviors.
+1. **തെറ്റായ വ്യക്തിത്വ അവതരണം.** മറ്റൊരാളായി നടിക്കുകയോ, ശിക്ഷാനടപടികളിൽ നിന്ന് രക്ഷപ്പെടാൻ വ്യാജ വ്യക്തിത്വം സ്വീകരിക്കുകയോ ചെയ്യുക.
+2. **ഉറവിടങ്ങൾ രേഖപ്പെടുത്തുന്നതിൽ പരാജയപ്പെടുക.** നിങ്ങൾ നൽകുന്ന വിവരങ്ങളുടെ ഉറവിടങ്ങൾ ശരിയായി രേഖപ്പെടുത്താതിരിക്കുക.
+3. **പ്രചാരണ സാമഗ്രികൾ**. കമ്മ്യൂണിറ്റിയുടെ മാനദണ്ഡങ്ങൾക്ക് നിരക്കാത്ത രീതിയിൽ വിപണന ഉള്ളടക്കങ്ങളോ മറ്റ് വാണിജ്യപരമായ ഉള്ളടക്കങ്ങളോ പങ്കുവെക്കുന്നത്.
+4. **ഉത്തരവാദിത്തമില്ലാത്ത ആശയവിനിമയം.** നിയന്ത്രിത പെരുമാറ്റങ്ങളെ ഉൾപ്പെടുത്തുകയോ ലിങ്ക് ചെയ്യുകയോ വിവരിക്കുകയോ ചെയ്യുന്ന ഉള്ളടക്കങ്ങൾ ഉത്തരവാദിത്തത്തോടെയല്ലാതെ അവതരിപ്പിക്കുന്നത്.
 
 
 ## Reporting an Issue
