@@ -141,3 +141,11 @@
   src: local("Nunito Black Italic"), local("Nunito-BlackItalic"),
        url(/fonts/Nunito-BlackItalic.ttf) format("truetype");
 }
+
+@font-face {
+  font-family: "Noto Sans";
+  unicode-range: U+11600-1165F;
+  src: local("NotoSansModi-Regular"),
+       url("../fonts/NotoSansModi-Regular.woff2") format("woff2"),
+       url("https://fonts.gstatic.com/s/notosansmodi/v9/pe03MIySN5pO62Z5YkFyT7jeas4QU1E.woff2") format("woff2");
+}
