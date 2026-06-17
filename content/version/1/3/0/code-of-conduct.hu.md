@@ -1,29 +1,56 @@
 +++
 version = "1.3"
-aliases = ["/version/1/3/0/hu"]
+aliases = ["/version/1/3/0/hu/"]
 +++
 
 # Közreműködők Magatartási Kódexe
 
-Mint a projekt közreműködői és fenntartói, valamint annak érdekében, hogy egy nyitott es befogadó közösséget ápoljunk, fogadjuk hogy tiszteletben tartunk mindenkit, aki hozzá járul a munkához. Tegye ezt azzal, hogy problémákat jelent be, új funkciókat javasol, frissíti a dokumentációt, patch-eket és egyéb kódot (pull request) küld be vagy a fentieken kívül bármilyen más tevékenységben részt vesz.
+A projekt közreműködőiként és karbantartóiként a nyitott és barátságos 
+környezet megteremtése érdekében vállaljuk, hogy tiszteletben tartjuk 
+mindazokat, akik problémákat jelentenek, funkciókéréseket írnak, dokumentációt 
+frissítenek, pull-kérelmeket vagy javításokat nyújtanak be, és egyéb 
+tevékenységeket végeznek.
 
-Elkötelezettek vagyunk afelé, hogy a projektben való részvétel mindenki számára zaklatás mentes legyen. Függetlenül as illető tapasztalatától, nemétől, nemi identitásától, szexuális hovatartozásától, fogyatékosságától, külső megjelenésétől, méretétől, fajától, etmikumától, korától, vallásától és nemzetiségétől.
+Elkötelezettek vagyunk amellett, hogy a projektben való részvétel mindenki 
+számára zaklatásmentes legyen, függetlenül tapasztalattól,  nemi jellemzőktől, 
+nemi identitástól és kifejezésétől, szexuális irányultságtól, fogyatékosságtól, 
+személyes megjelenéstől, testmérettől, fajtól, etnikai hovatartozástól, kortól, 
+vallástól vagy nemzetiségtől.
 
-Elfogadhatatlan magatartást tükröz a közreműködőktől bármely az alábbiakból:
+Példák az elfogadhatatlan viselkedésre a résztvevők részéről:
 
-* Szexualizált nyelvhasználat vagy képi tartalom
+* A szexuális nyelvezet vagy ilyen képek használata
 * Személyes támadások
-* Trollkodás vagy bántó, lekicsinylő hozzászólások
-* Nyilvános vagy privát zaklatás
-* Engedély nélkül nyilvánosságra hozni valamely tag személyes adatait, például címét, electronikus elérhetőségét
-* Más etikátlan vagy szakszerűtlen magatartás
+* Trollkodás, sértő vagy lekicsinylő megjegyzések
+* Nyilvánosság előtti vagy személyes zaklatás
+* Mások személyes adatainak, mint például fizikai vagy elektronikus címének 
+közzététele, az érintett kifejezett engedélye nélkül
+* Egyéb etikátlan vagy szakmaiatlan magatartás
 
-Projekt fenntartóknak jogukban áll az itt megjelent Magatartási Kódexnek ellentmondó hozzászólásokat, kódot, wiki bejegyzéseket, javaslatokat és hozzájárulásokat bármely más formában törölni, szerkeszteni vagy elutasítani. Ezen felül időlegesen vagy véglegesen kitiltani egyéneket alkalmatlan, fenyegető, bántó vagy ártalmas viselkedésért
+A projektgazdáknak joguk és felelősségük, hogy eltávolítsák, szerkesszék, vagy 
+elutasítsák a megjegyzéseket, kódokat, wiki szerkesztéseket, hibákat, 
+észrevételeket, és egyéb hozzájárulásokat, amelyek nem illeszkednek e 
+Magatartási Kódexhez, vagy ideiglenesen, vagy véglegesen kitiltják a tartósan 
+fenyegető, sértő vagy káros magatartást tanúsító résztvevőt.
 
-Azzal, hogy elfogadják a Magatartási Kódexet, a projekt fenntartók kötelezik magukat, hogy a fentiekben foglalt alapelveket következetesen betartják és betartatják a projekt minden vonatkozásában. Projekt fenntartók akik esetleg nem tartják vagy tartatják be a Magatartási Kódexet örökre eltávolíthatók a fenntartó csapatból.
+A Magatartási Kódex elfogadásával a projektgazdák vállalják, hogy a fentiekben 
+foglalt alapelveket következetesen betartják és betartatják a projekt minden 
+vonatkozásában. Projekt fenntartók akik esetleg nem tartják vagy tartatják be a 
+Magatartási Kódexet véglegesen eltávolíthatók a projektcsapatból.
 
-Ez a Magatartási Kódex érvényes mind a projekt felületén és a valós életben egyaránt, bármikor amikor egy személy képviseli a projektet és a hozzá tartozó közösséget.
+Ez a Magatartási Kódex minden projektterületen érvényes, és akkor is érvényes, 
+amikor az egyén nyilvános helyeken képviseli a projektet vagy annak közösségét.
 
-Bármilyen gyalázkodó, zaklató jellegű vagy egyébként elfogadhatatlan magatartást jelentse egy fenntartónak a(z) [INSERT EMAIL ADDRESS] címen. Minden egyes panasz átnézésre és kivizsgálásra, valamint a körülményeknek meglelelő válaszlépések megtételére sor kerül. A fenntartók elkötelezettek afelé hogy az incidens és a bejelentője adatai bizalmas kezelendőek.
+Bántalmazó, zaklató vagy általában elfogadhatatlan viselkedést 
+a(z) [INSERT EMAIL ADDRESS] címen lehet jelenteni a projekt egy 
+karbantartójának részére. Minden panasz felülvizsgálatra, és kivizsgálásra 
+kerül, a szükséges válaszlépések a körülményektől függően lesznek végrehajtva. 
+A projekt csapat kötelessége a titoktartás egy esemény, vagy incidense 
+tekintetében, a bejelentő személyére vonatkozóan.
 
-Ez a Magatartási Kódex a [Contributor Covenant](https://www.contributor-covenant.org) alapján készült. A Kódex 1.3.0 verziója megtalálható a https://www.contributor-covenant.org/hu/version/1/3/0/code-of-conduct.html címen.
+
+Ezt a Magatartási Kódexet elérheti az alábbi oldalon: 
+[Contributor Covenant][homepage], v1.3.0, 
+https://www.contributor-covenant.org/version/1/3/0/code-of-conduct.html
+
+[homepage]: https://www.contributor-covenant.org
