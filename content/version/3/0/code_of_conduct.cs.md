@@ -64,7 +64,7 @@ Moderátoři berou jakékoliv hlášení porušení vážně a udělají vše pr
 
 **[POZNÁMKA: Níže uvedená opatření jsou návrhy na základě osvědčených postupů vynucování kodexu chování. Pokud má vaše komunita vlastní postupy a opatření, nezapomeňte následující sekci upravit tak, aby jim odpovídala.]**
 
-Pokud při prošetřování moderátoři zjistí porušení tohoto kodexu, mohou být pro řešení a nápravu újmy uplatněny prostředky z následující stupnice, s ohledem na dopad incidentu na zapojené osoby nebo celou komunitu. Konkrétní opatření budou zvolena v závislosti na závažnosti porušení. Některé nižší stupně opatření mohou být v případě nutnosti přeskočeny.
+Pokud při prošetřování moderátoři zjistí porušení tohoto kodexu, mohou být pro řešení a nápravu újmy uplatněny prostředky z následující stupnice, s ohledem na dopad incidentu na zapojené osoby nebo celou komunitu. Konkrétní opatření budou zvolena v závislosti na závažnosti porušení. Některé nižší stupně opatření mohou být s ohledem na závažnost přeskočeny.
 
 1) Varování
    1) Situace: Porušení sestávající se z jednotlivého incidentu nebo série incidentů.
@@ -88,7 +88,7 @@ Tato stupnice opatření je zamýšlena jako základní vodítko a neomezuje mo�
 
 ## Rozsah
 
-Tento kodex chování se vztahuje na všechny komunitní prostory a vztahuje se rovněž na jednotlivce zastupující a reprezentující komunitu veřejně nebo kdekoliv jinde. Příklady takových situací zahrnují komunikaci užívající oficiální e-mailovou adresu, příspěvky sdílené z oficiálního účtu na sociálních sítích, nebo vystupování jako pověřený zástupce na online či offline akci.
+Tento kodex chování se vztahuje na všechny komunitní prostory a vztahuje se rovněž na jednotlivce zastupující a reprezentující komunitu veřejně nebo kdekoliv jinde. Příklady takových situací zahrnují komunikaci užívající oficiální e-mailovou adresu, příspěvky sdílené z oficiálního účtu na sociálních sítích, nebo vystupování jako pověřený zástupce na online či offline události.
 
 
 ## Uvedení zdroje
