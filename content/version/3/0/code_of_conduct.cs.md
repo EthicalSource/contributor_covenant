@@ -12,7 +12,7 @@ enforcementPlaceholder = "[POZNÁMKA: Níže uvedená opatření jsou návrhy na
 
 Naším cílem je utvářet vstřícnou, bezpečnou a spravedlivou komunitu pro všechny.
 
-Zavazujeme se podporovat prostředí, které respektuje a prosazuje důstojnost, práva a přínos každého jednotlivce bez ohledu na jeho nebo její rasu, etnicitu, kastu, barvu pleti, věk, fyzické charakteristiky, neurodiverzitu, postižení, pohlaví, genderovou identitu nebo vystupování, sexuální orientaci, jazyk, filozofii nebo náboženské vyznání, národnostní nebo sociální původ, sociálně ekonomické postavení, úroveň vzdělání nebo jiný status. Stejné právo účastnit se náleží komukoliv, kdo se chce zapojit v dobré víře a v souladu s tímto kodexem.
+Zavazujeme se podporovat prostředí, které respektuje a prosazuje důstojnost, práva a přínos každého jednotlivce bez ohledu na rasu, etnicitu, kastu, barvu pleti, věk, fyzické charakteristiky, neurodiverzitu, postižení, pohlaví, genderovou identitu nebo vystupování, sexuální orientaci, jazyk, filozofii nebo náboženské vyznání, národnostní nebo sociální původ, sociálně ekonomické postavení, úroveň vzdělání nebo jiný status. Stejné právo účastnit se náleží komukoliv, kdo se chce zapojit v dobré víře a v souladu s tímto kodexem.
 
 
 ## Vhodné chování
