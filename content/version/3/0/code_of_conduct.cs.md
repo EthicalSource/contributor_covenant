@@ -21,13 +21,13 @@ Ač uznáváme rozdíly ve společenských normách, snažíme se všichni napl�
 
 S ohledem na to souhlasíme, že se k sobě navzájem budeme chovat uvědoměle a budeme jednat způsobem, který je v souladu s našimi sdílenými hodnotami, a to včetně:
 
-1. Respektujeme **cíle této komunity**, našich aktivit a způsobů, jakými se setkáváme.
-2. S ostatními jednáme **laskavě a upřímně**.
-3. Respektujeme **odlišné názory** a zkušenosti.
-4. **Přijímáme odpovědnost** za své vlastní činy a chování.
-5. **Konstruktivní zpětnou vazbu** dáváme i přijímáme se vší vlídností.
-6. Zavazujeme se k **nápravě škody nebo újmy**, když k ní dojde.
-7. Chováme se v zájmu podpory a udržení **blahobytu této komunity**.
+1. respektování **cílů této komunity**, našich aktivit a způsobů, jakými se setkáváme,
+2. **laskavého a upřímného** jednání s ostatními,
+3. respektování **odlišných názorů** a zkušeností,
+4. **přijetí odpovědnosti** za své vlastní činy a chování,
+5. vlídného dávání i přijímání **konstruktivní zpětné vazby**,
+6. závazku k **nápravě škody nebo újmy**, když k ní dojde,
+7. chování v zájmu podpory a udržení **blahobytu této komunity**.
 
 
 ## Nevhodné chování
