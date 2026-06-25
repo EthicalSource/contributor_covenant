@@ -64,7 +64,7 @@ Moderátoři berou jakékoliv hlášení porušení vážně a udělají vše pr
 
 **[POZNÁMKA: Níže uvedená opatření jsou návrhy na základě osvědčených postupů vynucování kodexu chování. Pokud má vaše komunita vlastní postupy a opatření, nezapomeňte následující sekci upravit tak, aby jim odpovídala.]**
 
-Pokud při prošetřování moderátoři zjistí porušení tohoto kodexu, mohou být pro řešení a nápravu újmy uplatněny prostředky z následujícího žebříčku, s ohledem na dopad incidentu na zapojené osoby nebo celou komunitu. Konkrétní opatření budou zvolena v závislosti na závažnosti porušení. Některé nižší stupně opatření mohou být v případě nutnosti přeskočeny.
+Pokud při prošetřování moderátoři zjistí porušení tohoto kodexu, mohou být pro řešení a nápravu újmy uplatněny prostředky z následující stupnice, s ohledem na dopad incidentu na zapojené osoby nebo celou komunitu. Konkrétní opatření budou zvolena v závislosti na závažnosti porušení. Některé nižší stupně opatření mohou být v případě nutnosti přeskočeny.
 
 1) Varování
    1) Situace: Porušení sestávající se z jednotlivého incidentu nebo série incidentů.
@@ -83,7 +83,7 @@ Pokud při prošetřování moderátoři zjistí porušení tohoto kodexu, mohou
    2) Následek: Zamezení přístupu do všech komunitních prostorů, k jejím nástrojům a komunikačním kanálům. K trvalým zákazům by mělo docházet zřídka, měly by mít silné odůvodnění, a mělo by se k nim uchylovat jen v případech, kdy ostatní opatření nevedla ke změně chování
    3) Náprava: V takto závažných situacích není náprava možná.
 
-Tento žebříček opatření je zamýšlen jako základní vodítko a neomezuje možnosti správců a moderátorů komunity v uplatnění vlastního úsudku v souladu s nejlepšími zájmy komunity.
+Tato stupnice opatření je zamýšlena jako základní vodítko a neomezuje možnosti správců a moderátorů komunity v uplatnění vlastního úsudku v souladu s nejlepšími zájmy komunity.
 
 
 ## Rozsah
@@ -97,4 +97,4 @@ Tento kodex chování je adaptací Contributor Covenant, verze 3.0, trvalé dost
 
 Contributor Covenant spravuje Organization for Ethical Source a je dostupná pod licencí CC BY-SA 4.0. Pro znění této licence navštivte [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
 
-Odpovědi na běžné otázky ohledně Contributor Covenant najdete na stránce FAQ na [https://www.contributor-covenant.org/faq](https://www.contributor-covenant.org/faq). Překlady do různých jazyků jsou dostupné na [https://www.contributor-covenant.org/translations](https://www.contributor-covenant.org/translations). Další zdroje a návrhy pro opatření v rámci komunity můžete najít na [https://www.contributor-covenant.org/resources](https://www.contributor-covenant.org/resources). Žebříček opatření je inspirován prací [týmu Mozilly](https://github.com/mozilla/inclusion).
+Odpovědi na běžné otázky ohledně Contributor Covenant najdete na stránce FAQ na [https://www.contributor-covenant.org/faq](https://www.contributor-covenant.org/faq). Překlady do různých jazyků jsou dostupné na [https://www.contributor-covenant.org/translations](https://www.contributor-covenant.org/translations). Další zdroje a návrhy pro opatření v rámci komunity můžete najít na [https://www.contributor-covenant.org/resources](https://www.contributor-covenant.org/resources). Stupnice opatření je inspirována prací [týmu Mozilly](https://github.com/mozilla/inclusion).
