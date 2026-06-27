@@ -210,3 +210,7 @@ languageCode = "glg"
 [Languages.vi]
 languageName = "Vietnamese"
 languageCode = "vi"
+
+[Languages.ml]
+languageName = "മലയാളം"
+languageCode = "ml"
