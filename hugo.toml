@@ -210,3 +210,8 @@ languageCode = "glg"
 [Languages.vi]
 languageName = "Vietnamese"
 languageCode = "vi"
+
+[Languages.uz]
+languageName = "Oʻzbekcha"
+languageCode = "uz"
+
