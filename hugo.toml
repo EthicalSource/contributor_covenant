@@ -83,7 +83,6 @@ languageCode = "el"
 [Languages.es]
 languageName = "Español"
 languageCode = "es"
-weight = 0
 
 [Languages.eu]
 languageName = "Euskara"

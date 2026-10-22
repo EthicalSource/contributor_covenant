@@ -1,7 +1,7 @@
 +++
 title = "Contributor Covenant 3"
 version = "3.0"
-aliases = ["/version/3/0/es"]
+aliases = ["/version/3/0"]
 reportingPlaceholder = "[NOTA: describa de qué manera se puede reportar aquí.]"
 enforcementPlaceholder = "[NOTA: Las medidas y reparaciones descritas a continuación son sugerencias basadas en buenas prácticas para seguir nuestros códigos de conducta. Si tu comunidad tiene su propio proceso establecido, edita esta sección para describir tus propias políticas.]"
 +++
