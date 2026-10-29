@@ -109,6 +109,10 @@ languageCode = "hi"
 languageName = "Magyar"
 languageCode = "hu"
 
+[languages.hy]
+languageName = "Հայերեն"
+languageCode = "hy"
+
 [Languages.id]
 languageName = "Indonesian"
 languageCode = "id"
