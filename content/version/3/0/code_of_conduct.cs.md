@@ -1,7 +1,6 @@
 +++
 title = "Contributor Covenant 3"
 version = "3.0"
-aliases = ["/version/3/0"]
 reportingPlaceholder = "[POZNÁMKA: zde popište způsoby hlášení porušení kodexu]"
 enforcementPlaceholder = "[POZNÁMKA: Níže uvedená opatření jsou návrhy na základě osvědčených postupů vynucování kodexu chování. Pokud má vaše komunita vlastní postupy a opatření, nezapomeňte následující sekci upravit tak, aby jim odpovídala.]"
 +++
