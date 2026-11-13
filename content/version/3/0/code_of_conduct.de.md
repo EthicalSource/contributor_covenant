@@ -2,6 +2,7 @@
 title = "Contributor Covenant 3" 
 version = "3.0" 
 aliases = ["/version/3/0/de"] 
+slug = "code_of_conduct"
 reportingPlaceholder = "[ANMERKUNG: Beschreiben Sie hier Ihr Meldeverfahren.]" 
 enforcementPlaceholder = "[ANMERKUNG: Die unten aufgeführten Maßnahmen bei Verstößen und zur Wiedergutmachung sind Vorschläge basierend auf bewährten Praktiken der Durchsetzung von Verhaltenskodizes. Wenn Ihre Gemeinschaft eigene Verfahren hat, passen Sie diesen Abschnitt entsprechend an.]"
 +++

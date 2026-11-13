@@ -1,6 +1,14 @@
 const initializeBuilder = async (languageCode, version, reportingPlaceholder, enforcementPlaceholder) => {
   const versionPath = version.replace(".", "/")
-  const sourceUrl =  window.location.href.replace("adopt/",`${languageCode.replace("en","")}/version/${versionPath}/code_of_conduct/code_of_conduct.md`)
+  const versionMajor = parseInt(version.split('.')[0], 10);
+  const filename = versionMajor >= 3 ? "CODE_OF_CONDUCT.md" : "code_of_conduct.md";
+  const sourceUrl = window.location.href.replace(
+    "adopt/",
+    `${languageCode.replace(
+      "en",
+      ""
+    )}/version/${versionPath}/code_of_conduct/${filename}`
+  );
   const content = await readTemplate(sourceUrl)
 
   const template = document.getElementById('template')
@@ -220,7 +228,7 @@ const downloadBuffer = () => {
 
   const a = document.createElement('a');
   a.href = url;
-  a.download = "CODE_OF_CONDUCT.MD";
+  a.download = "CODE_OF_CONDUCT.md";
   a.style.display = 'none';
 
   document.body.appendChild(a);

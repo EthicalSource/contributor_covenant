@@ -3,6 +3,7 @@ baseURL = "https://www.contributor-covenant.org"
 languageCode = "en-us"
 title = "Contributor Covenant"
 disableKinds = ["RSS"]
+disablePathToLower = true
 
 DefaultContentLanguage = "en"
 hasCJKLanguage = true

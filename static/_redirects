@@ -1,0 +1,5 @@
+# Redirect lowercase filename to canonical format: code_of_conduct/CODE_OF_CONDUCT.md
+/version/3/0/code_of_conduct/code_of_conduct.md /version/3/0/code_of_conduct/CODE_OF_CONDUCT.md
+/version/3/0/bn/code_of_conduct/code_of_conduct.md /version/3/0/bn/code_of_conduct/CODE_OF_CONDUCT.md
+/version/3/0/de/code_of_conduct/code_of_conduct.md /version/3/0/de/code_of_conduct/CODE_OF_CONDUCT.md
+/version/3/0/zh-cn/code_of_conduct/code_of_conduct.md /version/3/0/zh-cn/code_of_conduct/CODE_OF_CONDUCT.md
