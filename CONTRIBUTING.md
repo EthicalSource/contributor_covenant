@@ -96,7 +96,7 @@ hugo server -D
 - Close all your tags properly
 
 ##### CSS
-
+ 
 - Try to use classes instead of IDs unless things are absolutely unique
 - One selector per line
 - Support all modern browsers
