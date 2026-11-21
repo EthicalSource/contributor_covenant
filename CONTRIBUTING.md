@@ -9,7 +9,7 @@ Check the [issues](https://github.com/EthicalSource/contributor_covenant/issues)
 ## Adding Your Community to the List of Adopters
 
 * Fork the repository.
-* Edit the `assets/adopters.csv` file
+* Edit the [`assets/adopters.csv`](https://github.com/EthicalSource/contributor_covenant/blob/release/assets/adopters.csv) file
 * Add a row with your project or community name in the first column, and its URL in the second column.
 * For human readability, please make sure that you've preserved alphabetical order in the list.
 * Open a pull request.
@@ -32,7 +32,7 @@ We welcome improvements to the design elements of our website or other ways that
 
 ### Translators and native speakers
 
-We're always looking for translations by native speakers are thankful to the dozens of volunteer translators and reviewers who have donated their time and expertise.
+We're always looking for translations by native speakers and are thankful to the dozens of volunteer translators and reviewers who have donated their time and expertise.
 
 If you are a native speaker interested in doing a translation, please follow these steps:
 
@@ -51,7 +51,7 @@ Note that we will not accept machine translations.
 
 ### Developers
 
-Code contributions to improve the development or operation of the [contributor-covenant.org](https://contributor-covenant.org) web site are welcome. To do so, first check to make sure your issue is not already listed in the [issues](https://github.com/EthicalSource/contributor_covenant/issues).
+Code contributions to improve the development or operation of the [contributor-covenant.org](https://contributor-covenant.org) website are welcome. To do so, first check to make sure your issue is not already listed in the [issues](https://github.com/EthicalSource/contributor_covenant/issues).
 
 #### Build the website locally
 
